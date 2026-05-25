@@ -5,9 +5,9 @@ author:
 total_pages: 241
 section: Introduction. New York: Oxford University Press.
 section_number: 20
-date_processed: 2026-05-25T14:45:24.744854
+date_processed: 2026-05-25T15:09:23.826607
 figures_mentioned: Hermes Trismegistus
-concepts_mentioned: Quintessence, Initiation, Dissolution, Regeneration
+concepts_mentioned: Dissolution, Regeneration, Initiation, Quintessence
 ---
 
 # Sayings of Gorakhnath
@@ -344,4 +344,4 @@ haṭha, 3– 6, 8– 9, 17– 18, 24, 28, 34–35, Yoga Sūtras, 5, 15–1 6, 2
 
 *Extracted from: Sayings of Gorakhnath (241 pages)*
 *Figures mentioned: Hermes Trismegistus*
-*Concepts mentioned: Quintessence, Initiation, Dissolution, Regeneration*
+*Concepts mentioned: Dissolution, Regeneration, Initiation, Quintessence*

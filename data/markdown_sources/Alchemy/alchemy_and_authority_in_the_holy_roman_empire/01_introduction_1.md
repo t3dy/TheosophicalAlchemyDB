@@ -5,9 +5,9 @@ author: Tara Nummedal
 total_pages: 279
 section: Introduction 1
 section_number: 1
-date_processed: 2026-05-25T14:33:48.760382
-figures_mentioned: Adam von Bodenstein, Anna Zieglerin, Johann Valentin Andreae, Heinrich Cornelius Agrippa, Roger Bacon, Andreas Libavius, Albertus Magnus, Nicholas Flamel, Heinrich Khunrath, Hermes Trismegistus, Adam McLean, Isaac Newton, Robert Boyle, Tycho Brahe, Marsilio Ficino, Rudolf II, Holy Roman Emperor, Paracelsus, Thomas Aquinas, Gerhard Dorn, Michael Maier, Giordano Bruno
-concepts_mentioned: Enlightenment, Tincture, Spiritual Alchemy, Sublimation, Distillation, Quintessence, Great Work, Correspondence, Initiation, Dissolution, Iatrochemistry
+date_processed: 2026-05-25T14:55:33.190181
+figures_mentioned: Heinrich Khunrath, Adam McLean, Robert Boyle, Anna Zieglerin, Nicholas Flamel, Rudolf II, Holy Roman Emperor, Giordano Bruno, Paracelsus, Hermes Trismegistus, Thomas Aquinas, Heinrich Cornelius Agrippa, Adam von Bodenstein, Isaac Newton, Johann Valentin Andreae, Roger Bacon, Michael Maier, Albertus Magnus, Marsilio Ficino, Gerhard Dorn, Andreas Libavius, Tycho Brahe
+concepts_mentioned: Correspondence, Tincture, Spiritual Alchemy, Quintessence, Great Work, Enlightenment, Dissolution, Distillation, Iatrochemistry, Sublimation, Initiation
 ---
 
 # Alchemy and Authority in the Holy Roman Empire
@@ -25,5 +25,5 @@ Introduction 1
 ---
 
 *Extracted from: Alchemy and Authority in the Holy Roman Empire (279 pages)*
-*Figures mentioned: Adam von Bodenstein, Anna Zieglerin, Johann Valentin Andreae, Heinrich Cornelius Agrippa, Roger Bacon, Andreas Libavius, Albertus Magnus, Nicholas Flamel, Heinrich Khunrath, Hermes Trismegistus, Adam McLean, Isaac Newton, Robert Boyle, Tycho Brahe, Marsilio Ficino, Rudolf II, Holy Roman Emperor, Paracelsus, Thomas Aquinas, Gerhard Dorn, Michael Maier, Giordano Bruno*
-*Concepts mentioned: Enlightenment, Tincture, Spiritual Alchemy, Sublimation, Distillation, Quintessence, Great Work, Correspondence, Initiation, Dissolution, Iatrochemistry*
+*Figures mentioned: Heinrich Khunrath, Adam McLean, Robert Boyle, Anna Zieglerin, Nicholas Flamel, Rudolf II, Holy Roman Emperor, Giordano Bruno, Paracelsus, Hermes Trismegistus, Thomas Aquinas, Heinrich Cornelius Agrippa, Adam von Bodenstein, Isaac Newton, Johann Valentin Andreae, Roger Bacon, Michael Maier, Albertus Magnus, Marsilio Ficino, Gerhard Dorn, Andreas Libavius, Tycho Brahe*
+*Concepts mentioned: Correspondence, Tincture, Spiritual Alchemy, Quintessence, Great Work, Enlightenment, Dissolution, Distillation, Iatrochemistry, Sublimation, Initiation*

@@ -5,9 +5,9 @@ author: Hanegraaff, Wouter J.
 total_pages: 480
 section: conclusion:theybegantoexperimentwithritualtechniquesforattracting
 section_number: 8
-date_processed: 2026-05-25T14:46:33.988485
-figures_mentioned: Arthur Edward Waite, Brian Vickers, Heinrich Cornelius Agrippa, Roger Bacon, Albertus Magnus, Louis-Claude de Saint-Martin, Henry More, Heinrich Khunrath, Nicolas Flamel, Hermes Trismegistus, Pico della Mirandola, Isaac Newton, Johann Arndt, Cagliostro, Oswald Croll, Marsilio Ficino, John Dee, Plotinus, Robert Fludd, Claude de Saint-Martin, Joseph Ennemoser, Thomas Aquinas, Paracelsus, Michael Maier, Giordano Bruno, Symphorien Champier
-concepts_mentioned: Spiritual Alchemy, Regeneration, Emanation, Quintessence, Great Work, Correspondence, Initiation, Theurgy, Enlightenment
+date_processed: 2026-05-25T15:10:42.992439
+figures_mentioned: Heinrich Khunrath, Arthur Edward Waite, Symphorien Champier, Giordano Bruno, Claude de Saint-Martin, Paracelsus, Hermes Trismegistus, Thomas Aquinas, Heinrich Cornelius Agrippa, Oswald Croll, Isaac Newton, Pico della Mirandola, Roger Bacon, Michael Maier, Nicolas Flamel, Albertus Magnus, Marsilio Ficino, Cagliostro, Henry More, Johann Arndt, John Dee, Joseph Ennemoser, Brian Vickers, Louis-Claude de Saint-Martin, Plotinus, Robert Fludd
+concepts_mentioned: Correspondence, Spiritual Alchemy, Quintessence, Theurgy, Enlightenment, Regeneration, Emanation, Great Work, Initiation
 ---
 
 # Esotericism and the Academy
@@ -197,5 +197,5 @@ sibility of divine as well as demonic intervention. Inevitably, this led to
 ---
 
 *Extracted from: Esotericism and the Academy (480 pages)*
-*Figures mentioned: Arthur Edward Waite, Brian Vickers, Heinrich Cornelius Agrippa, Roger Bacon, Albertus Magnus, Louis-Claude de Saint-Martin, Henry More, Heinrich Khunrath, Nicolas Flamel, Hermes Trismegistus, Pico della Mirandola, Isaac Newton, Johann Arndt, Cagliostro, Oswald Croll, Marsilio Ficino, John Dee, Plotinus, Robert Fludd, Claude de Saint-Martin, Joseph Ennemoser, Thomas Aquinas, Paracelsus, Michael Maier, Giordano Bruno, Symphorien Champier*
-*Concepts mentioned: Spiritual Alchemy, Regeneration, Emanation, Quintessence, Great Work, Correspondence, Initiation, Theurgy, Enlightenment*
+*Figures mentioned: Heinrich Khunrath, Arthur Edward Waite, Symphorien Champier, Giordano Bruno, Claude de Saint-Martin, Paracelsus, Hermes Trismegistus, Thomas Aquinas, Heinrich Cornelius Agrippa, Oswald Croll, Isaac Newton, Pico della Mirandola, Roger Bacon, Michael Maier, Nicolas Flamel, Albertus Magnus, Marsilio Ficino, Cagliostro, Henry More, Johann Arndt, John Dee, Joseph Ennemoser, Brian Vickers, Louis-Claude de Saint-Martin, Plotinus, Robert Fludd*
+*Concepts mentioned: Correspondence, Spiritual Alchemy, Quintessence, Theurgy, Enlightenment, Regeneration, Emanation, Great Work, Initiation*

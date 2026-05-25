@@ -5,9 +5,9 @@ author:
 total_pages: 241
 section: Introduction 21
 section_number: 13
-date_processed: 2026-05-25T14:45:24.735506
+date_processed: 2026-05-25T15:09:23.816470
 figures_mentioned: Hermes Trismegistus
-concepts_mentioned: Quintessence, Initiation, Dissolution, Regeneration
+concepts_mentioned: Dissolution, Regeneration, Initiation, Quintessence
 ---
 
 # Sayings of Gorakhnath
@@ -98,4 +98,4 @@ of fire. Whosoever preserves it, he is my guru.” GBS 142.
 
 *Extracted from: Sayings of Gorakhnath (241 pages)*
 *Figures mentioned: Hermes Trismegistus*
-*Concepts mentioned: Quintessence, Initiation, Dissolution, Regeneration*
+*Concepts mentioned: Dissolution, Regeneration, Initiation, Quintessence*

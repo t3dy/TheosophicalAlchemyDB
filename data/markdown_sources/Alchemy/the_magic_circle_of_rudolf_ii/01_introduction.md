@@ -5,9 +5,9 @@ author: Peter Marshall
 total_pages: 296
 section: Introduction
 section_number: 1
-date_processed: 2026-05-25T14:35:02.222586
-figures_mentioned: Francis Bacon, Ashmole, Elias, Roger Bacon, William Blake, Albertus Magnus, Heinrich Khunrath, Hermes Trismegistus, Pico della Mirandola, Isaac Newton, Philip Sidney, Robert Boyle, Oswald Croll, Tycho Brahe, Marsilio Ficino, John Dee, Robert Fludd, Paracelsus, Thomas Aquinas, Michael Maier, Giordano Bruno
-concepts_mentioned: Tincture, Spagyric Art, Spiritual Alchemy, Elixir of Life, Coagulation, Regeneration, Calcination, Sublimation, Distillation, Quintessence, Mystical Union, Great Work, Rosy Cross, Correspondence, Initiation, Theurgy, Enlightenment
+date_processed: 2026-05-25T14:56:48.312390
+figures_mentioned: Francis Bacon, Ashmole, Elias, Heinrich Khunrath, Robert Boyle, Giordano Bruno, Paracelsus, Hermes Trismegistus, Thomas Aquinas, Oswald Croll, Isaac Newton, Pico della Mirandola, Roger Bacon, Michael Maier, Albertus Magnus, Marsilio Ficino, William Blake, Philip Sidney, John Dee, Robert Fludd, Tycho Brahe
+concepts_mentioned: Correspondence, Tincture, Calcination, Spiritual Alchemy, Mystical Union, Quintessence, Theurgy, Coagulation, Enlightenment, Regeneration, Elixir of Life, Rosy Cross, Distillation, Great Work, Spagyric Art, Sublimation, Initiation
 ---
 
 # The Magic Circle of Rudolf II
@@ -43,5 +43,5 @@ List of Illustrations
 ---
 
 *Extracted from: The Magic Circle of Rudolf II (296 pages)*
-*Figures mentioned: Francis Bacon, Ashmole, Elias, Roger Bacon, William Blake, Albertus Magnus, Heinrich Khunrath, Hermes Trismegistus, Pico della Mirandola, Isaac Newton, Philip Sidney, Robert Boyle, Oswald Croll, Tycho Brahe, Marsilio Ficino, John Dee, Robert Fludd, Paracelsus, Thomas Aquinas, Michael Maier, Giordano Bruno*
-*Concepts mentioned: Tincture, Spagyric Art, Spiritual Alchemy, Elixir of Life, Coagulation, Regeneration, Calcination, Sublimation, Distillation, Quintessence, Mystical Union, Great Work, Rosy Cross, Correspondence, Initiation, Theurgy, Enlightenment*
+*Figures mentioned: Francis Bacon, Ashmole, Elias, Heinrich Khunrath, Robert Boyle, Giordano Bruno, Paracelsus, Hermes Trismegistus, Thomas Aquinas, Oswald Croll, Isaac Newton, Pico della Mirandola, Roger Bacon, Michael Maier, Albertus Magnus, Marsilio Ficino, William Blake, Philip Sidney, John Dee, Robert Fludd, Tycho Brahe*
+*Concepts mentioned: Correspondence, Tincture, Calcination, Spiritual Alchemy, Mystical Union, Quintessence, Theurgy, Coagulation, Enlightenment, Regeneration, Elixir of Life, Rosy Cross, Distillation, Great Work, Spagyric Art, Sublimation, Initiation*

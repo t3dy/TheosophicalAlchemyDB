@@ -5,9 +5,9 @@ author: Unknown
 total_pages: 630
 section: §.6.&è|textuSoharPekude§.9.186Putaremigituromninòintelligiora- 25
 section_number: 23
-date_processed: 2026-05-25T14:38:23.011298
-figures_mentioned: Henry More, Éliphas Lévi
-concepts_mentioned: Emanation, Correspondence
+date_processed: 2026-05-25T15:01:06.401460
+figures_mentioned: Éliphas Lévi, Henry More
+concepts_mentioned: Correspondence, Emanation
 ---
 
 # Anna M Vileno Robert J Wilkinson Messias Puer_ Christian Knorr von Rosenroths Lost Exegesis of Kabbalistic Christianity BRILL
@@ -229,5 +229,5 @@ ElijahbecameanangellikeEnochandthusneitherofthemdied(ibid.p.382,
 ---
 
 *Extracted from: Anna M Vileno Robert J Wilkinson Messias Puer_ Christian Knorr von Rosenroths Lost Exegesis of Kabbalistic Christianity BRILL (630 pages)*
-*Figures mentioned: Henry More, Éliphas Lévi*
-*Concepts mentioned: Emanation, Correspondence*
+*Figures mentioned: Éliphas Lévi, Henry More*
+*Concepts mentioned: Correspondence, Emanation*

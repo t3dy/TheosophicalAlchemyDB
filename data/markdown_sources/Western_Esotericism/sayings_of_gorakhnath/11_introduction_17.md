@@ -5,9 +5,9 @@ author:
 total_pages: 241
 section: Introduction 17
 section_number: 11
-date_processed: 2026-05-25T14:45:24.734606
+date_processed: 2026-05-25T15:09:23.813995
 figures_mentioned: Hermes Trismegistus
-concepts_mentioned: Quintessence, Initiation, Dissolution, Regeneration
+concepts_mentioned: Dissolution, Regeneration, Initiation, Quintessence
 ---
 
 # Sayings of Gorakhnath
@@ -102,4 +102,4 @@ various aspects of reality (what Olivelle [1996: lii] calls “cosmic connection
 
 *Extracted from: Sayings of Gorakhnath (241 pages)*
 *Figures mentioned: Hermes Trismegistus*
-*Concepts mentioned: Quintessence, Initiation, Dissolution, Regeneration*
+*Concepts mentioned: Dissolution, Regeneration, Initiation, Quintessence*

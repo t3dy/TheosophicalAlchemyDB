@@ -5,9 +5,9 @@ author: Asprem, Egil
 total_pages: 232
 section: Conclusions
 section_number: 11
-date_processed: 2026-05-25T14:41:38.234393
-figures_mentioned: Adam McLean, Pico della Mirandola, Johannes Trithemius, Ashmole, Elias, Roger Bacon, Paracelsus, Marsilio Ficino, Giordano Bruno, Michael Maier, Brian Vickers, John Dee
-concepts_mentioned: Mystical Union, Great Work, Rosy Cross, Correspondence, Divine Names, Initiation, Theurgy, Enlightenment
+date_processed: 2026-05-25T15:05:39.849349
+figures_mentioned: Marsilio Ficino, Ashmole, Elias, Adam McLean, John Dee, Johannes Trithemius, Brian Vickers, Giordano Bruno, Pico della Mirandola, Roger Bacon, Michael Maier, Paracelsus
+concepts_mentioned: Correspondence, Mystical Union, Divine Names, Theurgy, Enlightenment, Rosy Cross, Great Work, Initiation
 ---
 
 # Arguing with Angels
@@ -96,5 +96,5 @@ magic as being less stable and fi xed seems to have emerged. There has
 ---
 
 *Extracted from: Arguing with Angels (232 pages)*
-*Figures mentioned: Adam McLean, Pico della Mirandola, Johannes Trithemius, Ashmole, Elias, Roger Bacon, Paracelsus, Marsilio Ficino, Giordano Bruno, Michael Maier, Brian Vickers, John Dee*
-*Concepts mentioned: Mystical Union, Great Work, Rosy Cross, Correspondence, Divine Names, Initiation, Theurgy, Enlightenment*
+*Figures mentioned: Marsilio Ficino, Ashmole, Elias, Adam McLean, John Dee, Johannes Trithemius, Brian Vickers, Giordano Bruno, Pico della Mirandola, Roger Bacon, Michael Maier, Paracelsus*
+*Concepts mentioned: Correspondence, Mystical Union, Divine Names, Theurgy, Enlightenment, Rosy Cross, Great Work, Initiation*

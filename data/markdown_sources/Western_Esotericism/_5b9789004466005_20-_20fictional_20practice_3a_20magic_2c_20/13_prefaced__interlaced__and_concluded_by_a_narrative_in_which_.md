@@ -5,9 +5,9 @@ author: Unknown
 total_pages: 384
 section: prefaced, interlaced, and concluded by a narrative in which the author of the
 section_number: 13
-date_processed: 2026-05-25T14:39:16.455480
-figures_mentioned: Arthur Edward Waite, Pico della Mirandola, Plotinus, Johannes Trithemius, Heinrich Cornelius Agrippa, Éliphas Lévi, Roger Bacon, Paracelsus, Cagliostro, Marsilio Ficino, Giordano Bruno, William Blake, Albertus Magnus, Zosimos of Panopolis, Johann Valentin Andreae, John Dee
-concepts_mentioned: Spiritual Alchemy, Elixir of Life, Regeneration, Emanation, Secret Doctrine, Quintessence, Correspondence, Divine Names, Initiation, Theurgy, Dissolution, Enlightenment
+date_processed: 2026-05-25T15:02:31.818065
+figures_mentioned: Éliphas Lévi, Albertus Magnus, Marsilio Ficino, Heinrich Cornelius Agrippa, John Dee, Arthur Edward Waite, Johannes Trithemius, William Blake, Giordano Bruno, Plotinus, Pico della Mirandola, Cagliostro, Johann Valentin Andreae, Zosimos of Panopolis, Roger Bacon, Paracelsus
+concepts_mentioned: Correspondence, Spiritual Alchemy, Divine Names, Quintessence, Theurgy, Enlightenment, Dissolution, Regeneration, Elixir of Life, Emanation, Secret Doctrine, Initiation
 ---
 
 # %5B9789004466005%20-%20Fictional%20Practice%3A%20Magic%2C%20Narration%2C%20and%20the%20Power%20of%20Imagination%5D%20Fictional%20Practice%3A%20Magic%2C%20Narration%2C%20and%20the%20Power%20of%20Imagination.pdf
@@ -11818,5 +11818,5 @@ a ‘suspension of disbelief’ for the story as such (Coleridge 1817; see also 
 ---
 
 *Extracted from: %5B9789004466005%20-%20Fictional%20Practice%3A%20Magic%2C%20Narration%2C%20and%20the%20Power%20of%20Imagination%5D%20Fictional%20Practice%3A%20Magic%2C%20Narration%2C%20and%20the%20Power%20of%20Imagination.pdf (384 pages)*
-*Figures mentioned: Arthur Edward Waite, Pico della Mirandola, Plotinus, Johannes Trithemius, Heinrich Cornelius Agrippa, Éliphas Lévi, Roger Bacon, Paracelsus, Cagliostro, Marsilio Ficino, Giordano Bruno, William Blake, Albertus Magnus, Zosimos of Panopolis, Johann Valentin Andreae, John Dee*
-*Concepts mentioned: Spiritual Alchemy, Elixir of Life, Regeneration, Emanation, Secret Doctrine, Quintessence, Correspondence, Divine Names, Initiation, Theurgy, Dissolution, Enlightenment*
+*Figures mentioned: Éliphas Lévi, Albertus Magnus, Marsilio Ficino, Heinrich Cornelius Agrippa, John Dee, Arthur Edward Waite, Johannes Trithemius, William Blake, Giordano Bruno, Plotinus, Pico della Mirandola, Cagliostro, Johann Valentin Andreae, Zosimos of Panopolis, Roger Bacon, Paracelsus*
+*Concepts mentioned: Correspondence, Spiritual Alchemy, Divine Names, Quintessence, Theurgy, Enlightenment, Dissolution, Regeneration, Elixir of Life, Emanation, Secret Doctrine, Initiation*

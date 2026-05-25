@@ -5,9 +5,9 @@ author: Unknown
 total_pages: 630
 section: §.2.213) (2.)Nomenhoc ןנחוי numerominoreexhibetnumerum7quieodem
 section_number: 25
-date_processed: 2026-05-25T14:38:23.012104
-figures_mentioned: Henry More, Éliphas Lévi
-concepts_mentioned: Emanation, Correspondence
+date_processed: 2026-05-25T15:01:06.402204
+figures_mentioned: Éliphas Lévi, Henry More
+concepts_mentioned: Correspondence, Emanation
 ---
 
 # Anna M Vileno Robert J Wilkinson Messias Puer_ Christian Knorr von Rosenroths Lost Exegesis of Kabbalistic Christianity BRILL
@@ -361,5 +361,5 @@ Kabbalist Catechumen Do you think it is possible to draw a universal
 ---
 
 *Extracted from: Anna M Vileno Robert J Wilkinson Messias Puer_ Christian Knorr von Rosenroths Lost Exegesis of Kabbalistic Christianity BRILL (630 pages)*
-*Figures mentioned: Henry More, Éliphas Lévi*
-*Concepts mentioned: Emanation, Correspondence*
+*Figures mentioned: Éliphas Lévi, Henry More*
+*Concepts mentioned: Correspondence, Emanation*

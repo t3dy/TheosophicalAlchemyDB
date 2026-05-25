@@ -5,7 +5,7 @@ author: Unknown
 total_pages: 5
 section: Preface ix
 section_number: 1
-date_processed: 2026-05-25T14:41:07.422517
+date_processed: 2026-05-25T15:05:07.358726
 figures_mentioned: Plotinus
 concepts_mentioned: None
 ---

@@ -40,6 +40,7 @@
         <button class="nav-btn" data-section="concepts">Concepts</button>
         <button class="nav-btn" data-section="texts">Texts</button>
         <button class="nav-btn" data-section="emblems">Emblems</button>
+        <button class="nav-btn" data-section="emblem-books">Emblem Books</button>
         <button class="nav-btn" data-section="map">Map</button>
         <button class="nav-btn" onclick="window.location.href='timeline.html'">Timeline</button>
         <button class="nav-btn" data-section="about">About</button>
@@ -186,6 +187,47 @@
             </div>
             <div class="results-count" id="emblems-count"></div>
             <div id="emblems-gallery" class="gallery"></div>
+        </section>
+
+        <!-- Emblem Books Section -->
+        <section id="emblem-books" class="section">
+            <div class="section-header">
+                <h2>Emblem Books</h2>
+                <p>Explore complete emblem collections organized by source book</p>
+            </div>
+            <div class="filter-bar" data-section="emblem-books">
+                <div class="filter-group">
+                    <label>Source Book</label>
+                    <select class="filter-select" data-filter="source_book" data-section="emblem-books">
+                        <option value="">All books</option>
+                        <option value="Rosicrucian Emblems">Cramer — Rosicrucian Emblems (1617)</option>
+                        <option value="Atalanta Fugiens">Maier — Atalanta Fugiens (1617)</option>
+                        <option value="Hermetic Garden">Stolcius — Hermetic Garden (1624)</option>
+                    </select>
+                </div>
+                <div class="filter-group">
+                    <label>Sort By</label>
+                    <select class="filter-select" data-filter="sort" data-section="emblem-books">
+                        <option value="default">Default order</option>
+                        <option value="alpha">Title A → Z</option>
+                        <option value="theme">Alchemical Theme</option>
+                        <option value="visual">Visual Elements</option>
+                    </select>
+                </div>
+                <div class="filter-group">
+                    <label>Theme/Significance</label>
+                    <select class="filter-select" data-filter="theme" data-section="emblem-books">
+                        <option value="">All themes</option>
+                        <option value="nigredo">Nigredo (Blackening)</option>
+                        <option value="albedo">Albedo (Whitening)</option>
+                        <option value="rubedo">Rubedo (Reddening)</option>
+                        <option value="hermetic">Hermetic Principles</option>
+                        <option value="rosy-cross">Rosy Cross</option>
+                    </select>
+                </div>
+                <button class="filter-reset" data-section="emblem-books">Reset</button>
+            </div>
+            <div id="emblem-books-container" class="emblem-books-container"></div>
         </section>
 
         <!-- Map Section -->

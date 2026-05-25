@@ -5,9 +5,9 @@ author:
 total_pages: 241
 section: Introduction 11
 section_number: 8
-date_processed: 2026-05-25T14:45:24.733201
+date_processed: 2026-05-25T15:09:23.812813
 figures_mentioned: Hermes Trismegistus
-concepts_mentioned: Quintessence, Initiation, Dissolution, Regeneration
+concepts_mentioned: Dissolution, Regeneration, Initiation, Quintessence
 ---
 
 # Sayings of Gorakhnath
@@ -102,4 +102,4 @@ in Indian spirituality, whose aim is liberation (mokṣa). Such a differently
 
 *Extracted from: Sayings of Gorakhnath (241 pages)*
 *Figures mentioned: Hermes Trismegistus*
-*Concepts mentioned: Quintessence, Initiation, Dissolution, Regeneration*
+*Concepts mentioned: Dissolution, Regeneration, Initiation, Quintessence*

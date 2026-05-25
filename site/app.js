@@ -11,10 +11,11 @@ let allData = { figures: [], concepts: [], texts: [], emblems: [] };
 
 // Per-section filter state
 const filterState = {
-    figures:  { sort: 'default', nationality: '', scholar: '', century: '' },
-    concepts: { sort: 'default', category: '' },
-    texts:    { sort: 'default', language: '', century: '' },
-    emblems:  { sort: 'default', source_book: '', type: '' }
+    figures:      { sort: 'default', nationality: '', scholar: '', century: '' },
+    concepts:     { sort: 'default', category: '' },
+    texts:        { sort: 'default', language: '', century: '' },
+    emblems:      { sort: 'default', source_book: '', type: '' },
+    'emblem-books': { sort: 'default', source_book: '', theme: '' }
 };
 
 // Modal navigation stack: [{section, id}]
@@ -32,6 +33,7 @@ document.addEventListener('DOMContentLoaded', async () => {
         populateFilterDropdowns();
 
         ['figures', 'concepts', 'texts', 'emblems'].forEach(s => renderGallery(s));
+        renderEmblemBooks();
 
         initializeMap();
         setupNavigation();
@@ -113,7 +115,11 @@ function setupFilterListeners() {
             const section = sel.dataset.section;
             const filter  = sel.dataset.filter;
             filterState[section][filter] = sel.value;
-            renderGallery(section);
+            if (section === 'emblem-books') {
+                renderEmblemBooks();
+            } else {
+                renderGallery(section);
+            }
         });
     });
 
@@ -124,7 +130,11 @@ function setupFilterListeners() {
             Object.keys(filterState[section]).forEach(k => filterState[section][k] = k === 'sort' ? 'default' : '');
             // Reset selects
             document.querySelectorAll(`.filter-select[data-section="${section}"]`).forEach(s => s.value = s.options[0].value);
-            renderGallery(section);
+            if (section === 'emblem-books') {
+                renderEmblemBooks();
+            } else {
+                renderGallery(section);
+            }
         });
     });
 }
@@ -213,17 +223,23 @@ function buildCard(section, item) {
     const id    = item.id;
     const name  = item.name || item.title || '—';
     const meta  = buildCardMeta(section, item);
-    const badge = buildBadge(section, item);
-    const imageHtml = item.image_url ? `<img src="${item.image_url}" alt="${name}" class="card-image">` : '';
+    const badge = buildBadgeInline(section);
+    const imageHtml = (section === 'figures' || section === 'emblems') && item.image_url
+        ? `<img src="${item.image_url}" alt="${name}" class="card-image">`
+        : '';
 
     return `
-        <div class="card" data-section="${section}" data-id="${id}">
+        <div class="card card-${section}" data-section="${section}" data-id="${id}">
             ${imageHtml}
-            ${badge}
-            <div class="card-title">${name}</div>
-            ${meta}
+            <div class="card-header">
+                <div class="card-title">${name}</div>
+                <div class="card-meta-inline">${meta}</div>
+            </div>
             <div class="card-summary">${item.summary || ''}</div>
-            <span class="card-read-more">Read full essay →</span>
+            <div class="card-footer">
+                <span class="card-read-more">Read full essay →</span>
+                ${badge}
+            </div>
         </div>`;
 }
 
@@ -248,9 +264,131 @@ function buildCardMeta(section, item) {
     return '';
 }
 
+function buildBadgeInline(section) {
+    // Hide badge on section pages where context is already clear
+    return `<span class="card-badge card-badge-inline badge-${section}"></span>`;
+}
+
 function buildBadge(section, item) {
     const labels = { figures: 'Figure', concepts: 'Concept', texts: 'Text', emblems: 'Emblem' };
     return `<span class="card-badge badge-${section}">${labels[section]}</span>`;
+}
+
+// ─── Emblem Books (grouped view) ───────────────────────────────────────────────
+
+function renderEmblemBooks() {
+    const container = document.getElementById('emblem-books-container');
+    const state = filterState['emblem-books'];
+
+    // Filter and sort emblems
+    let emblems = [...allData.emblems];
+
+    if (state.source_book) {
+        emblems = emblems.filter(e => e.source_book === state.source_book);
+    }
+
+    if (state.theme) {
+        emblems = emblems.filter(e => {
+            const conceptIds = e.concepts || [];
+            const themeConceptMap = {
+                'nigredo': [1],
+                'albedo': [2],
+                'rubedo': [3],
+                'hermetic': [14, 15, 16],
+                'rosy-cross': [30]
+            };
+            const targetConceptIds = themeConceptMap[state.theme] || [];
+            return conceptIds.some(cid => targetConceptIds.includes(cid));
+        });
+    }
+
+    // Sort emblems
+    switch (state.sort) {
+        case 'alpha':
+            emblems.sort((a, b) => (a.title || '').localeCompare(b.title || ''));
+            break;
+        case 'theme':
+            emblems.sort((a, b) => {
+                const aTheme = getEmblemTheme(a);
+                const bTheme = getEmblemTheme(b);
+                return (aTheme || '').localeCompare(bTheme || '');
+            });
+            break;
+        case 'visual':
+            emblems.sort((a, b) => {
+                const aVisual = (a.visual_elements || []).join(',');
+                const bVisual = (b.visual_elements || []).join(',');
+                return aVisual.localeCompare(bVisual);
+            });
+            break;
+    }
+
+    if (!emblems.length) {
+        container.innerHTML = '<p class="no-results">No emblems match the current filters.</p>';
+        return;
+    }
+
+    // Group by source_book
+    const grouped = {};
+    emblems.forEach(e => {
+        const book = e.source_book || 'Unknown';
+        if (!grouped[book]) grouped[book] = [];
+        grouped[book].push(e);
+    });
+
+    // Render grouped sections
+    let html = '';
+    const bookOrder = ['Rosicrucian Emblems', 'Atalanta Fugiens', 'Hermetic Garden'];
+    const orderedBooks = bookOrder.filter(b => grouped[b]).concat(
+        Object.keys(grouped).filter(b => !bookOrder.includes(b))
+    );
+
+    orderedBooks.forEach(bookName => {
+        const bookEmblems = grouped[bookName];
+        const bookInfo = {
+            'Rosicrucian Emblems': { author: 'Cramer', year: 1617, count: bookEmblems.length },
+            'Atalanta Fugiens': { author: 'Maier', year: 1617, count: bookEmblems.length },
+            'Hermetic Garden': { author: 'Stolcius', year: 1624, count: bookEmblems.length }
+        }[bookName] || { author: '—', year: '—', count: bookEmblems.length };
+
+        html += `
+            <div class="emblem-book-section">
+                <div class="emblem-book-header">
+                    <h3>${bookName}</h3>
+                    <div class="emblem-book-meta">${bookInfo.author} (${bookInfo.year}) — ${bookInfo.count} emblems</div>
+                </div>
+                <div class="emblem-gallery">
+                    ${bookEmblems.map(emblem => buildCard('emblems', emblem)).join('')}
+                </div>
+            </div>`;
+    });
+
+    container.innerHTML = html;
+
+    // Wire up card clicks
+    container.querySelectorAll('.card').forEach(card => {
+        card.addEventListener('click', e => {
+            if (e.target.closest('a, button')) return;
+            openModal(card.dataset.section, card.dataset.id, true);
+        });
+    });
+}
+
+function getEmblemTheme(emblem) {
+    const conceptIds = emblem.concepts || [];
+    const themeConcepts = {
+        'Nigredo': [1],
+        'Albedo': [2],
+        'Rubedo': [3],
+        'Theosis': [4],
+        'Hieros Gamos': [5]
+    };
+    for (const [theme, ids] of Object.entries(themeConcepts)) {
+        if (conceptIds.some(cid => ids.includes(cid))) {
+            return theme;
+        }
+    }
+    return 'Other';
 }
 
 // ─── Modal system ─────────────────────────────────────────────────────────────
@@ -665,6 +803,8 @@ function setupNavigation() {
                         window._leafletMap.setView([50, 12], 4);
                     }
                 }, 150);
+            } else if (btn.dataset.section === 'emblem-books') {
+                renderEmblemBooks();
             }
         });
     });

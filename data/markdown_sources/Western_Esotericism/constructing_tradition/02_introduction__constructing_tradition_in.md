@@ -5,9 +5,9 @@ author: Kilcher, Andreas B.
 total_pages: 491
 section: INTRODUCTION: CONSTRUCTING TRADITION IN
 section_number: 2
-date_processed: 2026-05-25T14:35:51.179847
-figures_mentioned: Arthur Edward Waite, Johann Valentin Andreae, Heinrich Cornelius Agrippa, Francis Bacon, Leibniz, Gottfried Wilhelm, Roger Bacon, Albertus Magnus, Louis-Claude de Saint-Martin, Jacob Böhme, Nicolas Flamel, Hermes Trismegistus, Pico della Mirandola, Cagliostro, Marsilio Ficino, Meister Eckhart, Robert Fludd, Claude de Saint-Martin, Paracelsus, Thomas Aquinas, Giordano Bruno
-concepts_mentioned: Regeneration, Emanation, Theosis, Secret Doctrine, Great Work, Rosy Cross, Correspondence, Divine Names, Initiation, Enlightenment
+date_processed: 2026-05-25T14:57:50.359542
+figures_mentioned: Francis Bacon, Arthur Edward Waite, Giordano Bruno, Claude de Saint-Martin, Paracelsus, Hermes Trismegistus, Thomas Aquinas, Heinrich Cornelius Agrippa, Pico della Mirandola, Johann Valentin Andreae, Roger Bacon, Nicolas Flamel, Albertus Magnus, Marsilio Ficino, Cagliostro, Louis-Claude de Saint-Martin, Jacob Böhme, Meister Eckhart, Robert Fludd, Leibniz, Gottfried Wilhelm
+concepts_mentioned: Correspondence, Divine Names, Great Work, Enlightenment, Regeneration, Theosis, Rosy Cross, Emanation, Secret Doctrine, Initiation
 ---
 
 # Constructing Tradition
@@ -6421,5 +6421,5 @@ proceeded further along the scale of evolution.
 ---
 
 *Extracted from: Constructing Tradition (491 pages)*
-*Figures mentioned: Arthur Edward Waite, Johann Valentin Andreae, Heinrich Cornelius Agrippa, Francis Bacon, Leibniz, Gottfried Wilhelm, Roger Bacon, Albertus Magnus, Louis-Claude de Saint-Martin, Jacob Böhme, Nicolas Flamel, Hermes Trismegistus, Pico della Mirandola, Cagliostro, Marsilio Ficino, Meister Eckhart, Robert Fludd, Claude de Saint-Martin, Paracelsus, Thomas Aquinas, Giordano Bruno*
-*Concepts mentioned: Regeneration, Emanation, Theosis, Secret Doctrine, Great Work, Rosy Cross, Correspondence, Divine Names, Initiation, Enlightenment*
+*Figures mentioned: Francis Bacon, Arthur Edward Waite, Giordano Bruno, Claude de Saint-Martin, Paracelsus, Hermes Trismegistus, Thomas Aquinas, Heinrich Cornelius Agrippa, Pico della Mirandola, Johann Valentin Andreae, Roger Bacon, Nicolas Flamel, Albertus Magnus, Marsilio Ficino, Cagliostro, Louis-Claude de Saint-Martin, Jacob Böhme, Meister Eckhart, Robert Fludd, Leibniz, Gottfried Wilhelm*
+*Concepts mentioned: Correspondence, Divine Names, Great Work, Enlightenment, Regeneration, Theosis, Rosy Cross, Emanation, Secret Doctrine, Initiation*

@@ -5,7 +5,7 @@ author: Unknown
 total_pages: 5
 section: Introduction 126
 section_number: 4
-date_processed: 2026-05-25T14:41:07.425767
+date_processed: 2026-05-25T15:05:07.360622
 figures_mentioned: Plotinus
 concepts_mentioned: None
 ---

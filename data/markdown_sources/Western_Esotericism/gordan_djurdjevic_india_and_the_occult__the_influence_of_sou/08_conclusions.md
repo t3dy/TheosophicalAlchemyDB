@@ -5,9 +5,9 @@ author: Unknown
 total_pages: 197
 section: Conclusions
 section_number: 8
-date_processed: 2026-05-25T14:44:55.386289
-figures_mentioned: Pico della Mirandola, Cagliostro, Roger Bacon
-concepts_mentioned: Elixir of Life, Emanation, Sublimation, Great Work, Rosy Cross, Correspondence, Initiation, Theurgy, Dissolution, Enlightenment
+date_processed: 2026-05-25T15:08:53.428841
+figures_mentioned: Cagliostro, Roger Bacon, Pico della Mirandola
+concepts_mentioned: Correspondence, Theurgy, Enlightenment, Dissolution, Elixir of Life, Rosy Cross, Emanation, Great Work, Sublimation, Initiation
 ---
 
 # Gordan Djurdjevic India and the Occult_ The Influence of South Asian Spirituality on Modern Western Occultism Palgrave Macm
@@ -102,5 +102,5 @@ practice.
 ---
 
 *Extracted from: Gordan Djurdjevic India and the Occult_ The Influence of South Asian Spirituality on Modern Western Occultism Palgrave Macm (197 pages)*
-*Figures mentioned: Pico della Mirandola, Cagliostro, Roger Bacon*
-*Concepts mentioned: Elixir of Life, Emanation, Sublimation, Great Work, Rosy Cross, Correspondence, Initiation, Theurgy, Dissolution, Enlightenment*
+*Figures mentioned: Cagliostro, Roger Bacon, Pico della Mirandola*
+*Concepts mentioned: Correspondence, Theurgy, Enlightenment, Dissolution, Elixir of Life, Rosy Cross, Emanation, Great Work, Sublimation, Initiation*

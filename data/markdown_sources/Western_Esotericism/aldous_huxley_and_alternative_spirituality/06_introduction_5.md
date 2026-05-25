@@ -5,9 +5,9 @@ author: Poller, Jake;
 total_pages: 367
 section: Introduction 5
 section_number: 6
-date_processed: 2026-05-25T14:48:08.626474
-figures_mentioned: Hermes Trismegistus, Pico della Mirandola, Plotinus, Isaac Newton, William Law, Thomas Aquinas, Marsilio Ficino, William Blake, Meister Eckhart
-concepts_mentioned: Elixir of Life, Regeneration, Emanation, Sublimation, Secret Doctrine, Distillation, Mystical Union, Great Work, Correspondence, Initiation, Dissolution, Enlightenment
+date_processed: 2026-05-25T15:12:40.160497
+figures_mentioned: Hermes Trismegistus, Thomas Aquinas, Marsilio Ficino, William Law, Isaac Newton, William Blake, Meister Eckhart, Plotinus, Pico della Mirandola
+concepts_mentioned: Correspondence, Mystical Union, Great Work, Enlightenment, Dissolution, Regeneration, Emanation, Elixir of Life, Distillation, Secret Doctrine, Sublimation, Initiation
 ---
 
 # Aldous Huxley and Alternative Spirituality
@@ -106,5 +106,5 @@ Alternative Spirituality (Edinburgh: Edinburgh University Press, 2000), 11.
 ---
 
 *Extracted from: Aldous Huxley and Alternative Spirituality (367 pages)*
-*Figures mentioned: Hermes Trismegistus, Pico della Mirandola, Plotinus, Isaac Newton, William Law, Thomas Aquinas, Marsilio Ficino, William Blake, Meister Eckhart*
-*Concepts mentioned: Elixir of Life, Regeneration, Emanation, Sublimation, Secret Doctrine, Distillation, Mystical Union, Great Work, Correspondence, Initiation, Dissolution, Enlightenment*
+*Figures mentioned: Hermes Trismegistus, Thomas Aquinas, Marsilio Ficino, William Law, Isaac Newton, William Blake, Meister Eckhart, Plotinus, Pico della Mirandola*
+*Concepts mentioned: Correspondence, Mystical Union, Great Work, Enlightenment, Dissolution, Regeneration, Emanation, Elixir of Life, Distillation, Secret Doctrine, Sublimation, Initiation*

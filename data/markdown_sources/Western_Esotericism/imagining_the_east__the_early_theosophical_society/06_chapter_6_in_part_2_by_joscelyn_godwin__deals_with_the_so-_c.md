@@ -5,9 +5,9 @@ author: Rudbøg, Tim (Editor)
 total_pages: 359
 section: Chapter 6 in Part 2 by Joscelyn Godwin, deals with the so- called “Mahatma Lette
 section_number: 6
-date_processed: 2026-05-25T14:43:06.005616
-figures_mentioned: Hermes Trismegistus, Plotinus, Henry Cornelius Agrippa, Giordano Bruno, Éliphas Lévi, William Blake, Marsilio Ficino
-concepts_mentioned: Regeneration, Emanation, Secret Doctrine, Great Work, Correspondence, Initiation, Enlightenment
+date_processed: 2026-05-25T15:07:03.428151
+figures_mentioned: Hermes Trismegistus, Éliphas Lévi, Marsilio Ficino, Henry Cornelius Agrippa, William Blake, Giordano Bruno, Plotinus
+concepts_mentioned: Correspondence, Great Work, Enlightenment, Regeneration, Emanation, Secret Doctrine, Initiation
 ---
 
 # Imagining the East: The Early Theosophical Society
@@ -27,5 +27,5 @@ is analyzed to see what they might tell us about the characteristics of the mast
 ---
 
 *Extracted from: Imagining the East: The Early Theosophical Society (359 pages)*
-*Figures mentioned: Hermes Trismegistus, Plotinus, Henry Cornelius Agrippa, Giordano Bruno, Éliphas Lévi, William Blake, Marsilio Ficino*
-*Concepts mentioned: Regeneration, Emanation, Secret Doctrine, Great Work, Correspondence, Initiation, Enlightenment*
+*Figures mentioned: Hermes Trismegistus, Éliphas Lévi, Marsilio Ficino, Henry Cornelius Agrippa, William Blake, Giordano Bruno, Plotinus*
+*Concepts mentioned: Correspondence, Great Work, Enlightenment, Regeneration, Emanation, Secret Doctrine, Initiation*

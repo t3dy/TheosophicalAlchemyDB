@@ -5,7 +5,7 @@ author: Tobias Churton
 total_pages: 305
 section: Introduction to Arithmetic by Nichomachus, a work which also deals with
 section_number: 5
-date_processed: 2026-05-25T14:36:35.532337
+date_processed: 2026-05-25T14:56:14.135916
 figures_mentioned: Francis Bacon, Ashmole, Elias, Heinrich Khunrath, Robert Boyle, Giordano Bruno, Jabir ibn Hayyan, Paracelsus, Hermes Trismegistus, Heinrich Cornelius Agrippa, Isaac Newton, Pico della Mirandola, Johann Valentin Andreae, Roger Bacon, Michael Maier, Jacques Gohory, Albertus Magnus, Marsilio Ficino, William Blake, Zosimos of Panopolis, John Dee, Henry Cornelius Agrippa, Jacob Böhme, Meister Eckhart, Plotinus, Robert Fludd, Thomas Vaughan
 concepts_mentioned: Correspondence, Initiation, Hermetic Principle, Calcination, Spiritual Alchemy, Quintessence, Fermentation, Dissolution, Regeneration, Rosy Cross, Great Work, Secret Doctrine, Sublimation, Coagulation, Lapis Philosophorum, Distillation, Tincture, Theurgy, Enlightenment, Elixir of Life, Divine Imagination, Emanation
 ---

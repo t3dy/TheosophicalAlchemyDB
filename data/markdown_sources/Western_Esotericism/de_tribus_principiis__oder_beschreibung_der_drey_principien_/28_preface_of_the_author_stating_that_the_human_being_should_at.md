@@ -5,9 +5,9 @@ author: Weeks, Andrew;Penman, Leigh;
 total_pages: 876
 section: Preface of the author stating that the human being should attain to self-
 section_number: 28
-date_processed: 2026-05-25T14:37:17.812637
+date_processed: 2026-05-25T14:59:47.287776
 figures_mentioned: Jacob Böhme, Paracelsus
-concepts_mentioned: Tincture, Regeneration, Enlightenment
+concepts_mentioned: Tincture, Enlightenment, Regeneration
 ---
 
 # DE TRIBUS PRINCIPIIS, Oder Beschreibung Der Drey Principien Gttliches Wesens: Of the Three Principles of Divine Being, 1619, by Jacob Boehme
@@ -175,4 +175,4 @@ ThreePrinciplesofDivineBeing
 
 *Extracted from: DE TRIBUS PRINCIPIIS, Oder Beschreibung Der Drey Principien Gttliches Wesens: Of the Three Principles of Divine Being, 1619, by Jacob Boehme (876 pages)*
 *Figures mentioned: Jacob Böhme, Paracelsus*
-*Concepts mentioned: Tincture, Regeneration, Enlightenment*
+*Concepts mentioned: Tincture, Enlightenment, Regeneration*

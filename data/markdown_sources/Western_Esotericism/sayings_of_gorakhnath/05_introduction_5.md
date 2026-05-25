@@ -5,9 +5,9 @@ author:
 total_pages: 241
 section: Introduction 5
 section_number: 5
-date_processed: 2026-05-25T14:45:24.731856
+date_processed: 2026-05-25T15:09:23.811616
 figures_mentioned: Hermes Trismegistus
-concepts_mentioned: Quintessence, Initiation, Dissolution, Regeneration
+concepts_mentioned: Dissolution, Regeneration, Initiation, Quintessence
 ---
 
 # Sayings of Gorakhnath
@@ -106,4 +106,4 @@ the Kaulajñānanirṇaya.
 
 *Extracted from: Sayings of Gorakhnath (241 pages)*
 *Figures mentioned: Hermes Trismegistus*
-*Concepts mentioned: Quintessence, Initiation, Dissolution, Regeneration*
+*Concepts mentioned: Dissolution, Regeneration, Initiation, Quintessence*

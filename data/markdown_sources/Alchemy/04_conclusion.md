@@ -5,9 +5,9 @@ author:
 total_pages: 34
 section: Conclusion
 section_number: 4
-date_processed: 2026-05-25T14:35:05.187606
-figures_mentioned: Hermes Trismegistus, Pico della Mirandola, Heinrich Cornelius Agrippa, Johannes Trithemius, Isaac Newton, Henry Cornelius Agrippa, Marsilio Ficino, Zosimos of Panopolis, John Dee
-concepts_mentioned: Tincture, Spiritual Alchemy, Elixir of Life, Correspondence, Distillation
+date_processed: 2026-05-25T14:56:51.462741
+figures_mentioned: Hermes Trismegistus, Marsilio Ficino, Heinrich Cornelius Agrippa, John Dee, Henry Cornelius Agrippa, Isaac Newton, Pico della Mirandola, Zosimos of Panopolis, Johannes Trithemius
+concepts_mentioned: Correspondence, Tincture, Spiritual Alchemy, Elixir of Life, Distillation
 ---
 
 # 
@@ -157,5 +157,5 @@ Contact information: psychicsoup@yahoo.com
 ---
 
 *Extracted from:  (34 pages)*
-*Figures mentioned: Hermes Trismegistus, Pico della Mirandola, Heinrich Cornelius Agrippa, Johannes Trithemius, Isaac Newton, Henry Cornelius Agrippa, Marsilio Ficino, Zosimos of Panopolis, John Dee*
-*Concepts mentioned: Tincture, Spiritual Alchemy, Elixir of Life, Correspondence, Distillation*
+*Figures mentioned: Hermes Trismegistus, Marsilio Ficino, Heinrich Cornelius Agrippa, John Dee, Henry Cornelius Agrippa, Isaac Newton, Pico della Mirandola, Zosimos of Panopolis, Johannes Trithemius*
+*Concepts mentioned: Correspondence, Tincture, Spiritual Alchemy, Elixir of Life, Distillation*

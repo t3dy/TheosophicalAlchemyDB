@@ -161,7 +161,7 @@ body {
 /* Gallery */
 .gallery {
     display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+    grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
     gap: 2rem;
     margin-bottom: 3rem;
 }
@@ -174,6 +174,9 @@ body {
     cursor: pointer;
     transition: all 0.3s ease;
     box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+    display: flex;
+    flex-direction: column;
+    min-height: 480px;
 }
 
 .card:hover {
@@ -184,18 +187,24 @@ body {
 
 .card-image {
     width: 100%;
-    height: 200px;
+    height: 180px;
     object-fit: cover;
     border-radius: 4px;
     margin-bottom: 1rem;
     border: 1px solid var(--tan-gold);
+    flex-shrink: 0;
+}
+
+.card-header {
+    margin-bottom: 0.75rem;
 }
 
 .card-title {
     font-size: 1.1rem;
     font-weight: bold;
     color: var(--burnt-sienna);
-    margin-bottom: 0.5rem;
+    margin-bottom: 0.25rem;
+    line-height: 1.3;
 }
 
 .card-meta {
@@ -204,23 +213,87 @@ body {
     margin-bottom: 0.5rem;
 }
 
+.card-meta-inline {
+    font-size: 0.8rem;
+    color: var(--deep-brown);
+    line-height: 1.3;
+}
+
 .card-summary {
-    font-size: 0.95rem;
-    line-height: 1.6;
+    font-size: 0.9rem;
+    line-height: 1.5;
     color: var(--dark-text);
-    margin: 1rem 0;
+    margin-bottom: 1rem;
+    flex-grow: 1;
+}
+
+.card-footer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 0.5rem;
+    margin-top: auto;
+    padding-top: 0.75rem;
+    border-top: 1px solid var(--tan-gold);
 }
 
 .card-read-more {
-    font-size: 0.85rem;
+    font-size: 0.8rem;
     color: var(--burnt-sienna);
     text-decoration: none;
     font-weight: bold;
     transition: all 0.3s ease;
+    white-space: nowrap;
 }
 
 .card-read-more:hover {
     color: var(--accent-dark);
+}
+
+.card-badge-inline {
+    display: inline-block;
+    width: 0.5rem;
+    height: 0.5rem;
+    border-radius: 50%;
+    flex-shrink: 0;
+}
+
+/* Emblem Books Container */
+.emblem-books-container {
+    display: flex;
+    flex-direction: column;
+    gap: 3rem;
+}
+
+.emblem-book-section {
+    border: 2px solid var(--tan-gold);
+    padding: 2rem;
+    background: var(--light-parchment);
+    border-radius: 4px;
+}
+
+.emblem-book-header {
+    margin-bottom: 2rem;
+    border-bottom: 2px solid var(--burnt-sienna);
+    padding-bottom: 1rem;
+}
+
+.emblem-book-header h3 {
+    font-size: 1.5rem;
+    color: var(--burnt-sienna);
+    margin-bottom: 0.5rem;
+}
+
+.emblem-book-meta {
+    font-size: 0.9rem;
+    color: var(--deep-brown);
+    font-style: italic;
+}
+
+.emblem-gallery {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+    gap: 1.5rem;
 }
 
 /* Modal */

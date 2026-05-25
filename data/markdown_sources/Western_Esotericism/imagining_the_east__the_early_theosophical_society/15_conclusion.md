@@ -5,9 +5,9 @@ author: Rudbøg, Tim (Editor)
 total_pages: 359
 section: Conclusion
 section_number: 15
-date_processed: 2026-05-25T14:43:06.010336
-figures_mentioned: Hermes Trismegistus, Plotinus, Henry Cornelius Agrippa, Giordano Bruno, Éliphas Lévi, William Blake, Marsilio Ficino
-concepts_mentioned: Regeneration, Emanation, Secret Doctrine, Great Work, Correspondence, Initiation, Enlightenment
+date_processed: 2026-05-25T15:07:03.431766
+figures_mentioned: Hermes Trismegistus, Éliphas Lévi, Marsilio Ficino, Henry Cornelius Agrippa, William Blake, Giordano Bruno, Plotinus
+concepts_mentioned: Correspondence, Great Work, Enlightenment, Regeneration, Emanation, Secret Doctrine, Initiation
 ---
 
 # Imagining the East: The Early Theosophical Society
@@ -1109,5 +1109,5 @@ emergence of the “New Buddhism” of the West.103
 ---
 
 *Extracted from: Imagining the East: The Early Theosophical Society (359 pages)*
-*Figures mentioned: Hermes Trismegistus, Plotinus, Henry Cornelius Agrippa, Giordano Bruno, Éliphas Lévi, William Blake, Marsilio Ficino*
-*Concepts mentioned: Regeneration, Emanation, Secret Doctrine, Great Work, Correspondence, Initiation, Enlightenment*
+*Figures mentioned: Hermes Trismegistus, Éliphas Lévi, Marsilio Ficino, Henry Cornelius Agrippa, William Blake, Giordano Bruno, Plotinus*
+*Concepts mentioned: Correspondence, Great Work, Enlightenment, Regeneration, Emanation, Secret Doctrine, Initiation*

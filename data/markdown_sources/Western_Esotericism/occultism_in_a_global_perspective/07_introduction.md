@@ -5,9 +5,9 @@ author: Djurdjevic, Gordan,Bogdan, Henrik
 total_pages: 269
 section: introduction
 section_number: 7
-date_processed: 2026-05-25T14:47:20.660025
-figures_mentioned: Hermes Trismegistus, Thomas Aquinas, Henry More, Éliphas Lévi, William Blake, Emmanuel Swedenborg, Jacob Böhme, John Dee
-concepts_mentioned: Spiritual Alchemy, Elixir of Life, Regeneration, Inner Transformation, Sublimation, Secret Doctrine, Quintessence, Great Work, Rosy Cross, Correspondence, Divine Names, Initiation, Theurgy, Dissolution, Enlightenment
+date_processed: 2026-05-25T15:11:38.914399
+figures_mentioned: Hermes Trismegistus, Éliphas Lévi, Emmanuel Swedenborg, Thomas Aquinas, John Dee, William Blake, Jacob Böhme, Henry More
+concepts_mentioned: Correspondence, Spiritual Alchemy, Divine Names, Quintessence, Great Work, Theurgy, Enlightenment, Dissolution, Regeneration, Inner Transformation, Elixir of Life, Rosy Cross, Secret Doctrine, Sublimation, Initiation
 ---
 
 # Occultism in a Global Perspective
@@ -109,5 +109,5 @@ interest in such a research, our task as editors will be accomplished.
 ---
 
 *Extracted from: Occultism in a Global Perspective (269 pages)*
-*Figures mentioned: Hermes Trismegistus, Thomas Aquinas, Henry More, Éliphas Lévi, William Blake, Emmanuel Swedenborg, Jacob Böhme, John Dee*
-*Concepts mentioned: Spiritual Alchemy, Elixir of Life, Regeneration, Inner Transformation, Sublimation, Secret Doctrine, Quintessence, Great Work, Rosy Cross, Correspondence, Divine Names, Initiation, Theurgy, Dissolution, Enlightenment*
+*Figures mentioned: Hermes Trismegistus, Éliphas Lévi, Emmanuel Swedenborg, Thomas Aquinas, John Dee, William Blake, Jacob Böhme, Henry More*
+*Concepts mentioned: Correspondence, Spiritual Alchemy, Divine Names, Quintessence, Great Work, Theurgy, Enlightenment, Dissolution, Regeneration, Inner Transformation, Elixir of Life, Rosy Cross, Secret Doctrine, Sublimation, Initiation*

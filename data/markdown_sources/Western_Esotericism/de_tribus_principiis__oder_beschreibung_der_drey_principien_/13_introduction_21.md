@@ -5,9 +5,9 @@ author: Weeks, Andrew;Penman, Leigh;
 total_pages: 876
 section: introduction 21
 section_number: 13
-date_processed: 2026-05-25T14:37:17.807281
+date_processed: 2026-05-25T14:59:47.278148
 figures_mentioned: Jacob Böhme, Paracelsus
-concepts_mentioned: Tincture, Regeneration, Enlightenment
+concepts_mentioned: Tincture, Enlightenment, Regeneration
 ---
 
 # DE TRIBUS PRINCIPIIS, Oder Beschreibung Der Drey Principien Gttliches Wesens: Of the Three Principles of Divine Being, 1619, by Jacob Boehme
@@ -46,4 +46,4 @@ tionoftenexplicitlydirectedagainsttheofficialclergy.
 
 *Extracted from: DE TRIBUS PRINCIPIIS, Oder Beschreibung Der Drey Principien Gttliches Wesens: Of the Three Principles of Divine Being, 1619, by Jacob Boehme (876 pages)*
 *Figures mentioned: Jacob Böhme, Paracelsus*
-*Concepts mentioned: Tincture, Regeneration, Enlightenment*
+*Concepts mentioned: Tincture, Enlightenment, Regeneration*

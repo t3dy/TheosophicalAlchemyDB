@@ -5,9 +5,9 @@ author:
 total_pages: 241
 section: Conclusions
 section_number: 18
-date_processed: 2026-05-25T14:45:24.740383
+date_processed: 2026-05-25T15:09:23.821052
 figures_mentioned: Hermes Trismegistus
-concepts_mentioned: Quintessence, Initiation, Dissolution, Regeneration
+concepts_mentioned: Dissolution, Regeneration, Initiation, Quintessence
 ---
 
 # Sayings of Gorakhnath
@@ -80,4 +80,4 @@ such is the nature of theoretical knowledge and the texts gathered here
 
 *Extracted from: Sayings of Gorakhnath (241 pages)*
 *Figures mentioned: Hermes Trismegistus*
-*Concepts mentioned: Quintessence, Initiation, Dissolution, Regeneration*
+*Concepts mentioned: Dissolution, Regeneration, Initiation, Quintessence*
