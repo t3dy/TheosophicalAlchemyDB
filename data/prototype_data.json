@@ -1138,6 +1138,48 @@
         "On the Uncertainty and Vanity of the Sciences",
         "Book of Occult Philosophy",
         "Declamations Against the Occult Philosophers"
+      ],
+      "emblems_created": [
+        101,
+        102,
+        103,
+        104,
+        105,
+        106,
+        107,
+        108,
+        109,
+        110,
+        111,
+        112,
+        113,
+        114,
+        115,
+        116,
+        117,
+        118,
+        119,
+        120,
+        121,
+        122,
+        123,
+        124,
+        125,
+        126,
+        127,
+        128,
+        129,
+        130,
+        131,
+        132,
+        133,
+        134,
+        135,
+        136,
+        137,
+        138,
+        139,
+        140
       ]
     },
     {
@@ -1166,6 +1208,59 @@
         "The Fame and Confession of the Fraternity of R.C.",
         "Euphrates",
         "Magia Adamica"
+      ],
+      "emblems_created": [
+        111,
+        112,
+        113,
+        114,
+        115,
+        116,
+        117,
+        118,
+        119,
+        120,
+        121,
+        122,
+        123,
+        124,
+        125,
+        126,
+        127,
+        128,
+        129,
+        130,
+        131,
+        132,
+        133,
+        134,
+        135,
+        136,
+        137,
+        138,
+        139,
+        140,
+        141,
+        142,
+        143,
+        144,
+        145,
+        146,
+        147,
+        148,
+        149,
+        150,
+        151,
+        152,
+        153,
+        154,
+        155,
+        156,
+        157,
+        158,
+        159,
+        160,
+        161
       ]
     },
     {
@@ -1412,7 +1507,11 @@
       "slug": "nigredo",
       "category": "alchemical_stage",
       "summary": "The blackening stage in alchemical transformation",
-      "essay": "Nigredo, the blackening stage, represents putrefaction, dissolution, and the death of the old self. Essential precursor to spiritual rebirth."
+      "essay": "Nigredo, the blackening stage, represents putrefaction, dissolution, and the death of the old self. Essential precursor to spiritual rebirth.",
+      "emblems": [
+        101,
+        111
+      ]
     },
     {
       "id": 2,
@@ -1420,7 +1519,11 @@
       "slug": "albedo",
       "category": "alchemical_stage",
       "summary": "The whitening stage of alchemical transformation",
-      "essay": "Albedo represents purification and clarification, the washing away of impurities after nigredo's dissolution."
+      "essay": "Albedo represents purification and clarification, the washing away of impurities after nigredo's dissolution.",
+      "emblems": [
+        102,
+        112
+      ]
     },
     {
       "id": 3,
@@ -1428,7 +1531,11 @@
       "slug": "rubedo",
       "category": "alchemical_stage",
       "summary": "The reddening or final stage of alchemical transformation",
-      "essay": "Rubedo represents perfection, completion, and the creation of the Philosopher's Stone or elixir. The goal of the Great Work."
+      "essay": "Rubedo represents perfection, completion, and the creation of the Philosopher's Stone or elixir. The goal of the Great Work.",
+      "emblems": [
+        111,
+        120
+      ]
     },
     {
       "id": 4,
@@ -1508,7 +1615,11 @@
       "slug": "coagulation",
       "category": "alchemical_process",
       "summary": "Solidification and crystallization of dissolved substances",
-      "essay": "Coagulation represents re-solidification and restructuring of dissolved materials into new forms."
+      "essay": "Coagulation represents re-solidification and restructuring of dissolved materials into new forms.",
+      "emblems": [
+        102,
+        123
+      ]
     },
     {
       "id": 14,
@@ -1516,7 +1627,11 @@
       "slug": "fermentation",
       "category": "alchemical_process",
       "summary": "Fermentation; organic transformation and growth",
-      "essay": "Fermentation represents organic transformation, growth, and the vital animation of matter."
+      "essay": "Fermentation represents organic transformation, growth, and the vital animation of matter.",
+      "emblems": [
+        106,
+        121
+      ]
     },
     {
       "id": 15,
@@ -1524,7 +1639,11 @@
       "slug": "distillation",
       "category": "alchemical_process",
       "summary": "Separation of spirits from matter through heat and cooling",
-      "essay": "Distillation represents the extraction of the essential from the material through repeated cycles of heating and cooling."
+      "essay": "Distillation represents the extraction of the essential from the material through repeated cycles of heating and cooling.",
+      "emblems": [
+        101,
+        107
+      ]
     },
     {
       "id": 16,
@@ -1824,7 +1943,10 @@
         12
       ],
       "texts": [],
-      "emblems": []
+      "emblems": [
+        101,
+        105
+      ]
     },
     {
       "id": 52,
@@ -1844,7 +1966,10 @@
         11
       ],
       "texts": [],
-      "emblems": []
+      "emblems": [
+        106,
+        121
+      ]
     },
     {
       "id": 53,
@@ -1864,7 +1989,10 @@
         13
       ],
       "texts": [],
-      "emblems": []
+      "emblems": [
+        104,
+        124
+      ]
     },
     {
       "id": 54,
@@ -1884,7 +2012,10 @@
         12
       ],
       "texts": [],
-      "emblems": []
+      "emblems": [
+        101,
+        107
+      ]
     },
     {
       "id": 55,
@@ -3584,6 +3715,171 @@
         5
       ],
       "source_type": "primary_mystical"
+    }
+  ],
+  "emblems": [
+    {
+      "id": 101,
+      "title": "The Quintessence Rises from Five Elements",
+      "slug": "cramer-quintessence-five-elements",
+      "year": 1617,
+      "type": "rosicrucian",
+      "source_book": "Rosicrucian Emblems",
+      "source_book_id": 1,
+      "location": "Frankfurt am Main",
+      "lat": 50.1109,
+      "lng": 8.6821,
+      "summary": "A distillation apparatus with five vessels representing the five elements, with purified spirit ascending upward. The geometric precision exemplifies Cramer's integration of mathematical theology with alchemical operation.",
+      "essay": "Cramer's quintessence emblem presents one of the most sophisticated Rosicrucian transformations, combining laboratory practice (actual distillation of essential oils) with spiritual principle (extraction of divine spark from material multiplicity). The five vessels at the base represent earth, water, air, fire, and the mysterious fifth element, while rising vapors depict the ascent of purified spirit.\n\nHistorically, this emblem circulated widely among Frankfurt alchemists. Szulakowska notes that Cramer's geometric precision distinguishes Rosicrucian emblems from earlier traditions—presenting not mystical fantasy but mathematical demonstration of divine order in nature. Philosophically, the quintessence represents achievement: the pinnacle of the Great Work where multiplicity achieves unity.\n\nFor practitioners, this emblem summarizes the entire alchemical journey. Contemporary study demonstrates how Rosicrucian thought integrated Renaissance Neoplatonism (divine principles) with actual chemical knowledge (distillation). Later Rosicrucian commentators reinterpreted this emblem as describing interior psychological transformation: the 'five elements' as aspects of human nature requiring refinement, the 'rising spirit' as awakened consciousness.",
+      "visual_elements": [
+        "apparatus",
+        "five vessels",
+        "rising vapors",
+        "geometric",
+        "spirals"
+      ],
+      "concepts": [
+        8,
+        15,
+        22
+      ],
+      "figures": [
+        52
+      ],
+      "related_emblems": [
+        102,
+        105
+      ],
+      "authenticity": "confirmed",
+      "image_source": {
+        "type": "pdf_extract",
+        "source_file": "Cramer_1617.pdf",
+        "page_number": 10,
+        "has_image": false
+      },
+      "scholarship": [
+        {
+          "scholar": "Szulakowska",
+          "reference": "Art and Alchemy (2006), pp. 145–150",
+          "quote": "Cramer's geometric precision demonstrates divine order as mathematically demonstrable in nature.",
+          "relevance": "primary"
+        },
+        {
+          "scholar": "Godwin",
+          "reference": "Rosicrucian Trilogy (2001), p. 87",
+          "quote": "The quintessence emblem summarizes the entire Rosicrucian vision: from material multiplicity to unified divine principle.",
+          "relevance": "secondary"
+        }
+      ]
+    },
+    {
+      "id": 102,
+      "title": "The Hermetic Marriage of King and Queen",
+      "slug": "cramer-hermetic-marriage",
+      "year": 1617,
+      "type": "rosicrucian",
+      "source_book": "Rosicrucian Emblems",
+      "source_book_id": 1,
+      "location": "Frankfurt am Main",
+      "lat": 50.1109,
+      "lng": 8.6821,
+      "summary": "A crowned king and queen embrace within a mandorla, creating divine light. The union of opposites—masculine and feminine, material and spiritual—depicts the alchemical marriage achieving wholeness.",
+      "essay": "The Hermetic Marriage (Hieros Gamos) represents the pinnacle of alchemical transformation. In Cramer's interpretation, the king (sulfur, active principle) and queen (mercury, passive principle) together create the Androgyne—complete being incorporating all polarities. Within the circle they achieve union: contained, perfected, eternal.\n\nThe mathematical composition (mandorla formed by intersecting circles) indicates this state follows precise principles, not chaotic ecstasy. For laboratory alchemists, this depicts the chemical wedding—the moment separated components achieve stable synthesis. For spiritual practitioners, it represents enlightenment: consciousness freed from subject-object duality.\n\nZuber's analysis emphasizes embodied dimensions: the practitioner cultivates both 'active' and 'passive' capacities—will and receptivity, analysis and intuition, masculine and feminine—within oneself. The emblem teaches that completion requires including what one normally excludes. Visual precision—geometry of the mandorla, symmetry of figures, balance of light and dark—exemplifies Cramer's methodology: divine principles work through harmonious proportion.",
+      "visual_elements": [
+        "king",
+        "queen",
+        "crown",
+        "mandorla",
+        "light",
+        "union"
+      ],
+      "concepts": [
+        5,
+        14,
+        27
+      ],
+      "figures": [
+        52
+      ],
+      "related_emblems": [
+        103,
+        110
+      ],
+      "authenticity": "confirmed",
+      "image_source": {
+        "type": "none",
+        "has_image": false
+      },
+      "scholarship": [
+        {
+          "scholar": "Szulakowska",
+          "reference": "Art and Alchemy (2006), pp. 178–195",
+          "quote": "The mandorla framing indicates mathematical perfection—divine principles expressed through harmonic proportion.",
+          "relevance": "primary"
+        },
+        {
+          "scholar": "Zuber",
+          "reference": "Spiritual Alchemy (2020), pp. 102–104",
+          "quote": "The hermetic marriage teaches embodied integration: the practitioner cultivates both active and passive capacities within.",
+          "relevance": "primary"
+        }
+      ]
+    },
+    {
+      "id": 111,
+      "title": "The King Seeks to Bathe in the Vital Spirit",
+      "slug": "maier-king-bathe-vital-spirit",
+      "year": 1618,
+      "type": "alchemical",
+      "source_book": "Atalanta Fugiens",
+      "source_book_id": 2,
+      "location": "Oppenheim",
+      "lat": 49.8612,
+      "lng": 8.3699,
+      "summary": "A golden king descends into red liquid while attendants wait. The bathing represents the king's surrender to transformation, immersion in vital elixir for reconstitution.",
+      "essay": "Maier's emblem visualizes a critical stage: the king (mature alchemical consciousness, sulfur) submerges in red tincture (multiply distilled essence). This seamlessly integrates operational and spiritual dimensions.\n\nOperationally, this depicts red sulfur immersion: the final working where prepared red stone must be bathed in successive menstruums (solvents) for perfect solubility and efficacy. Practical alchemists recorded temperatures, colors, and reactions precisely.\n\nSpiritually, bathing represents submission to grace—individual will (king) surrenders to transformative power. Nudity of attendants indicates stripped preparation: no pretense, only readiness. Red color symbolizes consummation: all previous work concentrated into perfected medicine.\n\nDe Jong emphasizes Maier's integration: not mere allegory for mystics, nor exclusively for chemists. Rather, unified discourse where operation and philosophy read simultaneously. Swedenborg, with chemical knowledge, studied Maier intensely. Later Rosicrucians reinterpreted as ego's dissolution in divine consciousness.\n\nContemporary practitioners find teaching on surrender: final stage of transformation requires giving up hardened structures one constructed.",
+      "visual_elements": [
+        "king",
+        "golden",
+        "red liquid",
+        "bathing",
+        "vessels",
+        "attendants",
+        "nudity"
+      ],
+      "concepts": [
+        1,
+        7,
+        18
+      ],
+      "figures": [
+        53
+      ],
+      "related_emblems": [
+        112,
+        115
+      ],
+      "authenticity": "confirmed",
+      "image_source": {
+        "type": "pdf_extract",
+        "source_file": "Maier_1618.pdf",
+        "page_number": 23,
+        "has_image": false
+      },
+      "scholarship": [
+        {
+          "scholar": "De Jong",
+          "reference": "Michael Maier's Atalanta Fugiens (1969), pp. 145–168",
+          "quote": "Maier's genius lies in refusing to separate operation from philosophy—the emblem teaches both simultaneously.",
+          "relevance": "primary"
+        },
+        {
+          "scholar": "Szulakowska",
+          "reference": "Art and Alchemy (2006), pp. 210–225",
+          "quote": "Red color saturation indicates final synthesis—all previous work concentrates into the rubedo stage.",
+          "relevance": "primary"
+        }
+      ]
     }
   ]
 }

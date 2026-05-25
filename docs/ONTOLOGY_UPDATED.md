@@ -1,8 +1,8 @@
 # TheosophicalAlchemyDB — Updated Data Ontology
 
-**Version:** 2.0  
+**Version:** 3.0  
 **Updated:** 2026-05-25  
-**Status:** Phase 0 Expansion — Emblems as First-Class Entities
+**Status:** Phase 2 Enhancement — Emblem Expansion & Scholarly Apparatus
 
 ---
 
@@ -421,13 +421,117 @@ Cramer's Cross within Circle (emblem)
 
 ---
 
+## Phase 2 Enhancements (Implemented)
+
+### Emblem-Book Aggregate Entity
+
+```json
+{
+  "id": "cramer_rosicrucian",
+  "title": "Rosicrucian Emblems",
+  "author": "Daniel Cramer",
+  "year": 1617,
+  "location": "Frankfurt am Main",
+  "total_emblems": 40,
+  "emblems": [101, 102, 103, ...],  // Emblem IDs
+  "description": "A foundational work of Protestant Rosicrucian thought...",
+  "source_pdf": "E:\\pdf\\Rosicrucian\\Cramer_1617.pdf",
+  "scholarly_framework": "Szulakowska, Godwin, De Jong"
+}
+```
+
+### Enhanced Scholarship Array
+
+All entities now include structured scholarship:
+
+```json
+{
+  "scholarship": [
+    {
+      "scholar": "Szulakowska",
+      "title": "Art and Alchemy",
+      "year": 2006,
+      "page": 145,
+      "quote": "Cramer's geometric precision demonstrates...",
+      "quote_context": "Analysis of visual methodology",
+      "relevance": "primary|secondary|contextual",
+      "debate_topic": "Visual epistemology in emblems",
+      "perspective": "art-historical"
+    }
+  ]
+}
+```
+
+### Authenticity Field (Emblems)
+
+```json
+{
+  "authenticity": "confirmed|attributed|apocryphal|disputed",
+  "authenticity_note": "Attribution based on Szulakowska analysis, confirmed in Godwin scholarship",
+  "historical_verification": {
+    "source_verified": true,
+    "edition": "Frankfurt 1617 edition",
+    "page_confirmed": 10,
+    "image_extracted": false
+  }
+}
+```
+
+### Concept-Emblem Bidirectional Linking
+
+Concepts now include:
+```json
+{
+  "emblems": [101, 111, 121],  // Emblem IDs illustrating this concept
+  "emblem_mappings": [
+    {
+      "emblem_id": 101,
+      "illustration_type": "visual|philosophical|operational",
+      "explanation": "The Quintessence emblem shows operational distillation"
+    }
+  ]
+}
+```
+
+Emblems now include:
+```json
+{
+  "concepts": [8, 15, 22],  // Bidirectional link
+  "concepts_illustrated": [
+    {
+      "concept_id": 8,
+      "concept_name": "Quintessence",
+      "illustration_type": "operational",
+      "description": "Shows the actual laboratory apparatus for quintessential extraction"
+    }
+  ]
+}
+```
+
+### Figure-Emblem Genealogy
+
+Figures now include:
+```json
+{
+  "emblems_created": [101, 102, 103, ...],  // Emblem IDs this figure created
+  "emblems_influenced_by": [1, 2, 3, ...],  // Emblem IDs that influenced this figure
+  "emblem_transmission": {
+    "description": "Cramer's emblems influenced later Rosicrucian interpreters",
+    "influenced_figures": [7, 15, 23],  // Figure IDs influenced by these emblems
+    "transmission_path": "Cramer (1617) → Swedenborg (1688) → Blavatsky (1831)"
+  }
+}
+```
+
+---
+
 ## Future Enhancements
 
 - [ ] **Visual Search** — Users can upload an emblem image to find similar/related emblems
 - [ ] **Element Analysis** — Filter emblems by visual components (circle, cross, serpent, etc.)
 - [ ] **Concept Explorer** — Interactive visualization showing how concepts link to emblems
 - [ ] **Timeline View** — Chronological progression of emblem styles and meanings
-- [ ] **Scholarly Apparatus** — Full citation apparatus with cross-references
+- [ ] **Emblem Gallery UI/UX** — Card/modal viewer with search, filter, map integration
 
 ---
 

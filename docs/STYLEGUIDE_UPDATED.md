@@ -287,12 +287,71 @@ Before finalizing, verify:
 
 ---
 
+## Phase 2 Scholarly Framework (NEW)
+
+### Zuber Emphasis: Embodied Practice
+
+**Core Teaching from Zuber's *Spiritual Alchemy*:**
+All alchemical knowledge is grounded in actual practice. Theory disconnected from lived transformation is mere intellectualism.
+
+**How to Apply:**
+1. For concept definitions: Always include operational dimension (what practitioners literally DO)
+2. For figure biographies: Show HOW they practiced, not just what they believed
+3. For emblem essays: Connect symbolic meaning to actual laboratory procedures or contemplative practice
+4. For all entries: Ask "What does a practitioner actually engage with?"
+
+**Example Structure for Concepts:**
+- Paragraph 1: Operational (practical, laboratory, lived)
+- Paragraph 2: Philosophical (principle, symbolic)
+- Paragraph 3: Spiritual (transformational, consciousness)
+- Closing: Modern practice application
+
+### Akerman Emphasis: Historiographical Rigor
+
+**Core Teaching from Akerman's Scholarship:**
+Distinguish documented facts from legend. Present scholarly disagreements fairly. Acknowledge what evidence cannot support.
+
+**How to Apply:**
+1. Mark unsubstantiated claims as such
+2. When scholars disagree, document multiple viewpoints
+3. Note gaps in historical evidence (especially for women)
+4. Avoid false certainty—present possibilities, not definites
+5. Credit sources explicitly
+
+**Example Language:**
+- "Sources document..." (verified)
+- "Tradition holds..." (unverified legend)
+- "Scholars disagree whether..." (genuine debate)
+- "Evidence is scarce..." (honest gap)
+
+### Szulakowska Emphasis: Visual-Symbolic Analysis
+
+**Core Teaching from *Art and Alchemy*:**
+Emblems and visual elements are philosophical instruments, not mere illustrations. They encode sophisticated arguments through visual means.
+
+**How to Apply:**
+1. For emblem essays: Start with visual description, then interpret
+2. Color analysis: understand symbolic meaning (nigredo blacks, albedo whites, rubedo reds)
+3. Composition: notice symmetry, hierarchy, perspective
+4. Visual conventions: understand Renaissance emblem tradition
+5. Layered reading: emblems encode multiple meanings simultaneously
+
+**Example Analysis Structure:**
+- Visual elements (what we see)
+- Art-historical context (tradition, convention)
+- Alchemical meaning (stage, principle)
+- Philosophical significance (what it teaches)
+- Influence (how later thinkers reinterpreted)
+
+---
+
 ## Version History
 
 | Version | Date | Update |
 |---------|------|--------|
 | 1.0 | 2026-05-24 | Initial style guide (Phase 0) |
 | 2.0 | 2026-05-25 | Phase 1 update: Expanded scholarly values, gender awareness, transmission focus |
+| 3.0 | 2026-05-25 | Phase 2 update: Formalized Zuber (embodied practice), Akerman (historiography), Szulakowska (visual analysis) frameworks |
 
 ---
 
