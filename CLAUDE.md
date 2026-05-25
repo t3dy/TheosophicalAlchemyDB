@@ -1,38 +1,50 @@
-# Claude Code Instructions — Rosicrucianism & Theosophical Alchemy Portal
+# Claude Code Instructions — TheosophicalAlchemyDB
 
 ## Project Summary
 
-**Rosicrucianism & Theosophical Alchemy Knowledge Portal** — A concept-first encyclopedia of Rosicrucian and theosophical-alchemical traditions from the 16th–18th centuries, written in academic voice for scholars, practitioners, and interested readers. Architecture replicates AtalantaClaudiens: SQLite source of truth, Python static site generator, vanilla HTML/CSS/JS, GitHub Pages deployment at `t3dy/rosicrucianism-alchemy-portal`.
+**TheosophicalAlchemyDB** — A concept-first knowledge portal on Rosicrucian and theosophical-alchemical traditions (16th–18th century). Built with 206+ entities (63 figures, 60 concepts, 83 texts, 30+ emblems), interactive Leaflet.js map, card-based gallery interface, dark scholarly design (burnt sienna + parchment), GitHub Pages deployment at https://t3dy.github.io/TheosophicalAlchemyDB/
 
-**Vision:** Navigate historical Rosicrucian and alchemical ideas, figures, texts, and emblematic traditions through relational browsing, concept-first organization, and rich scholarly apparatus.
+**Phase 1 Status:** ✅ COMPLETE (Figures, concepts, texts, initial emblem gallery)  
+**Phase 2 Status:** 🚀 IN PROGRESS (Emblem expansion, concept-emblem mapping, scholarly apparatus enrichment)
 
-## Document Routing
+**Vision:** Navigate Rosicrucian and alchemical ideas through concept-first organization, relational browsing, and scholarly rigor. All entities geographic-mapped; historiographical debates presented fairly; gender awareness throughout; embodied knowledge emphasized.
 
-**Read `DOCUMENTAIRTRAFFICCONTROL.md` when you need to find the right file.** It routes you to the correct document for any task (schema work, emblem work, extraction, debugging, planning) and flags what's stale or unbuilt.
+## Critical Documents (Read in This Order)
 
-## Quick Reference
+**First Session?** Start here:
+1. `QUICK_START.md` — 5-minute orientation (what is this, how does it work, key files)
+2. `CONVERSATION_REQUIREMENTS_HARVEST.md` — What the user wants (read entire document)
+3. `STYLEGUIDE_UPDATED.md` — Writing standards for all entries
+4. `ONTOLOGY_UPDATED.md` — Data structure specification
 
-| Document | Purpose |
-|----------|---------|
-| `DOCUMENTAIRTRAFFICCONTROL.md` | **Start here** — routes you to the right doc for any task |
-| `docs/SYSTEM.md` | Architecture, data flow, provenance model |
-| `docs/ONTOLOGY.md` | Database schema, entity relationships |
-| `docs/PIPELINE.md` | Script execution order, stage dependencies |
-| `docs/INTERFACE.md` | Website sections, page templates, navigation |
-| `docs/ROADMAP.md` | Phase status: BUILT / READY / BLOCKED / PLANNED |
-| `docs/STYLEGUIDE.md` | Voice, tone, academic standards, essay templates |
-| `PHASESTATUS.md` | Session discipline log — update at end of every session |
-| `PROMPTS.md` | Canonical vision statement (read first every session) |
+**Continuing Session?** Start here:
+1. `RESUMPTION_PROMPT.md` — Quick re-orientation for this session
+2. `PHASE_2_HANDOVER.md` — What to work on (detailed roadmap with 7 workstreams)
+3. `PHASESTATUS.md` — What's been done, what's blocked, what's next
 
-## Core Numbers (Target State)
+**Deep Dives:**
+- `AGENTIC_CONTEXT_ENGINEERING.md` — Best practices for multi-session LLM projects
+- `EMBLEM_SYSTEM_PLAN.md` — Detailed emblem sourcing strategy (400+ sources identified)
+- `VICKERS_CRITIQUE_INGESTION.md` — Historiographical methodology documentation
 
-- **Concepts:** 40–60 (Rosicrucianism, alchemical processes, theurgical practices, hermetic principles)
-- **Historical Figures:** 30–40 (Andreae, Dee, Fludd, Ashmole, Cagliostro, Swedenborg, etc.)
-- **Texts:** 25–35 (Rosicrucian Manifestos, Key of Solomon variants, emblem books, alchemy treatises)
-- **Emblems & Emblem Books:** 8–12 (Maier, Micrelius, Mutus Liber, etc.)
-- **Scholar Profiles:** 15–20
-- **Essays:** 12–18 thematic essays
-- **Database size:** ~200–250 core rows, ~1,500+ relationship rows, ~200K+ essay words
+## Current State (Phase 1 Complete)
+
+**Entities Created:**
+- **Figures:** 63 (Phase 1 target: 40–50; exceeded with Zuber scholarship focus)
+- **Concepts:** 60 (Phase 1 target: 40–50; complete with dual-level analysis)
+- **Texts:** 83 (Phase 1 target: 25–35; expanded with scholarly sources)
+- **Emblems:** 30 (Phase 0.5 completion; expanding to 100+ in Phase 2)
+- **Geographic Coordinates:** 106+ mapped locations
+- **Essay Words:** 80,000+ (all entries meet 300+ word minimum)
+- **Scholarly Sources Cited:** 500+
+
+**Phase 2 Targets (In Progress):**
+- **Emblems:** 30 → 100+ (Cramer 40, Maier 51, Stolcius 40-60 focus)
+- **Concept-Emblem Links:** 60 concepts × 2-3 emblems each = 120+ links
+- **Figure-Emblem Attribution:** All figures connected to emblem creation/influence
+- **Scholarly Apparatus:** Direct quotes, page citations, historiographical debates
+- **Emblem Images Sourced:** 40-50 (PDF extraction + public-domain)
+- **Emblem Gallery UI:** Full card/modal/search/filter/map integration
 
 ## Corpus
 
@@ -67,27 +79,46 @@ Quality distribution: GOOD 30–40%, PARTIAL 30–40%, SCANNED 20–30% (OCR que
 - `timeline` — Chronology from Reformation through Enlightenment
 - `sources` — Source authorities and traditions (Hermetic corpus, Kabbalah, etc.)
 
-## Critical Principles
+## Critical Principles (Discovered in Phase 1)
 
-1. **Deterministic First** — Extract structure, dates, relationships from PDF text deterministically
-2. **LLM Synthesis Second** — Agents write encyclopedia content, always marked DRAFT
-3. **Human Review Always** — No content ships REVIEWED until human reads it
-4. **Historiographical Rigor** — Actor/Analyst distinction (what Rosicrucians called themselves vs. modern scholarly categories)
-5. **Academic Voice** — No mysticism, no channeled content; rigorous historical-critical method
-6. **Emblems as Entities** — Each emblem is a first-class entity with image + provenance + scholarly apparatus
-7. **Dual Audience** — Scholars and practitioners; serve both without conflating categories
+1. **Historiographical Rigor** — Present scholarly debates fairly (Yates/Vickers model), not false certainty
+2. **Concept-First Organization** — Users navigate by philosophical principle, not chronology
+3. **Emblems as Philosophical Instruments** — Not illustrations; first-class entities with full scholarly apparatus (Szulakowska framework)
+4. **Relational Browsing** — Every entity links to ≥3 others; enables serendipitous discovery
+5. **Geographic Grounding** — All entities mapped to real places (lat/lng coordinates)
+6. **Gender Awareness** — Explicit note of women's participation and obstacles in transmission
+7. **Embodied Knowledge** — Ground concepts in actual practice/operations, not abstract theory (Zuber emphasis)
+8. **Transmission Genealogy** — How ideas spread across cultures/centuries; show lineages explicitly
+9. **Academic Voice** — Learned but not pedantic; rigorous but not defensive; respectful but not reverent
+10. **Live Portal Throughout** — Portal remains functional during all development phases (Friday deployments)
 
-## Phase Timeline (10 weeks target)
+## Phase Timeline (Actual Progress)
 
-- **Phase 0** (Week 1): PDF triage + markdown conversion (131 PDFs → searchable text)
-- **Phase 1** (Week 1–2): Schema + seed data (concepts, figures, texts, emblem manifests)
-- **Phase 2** (Week 2–4): Figure biographies + text summaries (40 bios, 30 text summaries)
-- **Phase 3** (Week 4–5): Emblem cataloging + image sourcing (20–40 emblems, all sourced)
-- **Phase 4** (Week 5–6): Concept essays + dictionary (50 concept pages, 100+ terms)
-- **Phase 5** (Week 6–7): Relationship enrichment + thematic essays (genealogy, cross-cutting problems)
-- **Phase 6** (Week 7–8): Frontend build + navigation (static site generation)
-- **Phase 7** (Week 8–9): Styling + dark scholarly design
-- **Phase 8** (Week 9–10): Testing + deployment to GitHub Pages
+**Phase 0: Project Setup & Prototype** ✅ COMPLETE (2026-05-24 to 2026-05-25)
+- Created project structure, documentation, CLAUDE.md, PROMPTS.md
+- Built interactive prototype with 40 entries per section
+- Implemented Leaflet.js map, card gallery, modal essays
+- Published to GitHub Pages
+
+**Phase 1: Seed Data & Emblem Foundation** ✅ COMPLETE (2026-05-25)
+- Added 23 new figures (40 → 63 total), 10 new concepts (50 → 60), 9 new texts (74 → 83)
+- Integrated Brian Vickers scholarship and historiographical rigor
+- Created 30 emblem entries with art-historical analysis
+- Updated STYLEGUIDE_UPDATED.md with Szulakowska/Zuber/De Jong frameworks
+- Updated ONTOLOGY_UPDATED.md with emblem-as-entity specification
+- Live deployment with all features tested
+
+**Phase 2: Emblem Expansion & Scholarly Enrichment** 🚀 IN PROGRESS (2026-05-25 to 2026-06-21)
+- **Workstream 1:** Emblem sourcing (30 → 100+) with image acquisition
+- **Workstream 2:** Concept-emblem comprehensive mapping
+- **Workstream 3:** Figure-emblem genealogy
+- **Workstream 4:** Scholarly apparatus enrichment
+- **Workstream 5:** Data ontology refinement
+- **Workstream 6:** Emblem gallery UI/UX implementation
+- **Workstream 7:** PDF corpus systematic ingestion (131 sources)
+- **See PHASE_2_HANDOVER.md for detailed roadmap**
+
+**Phase 3 (Planned):** SQLite backend, full-text search, advanced features
 
 ## Website Sections (Planned)
 
@@ -134,18 +165,29 @@ Quality distribution: GOOD 30–40%, PARTIAL 30–40%, SCANNED 20–30% (OCR que
 ## Operating Rules
 
 ### Before Starting Work
-- Check `PHASESTATUS.md` for current phase, prerequisites, blockers
-- Check `docs/ROADMAP.md` for what's BUILT vs READY vs BLOCKED
-- Read `docs/ONTOLOGY.md` if touching the database
+1. **First session?** Read `QUICK_START.md` (5 min), then `CONVERSATION_REQUIREMENTS_HARVEST.md` (full context)
+2. **Continuing session?** Read `RESUMPTION_PROMPT.md`, then `PHASE_2_HANDOVER.md`
+3. Always check `PHASESTATUS.md` for current phase status and blockers
+4. Read `STYLEGUIDE_UPDATED.md` if writing any entries
+5. Read `ONTOLOGY_UPDATED.md` if modifying data structure
 
 ### During Work
-- Mark tasks in progress in PHASESTATUS.md
-- Don't skip phases — each phase outputs feed the next
-- If schema changes, update `docs/ONTOLOGY.md` immediately
-- If pipeline changes, update `docs/PIPELINE.md` immediately
+- Test on live site after each major change (no dark launches)
+- Commit frequently (ideally daily) with descriptive messages
+- Update `PHASESTATUS.md` when status changes
+- If schema evolves, update `ONTOLOGY_UPDATED.md` immediately
+- If user provides feedback, document in PHASESTATUS.md "Notes" section
+- If you discover a pattern, update `STYLEGUIDE_UPDATED.md` or `AGENTIC_CONTEXT_ENGINEERING.md`
 
 ### At End of Session
-- Update `PHASESTATUS.md` with: phase status, what changed, next steps, blockers
+- Update `PHASESTATUS.md` with:
+  - Phase status (what changed?)
+  - Completed items (with checkmarks)
+  - Blockers (if any)
+  - Next steps (specific, actionable)
+  - Session log entry (duration, tasks, blockers, notes)
+- Commit all changes with clear message
+- Update `CONVERSATION_REQUIREMENTS_HARVEST.md` if new learnings
 
 ## Data Integrity Rules
 
@@ -158,88 +200,88 @@ Quality distribution: GOOD 30–40%, PARTIAL 30–40%, SCANNED 20–30% (OCR que
 ## File Structure
 
 ```
-C:\Dev\Rosicrucianism/
-├── CLAUDE.md                      # This file — project entry point
-├── DOCUMENTAIRTRAFFICCONTROL.md   # LLM routing guide
-├── PROMPTS.md                     # Canonical vision (read first)
-├── PHASESTATUS.md                 # Session discipline log
-├── README.md                      # Public-facing summary
-├── CORPUS_MANIFEST.md             # 131 PDFs with triage status
+C:\Dev\TheosophicalAlchemyDB/
+├── CLAUDE.md                              # This file — project entry point
+├── PROMPTS.md                             # Canonical vision statement
+├── QUICK_START.md                         # ✨ 5-min orientation guide
+├── RESUMPTION_PROMPT.md                   # ✨ Copy-paste for new sessions
+├── PHASESTATUS.md                         # Session discipline log (update after each session)
+├── CONVERSATION_REQUIREMENTS_HARVEST.md   # ✨ Master requirements (read first!)
+├── AGENTIC_CONTEXT_ENGINEERING.md         # ✨ Best practices for LLM projects
+├── PHASE_2_HANDOVER.md                    # ✨ Detailed Phase 2 roadmap (7 workstreams)
+├── README.md                              # Public-facing summary
 ├── .gitignore
 ├── .github/workflows/deploy.yml
 ├── .claude/
-│   ├── launch.json
-│   └── settings.local.json
-├── db/
-│   └── rosicrucianism.db          # SQLite database (generated)
+│   └── launch.json                        # Preview server config
 ├── scripts/
-│   ├── init_db.py                 # Stage 1: Schema
-│   ├── seed_concepts.py           # Stage 1: Seed concepts
-│   ├── seed_figures.py            # Stage 1: Seed figures
-│   ├── seed_texts.py              # Stage 1: Seed texts
-│   ├── seed_emblems.py            # Stage 1: Emblem manifest
-│   ├── seed_dictionary.py         # Stage 1: Terms
-│   ├── extract_pdf_corpus.py      # Stage 2: Parse PDFs
-│   ├── analyze_concepts.py        # Stage 2: Concept extraction
-│   ├── link_entities.py           # Stage 3: Build relationships
-│   ├── generate_essays.py         # Stage 3: Thematic essays
-│   └── build_site.py              # Stage 4: Static site generation
+│   ├── build_site.py                      # Main: rebuild portal from data
+│   ├── phase_1_expansion.py               # Phase 1: batch entry creation
+│   ├── add_vickers.py                     # Session 4: Vickers integration
+│   ├── add_emblems_and_figures.py         # Session 4: Agrippa/Vaughan/emblems
+│   ├── add_more_emblems.py                # Session 4: 15 more emblems
+│   ├── add_final_emblem.py                # Session 4: final emblem
+│   ├── ingest_comprehensive_emblems.py    # Phase 2: emblem sourcing framework
+│   └── [Phase 2 scripts to be created]    # extract_emblem_images, enrich_apparatus, etc.
 ├── docs/
-│   ├── SYSTEM.md                  # Architecture + provenance model
-│   ├── ONTOLOGY.md                # Database schema catalog
-│   ├── PIPELINE.md                # Script execution order
-│   ├── INTERFACE.md               # Website sections + templates
-│   ├── ROADMAP.md                 # Phase status tracking
-│   ├── STYLEGUIDE.md              # Academic voice, templates
-│   └── archive/                   # Past planning artifacts
+│   ├── STYLEGUIDE_UPDATED.md              # ✨ Writing standards (Phase 1 version)
+│   ├── ONTOLOGY_UPDATED.md                # ✨ Data schema specification (Phase 1 version)
+│   ├── EMBLEM_SYSTEM_PLAN.md              # ✨ Emblem sourcing strategy (detailed)
+│   ├── VICKERS_CRITIQUE_INGESTION.md      # Phase 4: Historiographical rigor doc
+│   ├── DOCUMENTAIRTRAFFICCONTROL.md       # LLM routing guide (may be stale)
+│   └── archive/                           # Old planning docs
 ├── data/
-│   ├── emblem_manifest.json       # Canonical emblem index
-│   ├── rosicrucian_seed.json      # Core seed data
-│   └── concepts_seed.json         # Concept definitions
-├── staging/                       # Swarm agent outputs
-├── site/                          # Generated static site
-│   ├── index.html
-│   ├── concepts/
-│   ├── figures/
-│   ├── texts/
-│   ├── emblems/
-│   ├── dictionary/
-│   ├── essays/
-│   └── images/emblems/
-└── source_pdfs/                   # Symlinks or references to E:\pdf\*
-    ├── rosicrucian/
-    ├── alchemy/
-    └── emblem_studies/
+│   └── prototype_data.json                # ✨ LIVE DATABASE (206+ entities)
+├── staging/
+│   └── emblem_images/                     # Phase 2: extracted emblem images
+├── site/                                  # Generated static site
+│   ├── index.html                         # Portal homepage (regenerated by build_site.py)
+│   ├── app.js                             # Frontend logic (cards, modals, map)
+│   ├── style.css                          # Design system (burnt sienna + parchment)
+│   └── images/                            # Emblem images go here
+├── docs/                                  # GitHub Pages source (synced to site/)
+└── SESSION_5_COMPREHENSIVE_SUMMARY.md     # Context from Sessions 4-5 (reference)
 ```
 
-## Success Criteria (Phase 8 completion)
+**Key:** ✨ = Critical files for orientation and execution
 
-- [ ] Live at GitHub Pages (t3dy/rosicrucianism-alchemy-portal)
-- [ ] 40–60 concept encyclopedia pages
-- [ ] 30–40 figure biographies
-- [ ] 25–35 text summaries
-- [ ] 20–40 emblem entries with images and scholarship
-- [ ] 100+ dictionary terms
-- [ ] 12–18 thematic essays
-- [ ] 15–20 scholar profiles
-- [ ] Full-text search functional
-- [ ] <5% content DRAFT (rest REVIEWED)
-- [ ] Zero historiographical errors
-- [ ] Complete provenance tracking
-- [ ] Academic disclosure visible
+## Phase 2 Success Criteria (Target: 2026-06-21)
 
-## Key Research Questions (to Guide Phase 0 Triage)
+- [ ] 100+ emblem entries created (up from 30)
+- [ ] 50+ emblem images sourced (extracted from PDFs or public-domain)
+- [ ] 60 concepts × 2-3 emblems each = 120+ concept-emblem links
+- [ ] All figures (63) linked to emblem creation/influence
+- [ ] Scholarly apparatus enriched (direct quotes, page citations, debates)
+- [ ] Data ontology refined (emblem-book entity, authenticity field)
+- [ ] Emblem gallery UI/UX functional (cards, modals, search, filters, map)
+- [ ] Portal remains live and functional throughout (Friday deployments)
+- [ ] All writing meets STYLEGUIDE_UPDATED.md standards
+- [ ] GitHub deployment successful at https://t3dy.github.io/TheosophicalAlchemyDB/
 
-1. What are the 40–60 core concepts in Rosicrucianism and theosophical alchemy?
-2. Who are the 30–40 most influential figures (historical + scholarly)?
-3. Which 25–35 texts are canonical?
-4. How many emblem books and individual emblems should we catalog?
-5. What 8–10 emblem books are most important? (Maier, Micrelius, Mutus Liber, Khunrath, etc.)
-6. What is the genealogy of influence? (Renaissance hermetic philosophy → Rosicrucian movements → 18th-century alchemy/Swedenborgianism)
-7. What historiographical debates define the field? (Real vs. legendary orders, Swedenborg's authority, alchemy as chemistry vs. metaphor)
+**See PHASE_2_HANDOVER.md for detailed workstream breakdown, timeline, and metrics.**
 
 ---
 
-**Created:** 2026-05-24  
-**Status:** Phase 0 (Project Setup)  
-**Next:** Read PROMPTS.md, review DOCUMENTAIRTRAFFICCONTROL.md, begin Phase 0 PDF triage
+## How to Contribute / Continue
+
+1. **New to the project?**
+   - Read `QUICK_START.md` (5 minutes)
+   - Read `CONVERSATION_REQUIREMENTS_HARVEST.md` (full context)
+   - Read `STYLEGUIDE_UPDATED.md` (standards)
+
+2. **Resuming from prior session?**
+   - Read `RESUMPTION_PROMPT.md`
+   - Read `PHASE_2_HANDOVER.md` (current workstreams)
+   - Check `PHASESTATUS.md` (what's done, what's blocked)
+
+3. **Questions about approach?**
+   - See `AGENTIC_CONTEXT_ENGINEERING.md` (how we work)
+   - See `EMBLEM_SYSTEM_PLAN.md` (emblem sourcing)
+   - See `VICKERS_CRITIQUE_INGESTION.md` (historiographical methodology)
+
+---
+
+**Project Owner:** t3dy  
+**Last Updated:** 2026-05-25 (Phase 1 Complete, Phase 2 Handover)  
+**Current Phase:** Phase 2 (Emblem Expansion & Scholarly Enrichment)  
+**Next Phase:** Phase 3 (SQLite Backend, Full-Text Search)
