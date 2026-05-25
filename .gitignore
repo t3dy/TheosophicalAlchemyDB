@@ -49,6 +49,9 @@ staging/*
 !staging/.gitkeep
 .claude/settings.local.json
 
+# GitHub Pages (docs/ is generated for deployment)
+# Keep docs/ in repo for GitHub Pages hosting
+
 # Logs
 *.log
 *.txt~
