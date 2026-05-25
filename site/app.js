@@ -214,9 +214,11 @@ function buildCard(section, item) {
     const name  = item.name || item.title || '—';
     const meta  = buildCardMeta(section, item);
     const badge = buildBadge(section, item);
+    const imageHtml = item.image_url ? `<img src="${item.image_url}" alt="${name}" class="card-image">` : '';
 
     return `
         <div class="card" data-section="${section}" data-id="${id}">
+            ${imageHtml}
             ${badge}
             <div class="card-title">${name}</div>
             ${meta}

@@ -182,6 +182,15 @@ body {
     border-left-width: 6px;
 }
 
+.card-image {
+    width: 100%;
+    height: 200px;
+    object-fit: cover;
+    border-radius: 4px;
+    margin-bottom: 1rem;
+    border: 1px solid var(--tan-gold);
+}
+
 .card-title {
     font-size: 1.1rem;
     font-weight: bold;
