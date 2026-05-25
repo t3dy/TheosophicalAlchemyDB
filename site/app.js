@@ -1,347 +1,780 @@
-// Prototype Data - Embedded
-const prototypeData = {
-    figures: [],
-    concepts: [],
-    texts: []
+/* =====================================================================
+   TheosophicalAlchemyDB — app.js
+   Features: search, filter/sort, relational modal chaining, emblems, map
+   ===================================================================== */
+
+'use strict';
+
+// ─── State ────────────────────────────────────────────────────────────────────
+
+let allData = { figures: [], concepts: [], texts: [], emblems: [] };
+
+// Per-section filter state
+const filterState = {
+    figures:  { sort: 'default', nationality: '', scholar: '', century: '' },
+    concepts: { sort: 'default', category: '' },
+    texts:    { sort: 'default', language: '', century: '' },
+    emblems:  { sort: 'default', source_book: '', type: '' }
 };
 
-// Load data from JSON file
-let allData = {};
+// Modal navigation stack: [{section, id}]
+const modalStack = [];
 
-// Initialize the application
+// ─── Boot ─────────────────────────────────────────────────────────────────────
+
 document.addEventListener('DOMContentLoaded', async () => {
     try {
-        // Load prototype data from JSON
         const response = await fetch('../data/prototype_data.json');
         allData = await response.json();
+        allData.emblems = allData.emblems || [];
 
-        // Render galleries
-        renderGallery('figures');
-        renderGallery('concepts');
-        renderGallery('texts');
+        updateStats();
+        populateFilterDropdowns();
 
-        // Initialize map
+        ['figures', 'concepts', 'texts', 'emblems'].forEach(s => renderGallery(s));
+
         initializeMap();
-
-        // Setup navigation
         setupNavigation();
-
-        // Setup modal
         setupModal();
-    } catch (error) {
-        console.error('Error loading data:', error);
-        // Provide fallback message
-        document.body.innerHTML = '<div style="padding: 20px; color: red;"><h2>Error Loading Portal</h2><p>Please ensure prototype_data.json is in the ../data/ directory.</p><p>Error: ' + error.message + '</p></div>';
+        setupSearch();
+        setupFilterListeners();
+    } catch (err) {
+        console.error('Error loading data:', err);
+        document.body.innerHTML =
+            `<div style="padding:2rem;color:red"><h2>Error Loading Portal</h2><p>${err.message}</p></div>`;
     }
 });
 
-/**
- * Render gallery of cards
- */
-function renderGallery(section) {
-    const data = allData[section];
-    const galleryEl = document.getElementById(`${section}-gallery`);
+// ─── Stats ────────────────────────────────────────────────────────────────────
 
-    if (!data || data.length === 0) {
-        galleryEl.innerHTML = '<p>Loading...</p>';
-        return;
-    }
+function updateStats() {
+    document.getElementById('stat-figures').textContent  = allData.figures.length;
+    document.getElementById('stat-concepts').textContent = allData.concepts.length;
+    document.getElementById('stat-texts').textContent    = allData.texts.length;
+    document.getElementById('stat-emblems').textContent  = allData.emblems.length;
+}
 
-    galleryEl.innerHTML = data.map((item, index) => `
-        <div class="card" data-index="${index}" data-section="${section}">
-            <div class="card-title">${item.name || item.title}</div>
-            ${item.birth_year ? `<div class="card-meta">${item.birth_year}–${item.death_year} | ${item.nationality}</div>` : ''}
-            ${item.year ? `<div class="card-meta">${item.year} | ${item.language}</div>` : ''}
-            ${item.category ? `<div class="card-meta">Category: ${item.category}</div>` : ''}
-            <div class="card-summary">${item.summary}</div>
-            <a href="#" class="card-read-more">Read full essay →</a>
-        </div>
-    `).join('');
+// ─── Filter dropdown population ───────────────────────────────────────────────
 
-    // Add click handlers to cards
-    galleryEl.querySelectorAll('.card').forEach(card => {
-        card.addEventListener('click', (e) => {
-            e.preventDefault();
-            const index = parseInt(card.dataset.index);
-            const section = card.dataset.section;
-            openModal(section, index);
+function populateFilterDropdowns() {
+    // Figures: nationality
+    const nats = [...new Set(allData.figures.map(f => f.nationality).filter(Boolean))].sort();
+    fillSelect('[data-filter="nationality"][data-section="figures"]', nats);
+
+    // Figures: scholar
+    const scholars = [...new Set(allData.figures.flatMap(f => f.scholars || []).filter(Boolean))].sort();
+    fillSelect('[data-filter="scholar"][data-section="figures"]', scholars);
+
+    // Figures: century
+    const figCenturies = centuriesFrom(allData.figures.map(f => f.birth_year));
+    fillSelect('[data-filter="century"][data-section="figures"]', figCenturies, c => `${c}th century`);
+
+    // Concepts: category — humanise and dedupe
+    const cats = [...new Set(allData.concepts.map(c => c.category).filter(Boolean))].sort();
+    fillSelect('[data-filter="category"][data-section="concepts"]', cats, humaniseCategory);
+
+    // Texts: language
+    const langs = [...new Set(allData.texts.map(t => t.language).filter(Boolean))].sort();
+    fillSelect('[data-filter="language"][data-section="texts"]', langs);
+
+    // Texts: century
+    const txtCenturies = centuriesFrom(allData.texts.map(t => Number(t.year)));
+    fillSelect('[data-filter="century"][data-section="texts"]', txtCenturies, c => `${c}th century`);
+}
+
+function fillSelect(selector, values, labelFn = v => v) {
+    const sel = document.querySelector(selector);
+    if (!sel) return;
+    values.forEach(v => {
+        const opt = document.createElement('option');
+        opt.value = v;
+        opt.textContent = labelFn(v);
+        sel.appendChild(opt);
+    });
+}
+
+function centuriesFrom(years) {
+    const cs = [...new Set(years
+        .filter(y => y && y > 0)
+        .map(y => Math.ceil(y / 100))
+    )].sort((a, b) => a - b);
+    return cs;
+}
+
+function humaniseCategory(raw) {
+    return raw.replace(/_/g, ' ').replace(/\b\w/g, c => c.toUpperCase());
+}
+
+// ─── Filter listeners ─────────────────────────────────────────────────────────
+
+function setupFilterListeners() {
+    document.querySelectorAll('.filter-select').forEach(sel => {
+        sel.addEventListener('change', () => {
+            const section = sel.dataset.section;
+            const filter  = sel.dataset.filter;
+            filterState[section][filter] = sel.value;
+            renderGallery(section);
+        });
+    });
+
+    document.querySelectorAll('.filter-reset').forEach(btn => {
+        btn.addEventListener('click', () => {
+            const section = btn.dataset.section;
+            // Reset state
+            Object.keys(filterState[section]).forEach(k => filterState[section][k] = k === 'sort' ? 'default' : '');
+            // Reset selects
+            document.querySelectorAll(`.filter-select[data-section="${section}"]`).forEach(s => s.value = s.options[0].value);
+            renderGallery(section);
         });
     });
 }
 
-/**
- * Open modal with full essay
- */
-function openModal(section, index) {
-    const item = allData[section][index];
-    const modalBody = document.getElementById('modal-body');
+// ─── Data filtering & sorting ─────────────────────────────────────────────────
 
-    let content = `
-        <h2>${item.name || item.title}</h2>
-    `;
+function applyFiltersAndSort(section) {
+    let items = [...allData[section]];
+    const state = filterState[section];
 
-    if (item.birth_year) {
-        content += `
-            <h3>Life</h3>
-            <p>${item.birth_year}–${item.death_year} | ${item.nationality}</p>
-            ${item.location ? `<p><strong>Location:</strong> ${item.location}</p>` : ''}
-        `;
+    // ── Filters ──
+    if (section === 'figures') {
+        if (state.nationality)
+            items = items.filter(f => f.nationality === state.nationality);
+        if (state.scholar)
+            items = items.filter(f => (f.scholars || []).includes(state.scholar));
+        if (state.century)
+            items = items.filter(f => f.birth_year && Math.ceil(f.birth_year / 100) === Number(state.century));
+    }
+    if (section === 'concepts') {
+        if (state.category)
+            items = items.filter(c => c.category === state.category);
+    }
+    if (section === 'texts') {
+        if (state.language)
+            items = items.filter(t => t.language === state.language);
+        if (state.century)
+            items = items.filter(t => t.year && Math.ceil(Number(t.year) / 100) === Number(state.century));
+    }
+    if (section === 'emblems') {
+        if (state.source_book)
+            items = items.filter(e => e.source_book === state.source_book);
+        if (state.type)
+            items = items.filter(e => e.type === state.type);
     }
 
-    if (item.year) {
-        content += `
-            <h3>Publication</h3>
-            <p>${item.year} | ${item.language}</p>
-            ${item.location ? `<p><strong>Location:</strong> ${item.location}</p>` : ''}
-        `;
+    // ── Sort ──
+    switch (state.sort) {
+        case 'alpha':
+            items.sort((a, b) => (a.name || a.title || '').localeCompare(b.name || b.title || ''));
+            break;
+        case 'alpha-rev':
+            items.sort((a, b) => (b.name || b.title || '').localeCompare(a.name || a.title || ''));
+            break;
+        case 'chrono':
+            items.sort((a, b) => (a.birth_year || a.year || 9999) - (b.birth_year || b.year || 9999));
+            break;
+        case 'chrono-rev':
+            items.sort((a, b) => (b.birth_year || b.year || 0) - (a.birth_year || a.year || 0));
+            break;
     }
 
-    if (item.category) {
-        content += `
-            <h3>Category</h3>
-            <p>${item.category}</p>
-        `;
+    return items;
+}
+
+// ─── Gallery rendering ────────────────────────────────────────────────────────
+
+function renderGallery(section) {
+    const items   = applyFiltersAndSort(section);
+    const gallery = document.getElementById(`${section}-gallery`);
+    const counter = document.getElementById(`${section}-count`);
+    const total   = allData[section].length;
+
+    if (counter) {
+        counter.textContent = items.length < total
+            ? `Showing ${items.length} of ${total}`
+            : `${total} entries`;
     }
 
-    content += `
-        <h3>Essay</h3>
-        <p>${item.essay}</p>
-    `;
-
-    if (item.primary_discipline) {
-        content += `
-            <h3>Discipline</h3>
-            <p>${item.primary_discipline}</p>
-        `;
+    if (!items.length) {
+        gallery.innerHTML = '<p class="no-results">No entries match the current filters.</p>';
+        return;
     }
 
-    if (item.concepts) {
-        const conceptNames = item.concepts.map(cid => {
-            const concept = allData.concepts.find(c => c.id === cid);
-            return concept ? concept.name : '';
-        }).filter(n => n).join(', ');
-        if (conceptNames) {
-            content += `
-                <h3>Related Concepts</h3>
-                <p>${conceptNames}</p>
-            `;
-        }
-    }
+    gallery.innerHTML = items.map(item => buildCard(section, item)).join('');
 
-    if (item.key_works) {
-        content += `
-            <h3>Key Works</h3>
-            <ul>
-                ${item.key_works.map(work => `<li>${work}</li>`).join('')}
-            </ul>
-        `;
-    }
+    gallery.querySelectorAll('.card').forEach(card => {
+        card.addEventListener('click', e => {
+            if (e.target.closest('a, button')) return;
+            openModal(card.dataset.section, card.dataset.id, true);
+        });
+    });
+}
 
-    if (item.scholars) {
-        content += `
-            <h3>Primary Scholars</h3>
-            <p>${item.scholars.join(', ')}</p>
-        `;
-    }
+function buildCard(section, item) {
+    const id    = item.id;
+    const name  = item.name || item.title || '—';
+    const meta  = buildCardMeta(section, item);
+    const badge = buildBadge(section, item);
 
-    modalBody.innerHTML = content;
+    return `
+        <div class="card" data-section="${section}" data-id="${id}">
+            ${badge}
+            <div class="card-title">${name}</div>
+            ${meta}
+            <div class="card-summary">${item.summary || ''}</div>
+            <span class="card-read-more">Read full essay →</span>
+        </div>`;
+}
+
+function buildCardMeta(section, item) {
+    if (section === 'figures') {
+        const years = item.birth_year
+            ? `${item.birth_year}–${item.death_year || '?'}`
+            : '';
+        return `<div class="card-meta">${[years, item.nationality, item.location].filter(Boolean).join(' · ')}</div>`;
+    }
+    if (section === 'texts') {
+        return `<div class="card-meta">${[item.year, item.language, item.location].filter(Boolean).join(' · ')}</div>`;
+    }
+    if (section === 'concepts') {
+        return item.category
+            ? `<div class="card-meta">${humaniseCategory(item.category)}</div>`
+            : '';
+    }
+    if (section === 'emblems') {
+        return `<div class="card-meta">${[item.source_book, item.year].filter(Boolean).join(' · ')}</div>`;
+    }
+    return '';
+}
+
+function buildBadge(section, item) {
+    const labels = { figures: 'Figure', concepts: 'Concept', texts: 'Text', emblems: 'Emblem' };
+    return `<span class="card-badge badge-${section}">${labels[section]}</span>`;
+}
+
+// ─── Modal system ─────────────────────────────────────────────────────────────
+
+function setupModal() {
+    document.getElementById('modal-close').addEventListener('click', closeModal);
+    document.getElementById('modal-back').addEventListener('click', modalBack);
+    document.getElementById('modal').addEventListener('click', e => {
+        if (e.target === document.getElementById('modal')) closeModal();
+    });
+    document.addEventListener('keydown', e => {
+        if (e.key === 'Escape') closeModal();
+    });
+}
+
+function openModal(section, id, clearStack = false) {
+    if (clearStack) modalStack.length = 0;
+
+    const item = allData[section].find(x => String(x.id) === String(id));
+    if (!item) return;
+
+    modalStack.push({ section, id });
+    renderModal(section, item);
     document.getElementById('modal').classList.add('open');
 }
 
-/**
- * Setup modal close functionality
- */
-function setupModal() {
-    const modal = document.getElementById('modal');
-    const closeBtn = document.querySelector('.modal-close');
+function renderModal(section, item) {
+    const body      = document.getElementById('modal-body');
+    const backBtn   = document.getElementById('modal-back');
+    const crumb     = document.getElementById('modal-breadcrumb');
 
-    closeBtn.addEventListener('click', () => {
-        modal.classList.remove('open');
-    });
+    backBtn.hidden  = modalStack.length <= 1;
+    crumb.textContent = modalStack.length > 1
+        ? modalStack.slice(0, -1).map(s => {
+            const prev = allData[s.section].find(x => String(x.id) === String(s.id));
+            return prev ? (prev.name || prev.title) : '';
+          }).join(' › ')
+        : '';
 
-    modal.addEventListener('click', (e) => {
-        if (e.target === modal) {
-            modal.classList.remove('open');
-        }
+    body.innerHTML = buildModalContent(section, item);
+
+    // Wire relational links inside the modal
+    body.querySelectorAll('[data-link-section][data-link-id]').forEach(link => {
+        link.addEventListener('click', e => {
+            e.preventDefault();
+            openModal(link.dataset.linkSection, link.dataset.linkId, false);
+        });
     });
 }
 
-/**
- * Setup navigation between sections
- */
+function closeModal() {
+    document.getElementById('modal').classList.remove('open');
+    modalStack.length = 0;
+}
+
+function modalBack() {
+    if (modalStack.length <= 1) return;
+    modalStack.pop();
+    const prev = modalStack[modalStack.length - 1];
+    const item = allData[prev.section].find(x => String(x.id) === String(prev.id));
+    if (item) renderModal(prev.section, item);
+}
+
+// ─── Modal content builders ───────────────────────────────────────────────────
+
+function buildModalContent(section, item) {
+    switch (section) {
+        case 'figures':  return buildFigureModal(item);
+        case 'concepts': return buildConceptModal(item);
+        case 'texts':    return buildTextModal(item);
+        case 'emblems':  return buildEmblemModal(item);
+        default: return '';
+    }
+}
+
+function relLink(section, id, label) {
+    return `<a href="#" class="rel-link" data-link-section="${section}" data-link-id="${id}">${label}</a>`;
+}
+
+function buildFigureModal(f) {
+    let h = `<h2>${f.name}</h2>`;
+
+    if (f.birth_year) {
+        const lifespan = `${f.birth_year}–${f.death_year || '?'}`;
+        h += `<div class="modal-meta-row">
+            <span class="meta-pill">${lifespan}</span>
+            <span class="meta-pill">${f.nationality || ''}</span>
+            <span class="meta-pill">${f.primary_discipline || ''}</span>
+            ${f.location ? `<span class="meta-pill">📍 ${f.location}</span>` : ''}
+        </div>`;
+    }
+
+    if (f.essay) h += `<div class="modal-essay">${paragraphify(f.essay)}</div>`;
+
+    if (f.embodied_practice) {
+        h += `<h3>Practice &amp; Method</h3><p>${f.embodied_practice}</p>`;
+    }
+
+    if (f.scholarly_debates) {
+        h += `<h3>Historiographical Debate: ${f.scholarly_debates.topic}</h3><ul>`;
+        f.scholarly_debates.positions.forEach(p => { h += `<li>${p}</li>`; });
+        h += '</ul>';
+    }
+
+    if (f.key_works?.length) {
+        h += `<h3>Key Works</h3><ul>${f.key_works.map(w => `<li><em>${w}</em></li>`).join('')}</ul>`;
+    }
+
+    // Related concepts — clickable
+    if (f.concepts?.length) {
+        const links = f.concepts.map(cid => {
+            const c = allData.concepts.find(x => x.id === cid);
+            return c ? relLink('concepts', cid, c.name) : null;
+        }).filter(Boolean);
+        if (links.length) h += `<h3>Related Concepts</h3><div class="rel-links">${links.join('')}</div>`;
+    }
+
+    if (f.scholars?.length) {
+        h += `<h3>Primary Scholars</h3><p class="scholars-list">${f.scholars.join(', ')}</p>`;
+    }
+
+    if (f.gender_awareness) {
+        h += `<h3>Gender &amp; Access</h3><p class="gender-note">${f.gender_awareness}</p>`;
+    }
+
+    if (f.scholarship?.length) {
+        h += buildScholarshipSection(f.scholarship);
+    }
+
+    return h;
+}
+
+function buildConceptModal(c) {
+    let h = `<h2>${c.name}</h2>`;
+    if (c.category) h += `<div class="modal-meta-row"><span class="meta-pill">${humaniseCategory(c.category)}</span></div>`;
+
+    if (c.essay) h += `<div class="modal-essay">${paragraphify(c.essay)}</div>`;
+
+    if (c.operational_meaning || c.philosophical_meaning || c.spiritual_meaning) {
+        h += `<h3>Dimensions of Meaning</h3>`;
+        if (c.operational_meaning)   h += `<p><strong>Operational:</strong> ${c.operational_meaning}</p>`;
+        if (c.philosophical_meaning) h += `<p><strong>Philosophical:</strong> ${c.philosophical_meaning}</p>`;
+        if (c.spiritual_meaning)     h += `<p><strong>Spiritual:</strong> ${c.spiritual_meaning}</p>`;
+    }
+
+    if (c.transmission_genealogy) {
+        h += `<h3>Transmission</h3><p>${c.transmission_genealogy}</p>`;
+    }
+
+    // Related concepts — clickable
+    if (c.related_concepts?.length) {
+        const links = c.related_concepts.map(rcid => {
+            const rc = allData.concepts.find(x => x.id === rcid);
+            return rc ? relLink('concepts', rcid, rc.name) : null;
+        }).filter(Boolean);
+        if (links.length) h += `<h3>Related Concepts</h3><div class="rel-links">${links.join('')}</div>`;
+    }
+
+    // Emblems that illustrate this concept — clickable
+    if (c.emblems?.length) {
+        const links = c.emblems.slice(0, 12).map(eid => {
+            const e = allData.emblems.find(x => x.id === eid);
+            return e ? relLink('emblems', eid, e.title) : null;
+        }).filter(Boolean);
+        if (links.length) {
+            const more = c.emblems.length > 12 ? ` <span class="rel-more">+${c.emblems.length - 12} more</span>` : '';
+            h += `<h3>Illustrated By</h3><div class="rel-links">${links.join('')}${more}</div>`;
+        }
+    }
+
+    return h;
+}
+
+function buildTextModal(t) {
+    let h = `<h2>${t.title}</h2>`;
+    h += `<div class="modal-meta-row">
+        ${t.year ? `<span class="meta-pill">${t.year}</span>` : ''}
+        ${t.language ? `<span class="meta-pill">${t.language}</span>` : ''}
+        ${t.location ? `<span class="meta-pill">📍 ${t.location}</span>` : ''}
+    </div>`;
+
+    if (t.essay) h += `<div class="modal-essay">${paragraphify(t.essay)}</div>`;
+
+    if (t.historical_context) {
+        h += `<h3>Historical Context</h3><p>${t.historical_context}</p>`;
+    }
+
+    if (t.transmission_history) {
+        h += `<h3>Transmission</h3><p>${t.transmission_history}</p>`;
+    }
+
+    // Related concepts — clickable
+    if (t.concepts?.length) {
+        const links = t.concepts.map(cid => {
+            const c = allData.concepts.find(x => x.id === cid);
+            return c ? relLink('concepts', cid, c.name) : null;
+        }).filter(Boolean);
+        if (links.length) h += `<h3>Related Concepts</h3><div class="rel-links">${links.join('')}</div>`;
+    }
+
+    if (t.scholarship?.length) h += buildScholarshipSection(t.scholarship);
+
+    return h;
+}
+
+function buildEmblemModal(e) {
+    let h = `<h2>${e.title}</h2>`;
+    h += `<div class="modal-meta-row">
+        <span class="meta-pill">${e.source_book}</span>
+        ${e.year ? `<span class="meta-pill">${e.year}</span>` : ''}
+        ${e.type ? `<span class="meta-pill">${capitalise(e.type)}</span>` : ''}
+        ${e.location ? `<span class="meta-pill">📍 ${e.location}</span>` : ''}
+    </div>`;
+
+    if (e.summary) h += `<blockquote class="visual-desc">${e.summary}</blockquote>`;
+
+    if (e.essay && e.essay !== `[Essay on ${e.title}]` && !e.essay.startsWith('[')) {
+        h += `<div class="modal-essay">${paragraphify(e.essay)}</div>`;
+    }
+
+    if (e.visual_elements?.length) {
+        h += `<h3>Visual Elements</h3><div class="tag-list">${e.visual_elements.map(v => `<span class="tag">${v}</span>`).join('')}</div>`;
+    }
+
+    // Concepts illustrated — clickable
+    if (e.concepts?.length) {
+        const links = e.concepts.map(cid => {
+            const c = allData.concepts.find(x => x.id === cid);
+            return c ? relLink('concepts', cid, c.name) : null;
+        }).filter(Boolean);
+        if (links.length) h += `<h3>Concepts Illustrated</h3><div class="rel-links">${links.join('')}</div>`;
+    }
+
+    // Figures associated — clickable
+    if (e.figures?.length) {
+        const links = e.figures.map(fid => {
+            const f = allData.figures.find(x => x.id === fid);
+            return f ? relLink('figures', fid, f.name) : null;
+        }).filter(Boolean);
+        if (links.length) h += `<h3>Creator / Associated Figures</h3><div class="rel-links">${links.join('')}</div>`;
+    }
+
+    if (e.authenticity) {
+        h += `<p class="authenticity-note">Authenticity: <strong>${capitalise(e.authenticity)}</strong></p>`;
+    }
+
+    if (e.scholarship?.length) h += buildScholarshipSection(e.scholarship);
+
+    return h;
+}
+
+function buildScholarshipSection(scholarship) {
+    if (!scholarship?.length) return '';
+    let h = '<h3>Scholarly Apparatus</h3><div class="scholarship-list">';
+    scholarship.forEach(s => {
+        if (!s.scholar) return;
+        h += `<div class="scholarship-entry">
+            <span class="scholar-name">${s.scholar}</span>
+            <span class="scholar-ref">${s.reference || ''}</span>
+            ${s.quote ? `<blockquote class="scholar-quote">"${s.quote}"</blockquote>` : ''}
+        </div>`;
+    });
+    h += '</div>';
+    return h;
+}
+
+function paragraphify(text) {
+    if (!text) return '';
+    return text.split(/\n\n+/).map(p => `<p>${p.trim()}</p>`).join('');
+}
+
+function capitalise(s) {
+    return s ? s[0].toUpperCase() + s.slice(1) : '';
+}
+
+// ─── Global search ────────────────────────────────────────────────────────────
+
+function setupSearch() {
+    const input   = document.getElementById('global-search');
+    const panel   = document.getElementById('search-results-panel');
+    const clearBtn = document.getElementById('search-clear');
+
+    let debounceTimer;
+
+    input.addEventListener('input', () => {
+        clearTimeout(debounceTimer);
+        debounceTimer = setTimeout(() => runSearch(input.value.trim()), 200);
+    });
+
+    clearBtn.addEventListener('click', () => {
+        input.value = '';
+        panel.hidden = true;
+        panel.innerHTML = '';
+    });
+
+    // Close panel on outside click
+    document.addEventListener('click', e => {
+        if (!e.target.closest('.search-bar-container')) {
+            panel.hidden = true;
+        }
+    });
+
+    // Re-open on focus if there's a query
+    input.addEventListener('focus', () => {
+        if (input.value.trim().length >= 2) runSearch(input.value.trim());
+    });
+}
+
+function getSearchTypes() {
+    return [...document.querySelectorAll('input[name="search-type"]:checked')].map(c => c.value);
+}
+
+function runSearch(query) {
+    const panel = document.getElementById('search-results-panel');
+    if (query.length < 2) { panel.hidden = true; return; }
+
+    const types   = getSearchTypes();
+    const qLower  = query.toLowerCase();
+    const results = [];
+
+    types.forEach(section => {
+        (allData[section] || []).forEach(item => {
+            const name    = (item.name || item.title || '').toLowerCase();
+            const summary = (item.summary || '').toLowerCase();
+            const essay   = (item.essay || '').toLowerCase();
+
+            let score = 0;
+            if (name.includes(qLower))    score += 10;
+            if (summary.includes(qLower)) score += 5;
+            if (essay.includes(qLower))   score += 1;
+
+            if (score > 0) results.push({ section, item, score });
+        });
+    });
+
+    results.sort((a, b) => b.score - a.score);
+    renderSearchResults(results, query, panel);
+}
+
+function renderSearchResults(results, query, panel) {
+    if (!results.length) {
+        panel.innerHTML = '<p class="search-no-results">No results found.</p>';
+        panel.hidden = false;
+        return;
+    }
+
+    const shown = results.slice(0, 30);
+    panel.innerHTML = `
+        <div class="search-result-header">${results.length} result${results.length !== 1 ? 's' : ''} for "<em>${escHtml(query)}</em>"</div>
+        ${shown.map(r => {
+            const name = r.item.name || r.item.title || '—';
+            const labels = { figures: 'Figure', concepts: 'Concept', texts: 'Text', emblems: 'Emblem' };
+            const snippet = highlight(truncate(r.item.summary || '', 120), query);
+            return `<div class="search-result-item" data-section="${r.section}" data-id="${r.item.id}">
+                <span class="card-badge badge-${r.section}">${labels[r.section]}</span>
+                <span class="search-result-name">${highlight(name, query)}</span>
+                <span class="search-result-snippet">${snippet}</span>
+            </div>`;
+        }).join('')}
+        ${results.length > 30 ? `<div class="search-result-footer">Showing top 30 of ${results.length}</div>` : ''}
+    `;
+    panel.hidden = false;
+
+    panel.querySelectorAll('.search-result-item').forEach(el => {
+        el.addEventListener('click', () => {
+            openModal(el.dataset.section, el.dataset.id, true);
+            panel.hidden = true;
+            document.getElementById('global-search').value = '';
+        });
+    });
+}
+
+function highlight(text, query) {
+    if (!query) return escHtml(text);
+    const safe   = escHtml(text);
+    const safeQ  = escHtml(query);
+    const re     = new RegExp(`(${escRe(safeQ)})`, 'gi');
+    return safe.replace(re, '<mark>$1</mark>');
+}
+
+function truncate(str, max) {
+    return str.length <= max ? str : str.slice(0, max) + '…';
+}
+
+function escHtml(s) {
+    return String(s)
+        .replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;')
+        .replace(/"/g,'&quot;');
+}
+
+function escRe(s) {
+    return s.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+}
+
+// ─── Navigation ───────────────────────────────────────────────────────────────
+
 function setupNavigation() {
-    const navBtns = document.querySelectorAll('.nav-btn');
+    const navBtns  = document.querySelectorAll('.nav-btn');
     const sections = document.querySelectorAll('.section');
 
     navBtns.forEach(btn => {
         btn.addEventListener('click', () => {
-            const sectionId = btn.dataset.section;
-
-            // Update active button
             navBtns.forEach(b => b.classList.remove('active'));
             btn.classList.add('active');
-
-            // Update active section
             sections.forEach(s => s.classList.remove('active'));
-            document.getElementById(sectionId).classList.add('active');
+            document.getElementById(btn.dataset.section).classList.add('active');
 
-            // Reinitialize map if needed
-            if (sectionId === 'map') {
+            if (btn.dataset.section === 'map') {
                 setTimeout(() => {
-                    if (window.map) {
-                        window.map.invalidateSize();
+                    if (window._leafletMap) {
+                        window._leafletMap.invalidateSize();
+                        window._leafletMap.setView([50, 12], 4);
                     }
-                }, 100);
+                }, 150);
             }
         });
     });
 }
 
-/**
- * Initialize Leaflet map with figures and texts
- */
+// ─── Map ──────────────────────────────────────────────────────────────────────
+
 function initializeMap() {
-    // Create map centered on Europe
-    const map = L.map('map-container').setView([54.5260, 15.2551], 4);
+    const map = L.map('map-container').setView([50, 12], 4);
+    window._leafletMap = map;
 
-    window.map = map;
-
-    // Add tile layer
     L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
         attribution: '&copy; OpenStreetMap contributors',
         maxZoom: 19
     }).addTo(map);
 
-    // Create feature groups for different types
-    const figureGroup = L.featureGroup();
-    const textGroup = L.featureGroup();
-    const conceptGroup = L.featureGroup();
+    const figureGroup  = L.featureGroup();
+    const textGroup    = L.featureGroup();
+    const emblemGroup  = L.featureGroup();
+    const centerGroup  = L.featureGroup();
 
-    // Add figures to map
+    // ── Figures ──────────────────────────────────────────────────
     allData.figures.forEach(figure => {
-        if (figure.lat && figure.lng) {
-            const marker = L.circleMarker([figure.lat, figure.lng], {
-                radius: 7,
-                fillColor: '#e74c3c',
-                color: '#c0392b',
-                weight: 2,
-                opacity: 1,
-                fillOpacity: 0.8
-            });
-
-            const popupContent = `
-                <h3>${figure.name}</h3>
-                <p class="popup-summary">${figure.summary}</p>
-                <p><strong>${figure.birth_year}–${figure.death_year}</strong> | ${figure.nationality}</p>
-                <p style="margin-top: 8px; font-size: 0.85em; color: #666;">Click card above to read full essay</p>
-            `;
-
-            marker.bindPopup(popupContent);
-            marker.on('click', () => {
-                // Find and open the corresponding card
-                const idx = allData.figures.findIndex(f => f.id === figure.id);
-                if (idx >= 0) {
-                    openModal('figures', idx);
-                }
-            });
-
-            figureGroup.addLayer(marker);
-        }
-    });
-
-    // Add texts to map
-    allData.texts.forEach(text => {
-        if (text.lat && text.lng) {
-            const marker = L.circleMarker([text.lat, text.lng], {
-                radius: 6,
-                fillColor: '#3498db',
-                color: '#2980b9',
-                weight: 2,
-                opacity: 1,
-                fillOpacity: 0.8
-            });
-
-            const popupContent = `
-                <h3>${text.title}</h3>
-                <p class="popup-summary">${text.summary}</p>
-                <p><strong>${text.year}</strong> | ${text.language}</p>
-                <p><strong>Location:</strong> ${text.location}</p>
-                <p style="margin-top: 8px; font-size: 0.85em; color: #666;">Click card above to read full essay</p>
-            `;
-
-            marker.bindPopup(popupContent);
-            marker.on('click', () => {
-                const idx = allData.texts.findIndex(t => t.id === text.id);
-                if (idx >= 0) {
-                    openModal('texts', idx);
-                }
-            });
-
-            textGroup.addLayer(marker);
-        }
-    });
-
-    // Add conceptual centers (major cities/centers of learning)
-    const conceptCenters = [
-        { name: 'Prague', lat: 50.0755, lng: 14.4378, role: 'Center of alchemical learning under Rudolf II' },
-        { name: 'Florence', lat: 43.7696, lng: 11.2558, role: 'Renaissance Neoplatonism and hermetic philosophy' },
-        { name: 'Tübingen', lat: 48.5216, lng: 9.0577, role: 'Rosicrucian theological reform' },
-        { name: 'London', lat: 51.5074, lng: -0.1278, role: 'English Rosicrucian and Masonic synthesis' },
-        { name: 'Amsterdam', lat: 52.3676, lng: 4.9041, role: 'Martinist and Theosophical center' },
-        { name: 'Paris', lat: 48.8566, lng: 2.3522, role: 'French illuminism and alchemy' }
-    ];
-
-    conceptCenters.forEach(center => {
-        const marker = L.circleMarker([center.lat, center.lng], {
-            radius: 8,
-            fillColor: '#f39c12',
-            color: '#d68910',
-            weight: 2,
-            opacity: 1,
-            fillOpacity: 0.8
+        if (!figure.lat || !figure.lng) return;
+        const marker = L.circleMarker([figure.lat, figure.lng], {
+            radius: 7, fillColor: '#e74c3c', color: '#c0392b',
+            weight: 2, opacity: 1, fillOpacity: 0.8
         });
-
-        const popupContent = `
-            <h3>${center.name}</h3>
-            <p class="popup-summary"><strong>Role:</strong> ${center.role}</p>
-        `;
-
-        marker.bindPopup(popupContent);
-        conceptGroup.addLayer(marker);
+        marker.bindPopup(buildMapPopup(figure.name,
+            `${figure.birth_year || '?'}–${figure.death_year || '?'} · ${figure.nationality || ''}`,
+            figure.summary));
+        marker.on('click', () => openModal('figures', figure.id, true));
+        figureGroup.addLayer(marker);
     });
 
-    // Add all groups to map
-    figureGroup.addTo(map);
-    textGroup.addTo(map);
-    conceptGroup.addTo(map);
+    // ── Texts ────────────────────────────────────────────────────
+    allData.texts.forEach(text => {
+        if (!text.lat || !text.lng) return;
+        const marker = L.circleMarker([text.lat, text.lng], {
+            radius: 6, fillColor: '#3498db', color: '#2980b9',
+            weight: 2, opacity: 1, fillOpacity: 0.8
+        });
+        marker.bindPopup(buildMapPopup(text.title,
+            `${text.year || ''} · ${text.language || ''} · ${text.location || ''}`,
+            text.summary));
+        marker.on('click', () => openModal('texts', text.id, true));
+        textGroup.addLayer(marker);
+    });
 
-    // Fit bounds to show all markers
-    const allMarkers = L.featureGroup([figureGroup, textGroup, conceptGroup]);
-    if (allMarkers.getLayers().length > 0) {
-        map.fitBounds(allMarkers.getBounds(), { padding: [50, 50], maxZoom: 5 });
-    }
+    // ── Emblems (grouped by publication city) ────────────────────
+    const emblemCities = {
+        'Frankfurt am Main': { lat: 50.1109, lng: 8.6821, books: [] },
+        'Oppenheim':         { lat: 49.8612, lng: 8.3699, books: [] },
+        'Prague':            { lat: 50.0755, lng: 14.4378, books: [] }
+    };
+
+    allData.emblems.forEach(emb => {
+        const city = emblemCities[emb.location];
+        if (city && !city.books.includes(emb.source_book)) city.books.push(emb.source_book);
+    });
+
+    Object.entries(emblemCities).forEach(([city, data]) => {
+        if (!data.books.length) return;
+        const count = allData.emblems.filter(e => e.location === city).length;
+        const marker = L.circleMarker([data.lat, data.lng], {
+            radius: 9, fillColor: '#8e44ad', color: '#6c3483',
+            weight: 2, opacity: 1, fillOpacity: 0.85
+        });
+        marker.bindPopup(`<strong>${city}</strong><br><em>Emblem Books:</em><br>${data.books.join('<br>')}<br>${count} emblems`);
+        emblemGroup.addLayer(marker);
+    });
+
+    // ── Learning centers ─────────────────────────────────────────
+    [
+        { name: 'Prague',     lat: 50.0755, lng: 14.4378, role: 'Alchemical center under Rudolf II' },
+        { name: 'Florence',   lat: 43.7696, lng: 11.2558, role: 'Renaissance Neoplatonism & hermetic philosophy' },
+        { name: 'Tübingen',   lat: 48.5216, lng: 9.0577,  role: 'Rosicrucian theological reform' },
+        { name: 'London',     lat: 51.5074, lng: -0.1278, role: 'English Rosicrucian & Masonic synthesis' },
+        { name: 'Amsterdam',  lat: 52.3676, lng: 4.9041,  role: 'Martinist and Theosophical center' },
+        { name: 'Paris',      lat: 48.8566, lng: 2.3522,  role: 'French illuminism and alchemy' }
+    ].forEach(c => {
+        const marker = L.circleMarker([c.lat, c.lng], {
+            radius: 8, fillColor: '#f39c12', color: '#d68910',
+            weight: 2, opacity: 1, fillOpacity: 0.8
+        });
+        marker.bindPopup(`<strong>${c.name}</strong><br><em>${c.role}</em>`);
+        centerGroup.addLayer(marker);
+    });
+
+    // Add all layers
+    [figureGroup, textGroup, emblemGroup, centerGroup].forEach(g => g.addTo(map));
+
+    const all = L.featureGroup([figureGroup, textGroup, emblemGroup, centerGroup]);
+    if (all.getLayers().length) map.fitBounds(all.getBounds(), { padding: [50, 50], maxZoom: 6 });
+
+    // Layer toggle checkboxes
+    [
+        ['layer-figures',  figureGroup],
+        ['layer-texts',    textGroup],
+        ['layer-emblems',  emblemGroup],
+        ['layer-centers',  centerGroup],
+    ].forEach(([id, group]) => {
+        const cb = document.getElementById(id);
+        if (!cb) return;
+        cb.addEventListener('change', () => {
+            cb.checked ? group.addTo(map) : map.removeLayer(group);
+        });
+    });
 }
 
-/**
- * Search functionality (for future enhancement)
- */
-function searchEntries(query) {
-    query = query.toLowerCase();
-    const results = [];
-
-    ['figures', 'concepts', 'texts'].forEach(section => {
-        allData[section].forEach(item => {
-            const name = (item.name || item.title || '').toLowerCase();
-            const summary = (item.summary || '').toLowerCase();
-            if (name.includes(query) || summary.includes(query)) {
-                results.push({
-                    section,
-                    item,
-                    type: section.slice(0, -1)
-                });
-            }
-        });
-    });
-
-    return results;
+function buildMapPopup(title, meta, summary) {
+    return `<strong>${escHtml(title)}</strong><br>
+            <em style="font-size:0.85em">${escHtml(meta)}</em><br>
+            <span style="font-size:0.85em;color:#555">${escHtml(truncate(summary || '', 120))}</span>`;
 }

@@ -8,6 +8,12 @@
     --deep-brown: #5c3d2e;
     --light-parchment: #faf6f0;
     --accent-dark: #6d3410;
+
+    /* Entity-type badge colours */
+    --badge-figures:  #c0392b;
+    --badge-concepts: #27ae60;
+    --badge-texts:    #2980b9;
+    --badge-emblems:  #8e44ad;
 }
 
 * {
@@ -238,21 +244,7 @@ body {
     position: relative;
 }
 
-.modal-close {
-    position: absolute;
-    top: 1rem;
-    right: 1rem;
-    background: var(--burnt-sienna);
-    color: var(--parchment);
-    border: none;
-    font-size: 2rem;
-    cursor: pointer;
-    width: 40px;
-    height: 40px;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-}
+/* .modal-close is now defined in the Modal nav bar section below */
 
 #modal-body h2 {
     color: var(--burnt-sienna);
@@ -342,7 +334,485 @@ body {
     border-top: 2px solid var(--burnt-sienna);
 }
 
-/* Responsive */
+/* ─── Search bar ──────────────────────────────────────────────────────────── */
+
+.search-bar-container {
+    max-width: 1200px;
+    margin: 1.5rem auto 0;
+    position: relative;
+}
+
+.search-bar {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 0.5rem;
+    background: rgba(255, 255, 255, 0.12);
+    border: 1px solid var(--tan-gold);
+    padding: 0.5rem 0.75rem;
+}
+
+.search-bar input[type="text"] {
+    flex: 1;
+    min-width: 200px;
+    background: transparent;
+    border: none;
+    outline: none;
+    color: var(--parchment);
+    font-family: 'Georgia', serif;
+    font-size: 1rem;
+}
+
+.search-bar input[type="text"]::placeholder {
+    color: rgba(245, 240, 232, 0.55);
+}
+
+.search-clear {
+    background: none;
+    border: none;
+    color: var(--tan-gold);
+    font-size: 1rem;
+    cursor: pointer;
+    padding: 0 0.25rem;
+    line-height: 1;
+    opacity: 0.8;
+    transition: opacity 0.2s;
+}
+
+.search-clear:hover {
+    opacity: 1;
+}
+
+.search-type-filters {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+    font-size: 0.8rem;
+    color: var(--tan-gold);
+}
+
+.search-type-filters label {
+    display: flex;
+    align-items: center;
+    gap: 0.25rem;
+    cursor: pointer;
+    white-space: nowrap;
+}
+
+.search-type-filters input[type="checkbox"] {
+    accent-color: var(--tan-gold);
+}
+
+/* Search results panel */
+.search-results-panel {
+    position: absolute;
+    top: 100%;
+    left: 0;
+    right: 0;
+    background: var(--light-parchment);
+    border: 1px solid var(--tan-gold);
+    border-top: none;
+    z-index: 500;
+    max-height: 420px;
+    overflow-y: auto;
+    box-shadow: 0 8px 24px rgba(44, 36, 24, 0.25);
+}
+
+.search-result-header,
+.search-result-footer {
+    padding: 0.5rem 1rem;
+    font-size: 0.8rem;
+    color: var(--deep-brown);
+    background: rgba(212, 165, 116, 0.15);
+    border-bottom: 1px solid var(--tan-gold);
+}
+
+.search-result-footer {
+    border-top: 1px solid var(--tan-gold);
+    border-bottom: none;
+    text-align: center;
+}
+
+.search-result-item {
+    display: flex;
+    align-items: baseline;
+    flex-wrap: wrap;
+    gap: 0.4rem;
+    padding: 0.6rem 1rem;
+    border-bottom: 1px solid rgba(212, 165, 116, 0.3);
+    cursor: pointer;
+    transition: background 0.15s;
+}
+
+.search-result-item:hover {
+    background: rgba(139, 69, 19, 0.08);
+}
+
+.search-result-name {
+    font-weight: bold;
+    color: var(--burnt-sienna);
+    font-size: 0.95rem;
+}
+
+.search-result-snippet {
+    font-size: 0.82rem;
+    color: var(--deep-brown);
+    flex-basis: 100%;
+}
+
+.search-no-results {
+    padding: 1rem;
+    color: var(--deep-brown);
+    font-style: italic;
+}
+
+mark {
+    background: rgba(139, 69, 19, 0.2);
+    color: var(--accent-dark);
+    font-weight: bold;
+    padding: 0 1px;
+}
+
+/* ─── Filter bar ──────────────────────────────────────────────────────────── */
+
+.filter-bar {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: flex-end;
+    gap: 1rem;
+    padding: 1rem 1.25rem;
+    background: var(--light-parchment);
+    border: 1px solid var(--tan-gold);
+    border-left: 4px solid var(--burnt-sienna);
+    margin-bottom: 1.5rem;
+}
+
+.filter-group {
+    display: flex;
+    flex-direction: column;
+    gap: 0.25rem;
+}
+
+.filter-group label {
+    font-size: 0.78rem;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    color: var(--deep-brown);
+    font-weight: bold;
+}
+
+.filter-select {
+    font-family: 'Georgia', serif;
+    font-size: 0.88rem;
+    padding: 0.35rem 0.6rem;
+    background: var(--parchment);
+    border: 1px solid var(--tan-gold);
+    color: var(--dark-text);
+    cursor: pointer;
+    min-width: 140px;
+}
+
+.filter-select:focus {
+    outline: 2px solid var(--burnt-sienna);
+    border-color: var(--burnt-sienna);
+}
+
+.filter-reset {
+    font-family: 'Georgia', serif;
+    font-size: 0.82rem;
+    padding: 0.38rem 0.9rem;
+    background: transparent;
+    border: 1px solid var(--burnt-sienna);
+    color: var(--burnt-sienna);
+    cursor: pointer;
+    transition: all 0.2s;
+    align-self: flex-end;
+}
+
+.filter-reset:hover {
+    background: var(--burnt-sienna);
+    color: var(--parchment);
+}
+
+.results-count {
+    font-size: 0.82rem;
+    color: var(--deep-brown);
+    font-style: italic;
+    margin-bottom: 0.75rem;
+    padding-left: 0.25rem;
+}
+
+/* ─── Card badges ─────────────────────────────────────────────────────────── */
+
+.card-badge {
+    display: inline-block;
+    font-size: 0.68rem;
+    font-family: 'Georgia', serif;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    padding: 0.18em 0.55em;
+    border-radius: 2px;
+    color: #fff;
+    margin-bottom: 0.5rem;
+    font-weight: bold;
+}
+
+.badge-figures  { background: var(--badge-figures); }
+.badge-concepts { background: var(--badge-concepts); }
+.badge-texts    { background: var(--badge-texts); }
+.badge-emblems  { background: var(--badge-emblems); }
+
+.no-results {
+    grid-column: 1 / -1;
+    text-align: center;
+    color: var(--deep-brown);
+    font-style: italic;
+    padding: 2rem;
+}
+
+/* ─── Modal nav bar ───────────────────────────────────────────────────────── */
+
+.modal-nav-bar {
+    display: flex;
+    align-items: center;
+    gap: 0.75rem;
+    margin-bottom: 1.25rem;
+    padding-bottom: 0.75rem;
+    border-bottom: 1px solid var(--tan-gold);
+}
+
+.modal-back {
+    background: transparent;
+    border: 1px solid var(--tan-gold);
+    color: var(--burnt-sienna);
+    font-family: 'Georgia', serif;
+    font-size: 0.88rem;
+    padding: 0.3rem 0.8rem;
+    cursor: pointer;
+    white-space: nowrap;
+    transition: all 0.2s;
+}
+
+.modal-back:hover {
+    background: var(--burnt-sienna);
+    color: var(--parchment);
+}
+
+.modal-breadcrumb {
+    flex: 1;
+    font-size: 0.8rem;
+    color: var(--deep-brown);
+    font-style: italic;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+
+/* Reposition close button for new nav bar layout */
+.modal-close {
+    position: static;
+    margin-left: auto;
+    background: var(--burnt-sienna);
+    color: var(--parchment);
+    border: none;
+    font-size: 1.2rem;
+    cursor: pointer;
+    width: 34px;
+    height: 34px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-shrink: 0;
+    transition: background 0.2s;
+}
+
+.modal-close:hover {
+    background: var(--accent-dark);
+}
+
+/* ─── Modal content elements ──────────────────────────────────────────────── */
+
+.modal-meta-row {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.4rem;
+    margin-bottom: 1.25rem;
+}
+
+.meta-pill {
+    display: inline-block;
+    background: rgba(212, 165, 116, 0.25);
+    border: 1px solid var(--tan-gold);
+    color: var(--deep-brown);
+    font-size: 0.8rem;
+    padding: 0.2em 0.6em;
+    border-radius: 2px;
+}
+
+.modal-essay {
+    margin: 1rem 0;
+    color: var(--dark-text);
+    line-height: 1.8;
+}
+
+.modal-essay p {
+    margin-bottom: 0.85rem;
+}
+
+/* Relational links */
+.rel-links {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.4rem;
+    margin: 0.5rem 0 1rem;
+}
+
+.rel-link {
+    display: inline-block;
+    background: rgba(139, 69, 19, 0.08);
+    border: 1px solid var(--burnt-sienna);
+    color: var(--burnt-sienna);
+    font-size: 0.85rem;
+    padding: 0.2em 0.65em;
+    text-decoration: none;
+    border-radius: 2px;
+    transition: all 0.2s;
+}
+
+.rel-link:hover {
+    background: var(--burnt-sienna);
+    color: var(--parchment);
+}
+
+.rel-more {
+    font-size: 0.82rem;
+    color: var(--deep-brown);
+    font-style: italic;
+    align-self: center;
+}
+
+/* Visual description blockquote */
+.visual-desc {
+    border-left: 3px solid var(--tan-gold);
+    padding: 0.75rem 1rem;
+    margin: 0.75rem 0 1.25rem;
+    background: rgba(212, 165, 116, 0.1);
+    font-style: italic;
+    color: var(--deep-brown);
+    line-height: 1.7;
+}
+
+/* Tag list (visual elements) */
+.tag-list {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.4rem;
+    margin: 0.5rem 0 1rem;
+}
+
+.tag {
+    background: rgba(212, 165, 116, 0.2);
+    border: 1px solid var(--tan-gold);
+    color: var(--deep-brown);
+    font-size: 0.78rem;
+    padding: 0.2em 0.55em;
+    border-radius: 2px;
+}
+
+/* Scholarship entries */
+.scholarship-list {
+    display: flex;
+    flex-direction: column;
+    gap: 0.75rem;
+    margin: 0.5rem 0 1rem;
+}
+
+.scholarship-entry {
+    padding: 0.65rem 0.9rem;
+    background: rgba(212, 165, 116, 0.1);
+    border-left: 3px solid var(--burnt-sienna);
+}
+
+.scholar-name {
+    font-weight: bold;
+    color: var(--burnt-sienna);
+    font-size: 0.9rem;
+    display: block;
+}
+
+.scholar-ref {
+    font-size: 0.8rem;
+    color: var(--deep-brown);
+    font-style: italic;
+    display: block;
+    margin-bottom: 0.3rem;
+}
+
+.scholar-quote {
+    margin: 0.4rem 0 0;
+    padding: 0.4rem 0.75rem;
+    border-left: 2px solid var(--tan-gold);
+    font-size: 0.88rem;
+    color: var(--dark-text);
+    font-style: italic;
+    line-height: 1.6;
+    background: rgba(250, 246, 240, 0.6);
+}
+
+/* Contextual notes */
+.gender-note {
+    background: rgba(41, 128, 185, 0.08);
+    border-left: 3px solid #2980b9;
+    padding: 0.6rem 0.9rem;
+    font-size: 0.9rem;
+    color: var(--dark-text);
+    margin: 0.25rem 0 1rem;
+}
+
+.authenticity-note {
+    font-size: 0.85rem;
+    color: var(--deep-brown);
+    font-style: italic;
+    margin: 0.5rem 0 1rem;
+}
+
+.scholars-list {
+    color: var(--deep-brown);
+    font-size: 0.9rem;
+}
+
+/* ─── Map legend ──────────────────────────────────────────────────────────── */
+
+.map-legend {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1rem;
+    padding: 0.75rem 1rem;
+    background: var(--light-parchment);
+    border: 1px solid var(--tan-gold);
+    border-left: 4px solid var(--burnt-sienna);
+    margin-bottom: 0.75rem;
+}
+
+.legend-item {
+    display: flex;
+    align-items: center;
+    gap: 0.4rem;
+    font-size: 0.88rem;
+    cursor: pointer;
+    color: var(--dark-text);
+}
+
+.legend-dot {
+    display: inline-block;
+    width: 12px;
+    height: 12px;
+    border-radius: 50%;
+    flex-shrink: 0;
+}
+
+/* ─── Responsive ──────────────────────────────────────────────────────────── */
+
 @media (max-width: 768px) {
     .main-header h1 {
         font-size: 1.8rem;
