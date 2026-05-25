@@ -1279,31 +1279,64 @@
       "location": "Würzburg, Germany",
       "lat": 49.7832,
       "lng": 9.9385,
-      "primary_discipline": "Abbot, Magus, Occultist",
-      "summary": "German Benedictine abbot whose synthesis of hermetic philosophy with Christian monasticism influenced Rosicrucian spirituality.",
-      "essay": "Johannes Trithemius (1462–1516) was a German Benedictine abbot whose synthesis of hermetic magic, linguistic mysticism, and monastic spirituality profoundly influenced Renaissance esotericism. His works on cryptography, cabala, and spiritual practice integrated alphabetic mysticism with angelic evocation. Trithemius's vision of the wise man as one who understands divine names and hidden correspondences in language established a model of mystical knowledge that Rosicrucian thinkers adopted. His integration of magical practice with monastic discipline suggested ways that contemplative life and hermetic practice could harmonize. Though predating explicit Rosicrucianism, Trithemius's framework for understanding divine revelation through symbolic language influenced Rosicrucian theory. Godwin and Churton identify Trithemius as a crucial Renaissance figure connecting medieval mysticism to modern esotericism.",
+      "primary_discipline": "Abbot, Cryptographer, Natural Magician",
+      "summary": "German Benedictine abbot whose cryptographic mysticism and hermetic linguistic philosophy influenced Rosicrucian thought — yet who was a documented, vehement critic of practical alchemy, calling it 'a chaste prostitute who disappoints all her lovers.'",
+      "essay": "Johannes Trithemius (1462–1516) presents one of the most instructive paradoxes in Renaissance esotericism: a figure whose hermetic and cabalistic writings deeply influenced later alchemical and Rosicrucian thinkers, yet who himself despised alchemy and denied any practice of it under oath. Understanding this paradox is essential for situating Trithemius correctly in the history of spiritual alchemy.\n\nBorn at Trittenheim on the Moselle in 1462, Trithemius became Abbot of Sponheim at barely twenty-two, transforming a neglected library of 48 books into a collection of 2,000 volumes. He died in 1516 as Abbot of the Scottish monastery of St. James at Würzburg — the same city where he famously conversed with the young Cornelius Agrippa on 'chemistry, magic, and the Cabbala' (*in cenobio tuo apud Herbipolim aliquandiu conversatus, multa de chymicis, multa de magicis, multa de cabalisticis*: Agrippa, *De Occulta Philosophia*, 1533). Agrippa showed Trithemius the manuscript of his *De Occulta Philosophia* in 1510; Trithemius advised him not to publish it.\n\n**His Genuine Works and Hermetic Philosophy**\n\nTrithemius's authentic contributions to Renaissance esotericism are substantial. His *Steganographia* (written c.1500, printed 1531) appeared to be a work of angelic magic involving spirit conjurations, but was later decoded as an elaborate cryptographic system — cipher messages disguised as magical conjurations. His *Polygraphiae* (1518) developed sophisticated polyalphabetic substitution ciphers. The *De Septem Secundeis* (1508) presented a theory of history governed by planetary intelligences or secondary causes, a framework later adapted by Rosicrucian writers. These works collectively established Trithemius as a model of the learned magus who understood the hidden correspondences in language, number, and divine names.\n\n**His Hostility to Alchemy**\n\nAgainst this hermetic reputation, Trithemius's genuine statements about laboratory alchemy are consistently and vehemently hostile. J.R. Partington's foundational study 'Trithemius and Alchemy' (*Ambix*, 2:2, 1938) assembled the primary evidence and settled the question definitively. Several trenchant statements survive:\n\nIn a letter of 24 August 1505 to Germanus de Ganay, Trithemius called alchemists 'fools and disciples of apes, enemies of nature and despisers of heaven' (*alchimistis, quoniam fatui sunt et simearum discipuli, hostes naturae et caelestium contemptores*).\n\nIn his *Annalium Hirsaugensium* (St. Gall, 1690), criticizing John of Rupecissa, he delivered his most celebrated judgment: 'Alchemy is — to speak in human terms — a chaste prostitute who has many lovers but, having deceived them all, never comes into anyone's embrace. She makes fools of the wise, the rich into paupers, philosophers into nitwits, and the deceived into the most talkative deceivers, who, knowing nothing, profess to know everything, and though utterly penniless, promise their followers the riches of Croesus — whose end is full of confusion' (*Est autem Alchimia...casta meretrix quae amatores plures habet, sed delusis omnibus in nullius unquam pervenit amplexus...*).\n\nHe also provided a gallery of clerical victims of alchemical fraud from the Rhine region — Archbishop Werner of Trier who depleted his treasury hiring alchemists for years; a Carthusian prior of Nuremberg who worked five or six years '*pro amore virgineae meretricis Alchymiae*' ('for love of the virgin whore Alchemy'); Bishop Melchior de Moka of Brixen. These cautionary cases ground Trithemius's hostility in documented observation rather than theoretical argument.\n\nWhen accused by Bovillus (Charles de Bouelles) of magical and alchemical practice, Trithemius swore: 'I swear on my soul that I never gave labor to superstitious magic, nor entered the theater of alchemy, nor did any of my brothers devote attention to such vanities' (*In animam juro meam, quod magiae superstitiosae operam dedi nunquam, neque theatrum Alchimiae intravi, neque fratrum meum aliquis intendit hisce vanitatibus*).\n\n**Spurious Alchemical Attribution**\n\nDespite this hostility, several alchemical works were falsely attributed to Trithemius in the sixteenth and seventeenth centuries — including a *Tractatulus Chemicus* (1611), a tract *De Lapide Philosophorum* (Halle, 1619), and others cited by Schmieder and Ferguson. Noel L. Brann's systematic study (*Trithemius and Magical Theology*, SUNY Press, 1999) confirms these attributions as spurious: Kopp emphasized that Trithemius criticizes alchemy in his genuine works. The spurious attribution arose from his genuine reputation as a hermetic philosopher — an intellectually proximate identity that alchemists exploited for authority.\n\n**Scholarly Debates**\n\nThe key dispute concerns how to classify Trithemius's hermetic practice. Noel L. Brann (*Journal of Religious History*, 1982; SUNY monograph, 1999) argues for 'white magic' — a natural and linguistic magic sharply distinguished from demonic conjuration and laboratory alchemy. Hans-Martin Kirn (*Church History and Religious Culture*, 88:4, 2008) traces the evolution from Ficino and Pico della Porta through Trithemius to Agrippa and Bruno, showing how the boundary between natural and illicit magic remained contested. Godwin and Churton emphasize Trithemius's formative role in transmitting the Renaissance hermetic synthesis to later Rosicrucian writers — a transmission that bypassed rather than included practical alchemy. Brann's Sixteenth Century Journal review (1992) documents the Trithemius-Paracelsus connection: Gantenbein has shown how the legends of Faustus, Paracelsus, and Trithemius became intertwined through popular culture even when their actual relationships were more adversarial.",
       "scholars": [
         "Godwin",
-        "Churton"
+        "Churton",
+        "Brann",
+        "Partington"
       ],
       "key_works": [
-        "Steganography",
-        "Three Principles of Divine Essence"
+        "Steganographia",
+        "Polygraphiae",
+        "De Septem Secundeis",
+        "Annalium Hirsaugensium"
       ],
+      "scholarly_debates": {
+        "topic": "Trithemius's relationship to alchemy and magic",
+        "positions": [
+          "Partington (1938): Trithemius was a documented critic of practical alchemy; the alchemical works attributed to him are all spurious.",
+          "Brann (1999): Trithemius practiced 'white magic' — natural and linguistic magic strictly distinguished from demonic or alchemical practice.",
+          "Godwin and Churton: Trithemius transmitted the hermetic synthesis (cryptography, cabala, angelic magic) to Rosicrucian thinkers, a transmission that excluded but was confused with alchemy by later readers.",
+          "Gantenbein: The legends of Faustus, Paracelsus, and Trithemius became intertwined through popular legend, obscuring their actual intellectual relationships."
+        ]
+      },
       "scholarship": [
+        {
+          "scholar": "Partington",
+          "reference": "Trithemius and Alchemy, Ambix 2:2 (1938), pp. 53-59",
+          "quote": "Several trenchant statements in his genuine works leave no doubt as to his attitude towards alchemy. In a letter of 24 August 1505 to Germanus de Ganay he says the alchemists are fools and disciples of apes, enemies of nature and despisers of heaven.",
+          "relevance": "primary"
+        },
+        {
+          "scholar": "Brann",
+          "reference": "Trithemius and Magical Theology (SUNY Press, 1999)",
+          "quote": "Trithemius practiced a 'white magic' grounded in natural philosophy and Neoplatonic linguistics — sharply distinguished in his own mind from the deceitful operations of laboratory alchemists.",
+          "relevance": "primary"
+        },
         {
           "scholar": "Godwin",
           "reference": "The Theosophical Enlightenment (1994)",
           "quote": "Integration of mystical practice with historical development of esotericism.",
-          "relevance": "primary"
+          "relevance": "secondary"
+        },
+        {
+          "scholar": "Brann",
+          "reference": "Was Paracelsus a Disciple of Trithemius? Sixteenth Century Journal vol. 10:1 (1982)",
+          "quote": "The relationship between Trithemius and Paracelsus was more complex and adversarial than the legend of discipleship suggests.",
+          "relevance": "secondary"
         }
       ],
       "markdown_sources_found": [
-        "",
+        "Ambix 1938 Partington Trithemius and Alchemy",
+        "Ambix 1979 Brann George Ripley and the Abbot Trithemius",
+        "Noel L. Brann - Trithemius and Magical Theology",
+        "Sixteenth Century Journal Brann Was Paracelsus a Disciple of Trithemius",
         "Depicting_the_Medieval_Alchemical_Cosmos",
         "33326_SP_BOG_FM_00i-xii",
-        "Arguing with Angels",
-        "%5B9789004466005%20-%20Fictional%20Practice%3A%20Magic%2C%20Narration%2C%20and%20the%20Power%20of%20Imagination%5D%20Fictional%20Practice%3A%20Magic%2C%20Narration%2C%20and%20the%20Power%20of%20Imagination.pdf"
+        "Arguing with Angels"
       ],
       "source_citations_count": 24
     },
