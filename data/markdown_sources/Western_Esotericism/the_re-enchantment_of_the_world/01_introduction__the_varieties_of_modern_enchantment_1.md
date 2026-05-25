@@ -5,9 +5,9 @@ author: Unknown
 total_pages: 403
 section: Introduction: The Varieties of Modern Enchantment 1
 section_number: 1
-date_processed: 2026-05-25T14:56:11.871729
-figures_mentioned: Philip Sidney, Plotinus, Cagliostro, Francis Bacon
-concepts_mentioned: Regeneration, Mystical Union, Great Work, Correspondence, Initiation, Enlightenment
+date_processed: 2026-05-25T15:20:27.334934
+figures_mentioned: Philip Sidney, Francis Bacon, Plotinus, Cagliostro
+concepts_mentioned: Correspondence, Mystical Union, Enlightenment, Regeneration, Great Work, Initiation
 ---
 
 # The Re-Enchantment of the World
@@ -180,5 +180,5 @@ THE RE-ENCHANTMENT OF THE WORLD
 ---
 
 *Extracted from: The Re-Enchantment of the World (403 pages)*
-*Figures mentioned: Philip Sidney, Plotinus, Cagliostro, Francis Bacon*
-*Concepts mentioned: Regeneration, Mystical Union, Great Work, Correspondence, Initiation, Enlightenment*
+*Figures mentioned: Philip Sidney, Francis Bacon, Plotinus, Cagliostro*
+*Concepts mentioned: Correspondence, Mystical Union, Enlightenment, Regeneration, Great Work, Initiation*

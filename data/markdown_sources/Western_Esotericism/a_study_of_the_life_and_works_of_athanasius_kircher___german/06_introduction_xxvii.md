@@ -5,9 +5,9 @@ author: Fletcher, John Edward.,Kircher, Athanasius,Trompf, G. W.,Fletcher, Eliza
 total_pages: 654
 section: introduction xxvii
 section_number: 6
-date_processed: 2026-05-25T14:52:23.760576
-figures_mentioned: Hermes Trismegistus, Francis Bacon, Leibniz, Gottfried Wilhelm, Roger Bacon, Catherine of Siena, Paracelsus, Thomas Aquinas, Robert Boyle, Tycho Brahe, Marsilio Ficino, Giordano Bruno, Jacob Böhme, John Dee
-concepts_mentioned: Tincture, Emanation, Lapis Philosophorum, Distillation, Quintessence, Great Work, Correspondence, Initiation, Putrefactio, Dissolution, Enlightenment
+date_processed: 2026-05-25T15:17:22.205414
+figures_mentioned: Hermes Trismegistus, Thomas Aquinas, Marsilio Ficino, Francis Bacon, Robert Boyle, John Dee, Catherine of Siena, Jacob Böhme, Giordano Bruno, Tycho Brahe, Leibniz, Gottfried Wilhelm, Roger Bacon, Paracelsus
+concepts_mentioned: Correspondence, Distillation, Tincture, Quintessence, Enlightenment, Lapis Philosophorum, Dissolution, Emanation, Putrefactio, Great Work, Initiation
 ---
 
 # A Study of the Life and Works of Athanasius Kircher, "Germanus Incredibilis"
@@ -108,5 +108,5 @@ In Findlen (ed.), Athanasius Kircher, p. 142 (quoting Peiresc to Claude Saumaise
 ---
 
 *Extracted from: A Study of the Life and Works of Athanasius Kircher, "Germanus Incredibilis" (654 pages)*
-*Figures mentioned: Hermes Trismegistus, Francis Bacon, Leibniz, Gottfried Wilhelm, Roger Bacon, Catherine of Siena, Paracelsus, Thomas Aquinas, Robert Boyle, Tycho Brahe, Marsilio Ficino, Giordano Bruno, Jacob Böhme, John Dee*
-*Concepts mentioned: Tincture, Emanation, Lapis Philosophorum, Distillation, Quintessence, Great Work, Correspondence, Initiation, Putrefactio, Dissolution, Enlightenment*
+*Figures mentioned: Hermes Trismegistus, Thomas Aquinas, Marsilio Ficino, Francis Bacon, Robert Boyle, John Dee, Catherine of Siena, Jacob Böhme, Giordano Bruno, Tycho Brahe, Leibniz, Gottfried Wilhelm, Roger Bacon, Paracelsus*
+*Concepts mentioned: Correspondence, Distillation, Tincture, Quintessence, Enlightenment, Lapis Philosophorum, Dissolution, Emanation, Putrefactio, Great Work, Initiation*

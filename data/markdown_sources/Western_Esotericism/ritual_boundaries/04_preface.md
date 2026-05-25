@@ -5,9 +5,9 @@ author: Joseph E. Sanzo
 total_pages: 192
 section: Preface
 section_number: 4
-date_processed: 2026-05-25T14:55:20.778306
+date_processed: 2026-05-25T15:19:48.446583
 figures_mentioned: None
-concepts_mentioned: Initiation, Divine Names, Correspondence, Embodied Knowledge
+concepts_mentioned: Correspondence, Divine Names, Initiation, Embodied Knowledge
 ---
 
 # Ritual Boundaries
@@ -92,4 +92,4 @@ fusion (e.g., references to the Didache and to Talmudic tractates).
 
 *Extracted from: Ritual Boundaries (192 pages)*
 *Figures mentioned: None*
-*Concepts mentioned: Initiation, Divine Names, Correspondence, Embodied Knowledge*
+*Concepts mentioned: Correspondence, Divine Names, Initiation, Embodied Knowledge*

@@ -9,6 +9,9 @@
 
 let allData = { figures: [], concepts: [], texts: [], emblems: [] };
 
+// Track active section for context-aware UI
+let activeSection = 'figures';
+
 // Per-section filter state
 const filterState = {
     figures:      { sort: 'default', nationality: '', scholar: '', century: '' },
@@ -209,7 +212,7 @@ function renderGallery(section) {
         return;
     }
 
-    gallery.innerHTML = items.map(item => buildCard(section, item)).join('');
+    gallery.innerHTML = items.map(item => buildCard(section, item, section)).join('');
 
     gallery.querySelectorAll('.card').forEach(card => {
         card.addEventListener('click', e => {
@@ -219,11 +222,11 @@ function renderGallery(section) {
     });
 }
 
-function buildCard(section, item) {
+function buildCard(section, item, currentContext = activeSection) {
     const id    = item.id;
     const name  = item.name || item.title || '—';
     const meta  = buildCardMeta(section, item);
-    const badge = buildBadgeInline(section);
+    const badge = buildBadgeInline(section, currentContext);
     const imageHtml = (section === 'figures' || section === 'emblems') && item.image_url
         ? `<img src="${item.image_url}" alt="${name}" class="card-image">`
         : '';
@@ -264,8 +267,12 @@ function buildCardMeta(section, item) {
     return '';
 }
 
-function buildBadgeInline(section) {
-    // Hide badge on section pages where context is already clear
+function buildBadgeInline(section, currentContext = activeSection) {
+    // Hide badge when viewing items from their own section (context already clear)
+    // Always show badge when viewing items in modals (different context)
+    if (currentContext === section && !modalStack.length) {
+        return '';
+    }
     return `<span class="card-badge card-badge-inline badge-${section}"></span>`;
 }
 
@@ -794,16 +801,20 @@ function setupNavigation() {
             navBtns.forEach(b => b.classList.remove('active'));
             btn.classList.add('active');
             sections.forEach(s => s.classList.remove('active'));
-            document.getElementById(btn.dataset.section).classList.add('active');
+            const section = btn.dataset.section;
+            document.getElementById(section).classList.add('active');
 
-            if (btn.dataset.section === 'map') {
+            // Track active section for context-aware UI
+            activeSection = section;
+
+            if (section === 'map') {
                 setTimeout(() => {
                     if (window._leafletMap) {
                         window._leafletMap.invalidateSize();
                         window._leafletMap.setView([50, 12], 4);
                     }
                 }, 150);
-            } else if (btn.dataset.section === 'emblem-books') {
+            } else if (section === 'emblem-books') {
                 renderEmblemBooks();
             }
         });

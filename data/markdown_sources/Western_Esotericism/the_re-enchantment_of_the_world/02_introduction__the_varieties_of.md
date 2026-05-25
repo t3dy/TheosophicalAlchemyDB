@@ -5,9 +5,9 @@ author: Unknown
 total_pages: 403
 section: Introduction: The Varieties of
 section_number: 2
-date_processed: 2026-05-25T14:56:11.872310
-figures_mentioned: Philip Sidney, Plotinus, Cagliostro, Francis Bacon
-concepts_mentioned: Regeneration, Mystical Union, Great Work, Correspondence, Initiation, Enlightenment
+date_processed: 2026-05-25T15:20:27.335499
+figures_mentioned: Philip Sidney, Francis Bacon, Plotinus, Cagliostro
+concepts_mentioned: Correspondence, Mystical Union, Enlightenment, Regeneration, Great Work, Initiation
 ---
 
 # The Re-Enchantment of the World
@@ -88,5 +88,5 @@ that does not come at the cost of naïveté, irrationalism, or hypocrisy.
 ---
 
 *Extracted from: The Re-Enchantment of the World (403 pages)*
-*Figures mentioned: Philip Sidney, Plotinus, Cagliostro, Francis Bacon*
-*Concepts mentioned: Regeneration, Mystical Union, Great Work, Correspondence, Initiation, Enlightenment*
+*Figures mentioned: Philip Sidney, Francis Bacon, Plotinus, Cagliostro*
+*Concepts mentioned: Correspondence, Mystical Union, Enlightenment, Regeneration, Great Work, Initiation*

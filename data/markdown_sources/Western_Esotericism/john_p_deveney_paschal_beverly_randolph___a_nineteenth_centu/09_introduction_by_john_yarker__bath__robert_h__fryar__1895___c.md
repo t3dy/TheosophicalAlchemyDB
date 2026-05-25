@@ -5,9 +5,9 @@ author: Unknown
 total_pages: 638
 section: introduction by John Yarker (Bath: Robert H. Fryar, 1895); Continuation of the
 section_number: 9
-date_processed: 2026-05-25T14:54:01.372195
-figures_mentioned: Arthur Edward Waite, Hermes Trismegistus, Adam McLean, Anna Bonus Kingsford, Plotinus, Nicolas Flamel, Cagliostro, Nicholas Flamel, John Dee
-concepts_mentioned: Universal Reform, Elixir of Life, Regeneration, Emanation, Secret Doctrine, Quintessence, Great Work, Rosy Cross, Correspondence, Universal Solvent, Initiation, Divine Names, Theurgy, Dissolution, Enlightenment
+date_processed: 2026-05-25T15:18:45.413755
+figures_mentioned: Hermes Trismegistus, Adam McLean, John Dee, Nicholas Flamel, Arthur Edward Waite, Anna Bonus Kingsford, Plotinus, Cagliostro, Nicolas Flamel
+concepts_mentioned: Correspondence, Divine Names, Quintessence, Great Work, Theurgy, Universal Solvent, Enlightenment, Dissolution, Regeneration, Elixir of Life, Rosy Cross, Emanation, Secret Doctrine, Universal Reform, Initiation
 ---
 
 # John P Deveney Paschal Beverly Randolph _ A Nineteenth Century Black American Spiritualist Rosicrucian and Sex Magician State University of New York P
@@ -2885,5 +2885,5 @@ tor of the Bath Occult Reprints, between 1879 and 1887, with Frontispiece.
 ---
 
 *Extracted from: John P Deveney Paschal Beverly Randolph _ A Nineteenth Century Black American Spiritualist Rosicrucian and Sex Magician State University of New York P (638 pages)*
-*Figures mentioned: Arthur Edward Waite, Hermes Trismegistus, Adam McLean, Anna Bonus Kingsford, Plotinus, Nicolas Flamel, Cagliostro, Nicholas Flamel, John Dee*
-*Concepts mentioned: Universal Reform, Elixir of Life, Regeneration, Emanation, Secret Doctrine, Quintessence, Great Work, Rosy Cross, Correspondence, Universal Solvent, Initiation, Divine Names, Theurgy, Dissolution, Enlightenment*
+*Figures mentioned: Hermes Trismegistus, Adam McLean, John Dee, Nicholas Flamel, Arthur Edward Waite, Anna Bonus Kingsford, Plotinus, Cagliostro, Nicolas Flamel*
+*Concepts mentioned: Correspondence, Divine Names, Quintessence, Great Work, Theurgy, Universal Solvent, Enlightenment, Dissolution, Regeneration, Elixir of Life, Rosy Cross, Emanation, Secret Doctrine, Universal Reform, Initiation*

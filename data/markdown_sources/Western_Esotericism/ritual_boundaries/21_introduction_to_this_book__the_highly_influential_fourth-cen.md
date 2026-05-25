@@ -5,9 +5,9 @@ author: Joseph E. Sanzo
 total_pages: 192
 section: introduction to this book, the highly influential fourth-century Life of Antony 
 section_number: 21
-date_processed: 2026-05-25T14:55:20.785723
+date_processed: 2026-05-25T15:19:48.456335
 figures_mentioned: None
-concepts_mentioned: Initiation, Divine Names, Correspondence, Embodied Knowledge
+concepts_mentioned: Correspondence, Divine Names, Initiation, Embodied Knowledge
 ---
 
 # Ritual Boundaries
@@ -85,4 +85,4 @@ porate rings around the letters of select divine names (Brit. Lib. Or. 6796[4],
 
 *Extracted from: Ritual Boundaries (192 pages)*
 *Figures mentioned: None*
-*Concepts mentioned: Initiation, Divine Names, Correspondence, Embodied Knowledge*
+*Concepts mentioned: Correspondence, Divine Names, Initiation, Embodied Knowledge*

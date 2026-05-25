@@ -5,9 +5,9 @@ author: Joseph E. Sanzo
 total_pages: 192
 section: CONCLUSIONS
 section_number: 26
-date_processed: 2026-05-25T14:55:20.790837
+date_processed: 2026-05-25T15:19:48.458298
 figures_mentioned: None
-concepts_mentioned: Initiation, Divine Names, Correspondence, Embodied Knowledge
+concepts_mentioned: Correspondence, Divine Names, Initiation, Embodied Knowledge
 ---
 
 # Ritual Boundaries
@@ -173,4 +173,4 @@ of late antique reading habits in lived religious contexts, as I will emphasize 
 
 *Extracted from: Ritual Boundaries (192 pages)*
 *Figures mentioned: None*
-*Concepts mentioned: Initiation, Divine Names, Correspondence, Embodied Knowledge*
+*Concepts mentioned: Correspondence, Divine Names, Initiation, Embodied Knowledge*

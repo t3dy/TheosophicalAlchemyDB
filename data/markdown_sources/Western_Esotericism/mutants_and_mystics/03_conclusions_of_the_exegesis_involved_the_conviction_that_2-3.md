@@ -5,9 +5,9 @@ author: Jeffrey J. Kripal
 total_pages: 392
 section: conclusions of the Exegesis involved the conviction that 2-3-74 was indeed real 
 section_number: 3
-date_processed: 2026-05-25T14:49:08.866154
-figures_mentioned: Plotinus, Francis Bacon, Cagliostro, Johann Valentin Andreae, Meister Eckhart
-concepts_mentioned: Emanation, Theosis, Spiritual Chemistry, Sublimation, Secret Doctrine, Mystical Union, Rosy Cross, Correspondence, Initiation, Dissolution, Enlightenment
+date_processed: 2026-05-25T15:13:46.876611
+figures_mentioned: Francis Bacon, Meister Eckhart, Plotinus, Cagliostro, Johann Valentin Andreae
+concepts_mentioned: Correspondence, Spiritual Chemistry, Mystical Union, Enlightenment, Dissolution, Theosis, Rosy Cross, Emanation, Secret Doctrine, Sublimation, Initiation
 ---
 
 # Mutants and Mystics
@@ -1294,5 +1294,5 @@ Windsor-Smith again, and Philip K. Dick, we might recall, came to similar nonloc
 ---
 
 *Extracted from: Mutants and Mystics (392 pages)*
-*Figures mentioned: Plotinus, Francis Bacon, Cagliostro, Johann Valentin Andreae, Meister Eckhart*
-*Concepts mentioned: Emanation, Theosis, Spiritual Chemistry, Sublimation, Secret Doctrine, Mystical Union, Rosy Cross, Correspondence, Initiation, Dissolution, Enlightenment*
+*Figures mentioned: Francis Bacon, Meister Eckhart, Plotinus, Cagliostro, Johann Valentin Andreae*
+*Concepts mentioned: Correspondence, Spiritual Chemistry, Mystical Union, Enlightenment, Dissolution, Theosis, Rosy Cross, Emanation, Secret Doctrine, Sublimation, Initiation*

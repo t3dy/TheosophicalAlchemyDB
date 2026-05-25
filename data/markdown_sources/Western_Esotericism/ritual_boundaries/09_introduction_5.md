@@ -5,9 +5,9 @@ author: Joseph E. Sanzo
 total_pages: 192
 section: Introduction 5
 section_number: 9
-date_processed: 2026-05-25T14:55:20.780412
+date_processed: 2026-05-25T15:19:48.449490
 figures_mentioned: None
-concepts_mentioned: Initiation, Divine Names, Correspondence, Embodied Knowledge
+concepts_mentioned: Correspondence, Divine Names, Initiation, Embodied Knowledge
 ---
 
 # Ritual Boundaries
@@ -109,4 +109,4 @@ taken into sufficient consideration contextual developments in both Christianity
 
 *Extracted from: Ritual Boundaries (192 pages)*
 *Figures mentioned: None*
-*Concepts mentioned: Initiation, Divine Names, Correspondence, Embodied Knowledge*
+*Concepts mentioned: Correspondence, Divine Names, Initiation, Embodied Knowledge*

@@ -5,9 +5,9 @@ author: Joseph E. Sanzo
 total_pages: 192
 section: Introduction)—might help us trace the broader processes by which religious ele-
 section_number: 24
-date_processed: 2026-05-25T14:55:20.789042
+date_processed: 2026-05-25T15:19:48.457443
 figures_mentioned: None
-concepts_mentioned: Initiation, Divine Names, Correspondence, Embodied Knowledge
+concepts_mentioned: Correspondence, Divine Names, Initiation, Embodied Knowledge
 ---
 
 # Ritual Boundaries
@@ -491,4 +491,4 @@ in rituals by simply incorporating Jesus’s name into their incantations (see
 
 *Extracted from: Ritual Boundaries (192 pages)*
 *Figures mentioned: None*
-*Concepts mentioned: Initiation, Divine Names, Correspondence, Embodied Knowledge*
+*Concepts mentioned: Correspondence, Divine Names, Initiation, Embodied Knowledge*

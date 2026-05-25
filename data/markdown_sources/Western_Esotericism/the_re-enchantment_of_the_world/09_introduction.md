@@ -5,9 +5,9 @@ author: Unknown
 total_pages: 403
 section: Introduction
 section_number: 9
-date_processed: 2026-05-25T14:56:11.878661
-figures_mentioned: Philip Sidney, Plotinus, Cagliostro, Francis Bacon
-concepts_mentioned: Regeneration, Mystical Union, Great Work, Correspondence, Initiation, Enlightenment
+date_processed: 2026-05-25T15:20:27.340694
+figures_mentioned: Philip Sidney, Francis Bacon, Plotinus, Cagliostro
+concepts_mentioned: Correspondence, Mystical Union, Enlightenment, Regeneration, Great Work, Initiation
 ---
 
 # The Re-Enchantment of the World
@@ -4389,5 +4389,5 @@ Mabille, Pierre. The Mirror of the Marvelous: The Classic Surrealist Work on Myt
 ---
 
 *Extracted from: The Re-Enchantment of the World (403 pages)*
-*Figures mentioned: Philip Sidney, Plotinus, Cagliostro, Francis Bacon*
-*Concepts mentioned: Regeneration, Mystical Union, Great Work, Correspondence, Initiation, Enlightenment*
+*Figures mentioned: Philip Sidney, Francis Bacon, Plotinus, Cagliostro*
+*Concepts mentioned: Correspondence, Mystical Union, Enlightenment, Regeneration, Great Work, Initiation*

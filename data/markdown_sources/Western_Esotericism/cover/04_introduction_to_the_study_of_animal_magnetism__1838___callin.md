@@ -5,9 +5,9 @@ author: Unknown
 total_pages: 548
 section: Introduction to the Study of Animal Magnetism (1838), calling the Earl's voice t
 section_number: 4
-date_processed: 2026-05-25T14:54:47.696959
-figures_mentioned: Johann Valentin Andreae, Ashmole, Elias, Leibniz, Gottfried Wilhelm, Roger Bacon, William Blake, Louis-Claude de Saint-Martin, Jacob Böhme, Hermes Trismegistus, Adam McLean, Isaac Newton, Cagliostro, Henry Cornelius Agrippa, Tycho Brahe, Thomas Vaughan, Meister Eckhart, John Dee, William Law, Plotinus, Robert Fludd, Claude de Saint-Martin, Joseph Ennemoser, Paracelsus, Giordano Bruno, Jane Lead
-concepts_mentioned: Spiritual Alchemy, Elixir of Life, Regeneration, Emanation, Invisible Brethren, Secret Doctrine, Distillation, Great Work, Initiation, Rosy Cross, Correspondence, Universal Solvent, Fermentation, Divine Names, Dissolution, Enlightenment
+date_processed: 2026-05-25T15:19:21.875206
+figures_mentioned: Ashmole, Elias, Adam McLean, Jane Lead, Giordano Bruno, Claude de Saint-Martin, Paracelsus, Hermes Trismegistus, Isaac Newton, Johann Valentin Andreae, Roger Bacon, William Law, William Blake, Cagliostro, John Dee, Joseph Ennemoser, Henry Cornelius Agrippa, Louis-Claude de Saint-Martin, Jacob Böhme, Meister Eckhart, Plotinus, Robert Fludd, Tycho Brahe, Leibniz, Gottfried Wilhelm, Thomas Vaughan
+concepts_mentioned: Correspondence, Spiritual Alchemy, Divine Names, Fermentation, Great Work, Invisible Brethren, Universal Solvent, Enlightenment, Dissolution, Regeneration, Emanation, Elixir of Life, Rosy Cross, Distillation, Secret Doctrine, Initiation
 ---
 
 # cover
@@ -753,5 +753,5 @@ spherical glass bottle of water such as Cagliostro had used. Then there was the 
 ---
 
 *Extracted from: cover (548 pages)*
-*Figures mentioned: Johann Valentin Andreae, Ashmole, Elias, Leibniz, Gottfried Wilhelm, Roger Bacon, William Blake, Louis-Claude de Saint-Martin, Jacob Böhme, Hermes Trismegistus, Adam McLean, Isaac Newton, Cagliostro, Henry Cornelius Agrippa, Tycho Brahe, Thomas Vaughan, Meister Eckhart, John Dee, William Law, Plotinus, Robert Fludd, Claude de Saint-Martin, Joseph Ennemoser, Paracelsus, Giordano Bruno, Jane Lead*
-*Concepts mentioned: Spiritual Alchemy, Elixir of Life, Regeneration, Emanation, Invisible Brethren, Secret Doctrine, Distillation, Great Work, Initiation, Rosy Cross, Correspondence, Universal Solvent, Fermentation, Divine Names, Dissolution, Enlightenment*
+*Figures mentioned: Ashmole, Elias, Adam McLean, Jane Lead, Giordano Bruno, Claude de Saint-Martin, Paracelsus, Hermes Trismegistus, Isaac Newton, Johann Valentin Andreae, Roger Bacon, William Law, William Blake, Cagliostro, John Dee, Joseph Ennemoser, Henry Cornelius Agrippa, Louis-Claude de Saint-Martin, Jacob Böhme, Meister Eckhart, Plotinus, Robert Fludd, Tycho Brahe, Leibniz, Gottfried Wilhelm, Thomas Vaughan*
+*Concepts mentioned: Correspondence, Spiritual Alchemy, Divine Names, Fermentation, Great Work, Invisible Brethren, Universal Solvent, Enlightenment, Dissolution, Regeneration, Emanation, Elixir of Life, Rosy Cross, Distillation, Secret Doctrine, Initiation*

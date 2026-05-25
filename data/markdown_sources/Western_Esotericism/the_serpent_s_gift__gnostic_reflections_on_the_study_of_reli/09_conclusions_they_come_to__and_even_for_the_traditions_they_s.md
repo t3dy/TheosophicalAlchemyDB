@@ -5,9 +5,9 @@ author: Jeffrey J. Kripal
 total_pages: 240
 section: conclusions they come to, and even for the traditions they study.51Given
 section_number: 9
-date_processed: 2026-05-25T14:50:54.183269
-figures_mentioned: Plotinus, Marsilio Ficino, Giordano Bruno, William Blake, Meister Eckhart, Henry More
-concepts_mentioned: Emanation, Theosis, Sublimation, Mystical Union, Correspondence, Initiation, Enlightenment
+date_processed: 2026-05-25T15:15:49.322810
+figures_mentioned: Marsilio Ficino, William Blake, Meister Eckhart, Giordano Bruno, Plotinus, Henry More
+concepts_mentioned: Correspondence, Mystical Union, Enlightenment, Theosis, Emanation, Sublimation, Initiation
 ---
 
 # The Serpent's Gift: Gnostic Reflections on the Study of Religion
@@ -2273,5 +2273,5 @@ ent,evenifthemoralishardlyclear.Whatarewetodowithourinescapable
 ---
 
 *Extracted from: The Serpent's Gift: Gnostic Reflections on the Study of Religion (240 pages)*
-*Figures mentioned: Plotinus, Marsilio Ficino, Giordano Bruno, William Blake, Meister Eckhart, Henry More*
-*Concepts mentioned: Emanation, Theosis, Sublimation, Mystical Union, Correspondence, Initiation, Enlightenment*
+*Figures mentioned: Marsilio Ficino, William Blake, Meister Eckhart, Giordano Bruno, Plotinus, Henry More*
+*Concepts mentioned: Correspondence, Mystical Union, Enlightenment, Theosis, Emanation, Sublimation, Initiation*

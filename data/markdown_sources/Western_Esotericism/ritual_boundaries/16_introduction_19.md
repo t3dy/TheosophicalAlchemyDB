@@ -5,9 +5,9 @@ author: Joseph E. Sanzo
 total_pages: 192
 section: Introduction 19
 section_number: 16
-date_processed: 2026-05-25T14:55:20.783266
+date_processed: 2026-05-25T15:19:48.454329
 figures_mentioned: None
-concepts_mentioned: Initiation, Divine Names, Correspondence, Embodied Knowledge
+concepts_mentioned: Correspondence, Divine Names, Initiation, Embodied Knowledge
 ---
 
 # Ritual Boundaries
@@ -103,4 +103,4 @@ related topics, including the archaeological and literary evidence for ancient
 
 *Extracted from: Ritual Boundaries (192 pages)*
 *Figures mentioned: None*
-*Concepts mentioned: Initiation, Divine Names, Correspondence, Embodied Knowledge*
+*Concepts mentioned: Correspondence, Divine Names, Initiation, Embodied Knowledge*

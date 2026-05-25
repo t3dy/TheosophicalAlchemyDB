@@ -5,9 +5,9 @@ author: Joseph E. Sanzo
 total_pages: 192
 section: Introduction 3
 section_number: 7
-date_processed: 2026-05-25T14:55:20.779648
+date_processed: 2026-05-25T15:19:48.447954
 figures_mentioned: None
-concepts_mentioned: Initiation, Divine Names, Correspondence, Embodied Knowledge
+concepts_mentioned: Correspondence, Divine Names, Initiation, Embodied Knowledge
 ---
 
 # Ritual Boundaries
@@ -73,4 +73,4 @@ lier “great thinkers” models (see above) or conflict-oriented reconstruction
 
 *Extracted from: Ritual Boundaries (192 pages)*
 *Figures mentioned: None*
-*Concepts mentioned: Initiation, Divine Names, Correspondence, Embodied Knowledge*
+*Concepts mentioned: Correspondence, Divine Names, Initiation, Embodied Knowledge*

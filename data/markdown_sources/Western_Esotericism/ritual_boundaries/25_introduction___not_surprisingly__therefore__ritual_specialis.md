@@ -5,9 +5,9 @@ author: Joseph E. Sanzo
 total_pages: 192
 section: introduction). Not surprisingly, therefore, ritual specialists associated with l
 section_number: 25
-date_processed: 2026-05-25T14:55:20.789990
+date_processed: 2026-05-25T15:19:48.457927
 figures_mentioned: None
-concepts_mentioned: Initiation, Divine Names, Correspondence, Embodied Knowledge
+concepts_mentioned: Correspondence, Divine Names, Initiation, Embodied Knowledge
 ---
 
 # Ritual Boundaries
@@ -138,4 +138,4 @@ tural realities in lived contexts.
 
 *Extracted from: Ritual Boundaries (192 pages)*
 *Figures mentioned: None*
-*Concepts mentioned: Initiation, Divine Names, Correspondence, Embodied Knowledge*
+*Concepts mentioned: Correspondence, Divine Names, Initiation, Embodied Knowledge*

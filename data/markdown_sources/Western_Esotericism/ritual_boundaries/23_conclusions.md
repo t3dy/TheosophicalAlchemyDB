@@ -5,9 +5,9 @@ author: Joseph E. Sanzo
 total_pages: 192
 section: CONCLUSIONS
 section_number: 23
-date_processed: 2026-05-25T14:55:20.788060
+date_processed: 2026-05-25T15:19:48.456998
 figures_mentioned: None
-concepts_mentioned: Initiation, Divine Names, Correspondence, Embodied Knowledge
+concepts_mentioned: Correspondence, Divine Names, Initiation, Embodied Knowledge
 ---
 
 # Ritual Boundaries
@@ -302,4 +302,4 @@ general model of syncretism—such as the one outlined by David Frankfurter (see
 
 *Extracted from: Ritual Boundaries (192 pages)*
 *Figures mentioned: None*
-*Concepts mentioned: Initiation, Divine Names, Correspondence, Embodied Knowledge*
+*Concepts mentioned: Correspondence, Divine Names, Initiation, Embodied Knowledge*

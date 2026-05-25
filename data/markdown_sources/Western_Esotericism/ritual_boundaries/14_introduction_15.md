@@ -5,9 +5,9 @@ author: Joseph E. Sanzo
 total_pages: 192
 section: Introduction 15
 section_number: 14
-date_processed: 2026-05-25T14:55:20.782478
+date_processed: 2026-05-25T15:19:48.453404
 figures_mentioned: None
-concepts_mentioned: Initiation, Divine Names, Correspondence, Embodied Knowledge
+concepts_mentioned: Correspondence, Divine Names, Initiation, Embodied Knowledge
 ---
 
 # Ritual Boundaries
@@ -107,4 +107,4 @@ an already existing absorption or assimilation of “foreign” elements into th
 
 *Extracted from: Ritual Boundaries (192 pages)*
 *Figures mentioned: None*
-*Concepts mentioned: Initiation, Divine Names, Correspondence, Embodied Knowledge*
+*Concepts mentioned: Correspondence, Divine Names, Initiation, Embodied Knowledge*

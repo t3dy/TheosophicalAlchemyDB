@@ -5,9 +5,9 @@ author: Kripal, Jeffrey J.;
 total_pages: 493
 section: conclusions— perfectly reasonable, that is, within those assumed ontological
 section_number: 5
-date_processed: 2026-05-25T14:57:15.008898
-figures_mentioned: Plotinus, Paracelsus, Giordano Bruno, William Blake, Emmanuel Swedenborg, Meister Eckhart
-concepts_mentioned: Elixir of Life, Emanation, Sublimation, Great Work, Correspondence, Initiation, Theurgy, Dissolution, Enlightenment
+date_processed: 2026-05-25T15:21:14.827106
+figures_mentioned: Emmanuel Swedenborg, William Blake, Meister Eckhart, Giordano Bruno, Plotinus, Paracelsus
+concepts_mentioned: Correspondence, Theurgy, Enlightenment, Dissolution, Elixir of Life, Emanation, Great Work, Sublimation, Initiation
 ---
 
 # Secret Body
@@ -1432,5 +1432,5 @@ Alf Hiltebeitel and Kathleen Erndl (Sheffield, UK: Sheffield Academic Press, 200
 ---
 
 *Extracted from: Secret Body (493 pages)*
-*Figures mentioned: Plotinus, Paracelsus, Giordano Bruno, William Blake, Emmanuel Swedenborg, Meister Eckhart*
-*Concepts mentioned: Elixir of Life, Emanation, Sublimation, Great Work, Correspondence, Initiation, Theurgy, Dissolution, Enlightenment*
+*Figures mentioned: Emmanuel Swedenborg, William Blake, Meister Eckhart, Giordano Bruno, Plotinus, Paracelsus*
+*Concepts mentioned: Correspondence, Theurgy, Enlightenment, Dissolution, Elixir of Life, Emanation, Great Work, Sublimation, Initiation*

@@ -5,9 +5,9 @@ author: Kripal, Jeffrey J.;
 total_pages: 493
 section: conclusions), but of our contemporary debates about gender, homosexuality,
 section_number: 2
-date_processed: 2026-05-25T14:57:15.004897
-figures_mentioned: Plotinus, Paracelsus, Giordano Bruno, William Blake, Emmanuel Swedenborg, Meister Eckhart
-concepts_mentioned: Elixir of Life, Emanation, Sublimation, Great Work, Correspondence, Initiation, Theurgy, Dissolution, Enlightenment
+date_processed: 2026-05-25T15:21:14.821184
+figures_mentioned: Emmanuel Swedenborg, William Blake, Meister Eckhart, Giordano Bruno, Plotinus, Paracelsus
+concepts_mentioned: Correspondence, Theurgy, Enlightenment, Dissolution, Elixir of Life, Emanation, Great Work, Sublimation, Initiation
 ---
 
 # Secret Body
@@ -975,5 +975,5 @@ and academic writings of mircea eliade”
 ---
 
 *Extracted from: Secret Body (493 pages)*
-*Figures mentioned: Plotinus, Paracelsus, Giordano Bruno, William Blake, Emmanuel Swedenborg, Meister Eckhart*
-*Concepts mentioned: Elixir of Life, Emanation, Sublimation, Great Work, Correspondence, Initiation, Theurgy, Dissolution, Enlightenment*
+*Figures mentioned: Emmanuel Swedenborg, William Blake, Meister Eckhart, Giordano Bruno, Plotinus, Paracelsus*
+*Concepts mentioned: Correspondence, Theurgy, Enlightenment, Dissolution, Elixir of Life, Emanation, Great Work, Sublimation, Initiation*

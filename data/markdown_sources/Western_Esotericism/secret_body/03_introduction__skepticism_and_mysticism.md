@@ -5,9 +5,9 @@ author: Kripal, Jeffrey J.;
 total_pages: 493
 section: introduction: skepticism and mysticism
 section_number: 3
-date_processed: 2026-05-25T14:57:15.005764
-figures_mentioned: Plotinus, Paracelsus, Giordano Bruno, William Blake, Emmanuel Swedenborg, Meister Eckhart
-concepts_mentioned: Elixir of Life, Emanation, Sublimation, Great Work, Correspondence, Initiation, Theurgy, Dissolution, Enlightenment
+date_processed: 2026-05-25T15:21:14.823020
+figures_mentioned: Emmanuel Swedenborg, William Blake, Meister Eckhart, Giordano Bruno, Plotinus, Paracelsus
+concepts_mentioned: Correspondence, Theurgy, Enlightenment, Dissolution, Elixir of Life, Emanation, Great Work, Sublimation, Initiation
 ---
 
 # Secret Body
@@ -566,5 +566,5 @@ on the sacred mountain in a secular age disturbingly devoid of true tradition.
 ---
 
 *Extracted from: Secret Body (493 pages)*
-*Figures mentioned: Plotinus, Paracelsus, Giordano Bruno, William Blake, Emmanuel Swedenborg, Meister Eckhart*
-*Concepts mentioned: Elixir of Life, Emanation, Sublimation, Great Work, Correspondence, Initiation, Theurgy, Dissolution, Enlightenment*
+*Figures mentioned: Emmanuel Swedenborg, William Blake, Meister Eckhart, Giordano Bruno, Plotinus, Paracelsus*
+*Concepts mentioned: Correspondence, Theurgy, Enlightenment, Dissolution, Elixir of Life, Emanation, Great Work, Sublimation, Initiation*

@@ -5,9 +5,9 @@ author: Wuidar, Laurence
 total_pages: 390
 section: introduction 3
 section_number: 3
-date_processed: 2026-05-25T14:58:01.016237
-figures_mentioned: Arthur Edward Waite, Hermes Trismegistus, Pico della Mirandola, Plotinus, Johannes Trithemius, Robert Fludd, Roger Bacon, Paracelsus, Cagliostro, Henry Cornelius Agrippa, Marsilio Ficino, Giordano Bruno, Giambattista della Porta, Michael Maier, Jacob Böhme, John Dee
-concepts_mentioned: Spiritual Alchemy, Secret Doctrine, Quintessence, Great Work, Correspondence, Initiation, Theurgy, Dissolution, Enlightenment
+date_processed: 2026-05-25T15:21:46.190580
+figures_mentioned: Hermes Trismegistus, Robert Fludd, Marsilio Ficino, John Dee, Arthur Edward Waite, Henry Cornelius Agrippa, Johannes Trithemius, Jacob Böhme, Giordano Bruno, Giambattista della Porta, Pico della Mirandola, Cagliostro, Plotinus, Roger Bacon, Michael Maier, Paracelsus
+concepts_mentioned: Correspondence, Spiritual Alchemy, Quintessence, Great Work, Theurgy, Enlightenment, Dissolution, Secret Doctrine, Initiation
 ---
 
 # Music and Esotericism
@@ -104,5 +104,5 @@ the organ that tells the planet. The flower tells the star that tells the
 ---
 
 *Extracted from: Music and Esotericism (390 pages)*
-*Figures mentioned: Arthur Edward Waite, Hermes Trismegistus, Pico della Mirandola, Plotinus, Johannes Trithemius, Robert Fludd, Roger Bacon, Paracelsus, Cagliostro, Henry Cornelius Agrippa, Marsilio Ficino, Giordano Bruno, Giambattista della Porta, Michael Maier, Jacob Böhme, John Dee*
-*Concepts mentioned: Spiritual Alchemy, Secret Doctrine, Quintessence, Great Work, Correspondence, Initiation, Theurgy, Dissolution, Enlightenment*
+*Figures mentioned: Hermes Trismegistus, Robert Fludd, Marsilio Ficino, John Dee, Arthur Edward Waite, Henry Cornelius Agrippa, Johannes Trithemius, Jacob Böhme, Giordano Bruno, Giambattista della Porta, Pico della Mirandola, Cagliostro, Plotinus, Roger Bacon, Michael Maier, Paracelsus*
+*Concepts mentioned: Correspondence, Spiritual Alchemy, Quintessence, Great Work, Theurgy, Enlightenment, Dissolution, Secret Doctrine, Initiation*

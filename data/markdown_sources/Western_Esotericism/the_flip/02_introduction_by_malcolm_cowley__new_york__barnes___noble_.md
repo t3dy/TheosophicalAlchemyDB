@@ -5,9 +5,9 @@ author: Kripal, Jeffrey J.;
 total_pages: 241
 section: introduction by Malcolm Cowley (New York: Barnes & Noble,
 section_number: 2
-date_processed: 2026-05-25T14:51:15.820310
-figures_mentioned: Plotinus, Meister Eckhart, Francis Bacon
-concepts_mentioned: Emanation, Sublimation, Henosis, Correspondence, Initiation, Enlightenment
+date_processed: 2026-05-25T15:16:10.854034
+figures_mentioned: Francis Bacon, Meister Eckhart, Plotinus
+concepts_mentioned: Correspondence, Henosis, Enlightenment, Emanation, Sublimation, Initiation
 ---
 
 # The Flip
@@ -635,5 +635,5 @@ New York
 ---
 
 *Extracted from: The Flip (241 pages)*
-*Figures mentioned: Plotinus, Meister Eckhart, Francis Bacon*
-*Concepts mentioned: Emanation, Sublimation, Henosis, Correspondence, Initiation, Enlightenment*
+*Figures mentioned: Francis Bacon, Meister Eckhart, Plotinus*
+*Concepts mentioned: Correspondence, Henosis, Enlightenment, Emanation, Sublimation, Initiation*
