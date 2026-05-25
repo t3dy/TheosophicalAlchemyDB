@@ -67,7 +67,7 @@
           "relevance": "primary"
         }
       ],
-      "image_url": "images/figures/john-dee.png"
+      "image_url": "images/figures/john-dee.jpg"
     },
     {
       "id": 3,
@@ -98,7 +98,7 @@
           "relevance": "primary"
         }
       ],
-      "image_url": "images/figures/robert-fludd.png"
+      "image_url": "images/figures/robert-fludd.jpg"
     },
     {
       "id": 4,
@@ -130,7 +130,7 @@
           "relevance": "primary"
         }
       ],
-      "image_url": "images/figures/paracelsus.png"
+      "image_url": "images/figures/paracelsus.jpg"
     },
     {
       "id": 5,
@@ -327,7 +327,8 @@
           "quote": "Integration of mystical practice with historical development of esotericism.",
           "relevance": "primary"
         }
-      ]
+      ],
+      "image_url": "images/figures/michael-maier.jpg"
     },
     {
       "id": 11,
@@ -2321,7 +2322,8 @@
           "relevance": "primary"
         }
       ],
-      "created_at": "2026-05-25T12:09:48.317372"
+      "created_at": "2026-05-25T12:09:48.317372",
+      "image_url": "images/figures/jan-baptist-van-helmont.jpg"
     },
     {
       "id": 72,
@@ -2646,7 +2648,8 @@
         25,
         62
       ],
-      "created_at": "2026-05-25T12:46:42.266761"
+      "created_at": "2026-05-25T12:46:42.266761",
+      "image_url": "images/figures/john-dee.jpg"
     },
     {
       "id": 86,
@@ -2753,7 +2756,8 @@
         25,
         62
       ],
-      "created_at": "2026-05-25T12:48:45.528355"
+      "created_at": "2026-05-25T12:48:45.528355",
+      "image_url": "images/figures/michael-maier.jpg"
     },
     {
       "id": 91,
