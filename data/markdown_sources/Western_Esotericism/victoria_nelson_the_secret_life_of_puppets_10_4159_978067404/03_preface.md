@@ -5,9 +5,9 @@ author: Unknown
 total_pages: 365
 section: preface
 section_number: 3
-date_processed: 2026-05-25T15:11:44.536273
-figures_mentioned: Hermes Trismegistus, Pico della Mirandola, Plotinus, Isaac Newton, Francis Bacon, Robert Fludd, Paracelsus, Thomas Aquinas, Michael Maier, Giordano Bruno, William Blake, Albertus Magnus, John Dee
-concepts_mentioned: Nigredo, Sublimation, Quintessence, Albedo, Color Symbolism, Correspondence, Fermentation, Initiation, Theurgy, Dissolution, Enlightenment
+date_processed: 2026-05-25T15:30:30.216547
+figures_mentioned: Hermes Trismegistus, Thomas Aquinas, Albertus Magnus, Francis Bacon, John Dee, Isaac Newton, William Blake, Giordano Bruno, Plotinus, Pico della Mirandola, Robert Fludd, Michael Maier, Paracelsus
+concepts_mentioned: Correspondence, Color Symbolism, Quintessence, Fermentation, Theurgy, Enlightenment, Dissolution, Albedo, Nigredo, Sublimation, Initiation
 ---
 
 # Victoria Nelson The Secret Life of Puppets 10 4159_9780674041417 libgen li
@@ -72,5 +72,5 @@ etic Giordano Bruno: the divinization of the human.
 ---
 
 *Extracted from: Victoria Nelson The Secret Life of Puppets 10 4159_9780674041417 libgen li (365 pages)*
-*Figures mentioned: Hermes Trismegistus, Pico della Mirandola, Plotinus, Isaac Newton, Francis Bacon, Robert Fludd, Paracelsus, Thomas Aquinas, Michael Maier, Giordano Bruno, William Blake, Albertus Magnus, John Dee*
-*Concepts mentioned: Nigredo, Sublimation, Quintessence, Albedo, Color Symbolism, Correspondence, Fermentation, Initiation, Theurgy, Dissolution, Enlightenment*
+*Figures mentioned: Hermes Trismegistus, Thomas Aquinas, Albertus Magnus, Francis Bacon, John Dee, Isaac Newton, William Blake, Giordano Bruno, Plotinus, Pico della Mirandola, Robert Fludd, Michael Maier, Paracelsus*
+*Concepts mentioned: Correspondence, Color Symbolism, Quintessence, Fermentation, Theurgy, Enlightenment, Dissolution, Albedo, Nigredo, Sublimation, Initiation*

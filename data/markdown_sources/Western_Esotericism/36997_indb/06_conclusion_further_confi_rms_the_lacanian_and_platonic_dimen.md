@@ -5,9 +5,9 @@ author: Ids
 total_pages: 193
 section: conclusion further confi rms the Lacanian and Platonic dimension of
 section_number: 6
-date_processed: 2026-05-25T15:13:30.597778
+date_processed: 2026-05-25T15:31:42.220697
 figures_mentioned: Hermes Trismegistus, Leibniz, Gottfried Wilhelm, Plotinus, Paracelsus
-concepts_mentioned: Emanation, Divine Names, Correspondence, Initiation, Theurgy, Dissolution
+concepts_mentioned: Correspondence, Divine Names, Theurgy, Dissolution, Emanation, Initiation
 ---
 
 # 36997.indb
@@ -811,4 +811,4 @@ of order.
 
 *Extracted from: 36997.indb (193 pages)*
 *Figures mentioned: Hermes Trismegistus, Leibniz, Gottfried Wilhelm, Plotinus, Paracelsus*
-*Concepts mentioned: Emanation, Divine Names, Correspondence, Initiation, Theurgy, Dissolution*
+*Concepts mentioned: Correspondence, Divine Names, Theurgy, Dissolution, Emanation, Initiation*

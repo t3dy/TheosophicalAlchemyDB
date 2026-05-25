@@ -5,9 +5,9 @@ author: Rebecca L. Stein;Philip L. Stein;Benjamin R. Kracht;Marjorie M. Snipes;
 total_pages: 415
 section: conclusion. This did not happen immediately. It was not until the fourth century
 section_number: 25
-date_processed: 2026-05-25T15:07:00.060073
+date_processed: 2026-05-25T15:27:29.721533
 figures_mentioned: None
-concepts_mentioned: Enlightenment, Correspondence, Initiation, Dissolution, Color Symbolism
+concepts_mentioned: Correspondence, Color Symbolism, Enlightenment, Dissolution, Initiation
 ---
 
 # The Anthropology of Religion, Magic, and Witchcraft
@@ -175,4 +175,4 @@ social issues, the growth of Nones is predicted to continue rising.18
 
 *Extracted from: The Anthropology of Religion, Magic, and Witchcraft (415 pages)*
 *Figures mentioned: None*
-*Concepts mentioned: Enlightenment, Correspondence, Initiation, Dissolution, Color Symbolism*
+*Concepts mentioned: Correspondence, Color Symbolism, Enlightenment, Dissolution, Initiation*

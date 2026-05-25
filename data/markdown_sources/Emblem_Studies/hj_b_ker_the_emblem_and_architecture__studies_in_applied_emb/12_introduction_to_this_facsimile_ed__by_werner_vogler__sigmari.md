@@ -5,9 +5,9 @@ author: Unknown
 total_pages: 340
 section: Introduction to this facsimile ed. by Werner Vogler. Sigmaringen, Switzerland: J
 section_number: 12
-date_processed: 2026-05-25T15:16:46.291241
-figures_mentioned: Hermes Trismegistus, Philip Sidney, Francis Bacon, Thomas Aquinas, Marsilio Ficino, Albertus Magnus
-concepts_mentioned: Enlightenment, Correspondence, Distillation
+date_processed: 2026-05-25T15:34:26.662777
+figures_mentioned: Hermes Trismegistus, Thomas Aquinas, Albertus Magnus, Francis Bacon, Marsilio Ficino, Philip Sidney
+concepts_mentioned: Correspondence, Distillation, Enlightenment
 ---
 
 # HJ Böker The Emblem and Architecture_ Studies in Applied Emblematics from the Sixteenth to the Eighteenth Centuries libgen li
@@ -1127,5 +1127,5 @@ FAX 32 16 28 50 25
 ---
 
 *Extracted from: HJ Böker The Emblem and Architecture_ Studies in Applied Emblematics from the Sixteenth to the Eighteenth Centuries libgen li (340 pages)*
-*Figures mentioned: Hermes Trismegistus, Philip Sidney, Francis Bacon, Thomas Aquinas, Marsilio Ficino, Albertus Magnus*
-*Concepts mentioned: Enlightenment, Correspondence, Distillation*
+*Figures mentioned: Hermes Trismegistus, Thomas Aquinas, Albertus Magnus, Francis Bacon, Marsilio Ficino, Philip Sidney*
+*Concepts mentioned: Correspondence, Distillation, Enlightenment*

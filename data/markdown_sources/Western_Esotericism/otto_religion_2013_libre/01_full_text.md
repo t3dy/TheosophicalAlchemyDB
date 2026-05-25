@@ -5,8 +5,8 @@ author: Unknown
 total_pages: 10
 section: Full Text
 section_number: 1
-date_processed: 2026-05-25T15:04:48.759537
-figures_mentioned: Pico della Mirandola, Marsilio Ficino
+date_processed: 2026-05-25T15:26:06.171143
+figures_mentioned: Marsilio Ficino, Pico della Mirandola
 concepts_mentioned: Enlightenment
 ---
 
@@ -594,5 +594,5 @@ dedaolnwoD
 ---
 
 *Extracted from: Otto_Religion_2013 libre (10 pages)*
-*Figures mentioned: Pico della Mirandola, Marsilio Ficino*
+*Figures mentioned: Marsilio Ficino, Pico della Mirandola*
 *Concepts mentioned: Enlightenment*

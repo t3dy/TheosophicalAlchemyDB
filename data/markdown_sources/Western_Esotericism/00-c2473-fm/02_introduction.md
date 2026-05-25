@@ -5,9 +5,9 @@ author: cc1
 total_pages: 341
 section: INTRODUCTION
 section_number: 2
-date_processed: 2026-05-25T15:05:45.516735
+date_processed: 2026-05-25T15:26:41.385749
 figures_mentioned: None
-concepts_mentioned: Regeneration, Emanation, Sublimation, Distillation, Quintessence, Correspondence, Initiation, Dissolution, Enlightenment
+concepts_mentioned: Correspondence, Quintessence, Enlightenment, Dissolution, Regeneration, Emanation, Distillation, Sublimation, Initiation
 ---
 
 # 00-C2473-FM
@@ -837,4 +837,4 @@ terror, the oracles or deity-dancers allow speech to be born.
 
 *Extracted from: 00-C2473-FM (341 pages)*
 *Figures mentioned: None*
-*Concepts mentioned: Regeneration, Emanation, Sublimation, Distillation, Quintessence, Correspondence, Initiation, Dissolution, Enlightenment*
+*Concepts mentioned: Correspondence, Quintessence, Enlightenment, Dissolution, Regeneration, Emanation, Distillation, Sublimation, Initiation*

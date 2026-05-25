@@ -5,9 +5,9 @@ author: yanulada
 total_pages: 195
 section: Conclusion 107
 section_number: 12
-date_processed: 2026-05-25T15:09:37.816907
+date_processed: 2026-05-25T15:29:09.772281
 figures_mentioned: Meister Eckhart
-concepts_mentioned: Mystical Union, Secret Doctrine, Correspondence
+concepts_mentioned: Correspondence, Secret Doctrine, Mystical Union
 ---
 
 # 68700 eb i-178 .pdf
@@ -3244,4 +3244,4 @@ Tengswich, Mistress, 12 Zum Brunn, Emilie, 13
 
 *Extracted from: 68700 eb i-178 .pdf (195 pages)*
 *Figures mentioned: Meister Eckhart*
-*Concepts mentioned: Mystical Union, Secret Doctrine, Correspondence*
+*Concepts mentioned: Correspondence, Secret Doctrine, Mystical Union*

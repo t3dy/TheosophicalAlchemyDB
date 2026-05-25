@@ -5,9 +5,9 @@ author: Unknown
 total_pages: 567
 section: introduction xix
 section_number: 7
-date_processed: 2026-05-25T15:13:01.215347
-figures_mentioned: Giambattista della Porta, Francis Bacon, William Blake, Albertus Magnus, Louis-Claude de Saint-Martin, Jacob Böhme, Heinrich Khunrath, Hermes Trismegistus, Pico della Mirandola, Cagliostro, Robert Boyle, Marsilio Ficino, Johann Georg Gichtel, Plotinus, Claude de Saint-Martin, Paracelsus, Michael Maier, Giordano Bruno, Karl von Eckartshausen
-concepts_mentioned: Tincture, Spiritual Alchemy, Elixir of Life, Coagulation, Emanation, Regeneration, Inner Transformation, Sublimation, Quintessence, Mystical Union, Initiation, Rosy Cross, Correspondence, Divine Names, Fermentation, Theurgy, Dissolution, Enlightenment
+date_processed: 2026-05-25T15:31:23.114877
+figures_mentioned: Francis Bacon, Heinrich Khunrath, Robert Boyle, Giordano Bruno, Claude de Saint-Martin, Paracelsus, Hermes Trismegistus, Pico della Mirandola, Michael Maier, Albertus Magnus, Marsilio Ficino, Johann Georg Gichtel, William Blake, Giambattista della Porta, Cagliostro, Karl von Eckartshausen, Louis-Claude de Saint-Martin, Jacob Böhme, Plotinus
+concepts_mentioned: Correspondence, Tincture, Spiritual Alchemy, Mystical Union, Quintessence, Fermentation, Divine Names, Theurgy, Coagulation, Enlightenment, Dissolution, Regeneration, Inner Transformation, Elixir of Life, Rosy Cross, Emanation, Sublimation, Initiation
 ---
 
 # Wouter J Hanegraaff Jeffrey J Kripal Hidden Intercourse_ Eros and Sexuality in the History of Western Esotericism Brill Academic Pub
@@ -101,5 +101,5 @@ male friend in order to work through his sexual melancholy;
 ---
 
 *Extracted from: Wouter J Hanegraaff Jeffrey J Kripal Hidden Intercourse_ Eros and Sexuality in the History of Western Esotericism Brill Academic Pub (567 pages)*
-*Figures mentioned: Giambattista della Porta, Francis Bacon, William Blake, Albertus Magnus, Louis-Claude de Saint-Martin, Jacob Böhme, Heinrich Khunrath, Hermes Trismegistus, Pico della Mirandola, Cagliostro, Robert Boyle, Marsilio Ficino, Johann Georg Gichtel, Plotinus, Claude de Saint-Martin, Paracelsus, Michael Maier, Giordano Bruno, Karl von Eckartshausen*
-*Concepts mentioned: Tincture, Spiritual Alchemy, Elixir of Life, Coagulation, Emanation, Regeneration, Inner Transformation, Sublimation, Quintessence, Mystical Union, Initiation, Rosy Cross, Correspondence, Divine Names, Fermentation, Theurgy, Dissolution, Enlightenment*
+*Figures mentioned: Francis Bacon, Heinrich Khunrath, Robert Boyle, Giordano Bruno, Claude de Saint-Martin, Paracelsus, Hermes Trismegistus, Pico della Mirandola, Michael Maier, Albertus Magnus, Marsilio Ficino, Johann Georg Gichtel, William Blake, Giambattista della Porta, Cagliostro, Karl von Eckartshausen, Louis-Claude de Saint-Martin, Jacob Böhme, Plotinus*
+*Concepts mentioned: Correspondence, Tincture, Spiritual Alchemy, Mystical Union, Quintessence, Fermentation, Divine Names, Theurgy, Coagulation, Enlightenment, Dissolution, Regeneration, Inner Transformation, Elixir of Life, Rosy Cross, Emanation, Sublimation, Initiation*

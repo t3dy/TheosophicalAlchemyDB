@@ -5,9 +5,9 @@ author: cc1
 total_pages: 341
 section: Chapter 1 appears here by permission; it was originally published in
 section_number: 1
-date_processed: 2026-05-25T15:05:45.512152
+date_processed: 2026-05-25T15:26:41.384195
 figures_mentioned: None
-concepts_mentioned: Regeneration, Emanation, Sublimation, Distillation, Quintessence, Correspondence, Initiation, Dissolution, Enlightenment
+concepts_mentioned: Correspondence, Quintessence, Enlightenment, Dissolution, Regeneration, Emanation, Distillation, Sublimation, Initiation
 ---
 
 # 00-C2473-FM
@@ -4576,4 +4576,4 @@ ka¯l.i in a context of terror
 
 *Extracted from: 00-C2473-FM (341 pages)*
 *Figures mentioned: None*
-*Concepts mentioned: Regeneration, Emanation, Sublimation, Distillation, Quintessence, Correspondence, Initiation, Dissolution, Enlightenment*
+*Concepts mentioned: Correspondence, Quintessence, Enlightenment, Dissolution, Regeneration, Emanation, Distillation, Sublimation, Initiation*

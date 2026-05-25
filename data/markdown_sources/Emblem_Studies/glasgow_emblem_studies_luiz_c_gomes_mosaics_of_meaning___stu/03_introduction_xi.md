@@ -5,7 +5,7 @@ author:
 total_pages: 101
 section: INTRODUCTION XI
 section_number: 3
-date_processed: 2026-05-25T15:16:03.874029
+date_processed: 2026-05-25T15:33:52.648996
 figures_mentioned: Thomas Aquinas
 concepts_mentioned: Enlightenment
 ---

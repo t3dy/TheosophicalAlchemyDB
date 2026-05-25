@@ -5,8 +5,8 @@ author: Unknown
 total_pages: 239
 section: Conclusiones ex philosophia universa.
 section_number: 4
-date_processed: 2026-05-25T15:17:11.548167
-figures_mentioned: Adam McLean, William Law, Philip Sidney
+date_processed: 2026-05-25T15:34:46.715532
+figures_mentioned: Philip Sidney, William Law, Adam McLean
 concepts_mentioned: Enlightenment
 ---
 
@@ -2333,5 +2333,5 @@ Harvard University, Houghton Library: MS Typ 44. (BEMA no. * 416)
 ---
 
 *Extracted from: Sandra Sider Barbara Obrist Sandra Sider Barbara Obrist Corpus Librorum Emblematum_ Bibliography of Emblematic Manuscripts Mcgill Queens University Press (239 pages)*
-*Figures mentioned: Adam McLean, William Law, Philip Sidney*
+*Figures mentioned: Philip Sidney, William Law, Adam McLean*
 *Concepts mentioned: Enlightenment*

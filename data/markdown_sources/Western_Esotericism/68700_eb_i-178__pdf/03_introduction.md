@@ -5,9 +5,9 @@ author: yanulada
 total_pages: 195
 section: INTRODUCTION
 section_number: 3
-date_processed: 2026-05-25T15:09:37.807808
+date_processed: 2026-05-25T15:29:09.767804
 figures_mentioned: Meister Eckhart
-concepts_mentioned: Mystical Union, Secret Doctrine, Correspondence
+concepts_mentioned: Correspondence, Secret Doctrine, Mystical Union
 ---
 
 # 68700 eb i-178 .pdf
@@ -99,4 +99,4 @@ widely during Porete’s lifetime, as attests the range of extant manuscripts in
 
 *Extracted from: 68700 eb i-178 .pdf (195 pages)*
 *Figures mentioned: Meister Eckhart*
-*Concepts mentioned: Mystical Union, Secret Doctrine, Correspondence*
+*Concepts mentioned: Correspondence, Secret Doctrine, Mystical Union*

@@ -5,9 +5,9 @@ author: Urszula Szulakowska
 total_pages: 251
 section: introduction 13
 section_number: 8
-date_processed: 2026-05-25T15:10:05.954977
-figures_mentioned: Johann Tauler, Giambattista della Porta, Johann Valentin Andreae, Heinrich Cornelius Agrippa, Ashmole, Elias, Roger Bacon, Albertus Magnus, Heinrich Khunrath, Hermes Trismegistus, Adam McLean, Pico della Mirandola, Johann Arndt, Oswald Croll, Marsilio Ficino, Rudolf II, Holy Roman Emperor, John Dee, Plotinus, Robert Fludd, Paracelsus, Thomas Aquinas, Gerhard Dorn, Michael Maier, Giordano Bruno
-concepts_mentioned: Tincture, Spiritual Alchemy, Elixir of Life, Coagulation, Emanation, Regeneration, Calcination, Lapis Philosophorum, Distillation, Quintessence, Correspondence, Fermentation, Dissolution, Enlightenment
+date_processed: 2026-05-25T15:29:27.310765
+figures_mentioned: Ashmole, Elias, Johann Tauler, Heinrich Khunrath, Adam McLean, Rudolf II, Holy Roman Emperor, Giordano Bruno, Paracelsus, Hermes Trismegistus, Thomas Aquinas, Heinrich Cornelius Agrippa, Oswald Croll, Pico della Mirandola, Johann Valentin Andreae, Roger Bacon, Michael Maier, Albertus Magnus, Marsilio Ficino, Giambattista della Porta, Johann Arndt, John Dee, Gerhard Dorn, Plotinus, Robert Fludd
+concepts_mentioned: Correspondence, Tincture, Calcination, Spiritual Alchemy, Quintessence, Fermentation, Coagulation, Lapis Philosophorum, Dissolution, Regeneration, Enlightenment, Elixir of Life, Emanation, Distillation
 ---
 
 # The Sacrificial Body and the Day of Doom: Alchemy and Apocalyptic Discourse in the Protestant Reformation
@@ -325,5 +325,5 @@ grammaton,” was the source of power. Pico della Mirandola in his
 ---
 
 *Extracted from: The Sacrificial Body and the Day of Doom: Alchemy and Apocalyptic Discourse in the Protestant Reformation (251 pages)*
-*Figures mentioned: Johann Tauler, Giambattista della Porta, Johann Valentin Andreae, Heinrich Cornelius Agrippa, Ashmole, Elias, Roger Bacon, Albertus Magnus, Heinrich Khunrath, Hermes Trismegistus, Adam McLean, Pico della Mirandola, Johann Arndt, Oswald Croll, Marsilio Ficino, Rudolf II, Holy Roman Emperor, John Dee, Plotinus, Robert Fludd, Paracelsus, Thomas Aquinas, Gerhard Dorn, Michael Maier, Giordano Bruno*
-*Concepts mentioned: Tincture, Spiritual Alchemy, Elixir of Life, Coagulation, Emanation, Regeneration, Calcination, Lapis Philosophorum, Distillation, Quintessence, Correspondence, Fermentation, Dissolution, Enlightenment*
+*Figures mentioned: Ashmole, Elias, Johann Tauler, Heinrich Khunrath, Adam McLean, Rudolf II, Holy Roman Emperor, Giordano Bruno, Paracelsus, Hermes Trismegistus, Thomas Aquinas, Heinrich Cornelius Agrippa, Oswald Croll, Pico della Mirandola, Johann Valentin Andreae, Roger Bacon, Michael Maier, Albertus Magnus, Marsilio Ficino, Giambattista della Porta, Johann Arndt, John Dee, Gerhard Dorn, Plotinus, Robert Fludd*
+*Concepts mentioned: Correspondence, Tincture, Calcination, Spiritual Alchemy, Quintessence, Fermentation, Coagulation, Lapis Philosophorum, Dissolution, Regeneration, Enlightenment, Elixir of Life, Emanation, Distillation*

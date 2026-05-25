@@ -5,9 +5,9 @@ author: JatePress
 total_pages: 251
 section: Introduction
 section_number: 13
-date_processed: 2026-05-25T15:01:24.568016
-figures_mentioned: Arthur Edward Waite, Pico della Mirandola, Johannes Trithemius, Paracelsus, Éliphas Lévi
-concepts_mentioned: Regeneration, Secret Doctrine, Mystical Union, Correspondence, Fermentation, Initiation, Divine Names, Theurgy, Dissolution, Enlightenment
+date_processed: 2026-05-25T15:24:08.649310
+figures_mentioned: Éliphas Lévi, Arthur Edward Waite, Pico della Mirandola, Johannes Trithemius, Paracelsus
+concepts_mentioned: Correspondence, Mystical Union, Divine Names, Fermentation, Theurgy, Enlightenment, Dissolution, Regeneration, Secret Doctrine, Initiation
 ---
 
 # Corel Office Document
@@ -723,5 +723,5 @@ the presence of Abulafia’s influence in Llull’s work is merited.81
 ---
 
 *Extracted from: Corel Office Document (251 pages)*
-*Figures mentioned: Arthur Edward Waite, Pico della Mirandola, Johannes Trithemius, Paracelsus, Éliphas Lévi*
-*Concepts mentioned: Regeneration, Secret Doctrine, Mystical Union, Correspondence, Fermentation, Initiation, Divine Names, Theurgy, Dissolution, Enlightenment*
+*Figures mentioned: Éliphas Lévi, Arthur Edward Waite, Pico della Mirandola, Johannes Trithemius, Paracelsus*
+*Concepts mentioned: Correspondence, Mystical Union, Divine Names, Fermentation, Theurgy, Enlightenment, Dissolution, Regeneration, Secret Doctrine, Initiation*

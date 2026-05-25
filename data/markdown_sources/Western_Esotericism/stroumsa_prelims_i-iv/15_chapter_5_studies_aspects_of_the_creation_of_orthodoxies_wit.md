@@ -5,9 +5,9 @@ author: Lorry
 total_pages: 229
 section: Chapter 5 studies aspects of the creation of orthodoxies within
 section_number: 15
-date_processed: 2026-05-25T15:03:41.987958
-figures_mentioned: Hermes Trismegistus, Pico della Mirandola, Plotinus
-concepts_mentioned: Theosis, Secret Doctrine, Great Work, Divine Names, Initiation, Theurgy, Dissolution, Enlightenment
+date_processed: 2026-05-25T15:25:28.182043
+figures_mentioned: Hermes Trismegistus, Plotinus, Pico della Mirandola
+concepts_mentioned: Divine Names, Great Work, Theurgy, Enlightenment, Dissolution, Theosis, Secret Doctrine, Initiation
 ---
 
 # STROUMSA_Prelims_i-iv
@@ -48,5 +48,5 @@ process in the west. Augustine, who had been a Manichaean auditor
 ---
 
 *Extracted from: STROUMSA_Prelims_i-iv (229 pages)*
-*Figures mentioned: Hermes Trismegistus, Pico della Mirandola, Plotinus*
-*Concepts mentioned: Theosis, Secret Doctrine, Great Work, Divine Names, Initiation, Theurgy, Dissolution, Enlightenment*
+*Figures mentioned: Hermes Trismegistus, Plotinus, Pico della Mirandola*
+*Concepts mentioned: Divine Names, Great Work, Theurgy, Enlightenment, Dissolution, Theosis, Secret Doctrine, Initiation*

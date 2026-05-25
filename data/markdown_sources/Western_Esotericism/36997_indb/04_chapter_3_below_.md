@@ -5,9 +5,9 @@ author: Ids
 total_pages: 193
 section: chapter 3 below.
 section_number: 4
-date_processed: 2026-05-25T15:13:30.596253
+date_processed: 2026-05-25T15:31:42.218649
 figures_mentioned: Hermes Trismegistus, Leibniz, Gottfried Wilhelm, Plotinus, Paracelsus
-concepts_mentioned: Emanation, Divine Names, Correspondence, Initiation, Theurgy, Dissolution
+concepts_mentioned: Correspondence, Divine Names, Theurgy, Dissolution, Emanation, Initiation
 ---
 
 # 36997.indb
@@ -1981,4 +1981,4 @@ Ba ʾ z ī az Ta ʾ w ī l ā t-i Golsh ā n-i R ā z], ed. and trans. Henry Cor
 
 *Extracted from: 36997.indb (193 pages)*
 *Figures mentioned: Hermes Trismegistus, Leibniz, Gottfried Wilhelm, Plotinus, Paracelsus*
-*Concepts mentioned: Emanation, Divine Names, Correspondence, Initiation, Theurgy, Dissolution*
+*Concepts mentioned: Correspondence, Divine Names, Theurgy, Dissolution, Emanation, Initiation*

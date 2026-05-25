@@ -5,9 +5,9 @@ author: yanulada
 total_pages: 195
 section: CONCLUSION
 section_number: 9
-date_processed: 2026-05-25T15:09:37.813694
+date_processed: 2026-05-25T15:29:09.771112
 figures_mentioned: Meister Eckhart
-concepts_mentioned: Mystical Union, Secret Doctrine, Correspondence
+concepts_mentioned: Correspondence, Secret Doctrine, Mystical Union
 ---
 
 # 68700 eb i-178 .pdf
@@ -90,4 +90,4 @@ describes this in a practical manner as a way of explaining the differences of
 
 *Extracted from: 68700 eb i-178 .pdf (195 pages)*
 *Figures mentioned: Meister Eckhart*
-*Concepts mentioned: Mystical Union, Secret Doctrine, Correspondence*
+*Concepts mentioned: Correspondence, Secret Doctrine, Mystical Union*

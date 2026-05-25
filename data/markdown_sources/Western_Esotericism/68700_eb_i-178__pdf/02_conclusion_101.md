@@ -5,9 +5,9 @@ author: yanulada
 total_pages: 195
 section: Conclusion 101
 section_number: 2
-date_processed: 2026-05-25T15:09:37.806953
+date_processed: 2026-05-25T15:29:09.767351
 figures_mentioned: Meister Eckhart
-concepts_mentioned: Mystical Union, Secret Doctrine, Correspondence
+concepts_mentioned: Correspondence, Secret Doctrine, Mystical Union
 ---
 
 # 68700 eb i-178 .pdf
@@ -77,4 +77,4 @@ done for me. I hope this book serves in some small way as a tribute to them.
 
 *Extracted from: 68700 eb i-178 .pdf (195 pages)*
 *Figures mentioned: Meister Eckhart*
-*Concepts mentioned: Mystical Union, Secret Doctrine, Correspondence*
+*Concepts mentioned: Correspondence, Secret Doctrine, Mystical Union*

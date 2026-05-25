@@ -5,9 +5,9 @@ author: Peter Kingsley & Ruth Phelps & Jean Guesdon & Ralph Maxwell Lewis & Ben 
 total_pages: 99
 section: Full Text
 section_number: 1
-date_processed: 2026-05-25T15:08:30.757372
-figures_mentioned: Claude de Saint-Martin, Hermes Trismegistus, Robert Fludd
-concepts_mentioned: Initiation, Inner Transformation, Correspondence
+date_processed: 2026-05-25T15:28:26.724258
+figures_mentioned: Hermes Trismegistus, Claude de Saint-Martin, Robert Fludd
+concepts_mentioned: Correspondence, Initiation, Inner Transformation
 ---
 
 # The Pythagoreans: Digest (Rosicrucian Order AMORC Kindle Editions)
@@ -2748,5 +2748,5 @@ Rosicrucian Research Library Staff
 ---
 
 *Extracted from: The Pythagoreans: Digest (Rosicrucian Order AMORC Kindle Editions) (99 pages)*
-*Figures mentioned: Claude de Saint-Martin, Hermes Trismegistus, Robert Fludd*
-*Concepts mentioned: Initiation, Inner Transformation, Correspondence*
+*Figures mentioned: Hermes Trismegistus, Claude de Saint-Martin, Robert Fludd*
+*Concepts mentioned: Correspondence, Initiation, Inner Transformation*

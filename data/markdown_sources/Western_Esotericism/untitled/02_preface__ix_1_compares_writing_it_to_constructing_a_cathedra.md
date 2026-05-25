@@ -5,7 +5,7 @@ author: Unknown
 total_pages: 12
 section: preface (ix)1 compares writing it to constructing a cathedral, and the compariso
 section_number: 2
-date_processed: 2026-05-25T15:07:02.590180
+date_processed: 2026-05-25T15:27:31.593406
 figures_mentioned: Brian Vickers
 concepts_mentioned: Enlightenment
 ---

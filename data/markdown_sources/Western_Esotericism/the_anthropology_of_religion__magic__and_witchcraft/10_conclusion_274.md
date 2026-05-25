@@ -5,9 +5,9 @@ author: Rebecca L. Stein;Philip L. Stein;Benjamin R. Kracht;Marjorie M. Snipes;
 total_pages: 415
 section: Conclusion 274
 section_number: 10
-date_processed: 2026-05-25T15:07:00.040503
+date_processed: 2026-05-25T15:27:29.713771
 figures_mentioned: None
-concepts_mentioned: Enlightenment, Correspondence, Initiation, Dissolution, Color Symbolism
+concepts_mentioned: Correspondence, Color Symbolism, Enlightenment, Dissolution, Initiation
 ---
 
 # The Anthropology of Religion, Magic, and Witchcraft
@@ -44,4 +44,4 @@ The growing popularity and persecution of Wicca 296
 
 *Extracted from: The Anthropology of Religion, Magic, and Witchcraft (415 pages)*
 *Figures mentioned: None*
-*Concepts mentioned: Enlightenment, Correspondence, Initiation, Dissolution, Color Symbolism*
+*Concepts mentioned: Correspondence, Color Symbolism, Enlightenment, Dissolution, Initiation*

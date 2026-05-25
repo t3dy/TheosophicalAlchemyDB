@@ -5,9 +5,9 @@ author: Rebecca L. Stein;Philip L. Stein;Benjamin R. Kracht;Marjorie M. Snipes;
 total_pages: 415
 section: Conclusion
 section_number: 22
-date_processed: 2026-05-25T15:07:00.056236
+date_processed: 2026-05-25T15:27:29.719558
 figures_mentioned: None
-concepts_mentioned: Enlightenment, Correspondence, Initiation, Dissolution, Color Symbolism
+concepts_mentioned: Correspondence, Color Symbolism, Enlightenment, Dissolution, Initiation
 ---
 
 # The Anthropology of Religion, Magic, and Witchcraft
@@ -1357,4 +1357,4 @@ not provide food and water and will often begin funeral rituals before death has
 
 *Extracted from: The Anthropology of Religion, Magic, and Witchcraft (415 pages)*
 *Figures mentioned: None*
-*Concepts mentioned: Enlightenment, Correspondence, Initiation, Dissolution, Color Symbolism*
+*Concepts mentioned: Correspondence, Color Symbolism, Enlightenment, Dissolution, Initiation*

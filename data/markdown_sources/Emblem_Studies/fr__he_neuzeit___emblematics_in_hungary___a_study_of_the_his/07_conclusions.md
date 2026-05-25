@@ -5,9 +5,9 @@ author: Knapp, Eva(Author)
 total_pages: 410
 section: Conclusions
 section_number: 7
-date_processed: 2026-05-25T15:15:35.224877
-figures_mentioned: Francis Bacon, Philip Sidney, Johann Arndt, Paracelsus, Giordano Bruno
-concepts_mentioned: Enlightenment, Correspondence, Distillation
+date_processed: 2026-05-25T15:33:28.092522
+figures_mentioned: Philip Sidney, Francis Bacon, Giordano Bruno, Johann Arndt, Paracelsus
+concepts_mentioned: Correspondence, Distillation, Enlightenment
 ---
 
 # FrÃ¼he Neuzeit : Emblematics in Hungary : A Study of the History of Symbolic Representation in Renaissance and Baroque Literature
@@ -1102,5 +1102,5 @@ for thematic purposes.
 ---
 
 *Extracted from: FrÃ¼he Neuzeit : Emblematics in Hungary : A Study of the History of Symbolic Representation in Renaissance and Baroque Literature (410 pages)*
-*Figures mentioned: Francis Bacon, Philip Sidney, Johann Arndt, Paracelsus, Giordano Bruno*
-*Concepts mentioned: Enlightenment, Correspondence, Distillation*
+*Figures mentioned: Philip Sidney, Francis Bacon, Giordano Bruno, Johann Arndt, Paracelsus*
+*Concepts mentioned: Correspondence, Distillation, Enlightenment*

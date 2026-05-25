@@ -5,8 +5,8 @@ author: Unknown
 total_pages: 239
 section: INTRODUCTION
 section_number: 2
-date_processed: 2026-05-25T15:17:11.543922
-figures_mentioned: Adam McLean, William Law, Philip Sidney
+date_processed: 2026-05-25T15:34:46.711009
+figures_mentioned: Philip Sidney, William Law, Adam McLean
 concepts_mentioned: Enlightenment
 ---
 
@@ -3448,5 +3448,5 @@ Notes: Circular picturae with motto and subscriptio.
 ---
 
 *Extracted from: Sandra Sider Barbara Obrist Sandra Sider Barbara Obrist Corpus Librorum Emblematum_ Bibliography of Emblematic Manuscripts Mcgill Queens University Press (239 pages)*
-*Figures mentioned: Adam McLean, William Law, Philip Sidney*
+*Figures mentioned: Philip Sidney, William Law, Adam McLean*
 *Concepts mentioned: Enlightenment*

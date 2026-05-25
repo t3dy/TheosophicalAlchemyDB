@@ -5,8 +5,8 @@ author: Unknown
 total_pages: 239
 section: Conclusiones ex philosophia universa. Paris, 1647. 24 folios, in Latin. 46.3 x 3
 section_number: 3
-date_processed: 2026-05-25T15:17:11.546546
-figures_mentioned: Adam McLean, William Law, Philip Sidney
+date_processed: 2026-05-25T15:34:46.714236
+figures_mentioned: Philip Sidney, William Law, Adam McLean
 concepts_mentioned: Enlightenment
 ---
 
@@ -1972,5 +1972,5 @@ Concerning figures of crownes.
 ---
 
 *Extracted from: Sandra Sider Barbara Obrist Sandra Sider Barbara Obrist Corpus Librorum Emblematum_ Bibliography of Emblematic Manuscripts Mcgill Queens University Press (239 pages)*
-*Figures mentioned: Adam McLean, William Law, Philip Sidney*
+*Figures mentioned: Philip Sidney, William Law, Adam McLean*
 *Concepts mentioned: Enlightenment*

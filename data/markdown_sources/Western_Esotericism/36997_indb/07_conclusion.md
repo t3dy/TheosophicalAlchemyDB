@@ -5,9 +5,9 @@ author: Ids
 total_pages: 193
 section: Conclusion
 section_number: 7
-date_processed: 2026-05-25T15:13:30.598743
+date_processed: 2026-05-25T15:31:42.221895
 figures_mentioned: Hermes Trismegistus, Leibniz, Gottfried Wilhelm, Plotinus, Paracelsus
-concepts_mentioned: Emanation, Divine Names, Correspondence, Initiation, Theurgy, Dissolution
+concepts_mentioned: Correspondence, Divine Names, Theurgy, Dissolution, Emanation, Initiation
 ---
 
 # 36997.indb
@@ -1166,4 +1166,4 @@ Jambet, Christian 102, 126–7 al- Z ạ̄ hir 3, 108, 119, 121–2
 
 *Extracted from: 36997.indb (193 pages)*
 *Figures mentioned: Hermes Trismegistus, Leibniz, Gottfried Wilhelm, Plotinus, Paracelsus*
-*Concepts mentioned: Emanation, Divine Names, Correspondence, Initiation, Theurgy, Dissolution*
+*Concepts mentioned: Correspondence, Divine Names, Theurgy, Dissolution, Emanation, Initiation*

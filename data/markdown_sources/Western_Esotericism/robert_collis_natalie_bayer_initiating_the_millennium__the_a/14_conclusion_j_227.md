@@ -5,9 +5,9 @@ author: Unknown
 total_pages: 265
 section: Conclusion j 227
 section_number: 14
-date_processed: 2026-05-25T15:08:05.959034
-figures_mentioned: Hermes Trismegistus, Heinrich Cornelius Agrippa, Nicolas Flamel, Paracelsus, Cagliostro, Karl von Eckartshausen, William Blake, Adam Weishaupt, John Dee, Heinrich Khunrath
-concepts_mentioned: Tincture, Elixir of Life, Calcination, Quintessence, Great Work, Rosy Cross, Correspondence, Initiation, Theurgy, Enlightenment
+date_processed: 2026-05-25T15:28:10.574211
+figures_mentioned: Hermes Trismegistus, Karl von Eckartshausen, Heinrich Cornelius Agrippa, Heinrich Khunrath, John Dee, William Blake, Cagliostro, Nicolas Flamel, Adam Weishaupt, Paracelsus
+concepts_mentioned: Correspondence, Tincture, Calcination, Quintessence, Theurgy, Enlightenment, Elixir of Life, Rosy Cross, Great Work, Initiation
 ---
 
 # Robert Collis Natalie Bayer Initiating the Millennium_ The Avignon Society and Illuminism in Europe OXFORD UNIV PR
@@ -1214,5 +1214,5 @@ War of the Fourth Coalition, 156 Zhitomir (Volhynia), 188n93
 ---
 
 *Extracted from: Robert Collis Natalie Bayer Initiating the Millennium_ The Avignon Society and Illuminism in Europe OXFORD UNIV PR (265 pages)*
-*Figures mentioned: Hermes Trismegistus, Heinrich Cornelius Agrippa, Nicolas Flamel, Paracelsus, Cagliostro, Karl von Eckartshausen, William Blake, Adam Weishaupt, John Dee, Heinrich Khunrath*
-*Concepts mentioned: Tincture, Elixir of Life, Calcination, Quintessence, Great Work, Rosy Cross, Correspondence, Initiation, Theurgy, Enlightenment*
+*Figures mentioned: Hermes Trismegistus, Karl von Eckartshausen, Heinrich Cornelius Agrippa, Heinrich Khunrath, John Dee, William Blake, Cagliostro, Nicolas Flamel, Adam Weishaupt, Paracelsus*
+*Concepts mentioned: Correspondence, Tincture, Calcination, Quintessence, Theurgy, Enlightenment, Elixir of Life, Rosy Cross, Great Work, Initiation*

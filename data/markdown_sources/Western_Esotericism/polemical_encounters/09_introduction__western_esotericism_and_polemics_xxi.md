@@ -5,9 +5,9 @@ author: Hammer, Olav.,Stuckrad, Kocku von
 total_pages: 349
 section: introduction: western esotericism and polemics xxi
 section_number: 9
-date_processed: 2026-05-25T15:04:38.357811
-figures_mentioned: Arthur Edward Waite, Hermes Trismegistus, Pico della Mirandola, Plotinus, Brian Vickers, Johann Arndt, Claude de Saint-Martin, Paracelsus, Cagliostro, Adam von Bodenstein, Marsilio Ficino, Giordano Bruno, Johann Georg Gichtel, Louis-Claude de Saint-Martin, Meister Eckhart, Jacob Böhme, Heinrich Khunrath
-concepts_mentioned: Tincture, Regeneration, Coagulation, Emanation, Secret Doctrine, Distillation, Initiation, Correspondence, Universal Solvent, Fermentation, Divine Names, Theurgy, Dissolution, Enlightenment
+date_processed: 2026-05-25T15:26:00.605993
+figures_mentioned: Hermes Trismegistus, Marsilio Ficino, Johann Georg Gichtel, Heinrich Khunrath, Adam von Bodenstein, Arthur Edward Waite, Brian Vickers, Louis-Claude de Saint-Martin, Jacob Böhme, Giordano Bruno, Meister Eckhart, Cagliostro, Pico della Mirandola, Plotinus, Claude de Saint-Martin, Johann Arndt, Paracelsus
+concepts_mentioned: Correspondence, Tincture, Divine Names, Fermentation, Theurgy, Universal Solvent, Coagulation, Enlightenment, Dissolution, Regeneration, Emanation, Distillation, Secret Doctrine, Initiation
 ---
 
 # Polemical Encounters
@@ -303,5 +303,5 @@ cal ideas to an often underestimated extent; Pico explicitly mentions the Bahir 
 ---
 
 *Extracted from: Polemical Encounters (349 pages)*
-*Figures mentioned: Arthur Edward Waite, Hermes Trismegistus, Pico della Mirandola, Plotinus, Brian Vickers, Johann Arndt, Claude de Saint-Martin, Paracelsus, Cagliostro, Adam von Bodenstein, Marsilio Ficino, Giordano Bruno, Johann Georg Gichtel, Louis-Claude de Saint-Martin, Meister Eckhart, Jacob Böhme, Heinrich Khunrath*
-*Concepts mentioned: Tincture, Regeneration, Coagulation, Emanation, Secret Doctrine, Distillation, Initiation, Correspondence, Universal Solvent, Fermentation, Divine Names, Theurgy, Dissolution, Enlightenment*
+*Figures mentioned: Hermes Trismegistus, Marsilio Ficino, Johann Georg Gichtel, Heinrich Khunrath, Adam von Bodenstein, Arthur Edward Waite, Brian Vickers, Louis-Claude de Saint-Martin, Jacob Böhme, Giordano Bruno, Meister Eckhart, Cagliostro, Pico della Mirandola, Plotinus, Claude de Saint-Martin, Johann Arndt, Paracelsus*
+*Concepts mentioned: Correspondence, Tincture, Divine Names, Fermentation, Theurgy, Universal Solvent, Coagulation, Enlightenment, Dissolution, Regeneration, Emanation, Distillation, Secret Doctrine, Initiation*

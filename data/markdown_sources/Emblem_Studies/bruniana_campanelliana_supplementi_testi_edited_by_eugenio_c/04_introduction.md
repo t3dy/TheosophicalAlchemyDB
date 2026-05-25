@@ -5,9 +5,9 @@ author: Unknown
 total_pages: 122
 section: Introduction
 section_number: 4
-date_processed: 2026-05-25T15:14:09.839271
-figures_mentioned: Pico della Mirandola, Paracelsus, Michael Maier, Marsilio Ficino, Giordano Bruno
-concepts_mentioned: Enlightenment, Correspondence, Distillation
+date_processed: 2026-05-25T15:32:19.171620
+figures_mentioned: Marsilio Ficino, Giordano Bruno, Pico della Mirandola, Michael Maier, Paracelsus
+concepts_mentioned: Correspondence, Distillation, Enlightenment
 ---
 
 # Bruniana campanelliana Supplementi Testi edited by Eugenio Canone and Leen Spruit Emblematics in the early modern age _ case studies on the interaction between philosophy art and literature
@@ -1935,5 +1935,5 @@ newsletter@libraweb.net
 ---
 
 *Extracted from: Bruniana campanelliana Supplementi Testi edited by Eugenio Canone and Leen Spruit Emblematics in the early modern age _ case studies on the interaction between philosophy art and literature (122 pages)*
-*Figures mentioned: Pico della Mirandola, Paracelsus, Michael Maier, Marsilio Ficino, Giordano Bruno*
-*Concepts mentioned: Enlightenment, Correspondence, Distillation*
+*Figures mentioned: Marsilio Ficino, Giordano Bruno, Pico della Mirandola, Michael Maier, Paracelsus*
+*Concepts mentioned: Correspondence, Distillation, Enlightenment*

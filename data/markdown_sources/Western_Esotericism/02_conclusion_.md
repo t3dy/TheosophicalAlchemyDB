@@ -5,9 +5,9 @@ author:
 total_pages: 263
 section: conclusion.
 section_number: 2
-date_processed: 2026-05-25T15:02:08.456481
-figures_mentioned: Hermes Trismegistus, Plotinus, Paracelsus, Giordano Bruno, Éliphas Lévi, Marsilio Ficino, John Dee
-concepts_mentioned: Secret Doctrine, Initiation, Theurgic Practice, Theurgy, Dissolution, Enlightenment
+date_processed: 2026-05-25T15:24:37.751541
+figures_mentioned: Hermes Trismegistus, Éliphas Lévi, Marsilio Ficino, John Dee, Giordano Bruno, Plotinus, Paracelsus
+concepts_mentioned: Theurgy, Enlightenment, Dissolution, Secret Doctrine, Theurgic Practice, Initiation
 ---
 
 # 
@@ -3286,5 +3286,5 @@ exampleof“credibilitymobility”(Asprem,forthcoming,pp.22–25).
 ---
 
 *Extracted from:  (263 pages)*
-*Figures mentioned: Hermes Trismegistus, Plotinus, Paracelsus, Giordano Bruno, Éliphas Lévi, Marsilio Ficino, John Dee*
-*Concepts mentioned: Secret Doctrine, Initiation, Theurgic Practice, Theurgy, Dissolution, Enlightenment*
+*Figures mentioned: Hermes Trismegistus, Éliphas Lévi, Marsilio Ficino, John Dee, Giordano Bruno, Plotinus, Paracelsus*
+*Concepts mentioned: Theurgy, Enlightenment, Dissolution, Secret Doctrine, Theurgic Practice, Initiation*

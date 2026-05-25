@@ -5,9 +5,9 @@ author: Ids
 total_pages: 193
 section: conclusion L é vi-Strauss goes still further, developing the well- known
 section_number: 1
-date_processed: 2026-05-25T15:13:30.593641
+date_processed: 2026-05-25T15:31:42.217219
 figures_mentioned: Hermes Trismegistus, Leibniz, Gottfried Wilhelm, Plotinus, Paracelsus
-concepts_mentioned: Emanation, Divine Names, Correspondence, Initiation, Theurgy, Dissolution
+concepts_mentioned: Correspondence, Divine Names, Theurgy, Dissolution, Emanation, Initiation
 ---
 
 # 36997.indb
@@ -93,4 +93,4 @@ approach and the adventurer’s approach – leads to a disturbing
 
 *Extracted from: 36997.indb (193 pages)*
 *Figures mentioned: Hermes Trismegistus, Leibniz, Gottfried Wilhelm, Plotinus, Paracelsus*
-*Concepts mentioned: Emanation, Divine Names, Correspondence, Initiation, Theurgy, Dissolution*
+*Concepts mentioned: Correspondence, Divine Names, Theurgy, Dissolution, Emanation, Initiation*

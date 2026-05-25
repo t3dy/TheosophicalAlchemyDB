@@ -5,7 +5,7 @@ author:
 total_pages: 101
 section: Introduction
 section_number: 1
-date_processed: 2026-05-25T15:16:03.872682
+date_processed: 2026-05-25T15:33:52.647929
 figures_mentioned: Thomas Aquinas
 concepts_mentioned: Enlightenment
 ---

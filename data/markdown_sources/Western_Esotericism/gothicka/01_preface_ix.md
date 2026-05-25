@@ -5,9 +5,9 @@ author: Nelson, Victoria.
 total_pages: 350
 section: Preface ix
 section_number: 1
-date_processed: 2026-05-25T15:11:01.075298
-figures_mentioned: Robert Fludd, Thomas Aquinas, Giordano Bruno, William Blake, Adam Weishaupt, John Dee
-concepts_mentioned: Theosis, Distillation, Quintessence, Correspondence, Initiation, Enlightenment
+date_processed: 2026-05-25T15:30:02.571466
+figures_mentioned: Thomas Aquinas, John Dee, William Blake, Giordano Bruno, Robert Fludd, Adam Weishaupt
+concepts_mentioned: Correspondence, Quintessence, Enlightenment, Theosis, Distillation, Initiation
 ---
 
 # Gothicka
@@ -52,5 +52,5 @@ Courtesy of the New York Society Library.
 ---
 
 *Extracted from: Gothicka (350 pages)*
-*Figures mentioned: Robert Fludd, Thomas Aquinas, Giordano Bruno, William Blake, Adam Weishaupt, John Dee*
-*Concepts mentioned: Theosis, Distillation, Quintessence, Correspondence, Initiation, Enlightenment*
+*Figures mentioned: Thomas Aquinas, John Dee, William Blake, Giordano Bruno, Robert Fludd, Adam Weishaupt*
+*Concepts mentioned: Correspondence, Quintessence, Enlightenment, Theosis, Distillation, Initiation*

@@ -5,9 +5,9 @@ author: Rebecca L. Stein;Philip L. Stein;Benjamin R. Kracht;Marjorie M. Snipes;
 total_pages: 415
 section: Conclusion
 section_number: 15
-date_processed: 2026-05-25T15:07:00.044186
+date_processed: 2026-05-25T15:27:29.715908
 figures_mentioned: None
-concepts_mentioned: Enlightenment, Correspondence, Initiation, Dissolution, Color Symbolism
+concepts_mentioned: Correspondence, Color Symbolism, Enlightenment, Dissolution, Initiation
 ---
 
 # The Anthropology of Religion, Magic, and Witchcraft
@@ -1360,4 +1360,4 @@ alter their shape, and a bead dangled between their eyes to make them cross-eyed
 
 *Extracted from: The Anthropology of Religion, Magic, and Witchcraft (415 pages)*
 *Figures mentioned: None*
-*Concepts mentioned: Enlightenment, Correspondence, Initiation, Dissolution, Color Symbolism*
+*Concepts mentioned: Correspondence, Color Symbolism, Enlightenment, Dissolution, Initiation*

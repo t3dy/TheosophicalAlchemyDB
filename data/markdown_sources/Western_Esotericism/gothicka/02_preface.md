@@ -5,9 +5,9 @@ author: Nelson, Victoria.
 total_pages: 350
 section: preface
 section_number: 2
-date_processed: 2026-05-25T15:11:01.076163
-figures_mentioned: Robert Fludd, Thomas Aquinas, Giordano Bruno, William Blake, Adam Weishaupt, John Dee
-concepts_mentioned: Theosis, Distillation, Quintessence, Correspondence, Initiation, Enlightenment
+date_processed: 2026-05-25T15:30:02.572117
+figures_mentioned: Thomas Aquinas, John Dee, William Blake, Giordano Bruno, Robert Fludd, Adam Weishaupt
+concepts_mentioned: Correspondence, Quintessence, Enlightenment, Theosis, Distillation, Initiation
 ---
 
 # Gothicka
@@ -81,5 +81,5 @@ on Lovecraft as a by- the- book (the book being the bible of mental health
 ---
 
 *Extracted from: Gothicka (350 pages)*
-*Figures mentioned: Robert Fludd, Thomas Aquinas, Giordano Bruno, William Blake, Adam Weishaupt, John Dee*
-*Concepts mentioned: Theosis, Distillation, Quintessence, Correspondence, Initiation, Enlightenment*
+*Figures mentioned: Thomas Aquinas, John Dee, William Blake, Giordano Bruno, Robert Fludd, Adam Weishaupt*
+*Concepts mentioned: Correspondence, Quintessence, Enlightenment, Theosis, Distillation, Initiation*

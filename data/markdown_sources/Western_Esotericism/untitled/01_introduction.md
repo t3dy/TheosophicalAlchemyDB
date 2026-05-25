@@ -5,7 +5,7 @@ author: Unknown
 total_pages: 12
 section: Introduction
 section_number: 1
-date_processed: 2026-05-25T15:07:02.589491
+date_processed: 2026-05-25T15:27:31.592891
 figures_mentioned: Brian Vickers
 concepts_mentioned: Enlightenment
 ---

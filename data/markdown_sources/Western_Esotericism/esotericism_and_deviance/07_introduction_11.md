@@ -5,9 +5,9 @@ author: Manon Hedenborg White;Tim Rudbg;
 total_pages: 458
 section: Introduction 11
 section_number: 7
-date_processed: 2026-05-25T14:59:21.174937
-figures_mentioned: Arthur Edward Waite, Hermes Trismegistus, Pico della Mirandola, Johannes Trithemius, Francis Bacon, Éliphas Lévi, Isaac Newton, Robert Fludd, Paracelsus, Thomas Aquinas, Robert Boyle, Cagliostro, Tycho Brahe, Marsilio Ficino, Giordano Bruno, Albertus Magnus, John Dee
-concepts_mentioned: Regeneration, Emanation, Theosis, Secret Doctrine, Correspondence, Divine Names, Initiation, Theurgy, Dissolution, Enlightenment
+date_processed: 2026-05-25T15:22:41.939094
+figures_mentioned: Hermes Trismegistus, Éliphas Lévi, Thomas Aquinas, Albertus Magnus, Marsilio Ficino, Francis Bacon, Robert Fludd, Robert Boyle, John Dee, Arthur Edward Waite, Isaac Newton, Giordano Bruno, Pico della Mirandola, Cagliostro, Tycho Brahe, Johannes Trithemius, Paracelsus
+concepts_mentioned: Correspondence, Divine Names, Theurgy, Enlightenment, Dissolution, Regeneration, Theosis, Emanation, Secret Doctrine, Initiation
 ---
 
 # Esotericism and Deviance
@@ -103,5 +103,5 @@ ing the new constructions and understandings that emerged.
 ---
 
 *Extracted from: Esotericism and Deviance (458 pages)*
-*Figures mentioned: Arthur Edward Waite, Hermes Trismegistus, Pico della Mirandola, Johannes Trithemius, Francis Bacon, Éliphas Lévi, Isaac Newton, Robert Fludd, Paracelsus, Thomas Aquinas, Robert Boyle, Cagliostro, Tycho Brahe, Marsilio Ficino, Giordano Bruno, Albertus Magnus, John Dee*
-*Concepts mentioned: Regeneration, Emanation, Theosis, Secret Doctrine, Correspondence, Divine Names, Initiation, Theurgy, Dissolution, Enlightenment*
+*Figures mentioned: Hermes Trismegistus, Éliphas Lévi, Thomas Aquinas, Albertus Magnus, Marsilio Ficino, Francis Bacon, Robert Fludd, Robert Boyle, John Dee, Arthur Edward Waite, Isaac Newton, Giordano Bruno, Pico della Mirandola, Cagliostro, Tycho Brahe, Johannes Trithemius, Paracelsus*
+*Concepts mentioned: Correspondence, Divine Names, Theurgy, Enlightenment, Dissolution, Regeneration, Theosis, Emanation, Secret Doctrine, Initiation*

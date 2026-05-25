@@ -5,9 +5,9 @@ author: Lorry
 total_pages: 229
 section: Introduction ...................................................................
 section_number: 3
-date_processed: 2026-05-25T15:03:41.975911
-figures_mentioned: Hermes Trismegistus, Pico della Mirandola, Plotinus
-concepts_mentioned: Theosis, Secret Doctrine, Great Work, Divine Names, Initiation, Theurgy, Dissolution, Enlightenment
+date_processed: 2026-05-25T15:25:28.177658
+figures_mentioned: Hermes Trismegistus, Plotinus, Pico della Mirandola
+concepts_mentioned: Divine Names, Great Work, Theurgy, Enlightenment, Dissolution, Theosis, Secret Doctrine, Initiation
 ---
 
 # STROUMSA_Prelims_i-iv
@@ -42,5 +42,5 @@ Literature .....................................................................
 ---
 
 *Extracted from: STROUMSA_Prelims_i-iv (229 pages)*
-*Figures mentioned: Hermes Trismegistus, Pico della Mirandola, Plotinus*
-*Concepts mentioned: Theosis, Secret Doctrine, Great Work, Divine Names, Initiation, Theurgy, Dissolution, Enlightenment*
+*Figures mentioned: Hermes Trismegistus, Plotinus, Pico della Mirandola*
+*Concepts mentioned: Divine Names, Great Work, Theurgy, Enlightenment, Dissolution, Theosis, Secret Doctrine, Initiation*

@@ -5,9 +5,9 @@ author: yanulada
 total_pages: 195
 section: Introduction xiii
 section_number: 4
-date_processed: 2026-05-25T15:09:37.808601
+date_processed: 2026-05-25T15:29:09.768168
 figures_mentioned: Meister Eckhart
-concepts_mentioned: Mystical Union, Secret Doctrine, Correspondence
+concepts_mentioned: Correspondence, Secret Doctrine, Mystical Union
 ---
 
 # 68700 eb i-178 .pdf
@@ -100,4 +100,4 @@ as annihilation and the souls who are capable of achieving that lofty state.
 
 *Extracted from: 68700 eb i-178 .pdf (195 pages)*
 *Figures mentioned: Meister Eckhart*
-*Concepts mentioned: Mystical Union, Secret Doctrine, Correspondence*
+*Concepts mentioned: Correspondence, Secret Doctrine, Mystical Union*

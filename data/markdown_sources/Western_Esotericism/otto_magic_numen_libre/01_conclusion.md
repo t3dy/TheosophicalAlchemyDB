@@ -5,8 +5,8 @@ author: Unknown
 total_pages: 40
 section: Conclusion
 section_number: 1
-date_processed: 2026-05-25T15:04:45.724427
-figures_mentioned: Hermes Trismegistus, Plotinus, Marsilio Ficino, Paracelsus
+date_processed: 2026-05-25T15:26:04.781109
+figures_mentioned: Hermes Trismegistus, Marsilio Ficino, Plotinus, Paracelsus
 concepts_mentioned: Theurgy
 ---
 
@@ -386,5 +386,5 @@ Zinser, Hartmut. 1997. Der Markt der Religionen. München: Fink.
 ---
 
 *Extracted from: Otto_Magic_Numen libre (40 pages)*
-*Figures mentioned: Hermes Trismegistus, Plotinus, Marsilio Ficino, Paracelsus*
+*Figures mentioned: Hermes Trismegistus, Marsilio Ficino, Plotinus, Paracelsus*
 *Concepts mentioned: Theurgy*

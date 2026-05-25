@@ -5,9 +5,9 @@ author: Unknown
 total_pages: 375
 section: introduction, a fundamental concern for this study is whether the Babalon dis-
 section_number: 5
-date_processed: 2026-05-25T15:00:35.737231
-figures_mentioned: William Blake, John Dee
-concepts_mentioned: Nigredo, Regeneration, Emanation, Quintessence, Great Work, Hermetic Principle, Correspondence, Divine Names, Initiation, Dissolution, Enlightenment
+date_processed: 2026-05-25T15:23:33.526023
+figures_mentioned: John Dee, William Blake
+concepts_mentioned: Correspondence, Divine Names, Quintessence, Enlightenment, Dissolution, Regeneration, Nigredo, Emanation, Great Work, Initiation, Hermetic Principle
 ---
 
 # Manon Hedenborg White The Eloquent Blood_ The Goddess Babalon and the Construction of Femininities in Western Esotericism Oxford University Press USA
@@ -1922,5 +1922,5 @@ Venus 38, 84– 85, 136, 176, 179–8 0, 265, 308 Yorke, Gerald J. 155n.139
 ---
 
 *Extracted from: Manon Hedenborg White The Eloquent Blood_ The Goddess Babalon and the Construction of Femininities in Western Esotericism Oxford University Press USA (375 pages)*
-*Figures mentioned: William Blake, John Dee*
-*Concepts mentioned: Nigredo, Regeneration, Emanation, Quintessence, Great Work, Hermetic Principle, Correspondence, Divine Names, Initiation, Dissolution, Enlightenment*
+*Figures mentioned: John Dee, William Blake*
+*Concepts mentioned: Correspondence, Divine Names, Quintessence, Enlightenment, Dissolution, Regeneration, Nigredo, Emanation, Great Work, Initiation, Hermetic Principle*

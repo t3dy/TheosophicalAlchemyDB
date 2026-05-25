@@ -5,7 +5,7 @@ author:
 total_pages: 3
 section: Full Text
 section_number: 1
-date_processed: 2026-05-25T15:07:00.770503
+date_processed: 2026-05-25T15:27:30.298598
 figures_mentioned: None
 concepts_mentioned: None
 ---

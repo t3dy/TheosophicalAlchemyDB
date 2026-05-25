@@ -5,9 +5,9 @@ author: Unknown
 total_pages: 13
 section: Full Text
 section_number: 1
-date_processed: 2026-05-25T15:07:07.001150
-figures_mentioned: Hermes Trismegistus, Pico della Mirandola, Giordano Bruno
-concepts_mentioned: Initiation, Enlightenment
+date_processed: 2026-05-25T15:27:34.270327
+figures_mentioned: Hermes Trismegistus, Giordano Bruno, Pico della Mirandola
+concepts_mentioned: Enlightenment, Initiation
 ---
 
 # untitled
@@ -818,5 +818,5 @@ dedaolnwoD
 ---
 
 *Extracted from: untitled (13 pages)*
-*Figures mentioned: Hermes Trismegistus, Pico della Mirandola, Giordano Bruno*
-*Concepts mentioned: Initiation, Enlightenment*
+*Figures mentioned: Hermes Trismegistus, Giordano Bruno, Pico della Mirandola*
+*Concepts mentioned: Enlightenment, Initiation*

@@ -5,9 +5,9 @@ author: yanulada
 total_pages: 195
 section: Chapter 2 provides an overview of Porete’s contemporary situation as
 section_number: 5
-date_processed: 2026-05-25T15:09:37.809323
+date_processed: 2026-05-25T15:29:09.768538
 figures_mentioned: Meister Eckhart
-concepts_mentioned: Mystical Union, Secret Doctrine, Correspondence
+concepts_mentioned: Correspondence, Secret Doctrine, Mystical Union
 ---
 
 # 68700 eb i-178 .pdf
@@ -28,4 +28,4 @@ will reemerge in chapter 4. The chapter then focuses on the theological vo-
 
 *Extracted from: 68700 eb i-178 .pdf (195 pages)*
 *Figures mentioned: Meister Eckhart*
-*Concepts mentioned: Mystical Union, Secret Doctrine, Correspondence*
+*Concepts mentioned: Correspondence, Secret Doctrine, Mystical Union*
