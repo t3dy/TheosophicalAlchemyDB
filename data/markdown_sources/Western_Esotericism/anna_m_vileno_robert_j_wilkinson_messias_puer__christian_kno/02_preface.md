@@ -1,0 +1,110 @@
+---
+source: Anna M Vileno Robert J Wilkinson Messias Puer_ Christian Knorr von Rosenroths Lost Exegesis of Kabbalistic Christianity BRILL
+source_category: Western Esotericism
+author: Unknown
+total_pages: 630
+section: Preface
+section_number: 2
+date_processed: 2026-05-25T14:38:22.998567
+figures_mentioned: Henry More, Éliphas Lévi
+concepts_mentioned: Emanation, Correspondence
+---
+
+# Anna M Vileno Robert J Wilkinson Messias Puer_ Christian Knorr von Rosenroths Lost Exegesis of Kabbalistic Christianity BRILL
+
+## Section: Preface
+
+Preface
+ChristianKnorrvonRosenrothwasbornin1636inthevicinityofGłogów,aSile-
+siancityinpresentdayPoland.Thesonofaprotestantpastor,Knorrenjoyeda
+classicaleducation,embracingtheology,philosophyandthestudyof ancient
+classicalandorientallanguages.Hisstudentdissertation,presentedinLeipzig,
+wasdevotedtothe“Theologyof theGentiles”asitmaybegleanedfromthe
+medals and coins conserved from Greek and Roman Antiquity.1 This rather
+curiousworkappearstocontaintheseedsofmanyoftheinterestslaterenter-
+tainedbyKnorrandtoreflectanearlystageof hisinterestintheancienttra-
+ditionssometimescalledphilosophiaperennis.IfvonRosenrothisbest-known
+todayforhis KabbalaDenudata,aLatinanthologyof kabbalistictextspartly
+takenfromtheLurianictradition,hedidnotconfinehisresearchtoKabbalah.
+Areal“Renaissanceman”,hewasproductiveasanauthor,translator,editorand
+commentatorandtookinterestinfieldsasvariegatedasantiquenumismatics,
+medicine,biblicalexegesisandlandscapearchitecture.2
+Aswasthecustomatthetime,KnorrtravelledthroughoutEuropeinorder
+to complete his education.3 Among the various countries that he visited—
+France,EnglandandtheNetherlands—hisstayinAmsterdamseemstohave
+beenofparticularimportanceforthefuturedevelopmentofhisthought.4Dur-
+ingtheSeventeenthCenturythewelcomingcityofAmsterdamhostedalarge
+andmotleyJewishcommunity,of manydifferenttendencies.Amongstthese,
+theMarranos,theJewswhohadconvertedtoCatholicismwhilelivinginSpain
+orPortugalandwhowerenowinsomecasesreturningtoJudaism,playedan
+importantroleinthenumerousculturaltransfersthattookplaceatthetime
+between Jews and Christians.5 Through his meeting with a large number of
+1 AmanuscriptversionofhisDisputatiophilologicadeTheologiadeGentilisispreservedinthe
+HerzogAugustBibliothekinWolfenbüttel.Partofitwasprintedin1660inLeipzig,underthe
+titleDissertatioDeAntiquisRomanor.Numismatib.ConsecrationemIllustrantibus.
+2 Foraconvenientlistofhisworks,seeC.KnorrvonRosenroth,AufgangderArtzney-Kunst.Mit
+BeiträgenvonWalterPagelundFriedhelmKemp(ReproductionofEditionof1683;Munich,
+1971):pp.xxxii–xxxvii;andChristianKnorrvonRosenroth.DichterundGelehrteramSulz-
+bacherMusenhof.Festschriftzur300WiederkehrdesTodestages,ed.byI.M.Battafarano(Sulz-
+bach-Rosenberg:1989).
+3 ArecordofthisperegrinatioacademicaisstillextantintheHerzogAugustBibliothek,Cod.
+Guelf.Extrav.253.1.
+4 G.VanGemert,“ChristianKnorrvonRosenrothinAmsterdam.DieKabbalaDenudataund
+derniederländischeKontext”,Morgen-Glantz,16(2006):pp.111–133.
+5 Attheendof theSeventeenthCenturyanimportantnetworkof knowledgetransferwas
+wovenaround,amongothers,questionsrelatingtothepre-existenceofthesoulanditsrein-
+Anna M. Vileno and Robert J. Wilkinson - 978-90-04-44342-6
+
+[Page 11]
+x preface
+scholars,JewsandChristiansalike,whocultivatedadeepinterestinKabbal-
+isticstudies,Knorr’sinterestinmysticalJewishliteraturewasstimulated.6The
+cityofSafed,inupperGalilee,wasanimportantcentrewheredifferentauda-
+cious and innovative kabbalistic systems were elaborated by leading Jewish
+scholarssuchasMosheCordovero,SalomonAlkabetzandIsaacLuria,themost
+prominent figure of Safedian Kabbalah. Kabbalistic texts began to spread to
+thecommonJewishfolk.ThestudyofesotericlorebecamepopularinEurope
+evenbeyondthestrictlyreligiousspherewhereithadbeenconfineduntilthen.
+Althoughwelackpreciseinformationaboutthetextualsourcesofhiswork,itis
+probablythat,whilewanderingthroughEurope,andespeciallyintheNether-
+lands,KnorrgatheredtextsfromtheLurianictraditionthatwouldsoonlieat
+thecoreofhiskabbalisticanthology,KabbalaDenudata.
+Furthermore,intheyears1662–1663inAmsterdam,Knorrhadtheopportu-
+nitytoencounterfollowersoftheSabbateanmovement,whichspreadallover
+EuropeinthewakeofthemessianicactivitiesofSabbataiTsevi(1625–1676)the
+JewishMessiahofEarlyModerntimes.7BorninSmyrna,inpresentdayTurkey,
+Tseviwastheleadingfigureof anextensivemessianicmovementthatspread
+acrossEuropeandNorthAfrica.DespitehisconversiontoIslamin1666,Sab-
+batianism remained a strong and influential trend in Jewish life throughout
+carnation,totheeternityofHellandtotheideaofuniversalredemption(see:Morgen-Glantz.
+DiePräexistenzderSeelen.EineinterreligiöseDebatteim17.Jahrhundert,ed.byG.Neckerand
+R.Zeller,24(2014)).ThesedebateseruptedremarkablyatthesametimeinbothChristianand
+Jewishcircles(see:D.P.Walker,TheDeclineofHell:Seventeenth-centuryDiscussionsofEternal
+Torment(UniversityofChicagoPress,1964)andA.Altmann,“EternalityofPunishment:A
+TheologicalControversywithintheAmsterdamRabbinateintheThirtiesoftheSeventeenth
+Century”,ProceedingsoftheAmericanAcademyforJewishResearch,40(1972):pp.1–88).
+6 ChristianinterestinJewishesotericandmysticaltraditionswasnotnew.Thereisgeneralhis-
+toricalagreementintracingtheoriginsof“ChristianKabbalah”totheFifteenthCentury.It
+isimpossibletoretracethathistoryhere,butthereadershouldconsultinitiallytheworksof
+F.Secret:LeZoharchezleskabbalisteschrétiensdelaRenaissance(Paris:Mouton,1964)and
+LeskabbalisteschrétiensdelaRenaissance,(Paris:Dunod,1964).SeealsoKabbalisteschré-
+tiens,ed.byA.FaivreetF.Tristan,(Paris:AlbinMichel,1979)andW.Schmidt-Biggemann,
+GeschichteDerChristlichenKabbala.Bandi:15.Und16.Jahrhundert.(Stuttgart-BadCannstatt:
+Frommann-Holzboog,2012);Bandii:1600–1660(2013);Bandiii:1660–1850(2013);Bandiv:
+Bibliographie(2014).
+7 OnSabbataiTseviandSabbatianism,seetheclassicalstudyof G.Scholem,SabbataiSevi.
+TheMysticalMessiah1626–1676.WithaNewIntroductionbyYaacobDweck(Princeton:Univer-
+sityPress,2016[19731]).SeealsoHa-halomve-shivro.Ha-tenuʾahha-Shabbtaʾitu-sheluhoteha:
+meshihiyut,Shabbetaʾutu-Frankizm,ed.byR.Elior(Jerusalem,2001),2vols.;M.Goldish,The
+SabbateanProphets(Cambridge,Mass.,2004);P.Maciejko,SabbatianHeresy:WritingsonMys-
+ticism,Messianism,andtheOriginsofJewishModernity(Waltham,Massachusetts:University
+ofNewHampshirePress,2017).
+Anna M. Vileno and Robert J. Wilkinson - 978-90-04-44342-6
+
+[Page 12]
+
+---
+
+*Extracted from: Anna M Vileno Robert J Wilkinson Messias Puer_ Christian Knorr von Rosenroths Lost Exegesis of Kabbalistic Christianity BRILL (630 pages)*
+*Figures mentioned: Henry More, Éliphas Lévi*
+*Concepts mentioned: Emanation, Correspondence*

@@ -1,0 +1,105 @@
+---
+source: DE TRIBUS PRINCIPIIS, Oder Beschreibung Der Drey Principien Gttliches Wesens: Of the Three Principles of Divine Being, 1619, by Jacob Boehme
+source_category: Western Esotericism
+author: Weeks, Andrew;Penman, Leigh;
+total_pages: 876
+section: preface 57
+section_number: 30
+date_processed: 2026-05-25T14:37:17.813298
+figures_mentioned: Jacob Böhme, Paracelsus
+concepts_mentioned: Tincture, Regeneration, Enlightenment
+---
+
+# DE TRIBUS PRINCIPIIS, Oder Beschreibung Der Drey Principien Gttliches Wesens: Of the Three Principles of Divine Being, 1619, by Jacob Boehme
+
+## Section: preface 57
+
+preface 57
+stanceandpowersandhowitisthatintheirpoweranykindof naturalsen-
+tience,alertness,growth,andvitalbeingarises.
+Overallof this,Godhasgrantedthehumanbeingunderstandingandthe 3
+highest power of mind for the purpose of knowing his creator, for knowing
+whatheisandhowandwhoheis,andindeedwhere;andofwhatthehuman
+beingismadeandwhencehehasarisen;andforcomprehendingthathe(that
+is,thehumanbeing)istheimage,substance,property,andchildof theeter-
+nal,theuncreatedandinfiniteGod;andisoneinwhomGodhashisbeingand
+property,toliveandrulebyhisspiritinhim;throughwhomGodcarriesouthis
+concerns,alsolovinghimcordiallyashisownheartandbeing,forwhosesake
+hecreatedthisworldwithallitscreatures,whichforthemostpartcouldnot
+abideinsuchamanifestationwithouthumanreasonandrule.
+It is in this exaltedcontemplationthat the divine wisdom abides without 4
+numberorlimit,3inwhichthedivineloveforthehumanbeingisevident,by
+whichyourecognizethenatureofyourcreatorandwhathewantsustodoand
+notdo.Thisisthemostusefulthingwemightinstituteorseekinthisworld.
+Foronecomestoknowoneselfandwhatone’ssubstanceandbeingis,whence
+one’smentalawarenessandreasonarise,andhowonehasbeencreatedfrom
+God’sownbeing.Justasamothergivesbirthtoherchildoutofherown|sub- 3
+stance,nursingitandgivingallshehasforthechildtopossess;sotoodoesGod
+proceedwiththehumanbeingwhoislikewisehischild.Godhascreatedand
+caredforhimandmadehimheirtoallhiseternalgoods.Insuchcontempla-
+tion,divineknowledgeincreases,asdoestheloveofGodinthehumanbeing,as
+betweenchildrenandparents.ThehumanbeinglovesGodhisFatherinwhom
+helives,thrives,andhashisbeing.4ThusspeaksChristourbrother,bornforour
+salvationfromtheFatherandsentbyhimintothisworld.Thatisthelifeeter-
+nal:thattheyshouldknowyou,thatyoualonearethetrueGod,andthatthey
+shouldknowhimwhomyousent,JesusChrist(Jn17:3).
+SinceweknowourselvestobeGod’simage,substance,andproperty,created 5
+outofGod’sownbeing,itisindeedproperthatweshouldliveinhisobedience,
+followinghimasheleadsusaschildrenfollowtheirFather.Moreover,wehave
+thepromisethatbyfollowinghimwearetohavethelightoftheeternallife(Jn
+8:12).Withoutsuchcontemplationweareallblind,without(true)knowledge
+3 SeeJob9:10,“[God]doesgreatthingsbeyondunderstanding,andmarvelousthingswithout
+number”(Luther:“Erthutgrossedingdienichtzuforschensind/vndWunderderkeinezal
+ist.”)
+4 SeeActs17:28,“For‘Inhimweliveandmoveandhaveourbeing’”(Luther:“Denninjmleben
+/weben/vndsindwir”),acommoncitationforestablishingthemysticalomnipresenceof
+God.
+
+[Page 69]
+58 vorrede
+dahinwiedasdummeVieh,undsehenunsselber,sowoldieSchöpfungGOt-
+tesanwiedieKuheeinneuScheun-Thor,setzenunswiederGOttundseinen
+Willen,undlebenalsoinderWiederstrebungzumVerderbenLeibesundSeele,
+undderedlenGeschöpfeGOttes.InwelchegrausameerschrecklicheFinster-
+nißwirgerathen,sowirunsselbstnichtwollenlernenkennen,waswirsind,
+wesWesens,wesWürdens?obwirewig,odermitdemLeibevergänglichsind;
+oderobwirauchvonunsermThunundWesenmüssenRechenschaftgeben,
+dieweilwirzuHerrenallerGeschöpfeundCreaturensindgemacht,unddas-
+selbeallesinunsererGewalthabenundtreiben.
+6 Dieweilwirdannunwiederstreblichsehen,wissenundbefinden,daßGOtt
+vonallemunsernThunwillRechenschafthaben,wiewirmitseinenGeschöp-
+fen hausgehalten, Luc.16:2. und so wir von Ihme und seinen Geboten fallen,
+Erunsschrecklichdarumstraffet;(WiewirdenndessenschrecklicheExem-
+4 pelhabenvonderWelthero,beyJuden,Heidenund|Christen:fürnehmlich
+dasExempelderSündfluth,sowolanSodomundGomorrha;auchanPharao,
+undIsraelsHauffeinderWüsten,undhernachimmerdarbisaufdato;)asoists
+jadasallernöthigste,daßwirWeisheitlernen,undlernenunsselberkennen,
+welchegrosseUntugendwiranunshaben,welchegreulicheWölfeunteruns
+sind,zuwiederstrebenGOttundseinemWillen.
+7 DenneskansichkeinMenschentschuldigenseinerUnwissenheit,sintemal
+GOttesWilleistinunserGemüthegeschrieben,daßwirwolwissen,waswir
+thunsollen.EsüberzeugenunsauchalleCreaturen,darzuhabenwirGOttes
+Gesetz und Gebot; daß also keine Entschuldigung ist, als unsere schläffrige,
+fauleNachläßigkeit,undwerdenalsofaule,unnützeKnechteimWeinbergdes
+HErrnerfunden.
+8 Endlichistunsjazumallerhöchstennoth,daßwirunslernenkennen,von
+wegendaßderTeufelbeyunsindieserWeltwohnet,welcheristGOttesund
+unserFeind,undunstäglichverführetundbetreugt,vonGOttunsermVater
+abzufallen,wieer(unsernerstenEltern)bgethanhat,damiterseinReichmeh-
+ret und uns um unser ewiges Heil bringet, wie geschrieben stehet 1.Pet.5:8.
+Er(euerWiedersacherderTeufel)cgehetumheralseinbrüllenderLöwe,und
+suchet,welchenerverschlinge.
+9 DieweilwirdannjeinsogarschrecklicherGefahrindieserWeltschweben,
+daßwiraufallenSeitenmitFeindenumgebensind,undgarunsicherzuwan-
+dernhabeninunsererPilgramschaft,darzudenärgestenFeindinunshaben,
+aB3v–4rsic,noparen;P16sic,noparen.;SXIIrsic,noparen.;1682sic,noparen. bB4rmissing;
+P17insertedaboveline;SXIIvmissing;1682sic,noparen. cB4rmissing;P17sic,butinserted
+aboveline,noparen.;SXIIvmissing;1682sic,noparen.(“Er”ismissing).
+
+[Page 70]
+
+---
+
+*Extracted from: DE TRIBUS PRINCIPIIS, Oder Beschreibung Der Drey Principien Gttliches Wesens: Of the Three Principles of Divine Being, 1619, by Jacob Boehme (876 pages)*
+*Figures mentioned: Jacob Böhme, Paracelsus*
+*Concepts mentioned: Tincture, Regeneration, Enlightenment*

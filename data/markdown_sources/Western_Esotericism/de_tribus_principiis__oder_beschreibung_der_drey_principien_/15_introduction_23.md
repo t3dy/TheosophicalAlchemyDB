@@ -1,0 +1,108 @@
+---
+source: DE TRIBUS PRINCIPIIS, Oder Beschreibung Der Drey Principien Gttliches Wesens: Of the Three Principles of Divine Being, 1619, by Jacob Boehme
+source_category: Western Esotericism
+author: Weeks, Andrew;Penman, Leigh;
+total_pages: 876
+section: introduction 23
+section_number: 15
+date_processed: 2026-05-25T14:37:17.807926
+figures_mentioned: Jacob Böhme, Paracelsus
+concepts_mentioned: Tincture, Regeneration, Enlightenment
+---
+
+# DE TRIBUS PRINCIPIIS, Oder Beschreibung Der Drey Principien Gttliches Wesens: Of the Three Principles of Divine Being, 1619, by Jacob Boehme
+
+## Section: introduction 23
+
+introduction 23
+Theoppositionofforceswhichisnolessanantagonismofspiritsyieldstothe
+fifth phase, love. Love is associated with the reciprocal arousal of the senses
+andawareness.
+Boehme’spurposeistosecuretheparallelbetweenthefirsttwoprinciplesof
+divinebeingandthefirstsixforcesof theuniversalprocesswithoutreducing
+Godtomaterialforcesorrenderingtheeternaldeitymutable.Inmetaphorsof
+acelestialweddingandmysticalrebirth,thechapterculminatesinanecstatic
+evocation of the reciprocal arousal of the senses and consciousness. Rebirth
+isassociatedwiththe“crossbirth”(✠).Thetermimplicatesboththeagonyof
+crucifixionandaprocess-generatedcrossingof essences.TheThreePrinciples
+ofDivineBeingonlybeginstoacquirecoherenceforuswhenwerecognizethat
+birth, rebirth, enlightenment, and creation are all manifestations of a single
+processthatproceedsfromfear,darkness,anddeathtolife,love,andlight.
+ChapterThree.Thechapterbeginswithanassaultontheestablishedthe-
+ologianswhoopposespeculationssuchashis.Therefollowsafurtherattempt
+toincorporatetheParacelsiantriadintothenewspeculativescheme.Drawing
+upon his elucidation in Aurora of the eternal process of the seven source-
+spirits,Boehmeconstructsaparadigmforprocreationormultiplicationingen-
+eral and for the mystical birth of light and love out of darkness, terror, and
+frustrationinparticular.Afterthepreviouschapterhasdiscussedthefirstand
+second principles and the first six of the seven “forms,” one might expect to
+encounterthethirdprinciple,theseventhform,andtheHolySpirit;butthisis
+delayed.Thechapterinsteadsuggestshowmultiplicationofthedivinesource
+intoaninfinityofgeneratedbeingscreatesakindofinterrelatedplurality(4:55)
+which,throughcombination,dissemination,andvariation,reconcilestheone
+withthemanyandcontinuitywithchange.Theprocessfleshesoutourworld
+ofthethirdprinciple.Boehmeisevidentlyawarethatittakesallkindstomake
+aworld.
+Chapter Four. The first sixteen sections polemicize against the arrogance
+of academiclearningandextollthegoodjudgmentof thecommonbeliever.
+This polemic, hardly a digression, grounds the metaphysics of rebirth in the
+author’s anticlerical stance, lending resonance to the transcendence of the
+eternalbirthbyestablishingitsSitzimLeben.Theperspectiveshiftstothesta-
+tus of Adam who, in his alienated condition which is the same as our own,
+nolongerretainshiserstwhileknowledgeofGodandthereforesupposesthat
+hehasbeendisownedbyhisFather.Beforereturningtothethemeof eternal
+generationanticipatedintheprecedingchapterandannouncedinthetitleof
+thepresentone,BoehmeaddressesthetemptationsoftheAntichristandthe
+consolationsoffaith,rebirth,andthesacramentsofbaptismandCommunion.
+Thismightstrikeusasanincoherentprogression,butitassuresthereaderthat
+
+[Page 35]
+24 introduction
+whatmightseemlikemetaphysicalabstractionisinfactintendedtoalleviate
+theexistentialcrisisofthealienatedhumanbeingbywrestingauthorityfrom
+theoppressiveclergy.
+Imaginationandreflectioncanserveeithertoobstructoropenthebarriers
+facedbythelostsoul.Thesoulhasaninneraccesstothedivinebeing.Reflec-
+tiononthewondrousnessofdivinityandinquiryintothepersistenceandvital
+fecundityofnatureandthemiracleofconsciousnessanddiscernmentshould
+lead the faithful to recognize that God is nowhere in particular, yet present
+in all of creation, thereby conferring upon material things and creatures an
+enhancedpresence,lendinglifetothelivingandhigherawareness,knowledge,
+and wisdom to the mind. An awe-inspiring suite of philosophical interroga-
+tionsinvitesthereadertoapproachthespeculativemetaphysicsofTheThree
+Principlesasaresponsetothewondermentthatisnodoubtthebeginningof
+wisdomforBoehme.
+Whenreflectionleadsbacktothesoul’sintrospection,thepivotbringsan
+innerhellintoview.Thesoulrediscoversitself inthefirstprinciplewhichis
+“GodtheFatherhimself”(4:44).Outofthisprimalsourceproceedconscious-
+nessandthemultiplicationofbeing.Citingthisprimalrawmaterial,Boehme
+endeavorstosurveygraceandparadise,theconfigurationsoftheTrinity,Prince
+Luciferandthefall,heavenandhell.Thereaderstrugglestoconnectthedots.
+Essentialtoanunderstandingofthischapteristherecognitionthatapparent
+abstractionsareintendedtobringtherealitiesoftheotherworldclosertothe
+alienatedhumanbeingbyrevealingthatthedivinebeingoperatesinnature,
+inthesoul,andeveninhellitself.
+ChapterFive.Theauthorismindfulbothofthosewhodespisehimandthose
+whoneedhisspiritualcounsel.Botharebestservedbyconsideringthedivine
+root of the soul that renders rebirth possible and above all by considering
+rebirthitself.Themodernreadermaybeputoff byareadinesstotreatspiri-
+tualregenerationasanempiricalobjectofcommonknowledge.Ifso,itmight
+behelpfultoconsultWilliamJames’accountsof“thedividedself”and“conver-
+sion”inTheVarietiesofReligiousExperience.Theexperienceofinnerregenera-
+tionwouldhavebeenatleastasfamiliarinBoehme’sdayasinthenineteenth
+century.Nodoubtequallyfamiliarwasthesenseof beingabysmallymiredin
+evil,thoughitisstrikingthatforBoehmethefallenstateariseswhenthefirst
+humanbeingsgainknowledgeoftheprimalmatrixofGod(5:14).Rebirthdis-
+tinguishes one principle from another.To be reborn is to be translated from
+thefirstprincipleintothesecond,fromdarknessintolight,intandemwiththe
+eternalbirthofGod.
+Evenmorefamiliarthanbirthandrebirthistheemergenceofoneelement
+from another in the atmosphere. We can see, for example, “how fire is hid-
+
+[Page 36]
+
+---
+
+*Extracted from: DE TRIBUS PRINCIPIIS, Oder Beschreibung Der Drey Principien Gttliches Wesens: Of the Three Principles of Divine Being, 1619, by Jacob Boehme (876 pages)*
+*Figures mentioned: Jacob Böhme, Paracelsus*
+*Concepts mentioned: Tincture, Regeneration, Enlightenment*

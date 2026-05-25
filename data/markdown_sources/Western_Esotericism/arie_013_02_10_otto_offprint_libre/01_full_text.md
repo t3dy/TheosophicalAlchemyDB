@@ -1,0 +1,268 @@
+---
+source: ARIE_013_02_10_Otto offprint libre
+source_category: Western Esotericism
+author: Unknown
+total_pages: 6
+section: Full Text
+section_number: 1
+date_processed: 2026-05-25T14:38:23.665054
+figures_mentioned: None
+concepts_mentioned: None
+---
+
+# ARIE_013_02_10_Otto offprint libre
+
+## Section: Full Text
+
+
+
+[Page 1]
+308 BookReviews/ARIES13(2013)289–321
+GideonBohak,YuvalHarari,ShaulShaked(Eds.),ContinuityandInnovationin
+theMagicalTradition(JerusalemStudiesinReligionandCulture15),Leiden&
+Boston:Brill2011.396pp.ISBN978-90-04-20351-8.
+Asthereadersof this journal probably know,“magic”has evolved intoanex-
+tremelypopularresearchtopicoverthelastdecades.Apartfromtheemergence
+offlourishingsub-discourseson“magic”producedbyhistoriansofdifferentareas
+(suchasEgyptologists,Judaists,Classicists,MedievalistsorscholarsofWestern
+esotericism),itisparticularlynoteworthythatthecomparativeagendahasalso
+regainedmomentuminmodernscholarshipon“magic”.Tisisastonishinginso-
+farasthegrandnarrativesof“magical”ages,origins,ormentalitiesubiquitous
+inreligiousstudiessincethelatenineteenthcenturyhavebeenfundamentally
+questionedbymanyscholarsoverthelastdecades.Teburialoftheso-called
+“phenomenologyofreligion”andthepostulationofvarioushermeneutic“turns”
+sincethe1970sand1980shaveraisedseriousdoubtsastothevalidityofencom-
+passingtheoriesof“religion”(and/or“magic”)andled,asisknown,toahigh-
+gradespecializationandregionalizationofthestudyofreligions.
+Itseemsthataferthisperiodofregionalizationandspecializationthecom-
+parative pendulum has swung back—at least in the conceptual framework of
+“magic”(interestingly,however,notinreligiousstudiesingeneral).Animpres-
+siveamountofconferencesandsymposiumshavebeenorganizedonthetopicof
+“magic”inpastdecades(includingthepublicationofnumerousconferencevol-
+umes),societiesspecificallydevotedto“magic”havebeenfounded(suchasthe
+SocietasMagicaortheSocietyfortheAcademicStudyofMagic),andnew,compar-
+ativejournalshavebeenestablishedthatlocate“magic”attheirepicentre(such
+asMagic,RitualandWitchcraforPreternature).
+Tevolumeunderreviewherecanbeseeninthelightofthisoveralltrend.
+It is the outcome of an interdisciplinary research group (funded by the Insti-
+tuteforAdvancedStudiesinJerusalembetweenMarchandAugust2006)which
+focussedonthetopic‘OccultPowersandOfficiantsinNon-officialCultswithin
+NearEsternCultures’.Tevolumeconsistsofsevenpaperswrittenbymembers
+of this research group (Tzvi Abusch, Gideon Bohak, Alexandor Fodor, Yuval
+Harari,ReimundLeicht,DanLeveneandShaulShaked)andsixfurtherpapers
+writtenbyscholarswhowereinvitedtoathree-dayconferenceinJerusalemin
+July 2006 on ‘Continuity and Innovation in the Magical Tradition’ (Joachim
+FriedrichQuack,JaccoDielemann,FritzGraf,ChristopherA.Faraone,Ithamar
+Gruenwald,KockuvonStuckrad).TeeditorsareJudaicscholars(apartfrom
+ShaulShakedwhoisProfessoremeritusinIranianStudiesandComparativeReli-
+gion)affiliatedwithvariousIsraeliuniversitiesandhavepublishedextensivelyon
+Jewish“magic”.Duetotheirpredominantfocusonantiquity,theycanbeframed
+withinalargerscholarlydiscourseonancient“magic”thathasbeenextremely
+©KoninklijkeBrillNV,Leiden,2013 DOI:10.1163/15700593-13130211
+
+[Page 2]
+BookReviews/ARIES13(2013)289–321 309
+vibrantinrecentyears.Infact,thevolume’stitleclearlyresemblesJanN.Brem-
+merandJanR.Veenstra’sTeMetamorphosisofMagic:FromLateAntiquityto
+the Early Modern Period (Leiden: Brill 2003), and can also be read alongside,
+forexample,PaulMireckiandMarvinMeyer’sMagicandRitualintheAncient
+World(Leiden:Brill2002),LedaCiraoloandJonathanSeidel’sMagicandDiv-
+ination in the Ancient World (Leiden: Brill 2002), or Shaul Shaked’s Officina
+Magica:EssaysonthePracticeofMagicinAntiquity(Leiden:Brill2005).Unsur-
+prisingly,twoleadingvoicesof“magic”scholarshipinClassicalStudies,Christo-
+pherA.FaraoneandFritzGraf,havecontributedtothepresentvolume.
+Itisinterestingtonote,however,thatthenewcomparativismin“magic”schol-
+arship,ofwhichthisvolumeisanothertestimony,isfairlydifferentfromtheold
+(master)narrativesproducedbythefoundingfathersofthescholarlydiscourse.
+Today,groupsofspecialistswithdifferentlinguisticandhistoricalexpertisecome
+together,enthralledtocomparetheir“magic”sourcematerialwiththatofother
+epochsand/orculturalcontexts,insteadofonesinglepolymathcreatingaglobal,
+transhistoricalnarrative.Contrarytotheoldnarrativeswhichmostlyreliedon
+ethnographicdataandanthropologicalperspectives,thenewonesmostlycentre
+onliteratesourcesandprotagonists,ofenlocatedintheheartofWesternhis-
+toryandculture.Andwhiletheoldnarrativesofenimpliedtheideaofafunda-
+mentallydifferent“magical”mentalityorworldview(accompaniedbythecon-
+cept’sideal-typicaloppositionto“religion”and/or“science”),thenewcompar-
+ativismseemstorefrainfromallthesegeneralizingassumptions,fromopposi-
+tionalthinking,evenfromtheurgetodefineortheorize“magic”atall.
+Especiallythislasttendencymay,however,createconfusionamongtheschol-
+arlycommunity.Evenifwecannotultimatelydefineourconceptsinreligious
+studiesanymore,westillwanttoknowwhatwearetalkingabout.Ofcourse,
+pragmaticsolutionsneedtobefound.Wedonotquarrelwhenchurchhistorians
+usetheterm“religion”whiledealingwithChristianity(eventhough“religion”
+cannotbedefinedinawidelyacceptedmanner),becausewe(atleastbelieveto)
+knowwhat“Christianity”is.Butwhatabout“magic”?Isthisaself-evidentcate-
+gory?Troughoutthetwentiethandtwenty-firstcenturies,prominentscholars
+haveraiseddoubtsastothevalidityandscholarlyvalueofthecategoryof“magic”
+assuch,therebystressingitsfuzzysemantics,inherentpolemics,andethnocen-
+tricbias.Inlinewiththesecritics,WouterHanegraaffhasonlyrecentlyclassi-
+fied“magic”asaprimeexampleofa“taintedterminology”intheAcademy(see
+Hanegraaff,EsotericismintheAcademy:RejectedKnowledgeinWesternCulture,
+Cambridge: Cambridge University Press 2012, pp. 164–177) and argued that
+‘“magic”’isanimportantobjectofhistoricalresearch,butdefinitelyunsuitable
+asaneticinstrumentfordoingresearch’(p.168).
+Seen in the light of this statement, the present volume is another example
+of the striking heterogeneity and un-connectedness of contemporary “magic”
+
+[Page 3]
+310 BookReviews/ARIES13(2013)289–321
+research.Infact,despitethecatchytitlewhichseemstopresupposetheexistence
+ofasingularandhomogeneous“magicaltradition”(notleastindicatedbythe
+definite article “the”), the volume completely lacks any attempt to define this
+“tradition”:neithertheeditorsintheir(fairlyshort)introduction,noranyofthe
+authorsappeartobeinterestedinelaboratingondefinitionalissues(apartfrom
+somenotesofIthamarGruendwaldand,irritatingly,KockuvonStuckrad—the
+onlydiscoursetheoristinthecircle—whoadherestoaprovisionaldefinitionof
+“magic”[p.250],butatthesametimerejects“tradition”,“Judaism”,and“Chris-
+tianity”assecond-ordercategories).Terefore,thequestionarises:which“tra-
+dition” are these authors talking about? As almost all papers are dealing with
+veryspecificandpartlyevenuneditedprimarysourcesfromvariousancientcul-
+tureswe,insteadofmerelysubsumingthechapters,willtaketheeditorsattheir
+word and examine whether the material presented can be plausibly assigned
+to one and the same ‘tradition’ (in the Latin sense of the verb: “tradere”—to
+“transmit”/“hand down”) and, furthermore, whether there are indeed traits
+of “continuity” and/or “innovation” that can be observed within this “tradi-
+tion”.
+Letusstartwithaskingwhetherthereissomehistoricalinterconnectedness
+betweenthevariouschaptersandthematerialdiscussedtherein.Interestingly,
+only four out of thirteen papers have an explicit intercultural focus: Joachim
+FriedrichQuack,inabrilliantarticleontheritualgenreofcharitesion(rituals
+performedtoachieveluck,loveandotherfavors)manifestinthePapyriGraecae
+Magicae(PGM),convincinglytracesbackitsrootstooldEgyptianletterformu-
+laeandprayerpatterns;here,“continuity”,butalso“change”becomeapparent
+whencomparingritualtextsfromOldandLateancient,romanizedEgypt.In
+asimilarvein,JaccoDielemanncomparestherecipestyleofthePapyriDemot-
+icaeMagicae(PDM)witholdEgyptianmedicalrecipewriting,comingtothe
+startlingconclusionthattheauthorsofthePGM/PDMmusthavebeen‘profes-
+sionalscribesworkinginanEgyptiantemplescriptorium,wheretheyhadaccess
+tothenecessarytrainingandmother-copies’(p.116).Likewise,KockuvonStuck-
+radcrossesculturalandreligiousborderswhilecomparingtextpassagesfromthe
+NagHammadiCorpus,theTestamentumSalomonis,thePGM,andtheSepher
+Ha-Razim,therebypostulatinga“continuity”ofthreecongruentthoughtand
+ritualpatternsinthesetexts(namely:ControllingCosmicPowers;Veneration
+ofPlanets;HeavenlyJourneys).Finally,AlexanderFodor’sarticlehasanexplicit
+interculturalfocus,duetohismeticulousexaminationoftheArabicreception,
+translation,andtransformationofanoriginallyJewish(i.e.,Hebrew)ritualtext,
+the“SwordofMoses”.
+Whereas these four chapters stress “continuity” and “change” of certain
+(thought,ritual,ortextual)patternsacrossancientculturalandreligiousbor-
+ders(therebysuggestingatleastthepossibilitythatasingleconcept,beit“magic”,
+
+[Page 4]
+BookReviews/ARIES13(2013)289–321 311
+formedacoherentbackdropofthesecultures),allotherpaperseitherfocuson
+specifictextsfromoneculturalcontext(TzviAbuschreflectsupontheoldBaby-
+lonianritualtextcorpusMaqlû;FritzGrafdiscussestwoGreekoraclesonhostile
+andbeneficientmageía[therebyfuzzingupthehistoricalsemanticsoftheterm];
+ChristopherA.FaraoneexaminestwomedicalrecipesfromtheRomanImperial
+period [thereby—unsurprisingly—dissolving the boundaries between ancient
+“medicine”and“magic”];ShaulShakedandDanLevenedescribeandeditvari-
+ousritualrecipesinscribedonJewishBabylonianAramaicBowls;YuvalHarari
+andGideonBohakdescribeandeditvariousfragmentsoftheCairoGenizah)or
+elaboratemoregenerallyontheJewishtraditionandthesocial/religiousstatusof
+sourcesdeemed“magical”(ReimundLeichtevaluatesthebeginningsandearly
+developmentofJewishastrology;IthamarGruendwaldattemptstodifferentiate
+Jewish“mysticism”from“magic”whilereflectingupontheHekhalotliterature
+andtheSeferHa-Razim).
+Given this variety of topics, the under-representation of intercultural com-
+parisonandcross-referenceswithinthevolume,aswellastheabsenceofaclear
+indicationofwhattheannounced“magicaltradition”actuallyimplies,thevol-
+umedoesnotseemtodeliverwhatitpromises(inotherwords:thereisappar-
+ently no “transmission” of one and the same thing [“magic”] from the Baby-
+lonianMaqlû[thefirstchapterbyAbusch]totheSifĀdam[thelastchapter
+byFodor]).Atsecondglance,however,itisnotthatsimple.First,anumberof
+chapters deal with sources that fall within the conceptual history of “magic”:
+GrafdiscussesoraclesaboutmageíaandQuack,Dielemann,andvonStuckrad
+refertothePGM/PDM—atextcorpuswrittenbyauthorswhoadoptedthetitle
+mágosasaself-referentialterm—,whilethematerialpresentedbyFaraoneclearly
+resemblesritualmechanicsmanifestinthePGM;inthesechapters,theancient
+andmodernuseof“magic”seems(atleastpartly)toconverge.Second,thereare
+certainsemantic“continuities”intheauthors’understandingof“magic”.Follow-
+inganalreadyancienttradition,theyseemtoassigndivinationandastrologyto
+theartesmagicae.Likewiseinlinewiththeancientperceptionofthe“art”,they
+focusonritualrecipesthataimatshort-term,innerworldlygoals—themalev-
+olentritualsdescribedbyAbusch,Graf,Shaked,Levene,andBohakbeingthe
+moststereotypicexamples.Finally,themoststriking“continuity”intheauthors’
+understandings of “magic” manifests itself in the pattern of ritual instrumen-
+talizationoftranscendentbeingsforhumanneeds.ApartfromLeicht’sdiscus-
+sionofJewishastrology,allotherchaptersincludetextpassagesthatimplythis
+pattern.Inotherwords:textualdescriptionsofaritualinstrumentalizationof
+transcendentorintermediarybeingsforhumanneedsrunthroughthematerial
+presentedandtherebyformacongruenttopictraceablethroughouttheentire
+volume.Here,“similarity”(thoughnotnecessarily“continuity”)inthematerial
+becomesapparentindeed.
+
+[Page 5]
+312 BookReviews/ARIES13(2013)289–321
+However,thequestionremains:arethesepatternsbestcategorizedas“magic”
+inmodernscholarlydiscourse?Infact,albeit,throughoutWesternhistory(from
+the PGM to Aleister Crowley and beyond), self-referential “magicians” have
+adopted these patterns, it is unnecessary, if not obstructive, to apply them in
+scholarly discourse. First, the ritual adressing of transcendent or intermediary
+beings actually falls under most scholarly definitions of “religion” (to name a
+classic:underTylor’s“beliefinspiritualbeings”).Second,ifscholarsnevertheless
+(ofensubconsciously)regardtheconceptof“religion”asbeingincapableofcov-
+eringsuchpatterns(including,asinthepresentmaterial,face-to-faceencoun-
+ters with transcendent beings, direct ritual efficacy—through nomina barbara
+orcharactēres—,formulationsofcoercion,ormalevolentritualintentions),they
+seemtobebiasedbychristocentric,particularlyprotestant,notionsof“religion”
+(thatis,theyadoptcertainmoralandsocialvalues,afocusonbeliefinsteadofrit-
+ual,ortheideathattranscendenceistendentiallyunreachableforhumans).Tese
+christocentricnotionsshouldnotbeappliedinthestudyofreligions,ifitwants
+tobetagged“comparative”!Tird,lumpingthesenotionstogetherinavaguely
+definedconceptof“magic”—becausethey‘arenotsufficiently“valuable”toget
+aplacewithin“religion”’,asOlofPettersson(‘Magic—Religion:SomeMarginal
+NotestoanOldProblem’,p.119,inEthnos22[1957],pp.109–119)wouldput
+it—mayleadtoaskingthewrongquestions.Forexample,bylabelingtheAra-
+maicBowls(discussedbyShakedandLevene)ortheGenizahfragments(dis-
+cussedbyHarariandBohak)asbeinginstancesof“magic”onemayoverseetheir
+pragmaticcontextand,particularly,theiringroupperceptionineverydaylife.As
+thesepracticeswereobviouslyembeddedinJewishreligiousthought(indicated,
+e.g.,bythefrequentcitationofBiblicalpassagesintherecipes)andperformed
+byliterate,educatedJews(ifnotrabbis),onemayask:isitnotpossiblethatthese
+practiceswereregardedasalegitimateutilizationofGod’s(orhisangels’)powers
+bythepractitioners/clients?Topressthatpointevenfurther:couldthesepracti-
+tioners/clientshavegroundedthisbeliefinBiblicalpassagesthatlegitimizedthe
+useofGod’spowersalsoformalevolentpurposes(suchasEx7.9f.,2Kings1.9f.,
+or2Kings2.23f.),insteadofidentifyingthemselveswiththe“magical”outsiders
+mentioned in Biblical/Talmudic polemics? If the answer to these questions is
+“yes”,wouldnotthissuggestusing“religion”,insteadof“magic”,asasecond-order
+categoryforanalysingthesesources?
+Tiscritiquedoesnotimplythatitispointlesstothinkofa“magicaltradition”
+assuch.Astextswrittenby“magicians”(suchastheabove-mentionedPGM)
+have been preserved—i.e. “transmitted”—continuously throughout Western
+history,itispossibletoreconstructanddescribethis“tradition”.Inthisregard,
+theinfluenceoftheSeferHa-Razim(discussedbyGruendwaldandvonStuck-
+rad,andmentionedbyHarari,BohakandFodor)andotherJewishworks(in-
+cludingArabizedworksliketheSifĀdamdescribedbyFodor)onthemedieval
+
+[Page 6]
+BookReviews/ARIES13(2013)289–321 313
+andearlymodernEuropean(Salomonic)artofconjuringspiritsmayberegarded
+asanimportant“continuity”intheingrouphistoryofWestern“magicians”.Tat
+is,eventhoughtheoriginalcontextandauthorshipoftheSeferHa-Razimand
+similarJewishtextsremainunclear,theyindeedpartakeinthe(later)historyof
+Westernself-referential“magicians”.Furthermore,theuseofnominabarbaraand
+charactēresapparentinsomeofthevolume’smaterialindeedrevealsavisibleline
+of“transmission”ofsimilarsemioticpatterns,startingintheancientMediter-
+ranean,continuedinmedievalJewishandArabicworks,andadoptedbyearly
+modern European texts on magia naturalis or the Salomonic art. Te present
+anthology,althoughnotexplicitlyfocussingonthis“tradition”,shedsvaluable
+lightonsomeofitssnippets.
+Terefore,thecriticalremarksonthemethodologicalgroundingofthevol-
+umemaynothinderthereaderfromrealizingthatallcontributionsareofhigh
+scholarlyquality;that,albeitperpetuatingavaguely(ifatall)definedsecond-
+ordercategoryof“magic”,itneverthelessmanagestoovercometraditionalneg-
+ative stereotypes, thereby stressing that the ritual texts in question have to be
+takenseriouslyandtobeinvestigatedintheirownright;and,finally,thatthe
+volume,withitsspecificfocusonancientJudaismandJewishsources(including
+eruditepartialeditionsandtranslationsofuneditedtextpassages),can,infact,
+beregardedasanimportantextensionandenrichmentofthepresentscholarship
+onancientritualpracticesdeemed“magical”.
+Bernd-ChristianOtto
+
+---
+
+*Extracted from: ARIE_013_02_10_Otto offprint libre (6 pages)*
+*Figures mentioned: None*
+*Concepts mentioned: None*

@@ -1,0 +1,101 @@
+---
+source: Anna M Vileno Robert J Wilkinson Messias Puer_ Christian Knorr von Rosenroths Lost Exegesis of Kabbalistic Christianity BRILL
+source_category: Western Esotericism
+author: Unknown
+total_pages: 630
+section: introduction 9
+section_number: 13
+date_processed: 2026-05-25T14:38:23.005207
+figures_mentioned: Henry More, Éliphas Lévi
+concepts_mentioned: Emanation, Correspondence
+---
+
+# Anna M Vileno Robert J Wilkinson Messias Puer_ Christian Knorr von Rosenroths Lost Exegesis of Kabbalistic Christianity BRILL
+
+## Section: introduction 9
+
+introduction 9
+LocaautemnonnullaêLibroSohar,ubideutroqueMessiaagitur,evolvipos-
+suntinParallelismisatqueExcerptisSohariticisadNov.Testamentum.Cent.
+1.Loc.62.usquead91.22
+This notice seems to preserve the title of the work announced by Knorr at
+the beginning of his 1684 Zohar mentioned above. It is also congruent with
+Bayle’stitleof 1687.However,acorrectinghand,whichwehaveidentifiedas
+thatofKnorrhimself,subsequentlydeletedthetitleParallelismisatqueExcerp-
+tisSohariticisadNov.Testamentumandreplaceditinthemarginbythesingle
+wordExcerptis.23
+Afewlineslateronfolio25v,theoriginaltitleofthework(ontheonlyother
+occasionitismentioned)isagainsubjecttocorrection:
+(videautemdehislatiusinParallelismis&ExcerptisSohariticisCent.1.Loc.
+54.n.40.41.)24
+Thisisreplacedby:
+(VideinExcerptisCent.1.Loc.54.n.40.41.)25
+ReferencestoExcerptaappearextensivelythroughoutthewholeof theman-
+uscript.ItisevidentlyaseparateworktoHistoriæevangelicæinitium,yetref-
+erence to it is both systematic and omnipresent. It is sadly evident that our
+readingof Historiæevangelicæinitiumtodayishamperedbylackof accessto
+thisbookwhichwasevidentlyintendedasasortofdocumentaryarchivetothe
+Historiæevangelicæinitium.Mattersareoftenraised,butnotfurtherpursued
+becausetheinterlocutors(andthereader)aresimplyreferredtotherelevant
+passageintheExcerpta.ThereisnohintintheHistoriæevangelicæinitiumthat
+theExcerptacontainedany(ofwhatwewouldcall)Syriac.26
+22 “SeveralpassagesfromtheZoharwhichtreatofbothMessiahsmaybefoundinZoharic
+ParallelstotheNewTestamentwithExcerpts,Century1,Quotations62to91.”(Historiæevan-
+gelicæinitiumsecundumquatuorevangelistas,op.cit.,folio25r).
+23 Ibid.
+24 “Alsoseemorewidelyontheseissues,ZoharicParallelsandExcerpts,Century1,Quotation
+54,notes40&41.”
+25 “SeeinExcerptsCentury1,Quotation54,notes40&41.”
+26 BaylesaysthatZoharictextsintheprospectiveMessiasPuerwerecitedintheoriginal
+andinLatin.ThismaypossiblysuggestthatthemanuscriptofExcerptaalsocontained
+“Syriac”(i.e.ZoharictextsinHebrewtype)whichmayhavebeenpastedinfrompagesof
+Knorr’s1684HebrewZohar(muchaspagesfromthe1684Peshittaeditionwerepasted
+Anna M. Vileno and Robert J. Wilkinson - 978-90-04-44342-6
+
+[Page 33]
+10 chapter 1
+It is our suggestion that at some point, probably after 1687, Knorr discov-
+eredthathecouldnotpracticallydeliveraworkwhichcontainedboththefull
+textof hisaccumulatedZoharicparallelsandacloseexpositionof theSyriac
+PeshittatextoftheNewTestament.Hethereforedecidedtosplithismaterial
+intotwovolumes.TheZoharicmaterialheplacedinaworkcalledExcerptaand
+theexpositionofthePeshittahereservedforaworkcalledMessiasPuerwhich
+sincealmostitsfirstappearancehasconfusinglybeenknownbythereplace-
+menttitleHistoriæevangelicæinitium.
+3 TheEvidencefortheExcerptaFoundinMessiasPuer
+WehavesuggestedabovethatafterBaylehadgivenhisaccuratedescriptionof
+theworkinprogressin1687,KnorrdecidedtodividehisworkentitledParal-
+lelisimiatqueExcerptiZohariticiadNov.Testamentumintotwo.Onepartwasto
+beacommentaryontheSyriacTextoftheNewTestamentpassagesontheearly
+yearsofMessiah,MessiasPuer,andtheotheracollectionofessentiallyZoharic
+extracts27,henceforthknownastheExcerpta.Thispropositionwebelievemay
+bestrengthenedbyananalysisof thereferencesmadetotheExcerptainthe
+Historiæevangelicæinitium,whichweconsidertobe,infact,MessiasPuerasit
+emergedafterBayle’snoticebutbeforeLeibniz’smention.
+ReferencestotheexplicitlynamedExcerptaarefoundthroughoutMessias
+Puer.Theyaregrouped(generallysequentially)intotwogroups:Cent[uria]i,
+which comprises 100 loci or extracts and Cent[uria] ii which comprises just
+50.28ThecollectionthussatisfiesBayles’description“…cumSesqui-Centorum
+Locorum,TextibusN.T.varieparallelorumèlibrosohar…”.Greatimportance
+liesinthegenerallysequentialnatureof thereferences. MessiasPuer begins
+withareferencetolocus1andfinisheswithareferencetolocus150.Betweenthe
+two,referencesaregenerallyinsequencebutwithsomedisturbances.Where
+agroupoflociareinitiallycitedtogether(e.g.Cent.iLoc.26–41aredescribed
+generallyinfolio7vasreferringtoangels,Cent.iLoc.62–91aredescribedgen-
+erallyinfolio25rasreferringtobothMessiahs),butsubsequentlyspecificref-
+intoMessiasPuer)ortheyhavemaybeenwrittenoutbyhand.Butitisalsopossiblethat
+theExcerptahadonlyaLatintext.
+27 We know that the Excerpta did containTalmudic material as well, from a remark in
+folio40r:“ThepassagefromtheJerusalemTalmudismoreextensivelyquotedinExcerpts
+2.loc.16”.
+28 Forthefirstonehundredlocireferenceisusuallymadejustto“Cent.”Thereafter“Cent.i”
+and“Cent.ii”aresystematicallydistinguished.
+Anna M. Vileno and Robert J. Wilkinson - 978-90-04-44342-6
+
+[Page 34]
+
+---
+
+*Extracted from: Anna M Vileno Robert J Wilkinson Messias Puer_ Christian Knorr von Rosenroths Lost Exegesis of Kabbalistic Christianity BRILL (630 pages)*
+*Figures mentioned: Henry More, Éliphas Lévi*
+*Concepts mentioned: Emanation, Correspondence*

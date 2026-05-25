@@ -1,0 +1,108 @@
+---
+source: DE TRIBUS PRINCIPIIS, Oder Beschreibung Der Drey Principien Gttliches Wesens: Of the Three Principles of Divine Being, 1619, by Jacob Boehme
+source_category: Western Esotericism
+author: Weeks, Andrew;Penman, Leigh;
+total_pages: 876
+section: introduction 29
+section_number: 18
+date_processed: 2026-05-25T14:37:17.808986
+figures_mentioned: Jacob Böhme, Paracelsus
+concepts_mentioned: Tincture, Regeneration, Enlightenment
+---
+
+# DE TRIBUS PRINCIPIIS, Oder Beschreibung Der Drey Principien Gttliches Wesens: Of the Three Principles of Divine Being, 1619, by Jacob Boehme
+
+## Section: introduction 29
+
+introduction 29
+SincewehavebeentoldthatprimalAdamwasdistinguishedbyhisknowl-
+edgeandpenetratinginsight,wecanassumethattheknowledgemadepossible
+byAdam’sfailureistheself-knowledgethatistheobjectiveofThreePrinciples.
+Adamisamirrorforthereader.ThereaderandAdamembodythesameeter-
+nalsequencethatprogressesfromdarknesstolight:“inGodtherewouldbeno
+such eternal wisdom and knowledge, if the mind did not abide in darkness”
+(10:39).ThehintthatthehumandemisepertainstotheprocessbywhichGod
+attainsself-knowledgewilleventuallybeborneout;butthechapterendsina
+conventional censuring of the first human beings: “Had they stayed the way
+Godmade them, whenthey first sawthe gentleness,hadthey investedtheir
+mindsinit,thelightofGodwouldhaveilluminatedthemforever.”(10:51).
+ChapterEleven.Proceedingtothethemeof temptation,Boehmeimmedi-
+atelydigressestothepriorfallofLucifer.Justashumanrebirthmustcorrelate
+withtheeternalbirthof God,thehumanfallfromgracemustcorrelatewith
+Lucifer’sfall,andbothwiththefirstfourstagesof thesequenceculminating
+infire.Thefallisthesameineachcase:“eachqualityoressenceinthesource
+wantedtobecomecreatural.Thefieryonethrustitselfuptoomightily,andin
+it Lucifer took his will.The same happened with Adam …” (11:5). Each qual-
+itywantedtoexistbyandforitself.Thethrusttowardparticularity(without
+which,werecall,therecouldbenojoyorknowledge)goestoofarinthefiery
+essence.ItbecomesthewillinLucifer.Thisisoneofseveralaccountingsofthe
+emergenceofevil.Itconformstothenotionexpressedinthepreviouschapter
+thatparticularityisbothnecessaryandperilous.
+Adamwasplacedinthethirdprinciplebutintendedtoliveinthesecond
+wherehewouldhavepartakenonlyofthewordofGod,notoftheearthlyfruit.
+Sinceheavenandhellareeverywhere,eveninthehumanbeing,itisaxiomatic
+thatAdam’ssituationiseveryone’s.ItislikeBoehme’s,whowassimilarlythrust
+intoarealmofnecessityandwant,whileattemptingtoliveaninnerlifenour-
+ishedbythewordofGod.Anticipatingtheperilousexistenceofhumanityand
+mercifullyconcernedtoprovideforitssalvation(11:22),Godcreatedonlyone
+humancreaturetotestitsabilitytowithstandthefiercequalitythatawaitedit
+inthethirdprinciple.Unlikethedevil,whose“fiercepride”(11:26)ledtohisfall,
+Adamisaccostedbyallthreeprinciples,eachwantingtopossesshim.Oppor-
+tunism,notpride,occasionshisdownfall:hisspirit“associatedhypocritically
+withallthree”(11:35).TestedbyGod,Adam’sfailureisassurednotbydisobedi-
+enceorforbiddenfruit,muchlessbyEve’sweaknessandtreachery.Evenbefore
+Evehasbeencreated,GodrecognizesAdam’sinnerindecision,hisinclination
+tomakethingsrightwitheachoftheprincipleslayingclaimtohim.Hisfallis
+ofamoremodernkindthanLucifer’saristocratichubris.Adamcannotremain
+truetoGodorhimselfwhileresidinginmultipleworlds.
+
+[Page 41]
+30 introduction
+ChapterTwelve.HereBoehmeindulgeshisloveof askingandsolvingrid-
+dles and inventing and telling stories, impulses conditioned by theological
+quandaryandalchemicalandastrologicallore.ThestoryofMosesinEgyptand
+Sinaiisexploredwithmuchinsinuation.Wecandiscerntheeternalpatternof
+temptation in the biblical motif of forty days or years of testing, whether of
+theIsraelitesinSinaiorChristinthedesert.Fortycorrespondstothefourth
+quality,wheretheeternalprocesseithergoesforwardtorebirthinthelightor
+regressesintoinfernaldarkness.Thetwoepisodesinthedesertaretheback-
+groundforanoriginalinsightBoehmeintendstoexpose.Thesecretpowerof
+temptationanditsirresistibilityresideintheimaginationthatgainsfreereinin
+sleep(12:16).Sleepisavanquishingofthesoulbythe“seething”oftheelements
+andstars(12:21–23).Amongthestarstherearemanyenemiesoflife.
+Inwhatonlyappearstobeanarbitraryleap,theexpositionmovesontothe
+themeofdeathanddying.Justastheseethingofnaturetakespossessionofthe
+soulinsleep,sodotheastralenemiesoflifeholdthekeytothepuzzleofthe
+treeoftemptation,thefruitofwhichbringsdeath.Succumbingtotheroiling
+spiritofthegreatworldisboththecruxofhumanfailuretowithstandtempta-
+tionandthestrategicvictoryofdeathoverthefirsthumanbeingsandalltheir
+progeny.Theimagination,asisexplainedelsewherebyBoehme,isambivalent.
+Themindcaneitherabsorbitself intheobjectsof faithorallowthespiritof
+thegreatworldtoenterandinfectit.
+To instruct the reader on the insidious power of temptation, the author
+invites us to imagine a splendid young man and woman brought into close
+proximityandgrantedallliberties.Onlyshallowreasonsupposesitcouldwith-
+standtemptation.ThefirstAdamwasexposedtothisverytemptationbecause
+thefemaleprincipleofthevirginofdivinewisdomwaswithinhisandrogynous
+being.Werecallfromthepreviouschapterthatallnaturelustsafterwhatitis
+notinordertofulfillandcompleteitself,malewithfemale,inordertogivebirth
+toparadise.Thissexuallongingisambivalent.Withoutthelongingforperfec-
+tion,nogoodthingwouldcomeintobeing;yetsincethewillabidesinthethird
+principle,everythingthatarisesfromitisflawedandhaphazard.Nogoodthing
+canlast.Toconveythemysteryof thedivinepresenceinnature,thischapter
+introducesandgivesvoicetothevirginof divinewisdom,whileevokingthe
+tinctureseparatinggoodfromevilinnature.InBoehme’sallusions,allegorical
+exegesisintertwinesmysteriouslywithalchemicallore,asthetincturewiththe
+virgin.Theformerevokestheennoblingprocessesofnature.Thelatterperson-
+alizestheirexaltednobilityinafigurealmostasvividlyprofiledasMosesor
+Christ.
+ChapterThirteen.Thischapterassignedtothecreationof Evecharacteris-
+ticallyencompassesmuchmore.Alchemyandastrologyplayanexplicitrole
+
+[Page 42]
+
+---
+
+*Extracted from: DE TRIBUS PRINCIPIIS, Oder Beschreibung Der Drey Principien Gttliches Wesens: Of the Three Principles of Divine Being, 1619, by Jacob Boehme (876 pages)*
+*Figures mentioned: Jacob Böhme, Paracelsus*
+*Concepts mentioned: Tincture, Regeneration, Enlightenment*

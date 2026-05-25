@@ -1,0 +1,2701 @@
+---
+source: Anna M Vileno Robert J Wilkinson Messias Puer_ Christian Knorr von Rosenroths Lost Exegesis of Kabbalistic Christianity BRILL
+source_category: Western Esotericism
+author: Unknown
+total_pages: 630
+section: introduction 17
+section_number: 18
+date_processed: 2026-05-25T14:38:23.007372
+figures_mentioned: Henry More, Éliphas Lévi
+concepts_mentioned: Emanation, Correspondence
+---
+
+# Anna M Vileno Robert J Wilkinson Messias Puer_ Christian Knorr von Rosenroths Lost Exegesis of Kabbalistic Christianity BRILL
+
+## Section: introduction 17
+
+introduction 17
+backtothetimeof DukeAugustus,thefounderof thelibraryhimself.36They
+were named “Extravagantes” because these were works which were omitted
+fromaninitialcatalogueoftheGuelfcollectionandconsequentlywerecalled
+byestablishedusage“Extravagantes”.37
+thesemanuscripts,butsaysnothingabouttheirhistorybeforetheirarrivalinWolfenbüt-
+tel.(PersonalcommunicationofDrSvenLimbeck,19.9.18.)
+36 http://diglib.hab.de/?db=mss&lang=en&list=collection&id=extrav
+37 The term was originally used in canon law for papal documents not included in the
+twelfth-centuryDecretumGratiani,butnonethelessbindingupontheChurch.
+Anna M. Vileno and Robert J. Wilkinson - 978-90-04-44342-6
+
+[Page 41]
+chapter 2
+The Manuscript
+1 ADescriptionoftheManuscript
+The manuscript (hab. Cod. Guelf. 126 Extrav.) is in-octavo, bound in leather
+half-bindingwithleathercorners,characteristicofboththeSeventeenthCen-
+tury and the hab holdings of the same collection. There is a fly-leaf at the
+beginningandtwopagesattheendinadifferentpaperwhichbearsawater-
+mark.Otherwisethecodexcomprises52foliosrecto/verso,thatis104pages.1
+Atthemoment,theprovenienceofthewatermarkhasyettobeidentified.The
+codexisgatheredinquaternionsascanbeseenfromacloseinspectionofthe
+spineandbinding.
+Astrikingfeatureofthepagesofthemanuscriptisthateachsheetiscrossed
+byhavingbeenfoldedintofourwithahorizontalandaverticalcrease.2Therea-
+sonforthisconsistentfeatureisnotobvious.Perhapsweshouldimaginethat
+thecreasesarosefromfoldingthesheetstofacilitatetheirtransmissionback-
+wards and forwards between Knorr and his secretaries. Or maybe the pages
+were folded to be sent to the printer, though it must be said that we do not
+infactknowwherethebsbfragmentwasprintedanditshouldbenotedthat
+allthepagesarefolded,notjustthoseprintedinthebsbfragment.3Although
+probablythebsbfragmentwasprintedinSulzbachwhereKnorrcouldsuper-
+vize the printing process. Then, when Van Helmont tried to have the text
+printed in Amsterdam, maybe he folded the pages in order to carry them. A
+lastpossibilityisthatthepageswerefoldedinordertobesenttoWolfenbüttel,
+whereweassumedtheywereboundtogether.
+1 Thelasttwoblankpageshavealsobeennumbered.
+2 AshasbeennotedbytheauthorofthehabCatalogue:“AlleBlätterdesManuskriptssind
+längsundquergefaltetgewesen.”(KatalogederHerzogAugustBibliothekWolfenbüttel,op.
+cit.,p.80).
+3 Thesheetsarewrittenonbothsides.Consequentlyfoldingtheminfourleftnospaceforan
+addressorforsealingwax,northepossibilityoffoldingthemintothemselves.Oneshould
+thereforeperhapsassumethattheyweresent,inwhatevernumbers,inanenclosingsheet
+foldedaroundthemandbearinganaddress.ExamplesoflettersfromKnorr’scorrespondence
+folded,addressedandsealedcanbeseeninhabCod.Guelf30.4.Extrav.See:http://diglib.hab
+.de/?db=mss&list=ms&id=30‑4‑extrav&lang=en
+© koninklijkebrillnv,leiden,2021 | doi:10.1163/9789004443426_003
+Anna M. Vileno and Robert J. Wilkinson - 978-90-04-44342-6
+
+[Page 42]
+the manuscript 19
+2 HebrewPagination
+ThemanuscriptcarriespaginationinHebrewnumerals(letters)onthebottom
+right-handcornerofgivensheets.Thesequencenumbersthegatheredquater-
+nionsandextendsfromaninitialbettoafinalnunonfolio52.Thereisnoalef.
+(Thusbetappearsonfolio4r,gimelonfolio8randsoonuntilnunappearson
+folio52r).Theabsenceof analef seemstoindicatethatthemanuscriptmay
+havebeendeprivedof itstitlepage.Thisimpressionwillbereinforcedwhen
+wediscussbelowthefactthatfirstquaterniondoesnothavetherightnumber
+ofsheets.Weshallnoticeasimilarlackoftitlepageinthecaseoftheprinted
+bsbfragment.
+Inadditionthepagesofthemanuscriptaremarkedinthetoprighthandcor-
+neroftherectowithanArabicnumeralinred-crayonwhichhasbeenoverwrit-
+teninblackink.Weshallarguebelowthatthissystemofnumerationappears
+to have been added in the context of the printing of the bsb fragment, and
+thustheHebrewnumerationshouldbeconsideredtheoriginalpaginationof
+themanuscript.
+3 TheAbsenceofaTitlePageintheManuscript
+Aswehaveseenthecodexhasnotitlepage.Thetextbeginswiththetitleofthe
+firstsectionofthework“EvangeliumSanctumPrædicationisLucæEvangelistæ,
+quodlocutusestetprædicavitGræcèinAlexandriamagna”.4 Abovethis,right
+at the top of the page has been added in a hand we identify as Knorr’s “His-
+toriæEvangelicæinitiumsecundùmquatuorEvangelistas.Sectio1”(Figure1).If
+thisadditionfollowedtheremovalof thetitlepage(whichseemslikelyasit
+removedandreplacedthepreviousmarginalnumeration“Sectio1”),itwould
+seemthatKnorrhimself chosethisnewtitlewhichsubsequentlyenteredthe
+catalogues.
+4 “TheHolyGospelofthePreachingofLukewhichwasspokenandpreachedinAlexandriathe
+Great”.
+Anna M. Vileno and Robert J. Wilkinson - 978-90-04-44342-6
+
+[Page 43]
+20 chapter 2
+figure 1 CodexGuelf.126Extrav.(HerzogAugustBibliothek,Wolfenbüttel),folio1r.
+Anna M. Vileno and Robert J. Wilkinson - 978-90-04-44342-6
+
+[Page 44]
+the manuscript 21
+4 Knorr’sHand5
+Thepaperofthecodexappearsalittlebrown,butthetextisperfectlylegible.
+Several hands are apparent in the codex.The majority of the writing is in a
+humanistscriptwhichprobablybelongedtoasecretary,aprofessionalscribe
+suchasKnorrwouldhaveathisdisposalasanimportantfunctionaryof the
+Court.6Thisfirstsecretarialhandinitiallywrotealargepartofthetext.Knorr
+himselftookoverforhalfapageonfolio49r(Figure2)andasecondsecretarial
+handcontinuedfromthesecondpartoffolio49r.AfewlinesinKnorr’shand
+arefoundonfolio50r.Healsowrotethefourlastpageshimself (51r–v,52r–v).7
+WearefortunatethatKnorr’sdistinctivehandcanbesoconfidentlyrecognised,
+asitisfoundinseveralofhismanuscripts.Alistoftheseisavailable.8Conve-
+nientlyKnorr’shandmaybeexaminedinCod.Guelf30.4atfolios2r–3r(below);
+3v–3r;8r–11v;34r–35v;40r–42v;47r–48v.9
+Themanuscripthasaparticularinterest,however,notmerelybecauseKnorr
+wrote parts of it in his own hand. Rather it arises from his systematic and
+detailed correction of the work of the secretaries. We have preserved innu-
+merablecorrections,deletionsandadditionswhichpermitustofollowKnorr’s
+guidanceofhistexttoitsfinalform.Thismaterialprovidesarareinsightinto
+theauthor’schangesofmindandhesitations,towhichweshallreturnshortly
+(Figure3).
+Thetextofthecodex,withinthegenericconstraintsofadialoguebetween
+a “Christianus” and a “Cabbalista Catechumenus”,10 constitutes a sequential
+verse-by-versecommentaryontheGospelaccountsofthebirthandearlylife
+ofChrist.ThecommentsaddresstheSyriacPeshittatextoftheGospels,which
+waspublishedbyKnorrhimselfin1684.11
+5 WeareindebtedheretothemeticulousanalysesofDoktorSvenLimbeckoftheManu-
+scriptDepartmentattheHerzogAugustLibrary,andforhisinvaluabletechnicalguidance.
+6 KnorrwasChancellortotheCourtatSulzbachandPrivyCounsellorofChristianAugus-
+tus.HewasappointedduetothegoodofficesofhisfriendvanHelmont(Finke,Sulzbach
+im17.Jahrhundert,op.cit.,p.114).
+7 TheuseofsecretariesbyKnorrneednotbetakenforgranted.Cod.Guelf.149.13Extrav.
+containsworksinKnorr’sownhandinbothGermanandLatin.Theyarealotmorediffi-
+culttoreadthanthetextpreparedbysecretariesinourmanuscript,hab.Cod.Guelf.126
+Extrav.ItmaybethatKnorrchosetousesecretariesbecauseheintendedtopublishthe
+workandsopreparedamorelegibletextfortheprinter.
+8 AconvenientlistofmanuscriptsinKnorr’sownhandcanbefoundinA.Fuchs,“Chris-
+tianKnorrvonRosenroth.EinBeitragzuseinemLebenundseinenWerken”,Zeitschriftfür
+Kirchengeschichte,35(1914):pp.548–583atpp.570–571.
+9 See:http://diglib.hab.de/?db=mss&list=ms&id=30‑4‑extrav&lang=en
+10 Fromhissecondappearanceuntiltheendofthetext,heisreferredtobytheabbreviation
+“Cabb.Cat.”.
+11 Cf.supra,chapter1,note21.
+Anna M. Vileno and Robert J. Wilkinson - 978-90-04-44342-6
+
+[Page 45]
+22 chapter 2
+figure 2 CodexGuelf.126Extrav.,showingKnorr’shandinthefirsthalf-pageoffolio49r
+Anna M. Vileno and Robert J. Wilkinson - 978-90-04-44342-6
+
+[Page 46]
+the manuscript 23
+figure 3 CodexGuelf.126Extrav.,folio30r
+Anna M. Vileno and Robert J. Wilkinson - 978-90-04-44342-6
+
+[Page 47]
+24 chapter 2
+5 TheSyriacPaperSlips
+Provisionismadeinthelayoutofthepagesthroughoutthemanuscriptforthe
+insertion of the text of the 1684 Sulzbach Peshitta to the several NewTesta-
+mentpassagesquotedatlengthforcomment.Therearesevencaseswherethe
+texthasbeencarefullycutfromthepagesof anexemplarandstuckintothe
+manuscript.HoweverineachofthesecasesthePeshittatextisscoredthrough
+inthemanuscriptanditdoesnotatanypointappearintheprintedfragment
+inbsb.
+On the fourth occasion (folio 13r) where the Peshitta text of Lk 1,26–38 is
+needed,theSyriacforthelasttwoverses37and38ismissing.Howeverthere
+isspaceforthetwoversestobecutoutandaddedtothespaceleft.Thesetwo
+versesappearonthenextpageofKnorr’s1684editionandsowouldhavehadto
+becutfromanothersheet.Onthesixthoccasion(folio20v)wherethePeshitta
+text of Mt 1.1–25 is needed, only the Syriacfor verses1–18 appears and there
+isnospaceleftforthePeshittaof verses19–25.Theseversesagainfallonthe
+nextpageof Knorr’sedition.Itwouldappearthatthespacerequiredwassig-
+nificantly mis-calculated here. On the seventh occasion (folio 32v) where Lk
+1.57–80 is being cited, the Syriac is missing from the last part of verse 66 to
+verse80,thoughitappearsthatspacehadbeenleftsufficientforitsinsertion.
+ThereafterforthetextofLk2.1–39(folio36v),Mt2.1–23(folio45r)andLk2.40–
+52(folio50v)spaceshavebeenleftfortheinsertionbutthereisnotextinserted.
+Several scenarios may be imagined to account for all this, but it would
+seemreasonablysafetoconcludethatplansentertainedasthemanuscriptwas
+draftedweredroppedwhenitcametoprinting,perhapsbecauseof thediffi-
+cultiesof printing,thoughthesewerehardlyinsuperable.Wehavesuggested
+above that von Rosenroth was forced by practicalities to modify the project
+announcedbyBayleof acommentaryupontheSyriactextplacedalongside
+hiscollectionofextractsfromtheZohar,andthatthisbecamefinallyMessias
+Puerandtheancillarycollection(nowlost,buttoanextentreconstructable)
+oftheExcerpta.Itispossiblethatweshouldseeasimilarreductionofaspira-
+tioninthefaceofpracticalitiesinthecaseoftheonceintendedcitationsofthe
+Peshitta.
+6 FromManuscripttoPrint
+The BayerischeStaatsbibliothek (bsb) exemplar is without title page, date or
+place. As we have seen above there seems to be no other copy of it and
+J. Fabricius’ 1724 reference to the work may indeed be to the same volume.
+Anna M. Vileno and Robert J. Wilkinson - 978-90-04-44342-6
+
+[Page 48]
+the manuscript 25
+The catalogue title of Historiæ evangelicæinitium is taken, as occurred with
+themanuscript,fromthefirstwordsof thetextwhichwereaddedinKnorr’s
+hand. It comprises about a hundred pages, but the printed text breaks off
+afterthefirstpartof folio19randsorepresentsonlyaboutathirdof thetext
+of the manuscript. It is a rather inaccurate printing of the final form of the
+manuscript.12Itdisplaysseveralorthographicvariants,whicharenotof great
+significance(antehâcratherthanthemanuscript’santehac;eôdemratherthan
+eodem;DEumratherthanDeum)andshouldnotbeagreatsurprisesinceprint-
+inghousesoftenhadtheirownorthographicpeculiarities.Thoughthechanges
+to the manuscript marked by Knorr are correctly made, the printed version
+has some graver faults. First, biblical references are often given incorrectly,
+although the correct form appears in the manuscript.13 Then several words
+areincorrectlyspelled,thoughtheyarecorrectlywritteninthemanuscript.14
+Finallyandmoreseriously,arisingprobablyfromignoranceratherthancare-
+lessness, numerous Hebrew words appear written quite incorrectly, though
+onceagain,themanuscripthasthecorrectforms.15
+Wehavementionedaninitialanonymousmanuscriptannotationindicat-
+ingtheworkwasrecognisedasKnorr’s.16Afinalanonymousmanuscriptnote
+comesattheendof theprintedtextwhichsaysthatprintingwasbrokenoff
+becauseof thedeathof theauthor:“Pluranonsuntimpressa.Auctoroperiest
+immortuus.”17Thecatalogueof the BayerischeStaatsbibliothekgivesnoplace
+of printing but dates the piece to 1690. It may however be that 1689 is more
+probableif theprintingwasindeedstoppedbythedeathof KnorrinAprilof
+1689.
+12 Theinaccuracyofthebsbexemplarcanalsobeexplainedbythesuppositionthatitisa
+firstproofwhichhadnotundergonecorrection.Thatmaypartiallyexplain,forexample,
+whythewordsinHebrewtypeareerroneouslyspelled.
+13 bsbreads“Matth.1,28”insteadof“Matth.1,18”onfolio10r,“Dan.10,5–19”insteadof“Dan.
+10,5–10”onfolio15r,“Hebr.13”insteadof“Hebr.1,3”onfolio17v,“Act.17,18”insteadofthe
+correct“17,28”onfolio17r.
+14 naturaminsteadofnaturarumonfolio4r;generaliteinsteadofgeneralitateonfolio8r;
+Nercabhâinsteadof Mercabhâonfolio8r;Talisinsteadof thepropernameTaliuson
+folio 10r; eundem instead of eandem on folio 11r; subjicenda instead of subjicienda on
+folio18r.
+15 וחילאinsteadofוהילאonfolio9v;תיבכוinsteadofתיבכב;םיתמ(“thedead”)insteadof
+םירמ(“Mary”)onfolio14r!Theprinter’sevidentdifficultywiththeHebrewheremaybe
+thereasonwhytheSyriactextinHebrewlettersinthemanuscriptwasultimatelyomit-
+tedfromtheprintedfragment.Clearlywemustassumethatforsomereasontheprinting
+expertisewhichwasavailabletoKnorrin1684wasnotavailabletohimin1689.
+16 Cf.supra.
+17 “Nomorewasprinted,fortheauthoroftheworkdied”.
+Anna M. Vileno and Robert J. Wilkinson - 978-90-04-44342-6
+
+[Page 49]
+26 chapter 2
+At first glance, the state of the manuscript makes it hard to imagine it as
+the direct basis of the fragmentary printed edition. It is difficult to conceive
+that the printer, working normally rapidly and mechanically, could be able
+toincludesomanycorrectionsandadditions.Howeverthemostpartof the
+corrections which appear in the first part of the manuscript are indeed well
+andtrulyrepresentedintheprintededitionintheBayerischeStaatsbibliothek.
+Twopossibilitiesmaybeentertained:eitherthereonceexistedanintermedi-
+ate“clean”manuscriptcontaininga“faircopy”,butnowlost,whichtheprinter
+used;orthemanuscriptintheHerzogAugustBibliothekcouldhavebeenitself
+used,if oneimaginedthattheauthor,KnorrvonRosenroth,activelypartici-
+patedintheprintingprocess.18Itisthislatterpossibilitywhichshouldprobably
+be preferred for several reasons: first of all this is what is suggested by the
+anonymousmanuscriptnotewhichconcludestheprintedversionintheBay-
+erischeStaatsbibliothek—thisclearlyindicatestheinvolvementof theauthor
+totheextentthattheprintingdidnotcontinuewithouthim;alsothecollabo-
+rationofauthorsintheprintingoftheirownworks,particularlyintheareaof
+Hebraica,iswelldocumented;19furtherallthecorrectionsandadditionswhich
+appearinthefirstpartofthemanuscripthavebeenincludedintheprintededi-
+tion;andthenwemaymentionaninstructioninGerman(presumablybecause
+addressed to the printer) in Knorr’s own hand added to the first page of the
+manuscriptindicatingthatallmaterialunderlinedinthemanuscriptshould
+beprintedinsmallertype.20Thisverymuchsuggeststhatthemanuscriptdid
+18 ThehabCatalogueconfidentlydescribesthemanuscriptas“Druck-vorlage”(“Aprinter’s
+copy”)(KatalogederHerzogAugustBibliothekWolfenbüttel,op.cit.,p.80).
+19 S.G.Burnett,“ChristianHebrewPrintingintheSixteenthCentury:Printers,Humanism
+andtheImpactof theReformation”, Helmantica:RevistadeFilologíaClásicayHebrea,
+51/154(2000):pp.13–42,p.28.In1683theLutheranJohannesHolst(1648–1726),theassis-
+tantoftheReformedChristianprinter,AbrahamLichtenthaler(whohadfirstestablished
+aprintinghouseinSulzbachin1664)setuphisownpress.Thereafter,MoshebenUri
+ShragaBlochsetupaHebrewpresswhichwastoproducealonglineofHebrewbooks
+untilitwasclosedin1851.BothChristianKnorrvonRosenrothandFrancisMercuryvan
+Helmontwereinvolvedinitsestablishment.Bloch’sfirstbookwastheSulzbachZohar
+TypisMoysiBloch&operaJohannisHolstProstatNorinbergaeapudWolfgangumMau-
+ritiumEndterum.KnorralsohelpedBlochwiththeproductionof hisSeferChesedle-
+AbrahambyAbrahambenMordecaiAzulai(1570–1643)in1685,asweshallseebelow.Thus
+Knorr’sinvolvementintheprintingprocessshouldthereforenotnecessarilybeacause
+forsurprise.ForHebrewprintinginSulzbach,seeM.Weinberg,“DiehebräischenDruck-
+ereieninSulzbach”,JahrbuchderJüdisch-LiterarischenGesellschaft,1(1903):pp.25–32;Id.,
+“DiehebräischenDruckereieninSulzbach”VerbesserungenundErgänzungen(Frankfurt:
+Sänger&Friedberg,1923)andHuss,“TextandContextofthe1684Sulzbacheditionofthe
+Zohar”,art.cit.,pp.122–124.
+20 “nb.Alleswasunterstrichenist,sollmitkleinererSchriftgesetztwerd[en]”.(“N.B.Everything
+Anna M. Vileno and Robert J. Wilkinson - 978-90-04-44342-6
+
+[Page 50]
+the manuscript 27
+infactserveasthedirectbasisoftheprinting.21Finally,ifoneallowsthatthe
+printerwaswellandtrulyconfrontedbythemanuscript,thiswouldexplainthe
+presenceinthemarginofthemanuscriptofanumerationofpagesandgather-
+ingsinredcrayonwhichgenerallycorrespondstothoseoftheprintededition.
+Thesemarginalannotationsof theprinterceasetoappearinthemanuscript
+atthesamepointthattheprintedworkalsoceases—thatisatfolio19r.
+Howeveramoredetailedcomparisonofthenumerationofpagesandgath-
+eringsinthemanuscriptwiththoseof theprintedversionindicateslessthan
+totalagreementandsuggeststhattwopagesmaybemissingfromthebegin-
+ningofthemanuscript.Themanuscriptbeginsitsnotationwith3A/1,butthe
+printedtextwithA/1.Possiblythismayindicatetheomissionofatitlepage.A
+closeexaminationofthemanuscript,thebindingandthesewingconfirmsthe
+absenceofthefirstpage.Thelossorsuppressionofsuchatitlepageseemsto
+bethereasonwhytheworkwassubsequentlynamedinconventionalfashion
+afterthefirstwordsofitstext,inthiscaseHistoriæevangelicæinitium.
+7 TheRedCrayonMarkings
+Thehabmanuscripthasbeenmarkedwitharedcrayon.Thesemarksalmost
+(butnotquite)entirelyconcerntherelationshipbetweenthehabmanuscript
+andthebsbprintedtext.Theygavethebsbsignatureandabsbpagenumber
+forthemanuscriptmaterialwhichimmediately followsthemarking.Theyalso
+indicatepreciselythecatchwordwhichappearsattheendofeachprintedpage
+inanticipationofthebeginningofthenext.22
+Thesignaturerelatestothegathering,inthiscaseaquarternion.Foursheets
+arefoldedinhalfandplacedinsideoneanother.Togethertheycompriseeight
+leavesandsixteenpages,buttheorderoftheprinted“pages”onthefrontand
+reverseoftheunfoldedsheetswillnotbethatofthepagesofassembledgath-
+ering(andsomewillbeupsidedown).Theannotationassiststheprinter,and
+also helps the binder get everything in order.The system used issimple: the
+underlinedshouldbesetinsmallertype”).Theunderlinedpassagesinthemanuscriptare
+initalicsintheprintededition.
+21 WehavesuggestedabovethatKnorr’suseofsecretariesinproducingthemanuscriptmay
+havebeenbecausehewishedittobelegibleforaprinter.
+22 Everypagehasacatchwordexceptbsbp.14.Thisseemstobebecausethenextpage
+beginswithahalf-lineofHebrewtype,whichwouldhavebeenunnecessarilyawkward
+toanticipateonthepreviouspage(especiallyif,aswehavesuggested,theprinterwasnot
+confidentwithHebrew).
+Anna M. Vileno and Robert J. Wilkinson - 978-90-04-44342-6
+
+[Page 51]
+28 chapter 2
+firstquarternionisAandthusitsfirstsheetisalsoA23,thesecondsheet2A,
+thethird3A,thefourth4A:iftheseareinorder,allthepagesinthegathering
+willbe.Tothesethepagenumberofbsbisadded.24
+Themanuscriptbeginswiththeannotation3A/1;followedby4A/2;[deest]25;
+6A/4;7A/5;8A/6;9A/7andonto16A/14.Onenoticesimmediatelythatthe first
+printedpageof thebsbtextwasthethirdpageof thegatheringaccordingto
+theannotation,butnothingprecedesitintheprintedtext,norarethereany
+earliersheetsnowextantinthemanuscript.
+Thelastprintedpageof thebsbtextpage96announcedthebeginningof
+gatheringG,whichwouldhavebegunonpage97.Themanuscripthasanno-
+tations2G/98and3G/99furthermarkingthebeginningofthenewgathering,
+buttheprintedtextstopsatpage96.
+The printing was demonstrably a success, at least to the extent that the
+paginationofthebsbisaccurateandsequentialandsoistheorderofthesig-
+natures.Butitseemsoneortwoslipsoccurredintheprocess.Thepaginator
+initiallywrote6.D/54followedby6.D/55(whichshouldhavebeen7.D/55)and
+then7.D/56and8.D/57.Realisingperhapsthathehadtwo6.Dshecorrected
+8.D/57to9.D/57torestorethesequencebutleftthetwo6.Ds.
+Amoreconsiderablemuddlehoweverappearsatthebeginningofgathering
+B.TheannotationsrunPrB/[15?26];[deest]27;PrB/17;PrB/18;[deletion:Pr?]
+B2/19;[deest]28;4B4/2329correctedto4B/20;6B/21;7B/2330;8B/24;9B531/25.
+23 InfactinthemanuscriptannotationsthefirstsheetofagatheringiscalledPrB;PrC;Pr
+D;PrE;PrF&PrG.ThePrgraphiswrittenwithanextendedverticallinerisingfromthe
+topofthe/r/indicatingprobablysomeformofprimus.
+24 Theannotation9B/25anticipatingprintedpage95isinfactwritten9B5/25indicatingthat
+thenextprintedpageshouldcarrythesignaturenumberB5atthebottom,whichitdoes.A
+similarinstruction4B4/23indicatingthatpage23shouldbemarkedwithsignaturenum-
+berB4(whichitis)wasdeletedwhencorrectingothermatters(Cf.infra).
+25 Theomissionof thisnotationseemstobeentirelyaslip.Thereisonlyoneothercase
+whereanewpageintheprintedtextisnotmarkedinthemanuscriptandthatisatthe
+endofbsbpage15.
+26 Thenumberisdifficulttoread,butthepredictable15fitsthetraces.
+27 Thereisnoannouncementofprintedpage16hereinthemanuscriptwhereitisexpected.
+28 Thereisnoannouncementofprintedpage19hereinthemanuscriptwhereitisexpected
+29 Thisannotationiscorrectinasmuchaspage23shouldanddoescarrythesignatureB4.
+Theproblemisthatitisoutofsequencehere.
+30 Herethesequenceisrestoredandcontinuescorrectlyuntiltheendwiththeexception
+ofthetwo6Dsmentionedabove.Butnoticethatthesequenceisonlyrestoredbythe
+omissiononpage22intheredannotations.
+31 The5hereonpage24anticipatesthebeginningofB5onpage25.ThenotationB5isoth-
+erwisemissingasexplainedabove.
+Anna M. Vileno and Robert J. Wilkinson - 978-90-04-44342-6
+
+[Page 52]
+the manuscript 29
+Thereareextanthere3PrBs(excludingthepossibledeletion),wherethere
+shouldonlybeone;therearenomanuscriptnoticesanticipatingprintedpages
+16and20andtheexpectedsignaturenumbersB5andB22aremissing.Itmay
+perhapsbesuggestedthatitisthepresenceofsimplytoomanyPrBsthathas
+necessitatedthesubsequentcontrivancestorestorethesequence.Ifthispoint
+isconceded,itmaybeaskedwhythemasterof thered-crayonfeltforcedto
+resorttothreefirstpagestogatheringB?Mayoneperhapssuggestthatthisis
+anaturalconsequenceofhavingbegunthefirstgatheringAwith3A/1instead
+ofPrA/1?Whentheredcrayonreachedtheendofthesequenceforsignature
+A,i.e.16A,itwasevident(fromthepagination16A/14)thatthereremainedtwo
+pagesof thegatheringover.Themultiplicationof thePrBswassimplyaway
+offillingthosepagesup—butanexpediencywhichdemandedthesubsequent
+“fudge”torestoretheorder.Weshallreturnbelowtotheconsequencesofthe
+firstgatheringbeginningwith3A/1.
+Thequestionof whentheseannotationsweremadenaturallyarises.They
+haveeveryappearanceof beingthemarksof theprinter.Itmaybesuggested
+thattheyweremadeaftertheimpressionasawayofensuringthatallthemate-
+rialinthemanuscripthadbeenprinted.Inthiscase,however,itwouldseem
+thatthedetailsofthegatheringswasquiteunnecessaryasallthatwasrequired
+wastomarkthemanuscriptwiththenumberoftheprintedpagewhichbore
+itscontent.Theprecisenotingof thecatchwordsmayalsoseemratherover-
+conscientious. Such an hypothesis, asserting that the marks are descriptive
+after the event, would also entail that at the end of the bsb text there were
+justthreepagesprintedofgatheringGandthatthesewerethenomittedfrom
+theprintededition.Thisisnotimpossible,of course,butperhapsunderthe
+circumstances of Knorr’s possible indisposition we may imagine the printer
+reluctant to broach another gathering. It is perhaps more plausible to imag-
+inetheannotationspreparedimmediatelybefore-handbytheprinterforthe
+guidance of the type-setter, or perhaps the type-setter making his own cal-
+culations of the amount of text he could get on a page and keeping his eye
+on the catchwords and signatures by a running tally. In the later case, one
+wouldconsiderthetextmarkedupnotlongbeforetheprintingandtheslight
+over-runinthemarkingsattheend,merelyananticipationofafuturegather-
+ing.
+Thisviewmaytakesomesupportfromthetwored-crayonmarkswhichare
+not todowithpagination.Onfolio3vjustabovetheannotation14A/12there
+appears a clear sign marking what is apparently to be the indentation of a
+sequenceofnumbers(beginningwiththetext“1.Quia…”).Inadditiononthe
+same page but a little lower down there occurs the very short Hebrew word
+myinHebrewscript,butsurroundedbyLatin.Itcouldeasilybemistaken,so
+Anna M. Vileno and Robert J. Wilkinson - 978-90-04-44342-6
+
+[Page 53]
+30 chapter 2
+theredcrayonhasmarkednbinthemarginasawarning.Evidentlywhilethis
+wouldbesalutaryduringtheprinting,itwouldbetotallyotiosethereafter.
+The manuscript is numbered with Arabic numerals in the top right-hand
+corner of the recto of every sheet.These are confidently drawn in blackink,
+butapparentlyoveranearlierredcrayon.Itispossiblethattheunderlyingred
+numberswereplaceduponthesheetsofthemanuscriptbytheprinteratmuch
+thesametimeastheotherredcrayonmarkings.Whentheprinterreceivedthe
+sheets, initially numbering the leaves sequentially would be an obvious pre-
+cautionbeforemarkingupthesignatures,theprintedpagesnumbersandthe
+catchwords.Itwouldprovidesimplesecurityandreassurancewhichcouldnot
+beprovidedbytherathermoreabstrusenumerationof thegroupingsof the
+manuscriptbyHebrewlettersmentionedabovewhichisprobablytheworkof
+Knorrhimself.Wemaythenimaginethatafterthemanuscript’sreturnfromthe
+onlypartiallysuccessfulvisittoprinters,someone(perhapstheDuke’sLibrar-
+ian)considereditusefultoreinforcethecrayonnumberswithblackink.
+Wehaveseenaboveevidenceinthecaseof boththemanuscriptandthe
+printedfragmentthatthetitlepagehasbeenomitted.Giventheextremedis-
+cretionofKnorr,itseemspossiblethatitwasatsomepointthoughtasensible
+precautiontosuppressthetitle(though,mercifully,nottodestroythebook).
+Theabsenceof bothtitlepages,however,doesexplainwhythetitlewaslost
+frombothversionsofthetextitselfwhichwastheninbothcasesnamedcon-
+ventionallyfortheopeningwordsof itstextwhichwereapparentlyaddedby
+Knorrhimselfforthispurpose.ThetitleMessiasPuerwaspreservedofcourse
+in the contemporary notices, but generally taken to have been lost. It is our
+hopethatoureditionwillreunitetheworkwithitsoriginaltitleandindicate
+somethingof theimportanceof thatworkintheappreciationof Knorr’scor-
+pus.
+Anna M. Vileno and Robert J. Wilkinson - 978-90-04-44342-6
+
+[Page 54]
+chapter 3
+Changes to the Manuscript of MessiasPuer
+1 TheExceptionalToleranceofSulzbach
+ThefactthatKnorrspentalmostallhislife,apartfromhisstudiesinLeipzig,
+Wittenberg and Leiden, in the Palatine Court of Sulzbach is significant.The
+specific historical context and the religious atmosphere of the Christian
+August’s Palatine Court had a strong influence on Knorr’s intellectual devel-
+opment. It was thanks to his friend van Helmont that Knorr first met the
+Count Christian Augustus.1 Van Helmont had entered his service in 1650 as
+a private counselor on religious matters2, in charge of moderating the inter-
+confessionaltensionsthatbroughttheprotestantCountChristianAugustinto
+opposition to his cousin Philip Wilhelm, Duke of Pfalz-Neuburg, a fervent
+Catholic(CountChristianAugusthimselflaterformallyconvertedtoCatholi-
+cism).VanHelmont’simplicationinthiscontroversybroughthimbeforethe
+Court of Inquisition, accused of Judaising. Van Helmont was convicted and
+imprisonedbetween1661and1663.Hisliberationwasduetotheintervention
+inhisfavourofCountChristianAugust,whoprotestedthereligiousorthodoxy
+ofhiscounselor.VanHelmont’slaterlifeandpublications,however,showvery
+clearlyjusthowveryfarvanHelmontwasfromanykindof orthodoxy,philo-
+sophicalorreligious.ThefactthatChristianAugustwaspreparedtodefendhis
+counselorshouldalsomakeusquestionhisownrigour,thoughnotnecessarily
+hissincerity.ItseemsindeedthatthePalatineCourtofSulzbachwasaplaceof
+extraordinarytolerance,whichwaspreparedtowelcomeallkindsofreligious
+dissidents,whetherCatholicsorProtestants.3Differentreligiouscommunities
+1 ForacharacterisationofChristianAugustus’CourtseeV.Wappmann,DurchbruchzurTol-
+eranz:dieReligionspolitikdesPfalzgrafenChristianAugustvonSulzbach1622–1708,(Neustadt
+a.d.Aisch:Degener,1998);Id.,“Juden,Quäker,Pietisten.DieIrenikdesSulzbacherKreises
+1651–1708”inUnion-Konversion-Toleranz.DimensionenderAnnäherungzwischendenchrist-
+lichenKonfessionenim17und18.JahrhunderteditedbyH.DuchhardtandG.May(Mainz:
+P.vonZabern,2000):pp.119–138;Finke,Sulzbachim17.Jahrhundert,op.cit.andI.M.Batta-
+farano,“‘ObdieJudenvonNaturstincken’.ThomasBrowneundChristianKnorrvonRosen-
+rothgegendieGemeinplätzedesAntisemitismus”,Morgen-Glantz2(1992):pp.51–63.
+2 A.P.Coudert,TheImpactoftheKabbalahintheSeventeenthCentury:TheLifeandThoughtof
+FrancisMercuryvanHelmont(1614–1698)(Leiden:Brill,1998):p.108.
+3 “HissupportofspiritualistLutheranslikeFabricius,Brawe,andFlorinuscertainlysuggested
+[…]thathisallegiancetotheCatholicChurchwasnotwhatitshouldbe.ChristianAugustpur-
+© koninklijkebrillnv,leiden,2021 | doi:10.1163/9789004443426_004
+Anna M. Vileno and Robert J. Wilkinson - 978-90-04-44342-6
+
+[Page 55]
+32 chapter 3
+coexisted in the Palatine lands and the Count encouraged religious contacts
+between Catholics and Protestants by setting up a simultaneum, the sharing
+of theuseof placesof worshipbybothcommunities.Thetoleranceof Chris-
+tianAugustalsoextendedtotheJewishcommunityaswell,whowereallowed
+permanentrightsof settlementin1666.4Theconsequencesof thisfavorable
+climateareobservableinculturalmatterstoo:aprintingpresswasestablished
+inSulzbachwhichwastobeofconsiderableimportanceintheprintingandthe
+diffusionof Hebraicaandof KnorrvonRosenroth’sownworks.Fullytograsp
+theexceptionalclimateoftolerance,onehastokeepinmindthattheextraordi-
+narilydestructiveThirtyYearsWar(1618–1648),whichhadravagedparticularly
+the Holy Roman Empire, was still vivid in everyone’s memory and that anti-
+SemitismwaswidespreadamongstbothCatholicsandProtestants.Knorrvon
+Rosenrothwastwelveyearsoldattheendof thewarandweknowhisfam-
+ilyhadhadtoleavetheirhomebecauseofthewar.Whatismore,accusations
+of Judaizingwerecommonatthetime,asisdemonstratedbyvanHelmont’s
+trial.Inthiscontext,theatmosphereof thePalatineCourthasbeenproperly
+describedasexceptional.5
+CountChristianAugust’stolerancewasinevitablyconfinedtohisownlands
+and,asisevidentfromthecaseofvanHelmont,suchlocalprotectiondidnot
+removewiderrisks.InspitethenofthefavorableatmosphereinSulzbach,we
+shallnotbesurprisedtodiscoverthatKnorrdidnotwritewithoutconsiderable
+discretionandthattheremarkableevidenceofcorrectionstothemanuscript
+of MessiasPuerrevealsavigilantself-censorship.
+suedapolicythathadtheexpressintentionofturningSulzbachintoahavenfortheunortho-
+dox[…]manypeoplewithhighlyquestionablebeliefssettledtherefrom1658onwards,drawn
+largelybyvanHelmontandbecauseoftheextraordinarydegreeoftoleranceChristianAugust
+permitted.”(Ibid.,p.55).
+4 Allison Coudert quotes an honourable mention of Christian Augustus as a competent
+HebraistwithaspecialinterestinKabbalahandadefenderofJewsagainstchargesofmur-
+deringChristianchildrenfromtheLutheranHebraistandcorrespondentofKnorr,Joseph
+ChristophWagenseil:Coudert,TheImpactoftheKabbalah,op.cit.,p.135.Thecorrespondence
+betweenKnorrandWagenseilisfoundinhabWolfenbüttelCod.Guelf30.4Extrav.folios1r–v;
+2r;3r–v;4v–r;6r.Cf.P.Blastenbrei,JohannChristophWagenseilundseineStellungzumJudentum
+(Erlangen:HaraldFischer,2004):p.28andp.111.
+5 AllisonP.Coudertdescribedthisin“TheKabbaladenudata:ConvertingJewsorSeducing
+Christians”in JewishChristiansandChristianJews.FromtheRenaissancetotheEnlighten-
+ment,editedbyR.H.PopkinandG.M.Weiner(Dortrecht:Springer,1994),pp.73–96.Fora
+recentaccountinsertingtheZoharprojectintothecentreofSulzbachreformsaftertheThirty
+YearsWar:A.B.Kilcher,“TheTheologicalDialecticsofChristianHebraismandKabbalahin
+EarlyModernity”inTheJewasLegitimation.Jewish-GentileRelationsBeyondAntisemitismand
+Philosemitism,editedbyD.J.Wertheim(Amsterdam:PalgraveMacmillan,2017):pp.47–62at
+pp.53–55.
+Anna M. Vileno and Robert J. Wilkinson - 978-90-04-44342-6
+
+[Page 56]
+changes to the manuscript of messias puer 33
+2 Self-CorrectionandSelf-Censorship
+Themanuscriptof MessiasPuer providesaremarkabledocumentof Knorr’s
+revision and correction of his developing work. Inevitably some corrections
+indicate the sort of editorial revision any author undertakes upon work in
+progress: avoiding repetition, clarification, minor expansion or abbreviation.
+Somecorrectionsindicateperhapsaneditorialrevisionof focusoremphasis,
+andyetothersaremoreclearlymotivatedbyaself-censorshipwhichsoughtto
+makelesscontroversialtheimpactof thefinaltext.Itisaspecificaimof our
+editionthatreadersshouldbeabletofollowandassessforthemselvesallthese
+corrections.
+EvidentlyKnorrpracticedavigorousself-censorshipof hisownwork.The
+numerouscorrectionsrevealedinthemanuscriptprovideuswithaprivileged
+insighttohiswayofproceedingandhisfrequenthesitations.6Theabsenceof
+apropertitle-pageisprobablythefirstindicationofKnorr’sself-censorship.
+We have ample evidence of Knorr’s discretion and reluctance to put his
+nametohisworks,notleasthisuseofpseudonyms,particularlyPeganiusand
+Rautner.Evenintheremarkstothereaderatthebeginningofhis1684edition
+of the Zohar, he hides behind the signature of “Collaborantes”.This habit of
+publishinganonymouslyismentionedalsobyLeibnizinhisnotesrecording
+conversationswithKnorr:“M.Rosenrothhaspublisheddifferentthingswith-
+outhisname”.7ThediscretionofKnorrwasloyallyrecalledbyhissonJohann
+Christian(1670–1716)inalettertoDanielGeorgMorhof(1639–1691),whoatthe
+timeheldtheChairofHistoryinKiel,afterhisfather’sdeath.8
+6 ThelettersofKnorrinCod.Guelf.30.4Extrav.(mentionedabove)showasimilarlydetailed
+correctionoftheoriginaltext.
+7 L.-A.FoucherdeCareil,Leibniz:Laphilosophiejuiveetlacabale(Paris:Auguste,1861):pp.75–
+79,citedbyCoudert,LeibnizandtheKabbalah,op.cit.,p.46.
+8 “Lesouvenir,quevousconservezpourlamemoiredefeuMr.monPerem’obligeenveritédevous
+enfairebeaucoupderemerciments.Jenemanqueroispasaussidevousenvoyerquelquespar-
+ticularitezdesavieetdesesveilles,sijenecraignoispasdetroublerplûtotlescendresdemon
+Pere,aulie[u]d’éternisersonnom.Carcommedesonvivant,pardesraisonspolitiques,jointes
+aquelquesautresmouvementsdepieté,iln’ajamaisvoulu,quel’onsçache,quelsouvragesilait
+misaumonde;ainsivousjugerezbien,qu’apressamortj’aytropdevenerationpourlavolonté,
+qu’ileneût,quedecontributeràdivulguercequ’iltachoitdecachersisoigneusement.D’ailleurs
+jenesçauroisvousceler,qu’ilyenavoitquelqu’unsdesesécrits,quiaprèssamorteurentà
+essuyerdescritiquesainsirudes,quesanglantes,etquoiquej’auroispûconfondrefacilement
+cesmauvaisCalomniateurs,ilfautpourtantquejevousdise,queforceconsiderations,aussibien
+quedebonsconseilsdequelqu’unsdemesAmis,m’endissuaderent.Ainsij’aimemieuxverita-
+blement,queleschosesrestent,oùellessont.Sideslivres,quefeuMr.monPereafaitimprimer,
+Anna M. Vileno and Robert J. Wilkinson - 978-90-04-44342-6
+
+[Page 57]
+34 chapter 3
+BecausethetitlewhichappearsinthecatalogueswasaddedbyKnorr’sown
+hand at the beginning of the manuscript text, we may conclude that it was
+Knorrhimselfwhodecidedtoremovethefirstpagesofthemanuscript,which
+inallprobabilitycarriedthetitleashehadinitiallyconceivedit.Thedecision
+wasnotwithoutitsconsequences,sinceitledtothelossof thetextformore
+than300years.ButthequestionofwhyKnorrultimatelyrejectedthetitle“Mes-
+siasPuer”remains.Tospeakofself-censorship,onemustbeabletospecifythe
+dangerouschargestowhichagiventitlemightgiveriseandprovideevidenceof
+thedesireof Knorrtoprotecthimself fromsuchreproaches.Butitisdifficult
+forthemodernreadertoimaginethat“TheChildMessiah”couldinanyway
+appearmoresubversivethan“TheBeginningoftheGospelNarrative”.Perhaps
+Knorrfoundthelattertitlemoreconventionalandmoresimilartothetitlesof
+othercontemporaryworks?9Itmayalsobethat,ifJewishreaderswereinmind,
+theutterunfamiliarityofthephraseandthelackofanymemorableconsider-
+ationofMessiahasachildinJewishtraditionpersuadedhimthatthetitlewas
+quelque’unsenétéedifiées,ouqu’ilsleurontrendubonusage,j’ensuidbienaiseetrendsgrace
+auCiel:d’enfaireconnoitrel’Auteuraumonde,cemeparoitpurevanité,dontjesçay,que
+feuMr.monPereétoitfortéloigné.”(“Therecollectionyoupreserveof thememoryof my
+latefathertruelyobligesmetothankyouverymuch.Ishouldnotfailtosendyousome
+detailsofhislifeandhislabours,ifIdidnotfeartherebyrathertodisturbtheashesofmy
+Father,thantoimmortalisehisname.Forasinhislifetime,forpoliticalreasonstogether
+withsomeotherpromptingsofpiety,heneverwishedthatitshouldbeknownwhatworks
+hegavetotheworld,so(youwillwellimagine)afterhisdeathIhavetoomuchrespect
+forhiswishes,thantoassistindivulgingthatwhichhetriedsocarefullytohide.More-
+over,Icannotconcealfromyouthatthereweresomeofhiswritings,whichafterhisdeath
+hadtoendurecriticismssoharshandbloodythatalthoughIcouldhaveeasilyconfuted
+these evil calumniators, I must tell you, however, weighty considerations, as well as the
+good advice of some of my friends, dissuaded me from doing so. So, I really prefer that
+thingsstayastheyare.Ifbythebooks,whichmyfatherhadprinted,somehavebeenedi-
+fied,orhavehadgooduseofthem,IamhappyandthankHeaven.Buttomaketheauthor
+knowntotheworldseemstometobepurevanitymostuncharacteristic,Iknow,ofmylate
+father.”)(TextcitedinZeller,“DerNachlaßChristianKnorrvonRosenroths”,art.cit.,pp.56–
+57).
+9 Tocitebutafewexamples:D.delaCarrera,HistoriaEvangelicametricecompactaexipsisEvan-
+gelistarumverbis(Matriti,1651);D.deBaeza,Historiaevangelicauniversa(Friessem:1684);
+R.Simon,HistoirecritiqueduVieuxTestament.Nouvelleéditionquiestlapremièreimprimée
+surlacopiedeParis,augmentéed’uneapologiegénéraleetdeplusieursremarquescritiques
+(Rotterdam:ReinierLeers,1685);R.Simon,HistoirecritiquedesversionsduNouveauTesta-
+ment:oùl’onfaitconnoîtrequelaétél’usagedelalecturedeslivressacrésdanslesprincipales
+églisesdumonde(Rotterdam:ReinierLeers,1690);theseveraleditionsofA.Arnauld,Histoire
+etconcordedesivEvangelistes,contenantselonl’ordredestemps,lavie&lesinstructionsde
+N.S.Jesus-Christ(Paris:VeuveCharlesSavreux,1669).
+Anna M. Vileno and Robert J. Wilkinson - 978-90-04-44342-6
+
+[Page 58]
+changes to the manuscript of messias puer 35
+unsuitablyunfamiliar.10Ontheotherhand,Knorr’sprojectofwritingMessias
+Puer seems to have been well known to his contemporaries, as their notices
+citedabovebearwitness.Perhapstheauthorsoughttocoverhistracksandhide
+themostcontroversialaspectoftheoriginaltitleasweknowitfromthecon-
+temporarynotices—namelythattheworkwasacommentaryupontheNew
+Testamentonkabbalisticprinciples—underthefarmoreconventionaltitleof
+Historiæevangelicæinitium.11Thestrategywasevidentlysuccessful:nosubse-
+quentscholarseemstohavetakenanyinterestintheworkatall.
+Thenumberofthecorrectionsmadetothemanuscriptindicatestheextent
+ofKnorr’sself-correction.Wehaveselectedbelowexamplesofthemostimpor-
+tantandrevealingchanges,attemptingwherepossibletoindicatethevarious
+controversialissueswhichmotivatedhisself-censorship.
+Onefundamentalcorrectiontothemanuscripttext,however,maynothave
+beenentirelyofKnorr’schoosing.ThatistheomissionoftheSyriactextwhich
+was stuck into the initial part of the manuscript.This did not appear in the
+bsbprintedfragment.Wherethesepassagesdoexistinthemanuscriptthey
+arecrossedthroughasaretheaccompanyingmarginalreferencesdesignedto
+illustratethetext.Wedonotknowwhynoattemptwasmadetoprintthismate-
+rial:whetheritwasthechoiceofKnorr,orthereluctanceoftheprinter.Given
+howeverthatweknowof Knorr’saimtoprovidecommentaryspecificallyon
+thePeshittatextandof hisowneditionof theSyriacNewTestamentin1684
+andofthefact,aswehaveseenabove,thatthelayoutofthemanuscriptright
+totheend(thoughwithsomeerrors)seemsdesignedtoreceivetheextractsof
+theSyriactext,wemayreasonablyleaveopenthepossibilitythatthisimpov-
+erishmentofhisworkwasnotdeliberatelychosen.12
+10 WearegratefulheretoCarstenWilkeforastimulatingexchangeaboutthefigureofthe
+MessiahintheJewishtradition.
+11 InthisrespectthetitlegivenbyBaylewithitsprecisementionofthe150Excerptsassoci-
+atedwithMessiasPuerseemstobethemostreliableindicationofwhattheoriginaltitle
+mayhavebeen.
+12 IntheIntroductiontohiseditionoftheZoharin1684,Knorrtoldhisreadersthatthey
+needed to hand a copy of his Kabbalistic Lexicon (“Locicommunes kabbalistici”) and
+alsotheothertractatesgatheredinKabbalaDenudata:“Inquibussipaululumquisfuerit
+exercitatus;(præsertimsiNovumTestamentumSyriacumliterisHebraicisimpressumfre-
+quenterinsimulperlegatur;)Opushocipsumnonpunctatumsineversione,facilèintelliget;
+cumpotissimumnecCommentariodestituatur:&inTomoprimoKabbalæDenudatæLexi-
+conetiamaliqualeadmanushabeat,cumadminiculisnecessariisaliis.”(“Ifonepracticesa
+littlewiththesetexts(andespeciallyifoneatthesametimeregularlyreadstheNewTesta-
+mentprintedinHebrewLetters),onewillveryeasilycometotermswiththisworkwhich
+isneithervocalisednorfurnishedwithatranslation—thoughisstillprovidedwithacom-
+mentary.FinallythereadershouldhavetohandtheLexiconfoundinthefirstvolumeof
+Anna M. Vileno and Robert J. Wilkinson - 978-90-04-44342-6
+
+[Page 59]
+36 chapter 3
+OnseveraloccasionsKnorrappearstoexcisefromhisworkextendedpas-
+sagesoftechnicalmaterial,whichpresumablyhefounduponreflectionunnec-
+essarily heavy and which (though quite proper matters of Biblical Introduc-
+tion)didnotmuchfurtherhisexegesisoftheNewTestamenttextintermsof
+Lurianicdoctrine.Thus,Knorrdeletedseveralpagesof densetechnicalargu-
+ment around the question of the original language of Matthew’s Gospel at
+folio21rwiththeremarkthathewishedtoavoidthatdebate:“Controversiam
+tamenipsamhicnontangebam”.Thematerialdeletedwasafullandcompetent
+accountof argumentsfromseveralpointsof viewandcametoaconclusion
+whichwasexplicitlyinagreementwiththatof Waltonintheancillarymate-
+rialtohisLondonPolyglot.Evidentlyhesubsequentlyfeltthatsuchalengthy
+expositionofthestatusquaestioniswasintheimmediatecontextunnecessary.
+Knorr also upon reflection shortened (on folio 47r) some of his remarks
+upon the background of the Magi, perhaps also considering here that little
+wasgained(andperhapsacertainprejudiceproduced)bydwellinguponthe
+demonicworshipof thePersians.Knorr’snaturalthoroughness(onfolio49r)
+whendealingwithalltheversionalvariantsinthetextof Hos11.1–2(“Outof
+IsraelhaveIcalledmySon”)apparentlysubsequentlystruckhimasexcessive
+(and much the same could be found in Lightfoot)13 and he abbreviated his
+remarks, though he left similar material in his nearby discussion of Jer 31.15
+“AvoicecriesinRamah”(onfolio49v).
+Twooccasionsperhapsremainwheresuchjudiciouseditorialpruningwas
+not displayed. Both instances reveal Knorr’s natural impulse to put down all
+thatmaybeknownaboutthedetailsofNewTestamentrealia,butwithoutthe
+compensatingdisciplineof focusedediting.Perhapsalittletoolongisspent
+intellingusofJohntheBaptist’sdesert(onfolio36r),particularlyasthemate-
+rialisconfessedlymerelytakenfromLightfoot.Butsurelythemostegregious
+incontinence in this respect is found in comment upon Lk 2.7 (on folio 40r)
+whenKnorrhasanexaggeratedlyextendeddiscussiontopersuadethereader
+thatJesus’mangerwasreallyafield-stall.Thougheveninthatcontext,hedoes
+havethesensetodeleteacomment(onfolio42vonLk2.20)whichdrawsatten-
+tion(afterallofthislongdiscussion)tothefactthatthetextdoesnotactually
+sayChristwasborninafield-stall,merelylaidinone!Nodoubtheconsidered
+itbetternottoraiseadifficultywhichmightnototherwiseoccurtothereader.
+Kabbaladenudata,whichoffersothernecessaryassistance”).(“Lectoribenevolosalutem!”
+inLiberSohar,op.cit.).Perhapshemightsubsequently(hadhelived)haveadvisedthem
+tohaveequallyavailableacopyofhisown1684PeshittaNewTestament.
+13 JohnLightfoot(1602–1675),RabbinicScholar,MasterofSt.Catharine’sCollege,Cambridge
+andVice-ChancelloroftheUniversity.
+Anna M. Vileno and Robert J. Wilkinson - 978-90-04-44342-6
+
+[Page 60]
+changes to the manuscript of messias puer 37
+Ofaslightlydifferentnatureistheexcisionofalongexhortation(atfolio28v)
+totheseveralmoralandspiritualvirtuesofChristianlifeworkedupfromthe
+etymologiesof theforty-ninenameswhichappearinMatthew’sgenealogyof
+Christ.MessiasPuerdoesremarkelsewhereupontheimportanceofChristian
+living,butthissectionisratherlong.Itiscertainlycontrivedandthefixityof
+itsformmakesitratherrepetitiveandpredictable,butitisperhapssomething
+ofatourdeforceandonehasnoreasontodoubtthatKnorrtookthecollective
+“meaning”oftherootsofthesenamestotallyseriouslyandfoundthemspiritu-
+allyinstructive.Itwasprobablythelengthofthepassageanditsdistancefrom
+theimmediateconcernsofexegesiswhichledtoitsexcision.
+3 ChangesofSpeaker
+Aswehaveseen,theMessiasPuerconsistsofadialoguebetweentwocharac-
+ters,a“Christian”anda“KabbalistCatchecumen”.Oneeditorialdifficultylies
+in the transcription and presentation of the changes which are made in the
+manuscripttothealternatingexchangesbetweenthetwointerlocutors.Many
+of the corrections made by Knorr are aimed at, in the most straightforward
+cases,changingthespeaker.Inothercases,theyserveto“cutshort”onespeaker
+andgivehiswordstotheother.14
+ThesechangesofspeakerindicatetheprogressofKnorr’scarefulstructuring
+ofhisdialogue,butalsofashionthepresentationandroleofthepersonaofthe
+KabbalistCatechumen.Fromthefirstfolio,theKabbalistCatechumen’scon-
+tributionsarecorrected: LegemNovamnonadmittimusisreplacedby Legem
+novam non admittunt Hebræi.15 The change from the first to the third per-
+sonpluralemphasisesthefactthattheKabbalist,whosince Adumbratiohas
+becomeaCatechumen,nolongeridentifieswiththeJewishpeople.16
+WithinthestereotypedconventionsofdialoguesbetweenaJewandaChris-
+tian, the distribution of the speeches generally presents the Christian as the
+principal exponent, who teaches the Jew who is for his part invited to con-
+vert.Butin MessiasPuer theKabbalisttakesanactiveandconstructivepart
+inthedevelopmentoftheexpositionanddoesnotonthewholelimithimself
+toaskingquestionswhichmerelyprovideopportunitiesforlongexpositional
+responsesfromtheChristian.17Onseveraloccasionsitappearsthattheroles
+14 ThereaderwillfindmanyexamplesofthisintheApparatustotheEdition.
+15 “WedonotaccepttheNewLaw”isreplacedby“TheHebrewsdonotaccepttheNewLaw”.
+16 OtheroccurancesofthisarenotedthroughouttheEdition.
+17 Forarecentsurveyoftheconventionswhichcharacterisethisstereotypedgenreofadia-
+Anna M. Vileno and Robert J. Wilkinson - 978-90-04-44342-6
+
+[Page 61]
+38 chapter 3
+ofpupilandteacherarethemselvesreversed,asinthecaseoffolios9r/9vand
+15r/17r, when the Christian after a brief question is treated to the Kabbalist’s
+expositions.Howevertowardstheendofthetextonfolios43v,44r,45rand46r
+thechangeof speakersisclearlyintendedtoportraytheChristianintherole
+ofteacheroftheKabbalistwhoseroleisprogressivelylimitedtoaskingques-
+tions.TherecanbelittledoubtthatKnorrhasuponreflectiontactfullymoved
+theburdenofteachingawayfromtheKabbalistCatechumenandreturneditto
+theChristian(astheconventionsofthegenrewouldnormallydemand).This
+promotes the appearance that it is the Christian who has truth to teach the
+Kabbalist,whereasbeforecorrectionthetextshowedclearlythattheChristian
+himselfhadalottolearn.
+But perhaps we should ask why, in contrast to the usual demands of the
+genre,theKabbalistCatechumenwasoriginallygivensuchaprominentpart
+in the dialogue? And why was this subsequently so consistently adjusted by
+Knorrinanticipationof publication?Theoriginaltextconspicuouslydidnot
+observetheconventionsofthegenreandtheKabbalistCatechumenprovided
+mostoftheexposition.Theanswertosuchaquestionmustbemerelyspecula-
+tive.Onemighthazardthatbecausemostofthematerialinthedialoguewould
+benewtoaChristianreaderandisevidentlyLurianic,Knorrnaturallyplaced
+itinthemouthoftheKabbalistCatechumen.Subsequently,wemayimagine,
+hecametofeelthisunwiseandcorrectedhistexttotheexpectedconvention.
+More boldly one might imagine that behind the Kabbalist Catechumen
+there lies a real collaborator (and perhaps also a convert) whose substantial
+contributiontothecollaborationlay,asonemightexpect,intheelaboration
+of kabbalisticinterpretationsof theNewTestamenttext.Itwasthis“reality”
+then(onewouldsuppose)whichKnorreffacedbyhiseditorialrearrangement.
+But,sadly,wedonotindependentlyknowofanysuchcollaborator,orindeed
+even who Knorr’s Hebrew teacher was.18 One is also wary of assuming that
+KnorrcouldnothavewrittenMessiasPueronhisown,apointweshallreturn
+tobelow.
+loguebetweenaJewandaChristian,DialoguedeTimothéeetAquila.Disputeentreunjuif
+etunchrétien,translatedbyS.Morlet(Paris:LesBellesLettres,2017):pp.xi–xvii.More
+extensively,seeG.Dahan,LaPolémiquechrétiennecontrelejudaïsme(Paris:AlbinMichel,
+1991):pp.57–95.
+18 Boaz Huss remarked that we would understand Knorr better if we could identify his
+Hebrewteacher(“TextandContextofthe1684SulzbacheditionoftheZohar”,art.cit.,
+pp.133–134).HeconjecturedthatthatteachermightbeaSabbatian,but,atleastinMessias
+Puer,thereisnopositivesupportforthatsuggestion.TheargumentforSabbatianinflu-
+enceispresented(thoughstillwithoutdecisiveproof)asanhypothesisinA.B.Kilcher,
+“TheTheologicalDialecticsofChristianHebraismandKabbalahinEarlyModernity”,art.
+Anna M. Vileno and Robert J. Wilkinson - 978-90-04-44342-6
+
+[Page 62]
+changes to the manuscript of messias puer 39
+Smalleradjustmentsapartfromtheexchangeof speakersalsoappearelo-
+quent.Onedeletionwhichmuststrikethemodernreaderasanextraordinary
+erasure of precisely the identity we do not hesitate to attribute to Knorr is
+found on folio 32r in a comment on Mt 1.23. Here Knorr suppresses a men-
+tion of “Christian Kabbalists”. It is naturally precisely in these terms that we
+understandKnorr’sœuvre,butevidentlyhefeltthathispresentationofhiscon-
+victionswouldnotbehelpedbyusingsuchaclearandunambiguousnoticeof
+hisintentions.Itwasmoreprudent,nodoubt,nottodrawattentiontothepos-
+sibilityofsuchaclearlyarticulatedprogramme.19
+TheoriginaltextcommentinguponLk2.31(onfolio44r)has:“illarevelatio
+illaCabbalistarumqua…”.OnreflectionKnorrevidentlyfeltthisbetrayedtoo
+muchofhisownverypositiveevaluationoftheKabbalistictradition(asrevela-
+tio).Hethereforecorrectedthetexttoananodine“relatio”!20HereKnorrreally
+doesgiveexpressiontohisownsettledviewoftheZoharictradition,yetsteps
+back from it with the characteristic self-censorship which we meet through-
+outthemanuscriptofMessiasPuer.Aclearstatementofthisconvictionofthe
+worthoftheZoharisfoundinEpistolaCompilatoris(toHenryMore):
+IconsideredthatthegreatschismoftheChristianReligionhasnoother
+causethanthedifferenceofphilologicaltermsandmetaphysicalprinci-
+plesamongtheChristians[…];thereforeIconcludedthatIhadtosearch
+afterthatancientphilosophywhichfloweredatthetimeofChristamong
+hisdisciplesandwhichstemsfromtheoldestsourcesof theHolyOra-
+cle.WhenIwasturningtosearchafterthisancientdoctrineofGodand
+otherspiritualandtheologicalmatters,Icameacrosstheoldestbookof
+cit.,pp.53–55.Theissuehere,ofcourse,isspecificallythatofwhotaughthimKabbalah.
+SeveralscholarsinAmsterdamhavebeenproposedfortherole(ThomasdePinch(1614–
+1679);IsaacdeRocamora(1601–1684)orR.MeirSternfromFrankfurt)butthereisno
+decisiveevidence.AstoKnorr’sbasicknowledgeofthelanguage,heprobablyacquired
+thatduringhistimeinLeipzig(1655–1660),whereweknowthelanguagehadbeentaught
+since1519andwhereKnorrfoundedacircleforthestudyofHebrewandotheroriental
+languagesin1660(seeInfra,chapter4,footnote39).TheprofessorsofHebrewduringhis
+timetherewereMartinGeier(from1639–1658)andJohannAdamScherzer(from1658–
+1667).KnorralsoproposedaHebrewlanguagesocietyinSulzbach(perhapsratherlike
+theDeutschgesinnteGenossenschaftofPhilippvonZesen(1619–1689)ofwhichhewasa
+member)intheAddresstotheReaderwhichhewroteatthebeginningofVanHelmont’s
+AlphabetivereNaturalisof1667pp.7–8.
+19 Theterm“cabalaChristiana”isnotapparentlyemployedmuchbeforec.1600.Heinrich
+Khunrath uses it in Amphitheatrum sapientiae (Hamburg: 1595) and in Von Hylealis-
+chen,dasistPri-materialischenCatholischenalgemejnemNaturljchenChaos(Magdeburg:
+Gehne,1597).
+20 Thatisan“account”ratherthana“revelation”.
+Anna M. Vileno and Robert J. Wilkinson - 978-90-04-44342-6
+
+[Page 63]
+40 chapter 3
+theJews,theBookofSplendour[i.e.theZohar].EventhoughIquestioned
+theageofthisbookinviewofitsdivisionintochapters,Iwasawarethat
+thechaptersthemselvesandtheteachings,whichseemtobefragments
+rather,wereveryoldandcontainedmostancientteachingsandproposi-
+tions.21
+4 ChargesofJudaising
+The quest for a deeper understanding of the Hebrew language that is found
+throughoutKnorr’sworkisyetmoreapparentinMessiasPuer.Theworkdis-
+playsadesiretoplaceHebrewinanexpandedperspectivewhichengagesnot
+only with several other Semitic languages (Syriac, Aramaic and Arabic) but
+also seeks to demonstrate the greater usefulness of Aramaic for its purposes
+in comparison with the usual Latin and Greek. The point of this linguistic
+exerciseistoprovidetheChristianreaderwithdirectaccesstoabiblicaltext
+ofbothOldandNewTestaments(unencumberedbyinterveningtranslation),
+whichisexpressedintermssignificantlysimilartothoseoftheZohar.Another
+consideration motivating this search is apparent in MessiasPuer: the neces-
+sityofmasteringthesubtletiesoftheHebrewtextinthecontextofChristian
+polemicsagainstJudaism.Inpractice,Jewsfrequentlybasedtheirarguments
+resistingconversionupontheirknowledgeofthetextoftheHebrewBible.The
+traditional, often typological, exegesis whereby Christians found predictions
+of Jesus Christ in their “Old Testament” was countered by a divergent inter-
+pretation upon the part of Jews who considered the Christians incapable of
+understanding the nuances of the Hebrew text. Evidently it is to just such a
+challengethatMessiasPuerseekstorespond.
+However this interest in the study of Hebrew and the intense investment
+of effort it necessitates was far from enjoying universal approval and was
+21 “Cæterum,cumtantaReligionumChristianarumdivortianonaliundeortaessesuspicarer,
+quamàtantaPrincipiorumPhilosophicorum,definitionumqueMetaphysicaruminterChris-
+tianosdiversitate[…]Illicòmentemsubiit,illamipsamindagarePhilosophiæantiquitatem,
+quæipsiusetiamChristi&Apostolorumtemporeviguit,&ècujusscaturiginequicquidferè
+estSacrorumoraculorumfluxissevidetur.ScrutaturigiturantiquasillasdeDeo,cæterisque
+quæstionibus Pneumaticis atqueTheologicisopiniones, in antuiquissimum illum Judæo-
+rumlibrumincidiquemSohar,seusplendoremappellant;cujusantiquitatem,quamvisob
+recentioremcapitulorumejuscompilationemoppugnarividerem,ipsatamencapitulaatque
+tradita,quæfragmentapotiùsdicendasunt,antiquasatisesse,&antiquissimasexplicare
+opinionesatquehypothesesabundereperi.”(“ExcerptaexEpistolaquadamCompilatoris
+deutilitateVersionisLibriCabbalisticiSohar”inkdi,p.3).
+Anna M. Vileno and Robert J. Wilkinson - 978-90-04-44342-6
+
+[Page 64]
+changes to the manuscript of messias puer 41
+oftenthoughtsuspect,JewishlanguageandJewishreligionbeingconsideredas
+inextricablylinked.22ConsequentlyanyoneknowingHebrewriskedbeingsus-
+pectedofpracticingJudaism.InthecontextofthemutualhostilityofJewsand
+Christians,thelaterdidnotconsiderthatthelanguageusedbyJewsmightbe
+ofanyusewhatsoever.FinallythemainreasonforrefusingthestudyofHebrew
+wasthefearoftheestablishmentofanyconnectionwithJewishreligiouscon-
+ceptionswhichmightthreatentodamageChristianfaith.
+ItisinthisperspectivethatoneshouldunderstandtheaccusationofJudais-
+ing so frequently levelled at Christian Hebraists. If the suspicion had long
+existed,itwasparticularlyprevalentinProtestantEuropeof theSeventeenth
+Century, where both Catholics and Protestants used charges of Judaising
+against each other, and Protestants against other Protestants. Knorr and his
+workwereevidentlynotimmunetotheconsequencesofthissituationandwe
+findreflectionsofitthroughouthiswritings.Thetensionevidentintheworks
+ofKnorrbetweenhisattractiontoHebrew,hisprudenceinfearofthesedan-
+gerousaccusations,andthemethodsheusestoneutraliseordeflecttheriskare
+moreeasilyunderstoodiftheyareimaginedasan“ArtofWriting”assuggested
+by Leo Strauss23. In the context of his studies of Jewish and Islamic philos-
+ophy in the Middle Ages, Leo Strauss observed that the experience of living
+subjecttoformsof politicalandintellectualpersecutionledwriterstoavoid
+censure or condemnation by developing a “special language” which would
+enablethemtodeveloptheirideas,whileatthesametimeconcealingthem.
+According to Strauss this “Art of Writing” is found most frequently amongst
+philosophers.24 Strauss considered that that which the author allows to be
+understood“betweenthelines”constitutes,evenif thisevidentlycontradicts
+thatwhichtheauthorhimselfelsewhereaffirms,therealityofhisthoughtand
+therealdepthof hisconviction.25Knorr’sworkischaracterisedbyatension
+betweenconfirmitytotheideologicalexigenciesof hiscommunity—aChris-
+22 Onthis,seeJ.Friedman,TheMostAncientTestimony:Sixteenth-CenturyChristian-Hebraica
+intheAgeofRenaissanceNostalgia(Athens:OhioUniversityPress,1983):pp.16etsq.
+23 L.Strauss,PersecutionandtheArtofWriting,2nded.(ChicagoandLondon:Universityof
+ChicagoPress,1988).Forearlydiscussionofthemoralityofdissimulationandabroad
+accountofitshistory,seeP.Zagorin,WaysofLying.Dissimulation,PersecutionandConfor-
+mityinEarlyModernEurope(Cambridge,Mass.:HarvardUniversityPress,1990):especially
+pp.255–288.
+24 StrausswroteafterworkingonMaimonides.Hefurtherclarifiedhisideasandanswered
+someof hiscriticsinId.,“OnaForgottenKindof Writing”,ChicagoReview8/1(1954):
+pp.64–75.
+25 ItisthesuggestivevalueofStrauss’sremarkswealludetohere:wearenotconcernedto
+promotehisimaginativeinsightintoahermeneuticmethod.
+Anna M. Vileno and Robert J. Wilkinson - 978-90-04-44342-6
+
+[Page 65]
+42 chapter 3
+tiancommunitysuspiciousofanythinghavingitsorigininJudaism—andthe
+necessityofsufficientlyaccomodatingbothhisownintellectualcoherenceand
+hisparticularpersonalengagements.Recourcetothe“artof writing”permits
+simultaneouslyapparentconformitytocommunityopinionsandthusavoid-
+anceof thedangerinevitablyconsequentialuponapublicexpressiononthe
+partofKnorrofhisadmirationforJewishtradition,butatthesametimepre-
+servesforcapableandunderstandingreadersthephilosophicburdenof this
+literature.
+Knorr’sremarksuponthequestionof theutilityof HebrewStudiesshould
+bereadbearinginmindthiskeytotheirunderstanding.AccusationsofJudais-
+ing were rife at the time of the publication of Knorr’s major works and his
+friendandcollaboratorFrancisMercuryvanHelmonthadsufferedtheircon-
+sequencesafewyearsearlier.Paradoxicallyitwasthecurrentatmosphereof
+anti-Judaismwhichencouragedourauthortopresenthisworkasanattempt
+toconformJudaismtoChristiandoctrinesoastoavoidpersonalattacks.This
+sameparadoxwasobservedalongtimeagobyJamesOverfieldwhenheoffered
+a re-evaluation of the dispute which had opposed Reuchlin to the Domini-
+can Pfefferkorn.Though this had previously long been considered a dispute
+betweenScholasticsandHumanists,26Overfieldclaimeditwasanti-Judaism
+ratherthananti-Humanismwhichwasattherootoftheproceedingstargeting
+Reuchlin.27MorerecentlyRobertJ.Wilkinsondrewattentiontosimilarstrug-
+glesinthecontextofthe1553burningoftheTalmudandAndreasMasius’letter
+toCardinalPighinoofthesameyear.28
+Inthesamefashion,weobservewithKnorratensionbetweentheneedto
+conformtothedemandsofthesocietytowhichhebelonged,and,ontheother
+hand,thenecessityof preservingboth“theintellectualcoherenceof thought
+andindividualintegrity”.29Thistensionisattheoriginofnumerouspassagesin
+26 129Soforexample:C.G.Nauert,“TheClashofHumanistsandScholastics:AnApproachto
+Pre-ReformationControversies”,TheSixteenthCenturyJournal,4/1(1973):pp.1–18,p.4;and
+themoredetailedP.O.Kristeller,RenaissanceThought:theClassic,Scholastic,andHuman-
+istStrains(NewYork:HarperandRow,1961).
+27 J.H.Overfield,“ANewLookattheReuchlinAffair”,StudiesinMedievalandRenaissance
+History,8(1971):pp.165–207.
+28 R.J.Wilkinson,Orientalism,AramaicandKabbalahintheCatholicReformation(Leiden:
+Brill,2007):pp.91–94.
+29 Thistypeofdilemma,withwhichawritermightfindhimselfconfronted,wasobserved
+by C.G. Nauert in his work on Peter of Ravenna in the context of polemics between
+ScholasticsandHumanists:“PeterofRavennaandthe‘ObscureMen’ofCologne:ACase
+ofPre-ReformationControversy”,Renaissance.StudiesinHonorofHansBaron(DeKalb,
+il:NorthernIllinoisUniversityPress,1971):pp.609–640.
+Anna M. Vileno and Robert J. Wilkinson - 978-90-04-44342-6
+
+[Page 66]
+changes to the manuscript of messias puer 43
+theKabbalaDenudatawherethewriterarguesinfavourofthestudyofJewish
+Literatureandinwhichhewaversconstantlybetweenadmittingtheinherent
+difficulty of these texts—indeed the distaste they may provoke30—and the
+necessityof passingbeyondthisrepugnancetoaperceptionof theirhidden
+wisdom.Thenumberof oscillationsinKabbalaDenudatabetweenthesetwo
+contrastedpolesisastonishingandindicatesthecomplexityofthequestionin
+hand.Inviewofthecontextofsuspicionwhichwehavedescribed,thistypeof
+writingisevidentlyintendedtodisarminadvancetheaccusationsof Judais-
+ingtowhichKnorrwasliable.Inthislight,thenegativecriticismsofKabbalah
+maybeunderstoodaspartofthepracticeofan“ArtofWriting”.Underthreat,
+Knorrdevelopedalineofargumentwhichsuperficiallyconformedtothecom-
+monviewthatitwasuseless,indeed,dangerous,todevoteoneselftothestudy
+ofHebrewtexts.JustasStrausssuggestedinothercases,thisstrategyhadtwo
+goals:toescapefromanever-presentthreatwhichmenacedanyopenexpres-
+sion of admiration for kabbalistic texts; but also to preserve the philosophic
+valueofthisliteratureforthosecapableofreadingit.
+This imaginative “key to reading” has a special interest in our case and
+appearstoworkontwolevels;forthekabbalisticliteratureKnorrwasstudying
+wasalsofoundedonsimilarprinciplesofdiscretion.Significantly,LeoStrauss
+whenanalysingthis“ArtofWriting”inMaimonides,calledMaimonides(with
+aknowingparadox)thefirstkabbalist.31
+30 Somestatementsaboutthedifficultiesfacedbyonewhowouldtakeinterestinthestudy
+ofKabbalahofferveryemphaticandcolourfulformulations:“Sowithoutbeingintimi-
+datedbytheextraordinarystylisticdifficulty[ofthesekabbalistictexts],norbytheappar-
+entlyinscrutableriddles,withwhichthe[Kabbala]abounds,Iundertooktofollowthis
+pathway,thereafterscatteredwithboulders,roughground,chasmsandprecipicesandso
+coveredwithmudthatthereislittlesurprisethatmostpeopleabandonit,repelledbyan
+unavoidabledistaste.Thereislittlesurprise,then,thatmostturnedaway,drivenoffbythis
+inevitablerevulsion.”(“Nonabsterritusigiturincredibilistyliejusdifficultate,necabstru-
+sissimisaenigmatumquibusscatetinvolucris,viamingressussumpaucistritam,ànem-
+ine,quodsciam,emensam,caeterumtotscrupis,salebris,voraginibus,praecipitiis,tantoque
+coenorefertam,utmirumnonsitquinpleriqueinevitabiliterritifastidio,eamdeseruerint.”)
+(“ExcerptaexEpistolaquadamCompilatoris”inkdi,p.3).
+31 Strauss,PersecutionandtheArtofWriting,op.cit.,p.51.
+Anna M. Vileno and Robert J. Wilkinson - 978-90-04-44342-6
+
+[Page 67]
+chapter 4
+BiblicalTexts in MessiasPuer
+1 TheNewTestamentTextofMessiasPuer:ThePeshittaText
+TheNewTestamenttextuponwhichthecommentaryinMessiasPuerisbased
+isthatof theSyriacPeshittaNewTestament.ThisisthetextfoundinKnorr’s
+own Sulzbach edition of 1684: dytyq’ḥdt’NovumDominiNostriJesuChristi
+TestamentumSyriace,whichhecitedforthefirsttimeinhisAdumbratioofthe
+sameyear.1Thebookisa12°volumeof192leaves,printedinsquareunvocalised
+HebrewlettersandfollowingtheshorterNewTestamentcanon2towhichthe
+printerhasaddedaninitial:ExOfficinaJohannisHolst.mdclxxxiv.ProstatNor-
+inbergaeapudWolfgangumMauritiumEndterum3.The textfromthisedition
+hasliterallybeencutfromthepagesofanexemplarandpastedintospacesleft
+throughoutthemanuscripttoreceivethem.Alongsidethespacededicatedto
+theSyriacpapersslips—whethertheywerepastedinornot4—thetextoffers
+aLatintranslationoftheSyriacwhichisthenusedasthebasisforKnorr’sexe-
+gesisofthepassage.ThisversionissubstantiallydifferentfromtheVulgateand
+thedifferencesaresystematicallynotedintheedition5.
+The first printed edition of the Peshitta New Testament was produced in
+1555inViennabyJohannAlbrechtWidmanstetter(1506–1557),Orientalistand
+1 “TheNewTestamentofourLordJesusChristinSyriac”.Thiseditionisdiscussedmorefully
+inVilenoandWilkinson,“DiePeshittavon1684”,art.cit.
+2 ForthequestionoftheSyriaccanons,seeD.N.Phillips,“Lescanonsdesnouveauxtestaments
+ensyriaque”inLeNouveauTestamentensyriaque,editedbyJ.-C.Haelewyck(Paris:Geuthner,
+2017):pp.7–26,esp.pp.14–21forthePeshitta.
+3 “Fromtheprint-shopofJ.Holst1684.SoldinNürnbergattheshopofW.M.Endert.”C.vonTis-
+chendorf,NovumTestamentumGraece(Leipzig:J.C.Hinrichs,1894),vol.iii,p.820mentions
+asecondedition:“Anno1684(cumnovotituloa.1715)prodiiteditioSulzbachitypisimpressa
+Norimbergaevenumdata,fortasseexeditioneAntverpiensianni1575repetita.”(“Intheyear1684
+(withanewtitlefrom1715)heproducedaneditionprintedinSulzbachandputonsalein
+Nuremberg,perhapstakenfromthe1575Antwerpedition”).
+4 Cf.supra.
+5 AtpointsKnorrclearlyhadaccesstoothereditions.OnMt2.23(folio50r)thephrase“in
+theprophet(s)”issaidtobevocalisedcontrarytotheconsonantaltext,butKnorr’s1684text
+isunvocalised.AlsocitationsfromthelongerPeshittacanonclearlycannotcomefromhis
+editionwhichpresentsonlytheshortercanon.ThePeshittaOldTestamentiscitedinthe
+commentaryonMt2.15(folio49r)forthetextofHos11.1–2.ThiswasavailableinWalton’s
+LondonPolyglot.
+© koninklijkebrillnv,leiden,2021 | doi:10.1163/9789004443426_005
+Anna M. Vileno and Robert J. Wilkinson - 978-90-04-44342-6
+
+[Page 68]
+biblical texts in messias puer 45
+Diplomat,usingvocalisedSyriactype.6Subsequentlyanothereditionappeared
+from Guy Le Fèvre de La Boderie, again in vocalised Syriac type, in Plantin’s
+AntwerpPolyglotBible.GuyLeFèvredeLaBoderiesubsequentlyproducedan
+unvocalisededitioninsquareHebrewlettersin1584andthisisthetextusedin
+Knorr’sedition7.Syriacisalate,predominantlyChristian,dialectofAramaic.It
+arrivedinEuropeonthemarginsoftheFifthLateranCouncil(1513–1515)where
+itwassponsoredbyCardinalEgidiodaViterbo(1469–1532).TheCardinalwas
+anotedChristianKabbalistandimposedakabbalisticinterpretationuponthe
+languagefromtheverybeginningthoughthiswasreplacedinthelaterpartof
+theSixteenthCenturywithamorepragmaticemphasisupontherelationship
+ofSyriacspeakingChristianswithRome.8
+Though not insensitive to historical periods or dialectal differences, early
+scholarsofSyriactendedtostresslinguisticcontinuitieswherewemorehabit-
+uallystressdifferences.Anexampleofthisisfoundintheworkoftheextraor-
+dinaryFrenchOrientalist,GuillaumePostel(1510–1581),whoentertainedavery
+promiscuous view of Aramaic, finding an unbroken continuity between the
+ancientlanguage,theAramaicoftheZoharandthelaterformofthelanguage
+usedbycontemporaryEasternChristians9.Thisisperhapsmostapparentin
+hisidiosyncratictranslationoftheZohar,whichwasprintedwhiletheHebrew
+textitselfwasstillinmanuscript10.
+6 ForWidmanstetterinthiscontext,seeWilkinson,Orientalism,AramaicandKabbalah,op.
+cit.,pp.137–169.
+7 ForotherprintededitionsofthePeshittaNewTestament,seeR.J.Wilkinson,“LesÉdi-
+tionsimpriméesdelaPeshittasyriaqueduNouveauTestament”inLeNouveauTestament
+ensyriaque,op.cit.,pp.269–289.
+8 FortheKabbalisticcontextofearlySyriacstudies,seeWilkinson,Orientalism,Aramaic
+andKabbalah,op.cit.andId.,TheKabbalisticScholarsoftheAntwerpPolyglotBible(Lei-
+den:Brill,2007).ForattitudestoSyriacattheendofthecentury,seeId.,“SyriacStudiesin
+RomeintheSecondHalfoftheSixteenthCentury”, JournalforLateAntiqueReligionand
+Culture6(2012):pp.55–74.
+9 ForamoderncharacterizationofZoharicAramaic:A.Rapoport-AlbertandT.Kwasman,
+“LateAramaic:TheLiteraryandLinguisticContextof theZohar”, AramaicStudies4/1
+(2006):pp.5–19;Y.Liebes,“HebrewandAramaicasLanguagesoftheZohar”,ibid:pp.35–
+52;C.Mopsik,“LateJudeo-Aramaic:TheLanguageofTheosophicKabbalah”,Ibid.:pp.21–
+33.
+10 JudithWeiss’sworkonPostel’sZohartranslationandhisapproachtoAramaicisfunda-
+mental:GuillaumePostel’sFirstLatinTranslationandCommentaryoftheZohar,2volumes
+(PhDdissertation,BenGurionUniversityoftheNegev,2013);Ead.,“TheQualityofGuil-
+laumePostel’sZoharLatinTranslation(1547–1553)”,Accademia:RevuedelaSociétéMarsile
+Ficin15(2013):pp.63–82;Ead.,OntheConciliationofNatureandGrace.ALatinTransla-
+tionandCommentaryontheZoharbyGuillaumePostel(1510–1581)(Jerusalem:TheHebrew
+University,MagnesPress,2017).
+Anna M. Vileno and Robert J. Wilkinson - 978-90-04-44342-6
+
+[Page 69]
+46 chapter 4
+Knorr did not insist upon a common view that the New Testament was
+originallywritteninSyriac,11thoughhedidconsiderSyriactobeclosetothe
+vernacularofChrist12.Hewasquitefamiliarwiththebestcontemporaryphilol-
+ogyhadtoofferhim:thepolyglotbiblesandtheirvarioustexts;contemporary
+chronologicalstudiesandrabbinicscholarship.HehadBuxtorf’sGrammatica
+Chaldaicaathiselbow—but,becauseofhissyntheticviewofAramaic,heread
+theSyriacNewTestamentasifitwastheZohar,bothlinguisticallyanddoctri-
+nally.Knorrthuscontrivedtoestablish,asitwere,acommonlexicaldomain
+acrosstheTargums,theZoharandthePeshitta.Usagesacrossthedialectsthus
+contribute equally to establishing the meanings and associations of chosen
+terms.Thus on Lk 2.11 (folio 41v) Knorr explains that “Jesus” means “saviour”
+11 InthelongdeletionatthebeginningsofhiscommentaryonMt1(folio21r),Knorrsets
+outhisviewsontheoriginallanguageof Matthew’sGospel(folio32vonMt1.23)and
+alsoconsidersthatoftheGospelusedbytheNazaraeansandEbionites.Healsofollows
+Waltoninhis ApparatustotheProlegomenontotheLondonPolyglot(folios22v–23r)in
+deemingChrist’svernacularSyro-ChaldaeantobeaJerusalemdialectwithsimilarities
+bothtoBiblicalandTargumicAramaicaswellwithcontinuitieswiththelaterAntioch-
+eneSyriac,thoughwithoutmanyofthelexicalitemsofthelater(especiallythosetaken
+fromGreek).HeacceptsGuyLeFèvredeLaBoderie’ssuggestionthatthedistinctiveSyriac
+scriptwasadoptedbyAntiocheneChristianstodistinguishtheirGospelfromthatusedby
+theNazaraeansandEbionites.OnoccasionKnorrcanfindinSyriacamorepreciserender-
+ingoftheoriginal(asinthespellingofElisabeth(folio6r)oramoreaccuratemeaning,
+asinthecaseoftheSyriacprepositionfor“with”inJn1.1).J.C.Wagenseilwroteonthis
+topicinExercitatiophilologicadelinguaauthenticasiveoriginaliNoviTestamentietprae-
+cipueEvangeliiMatthaei(Altdorf:LiterisSchönnerstædtianis,1691)anddeterminedthat
+MatthewwroteinneitherHebreworAramaic.RudolfMartinMeelführer(1670–1729)sim-
+ilarlydiscussedthequestioninanAltdorfdissertation:AnMatthaeusEvangeliumGraece
+scripserit?(Altdorf:LiterisSchönnerstædtianis,1696).JohanKemperproducedhistransla-
+tionofaHebrewMatthewin1703fromaSyriactextprintedinHebrewcharacters,though
+itappearsthiswasbecausehedidnotreadGreek.Thereseemstobenoreasontobelieve
+hethoughtMatthewwroteinHebreworAramaic,seeJ.Eskhult,AndreasNorrelius’Latin
+TranslationofJohanKemper’sHebrewCommentaryonMatthew(Uppsala:ActaUniversi-
+tatisUpsaliensis,2007),p.422.ForabroadsurveyofcontemporaryconceptionsofSyriac,
+seeR.J.Wilkinson,“ConstructingSyriacinLatin:EstablishingtheIdentityofSyriacinthe
+WestoveraCenturyandaHalf(c.1550-c.1700):AnAccountofGrammaticalandExtra-
+LinguisticDeterminants”,Babelao:ElectronicJournalforAncientandOrientalStudies5
+(2016):pp.169–283.
+12 ThisquestionofJesus’vernacularwasextensivelydiscussedinthelaterSeventeenthCen-
+tury:forexample,thetwoJenatheses,J.Reiskius,Dissertatiophilologicadelinguaver-
+naculaJesusChristi(Jena:Bauhofer,1670)andJ.Klaeden,DeLinguaDomininostriJesu
+Christivernaculadissertatio(Jena:Bauhofen,1672)whicharediscussedinalargercontext
+inM.EskhultandJ.Eskhult,“TheLanguageofJesusandRelatedQuestions”inkusatu
+(KleineUntersuchungenzurSprachedesAltenTestamentsundseinerUmwelt)15(2013):
+pp.315–373,atp.325.
+Anna M. Vileno and Robert J. Wilkinson - 978-90-04-44342-6
+
+[Page 70]
+biblical texts in messias puer 47
+andtakessupportingcitationsfromtheZohar,theTargumsandtheHebrew
+Pentateuch.Simeon’senigmaticwordsinLk2.34(folios44r–44v)areexplained
+frometymologiesofJesusnamederivedfrombothAramaicandSyriac.Inthe
+caseof themeaningof Herod’snameinMt2.1(folios46r–46v)notonlyAra-
+maicandSyriacetymologiesareevoked,butalsoonefromArabic,whichisin
+factpreferred.The“transgressions”wehavejustnotedherefromAramaicand
+SyriactoBiblicalHebrewandArabicarenotexceptional.OftentheSyriactext
+islittlemorethanapretextforcitingBiblicalHebrewmaterialwithoutfurther
+todo.
+We have on a previous occasion described in detail the use made of the
+PeshittabyKnorrinboth Adumbratioandthebsbprintedfragment13.Those
+observationsgenerallyholdtruefortherestofthemanuscript,butwemaysup-
+plementthemwithfurtherexamples.Considerableimportanceisattached(as
+wepreviouslyindicated)tothetranslationof thebeginningof John’sGospel
+asthe[First]PrincipleofCreationwhichintroduces AdamKadmon.Alsothe
+useofSyriacforGreekcommonnouns(like“kingdom”,“glory”,“wisdom”etc.)
+producesineffectpropernounshomonymouswiththesefirottogreatexpo-
+sitionaladvantageasweshalltrytoshowbelow.Doctrinalissuesarefavoured
+bythePeshittareadingofLk1.42(folio19r)“Blessedisthefruitwhichisinthy
+womb”—wheretheVulgatehas“thefruitofthywomb”—whichavoidsanysug-
+gestionthatMarymayhavecontributedtotheconceptionof Messiah.OnLk
+2.41(folio51r)theSyriac“hispeople”isjudgedpreferabletotheGreek“hispar-
+ents”inremovinganysuspicionthatJosephmayhavebeenthefatherofMes-
+siah.14OntheotherhandtheGreekentoistoupatrosmou“aboutmyfather’s
+business”ispreferredagainsttheSyriac“myFather’shouse”.TheSyriac“people
+ofhispossession”isjudgedpreferableatLk2.1totheGreek“alltheworld”(oik-
+oumenēi),althoughKnorrforgottousethatforminhispreviouslongcitation
+ofLk2.1–18.Inthechapter3ofAdumbratio15,Spectorsuggests16thattheauthor
+has“emended”theSyriacofJohn11.25from“consolation”to“resurrection”.The
+Peshittatextin facthas nwḥmʾwhichis reproducedinthe textof Adumbra-
+tioandwhichmeans“resurrection”.However,theauthormayhaveseeninthe
+wordnwḥʾ “repose”or“serenity”,whence“consolation”.Knorrappealstothis
+sameconnectionbetween“resurrection”and“consolation”onLk2.2517.Less
+13 VilenoandWilkinson,“DiePeshittavon1684”,art.cit.
+14 Similarly,seetheremarkonLk2.33onfolio44r.
+15 iii.43,p.16(Spector,FrancisMercuryvanHelmont’sSketchofChristianKabbalism,op.cit.,
+p.53).
+16 Ibid.,p.164.
+17 Historiæevangelicæinitium,folio43r.
+Anna M. Vileno and Robert J. Wilkinson - 978-90-04-44342-6
+
+[Page 71]
+48 chapter 4
+momentously,KnorronLk1.8018proposeda(notimpossible)Syriacetymol-
+ogyfortheword“Essene”.TheSyriaciscalledinsupportforKnorr’sinsistence
+on Lk 2.719 that the Bethlehem “manger” (Vulgate: praesepium) was in fact a
+fieldstall.
+Followingtheauthoritativestatementof BishopBrianWalton(1660–1661),
+theeditorof themagnificentLondonPolyglotBible(1654–1657)inhisAppa-
+ratus to the Prolegomenon to the Bible, Knorr, as we have seen, held20 the
+vernacular of Christ was a Jerusalem dialect comprising elements from Bib-
+licalandTargumicAramaic(consideredtobeb.c.)andSyriac,thoughwithout
+manylaterlexicalitems(especiallyfromGreek)foundinlaterorAntiochene
+Syriac.Thisvernacularhereferstoas“Syro-Chaldaean”.Thiswasthelanguage
+SimeonspokeinLk2.3021andalsothevernaculartheAngelusedingreeting
+MaryinLk2.1022.Thereheannouncedgoodtidingsofgreatjoyuniversallyto
+alltheworld(ʿlmʾ)butthecompileroftheGreekGospelperhapsworkingfrom
+afragmentaryvernacularnoticereadthisas“tothewholepeople(ʿmʾ)”thus
+propagatingafarmorerestrictedviewofthescopeofthebenefitsofthebirth
+ofMessiah.
+KnorrtakessomeinterestintheSyriacformsof propernames,thoughhe
+is not always consistent in the forms he uses. He specifically denounces the
+Greekformof Elischeba’snameascorrupt.Intwocasespointsof substance
+aredevelopedfromSyriacnames.Mary’snameisexpoundedasitappearsin
+the Peshitta [mrym] and understood as equivalent to mryh “The Lord is yh”.
+Whilst mryh is an attested biblical Hebrew name, it is glossed here as com-
+prisingtheAramaicmr[=Lord]followedbythedivinename.Thisplaysupon
+thenormalSyriacwordfor“theLord”inthePeshittaNewTestament,which
+ismryʿ.Theevidentfactthatthelastletterisan/m/isexplainedbytwoargu-
+mentsfromcontingency:eitherthe/m/wassubstitutedfor/h/outofreverence
+forthedivinename(asinthebiblicalcaseof AbijamforAbijah)orthefinal
+weakaspirationnecessitatedtheaddingof the/m/.Thisphilologicalanalysis
+ispresentedwithinthecadreof areadingof themeaningof allthenamesof
+Matthew’sgenealogyasacontinuoustexttowhicheachnamecontributesan
+appropriatereligiousmeaningorexhortation.23Mary’sname(onthebasisof
+thephilologicalanalysisjustgiven)isconstruedas“andthewilloftheSoulsub-
+18 Ibid.,folio36r.
+19 Ibid.,folio40r.
+20 Ibid.,folios22v–23r.
+21 Ibid.,folio43v.
+22 Ibid.,folio41r.
+23 Ibid.,folios28v–29ronMt1.17.
+Anna M. Vileno and Robert J. Wilkinson - 978-90-04-44342-6
+
+[Page 72]
+biblical texts in messias puer 49
+jectsitself,passiveandfeminine,totallytoGodsothattheLordisGodwithin
+it”(becauseof thestatement“theLordis yh”whichisinsidehername).The
+nameofMartha(whowascontrastedelsewherewithanotherMary)isbysim-
+ilar reasoning given the opposite meaning, as if, rather than submissive, she
+were“themistress”,hernamebeingtakenastheAramaicmr[lord]withafem-
+ininenounending.OnMt1.23theKabbalistCatechumensubjectsMary’sname
+tonumericalscrutinywithsomedoctrinalpoint:“thenamemrym[Mary]hasa
+numericalvalueoftwicethatof[theHebrewword]ʿlmh[virgin,asusedinIsa
+7.14],asiftosay:shewasavirginbeforebirthandafterwardstoo”24.Thename
+ofJesusisalsosubjecttonumericalcalculationsatMt1.2125andatLk2.4126.
+From the very first edition of the New Testament Peshitta in 1555, it was
+common-place to remark upon the utility of the edition for the evangelisa-
+tionofJews.ThiswasparticularlysointhosecaseswhereSyriactypewasnot
+availableandsquareHebrewlettershad(fautedemieux)tobeusedinstead.
+ThoughthePrivilegegrantedtotheeditioprincepsforbadereproductioneven
+in Hebrew type “autetiamHebræarumusitatisformulisdenuoexprimere” for
+threeyearsintherealmsofFerdinandi,Widmanstetterindicatedinhisintro-
+ductoryremarkstohisappendedCalendarofFestalReadings(kk3)thatatthat
+timehehadhimself intendedtoproducesuchanedition:“HosceNoviTesta-
+mentilibrosHebraeorumliterarumusitatisformis(dummodovosconsiliihuius
+meiaequeaclaborisiamexantlatiapprobatoreshabeam)exscriptos,propediem
+ediatquepervulgaricurabo”27.The1569PeshittaeditionoftheJewishconvert
+and Biblical scholar, Immanuel Tremellius (1510–1580) had to be printed in
+(vocalised)Hebrewlettersforlackof aSyriacfontinGeneva,buttheFrench
+orientalist, poet and pupil of Guillaume Postel, Guy Le Fèvre de La Boderie
+(1541–1598),inhis1584PariseditiondidnotevenvocalisehisHebrewletters.
+HesoughttoturnthistoanadvantageandremarksinhisDedicatio(p.xx)that
+thereasonfornothavingvowelpointsontheHebrewistoenableJewstoreadit
+moreasHebreworJewishAramaicandtomakeitaslittledifferentaspossible
+fromthelanguageoftheirTalmud.28
+24 Atfolio32r.OnMary,seefurtherR.J.Wilkinson,“TheKabbalisticTreatmentoftheVir-
+gin Mary in Christian Knorr von Rosenroth’s Historiae Evangelicae initium secundum
+quatuorEvangelistas.AProvisionalDescription”,Accademia.RevuedelasociétéMarsile
+Ficin(forthcoming).
+25 Folio31r.
+26 Folio51v.
+27 “TheseNewTestamentbooksIshallsoonhaveeditedanddistributedintheusualHebrew
+letterfont(providedonlyIhaveyouragreementinthisandapprovalofmyhardworkso
+far)”.(J.A.Widmanstetter,LibersacrosanctiEvangeliideIesuChristoDominoetDeonostro
+(Vienna.Zimmerman,1555),unpaginatedatkk3.)
+28 GuyLeFèvredeLaBoderie,NovumIesuChristiD.N.Testamentum(Paris:Benenatus,1584):
+p.xx.
+Anna M. Vileno and Robert J. Wilkinson - 978-90-04-44342-6
+
+[Page 73]
+50 chapter 4
+ItisverymuchinthistraditionthattheChristianPhilosopherinAdumbratio
+introduceshisPeshittacitations:“Inorderthatlittlebylittlewemaybecon-
+formedtothatdialect,wehaveonseveraloccasionsusedquotationsfromit”29.
+TheSyriactextisnotonlyasimilardialecttoZoharicAramaic;itsuseenables
+students(orperhapstheirdiscourse)to“beconformed”toaformofexpression
+moresuitablefortheproposedsynthesisofChristianandkabbalisticdoctrines.
+Thereafter in Adumbratio citations are taken from the Peshitta (in previous
+worksKnorrhadusedtheVulgate)30.Theimportancegiventothisremarkable
+instrumentforJewishandChristianrapprochementunderwentanoticeable
+developmentbetween1684and1688/9.InAdumbratio,theuseofthePeshitta
+NewTestament permits no more than a “familiarity with this dialect” as we
+haveseen,whereasinMessiasPueritistheveryfoundationoftheinterpreta-
+tiondevelopedbythetwocollaboratingcharacters,sinceeachverse,indeed
+eachwordisscrutinisedintheSyriacversionandevaluatedagainsttheGreek
+version,onoccasiontothedetrimentofthelatter.Theadvantagewhichisnow
+systematicallyexploitedisthatGospelTruthmaybefoundinboththeZohar
+andintheGospelsineffectivelythesamelanguageandthesameidiomand
+thattheidiomsofthePeshittamaythusbeconsideredtomirror,indeedtocon-
+stitutetokensof,theveryexpressionsoftheZohar—therebyprovidingaunited
+linguistic field for exegesis and exposition.Thus, for example, ordinary New
+Testamentcommonnounslike“kingdom”,“glory”or“wisdom”maybecomethe
+propernamesofsefirotwithenormousconsequenceforinterpretation.
+ThePeshittawaspublishedinthesameyearas Adumbratio. MessiasPuer
+indicatestheincreasedimportancetheworkhadassumedintheimagination
+ofKnorr,anincreasedimportancewhichaloneexplainsitsroleinKnorr’slast
+work,whichisnowknowntous.IndiscussingthecontextoftheHebrewedi-
+tionof theZoharwhichvonRosenrothbroughtoutin1684,thesameyearin
+whichhepublishedboth AdumbratioandthePeshittaNewTestament,Boaz
+Husswroteofthe“ChristianMessianicMission”heconsideredtobetheback-
+groundtothisyearofpublications.31Onemayperhapsbepermittedfurtherto
+observethatinthefollowingyear(1685),ChristianAugustusgrantedaliberal
+29 “[…] juxtatextumSyriacumquiscriptisvestriskabbalisticismaximeestconformis,undeut
+paulatiminDialectoconformemuraliquotcitationesexilloinstituemus”(ii.§3).Ourtrans-
+lationdiffersfromthatofS.Spector:“whichconformsentirelytoyourKabbalisticwriters
+andfromwhichweextractseveralcitationstohelpusalittleinthisdialogue.”(Spector,
+FrancisMercuryvanHelmont’sSketchofChristianKabbalism,op.cit.,p.33).
+30 Forinstance,in“SynopsisLiberSohar”(inkdii),allNewTestamentquotationsaredrawn
+fromtheVulgate,withveryminorvariations.
+31 Huss,“TextandContextofthe1684SulzbacheditionoftheZohar”,art.cit.,discusseswhat
+hecallsthe“ChristianMessianicMission”onpp.124–129.Seealso,W.Schmidt-Biggemann,
+Anna M. Vileno and Robert J. Wilkinson - 978-90-04-44342-6
+
+[Page 74]
+biblical texts in messias puer 51
+charter(whichwassubsequentlyrenewed)awardingpermanentresidenceto
+thegrowingJewishcommunityinSulzbach.32Suchasignificantsocialdevel-
+opment(atleastforthesmallnumberoffamiliesinvolved)maynodoubthave
+encouraged Knorr’s enthusiasm for his programme of rapprochement in the
+yearsbetween1684andthecompletionof MessiasPuer.
+2 OrientalismandBiblicalStudies
+MessiasPuer is (as it were) a laboratory in which Knorr may be seen devel-
+oping his ideas. An attentive examination of the sources he used reveals a
+breadthunusualevenforaChristianHebraist.InadditiontootherChristian
+Hebraists (Johannes Buxtorf (1564–1629) and John Lightfoot (1602–1675)) or
+totheJewishGrammarian,DavidQimchi(1160–1235),Knorrhadrecourseto
+Hebrewliteratureof severalgenres.AfterreferencestoZohar(ascollectedin
+Excerpta)referencestotheTalmudaremostnumerous,thentotheTargums
+(principallyTargumJonathan)andtotheMidrashim.However,inadditionto
+the classical Jewish exegetic works, one is struck by the presence of several
+workswhichstandoutasbeingcontemporarywithKnorr.Knorr’sinterestin
+recentJewishworkswasalreadyevidentinhisstudyof LurianicKabbalah.33
+“KnorrvonRosenrothsmissionarischeIntentionen”,Morgen-Glantz20(2010):pp.189–
+204.
+32 See“[Jewsin]Sulzbach”,Revueorientale,editedbyE.Carmoly,3(Brussels,1843–1844):
+pp.138–140,atp.139;F.Skolnik,EncyclopediaJudaica(usa:MacmillanReprints,2006),s.v.
+“Sulzbach”,19(Som-Tu):pp.306–307;M.Weinberg,GeschichtederJudeninderOberpfalz
+(1927):pp.52–53;C.Weber,“JüdischesLebeninSulzbachundFloßim17.und18.Jahrhun-
+dert”,Morgen-Glantz22(2012),pp.115–143atpages119–120discussesKnorr’sinvolvement
+inthis.SeealsoR.Zeller,“DieRollevonFranciscusMercuriusVanHelmontbeiderAnsei-
+dlungderJudeninSulzbach”,Morgen-Glantz25(2015):pp.383–401.
+33 “ScrutaturusigiturantiquasillasdeDeo,caeterisquequaestionibusPneumaticisatqueThe-
+ologicisopiniones,inantiquissimumillumJudaeorumlibrumindiciquemSohar,seusplen-
+doremappellant;cujusantiquitatem,quamvisobrecentioremcapitulorumejuscompila-
+tionem oppugnari viderem, ipsa tamen capitula atque tradita, quae fragmenta potius
+dicenda sunt, antiqua satis esse, & antiquissimas explicare opiniones atque hypotheses
+abundereperi.”(“Iamabouttoshow,then,thatthoseancientopinionsaboutGodand
+otherspiritualquestionsandtheologicalopinions,areexpressedinthatmostancient
+bookoftheJewswhichwaspublishedas‘Zohar’(or‘Splendour’).AlthoughImayseem
+tobecontradictedoveritsagebythemorerecentcollectionofitschapters,nevertheless
+thechaptersthemselvesandthematerialhandeddown(whicharemoreproperlycalled
+‘fragments’)aresufficientlyoldandwenoticethattheyexplainthemostancientopinions
+andhypothesis.”)(“ExcerptaexEpistolaquadamCompilatorisdeutilitateVersionisLibri
+CabbalisticiSohar”inkdi,p.3).Cf.alsoVileno,Àl’ombredelakabbale,op.cit.,pp.83–85.
+Anna M. Vileno and Robert J. Wilkinson - 978-90-04-44342-6
+
+[Page 75]
+52 chapter 4
+ItisfurtherexemplifiedhereinMessiasPuerbyhisknowledgeof suchworks
+asthechronographicalTsemachDavid,thelexiconZerZahavandthekabbal-
+isticcommentariesEmeqha-melekh,MayyanChokhmahandPardesRimonim,
+inadditiontoYalqutReuveniandChesedle-Abraham.34
+If Knorr’s reputation as a Hebrew scholar needs no further emphasis, his
+engagementwithBiblicalstudiesalsoisequallywellillustratedbytheweight
+of scholarshipbroughttobearin MessiasPuer.HeappearstohavehadJohn
+Lightfoot’sworkathiselbowashewrote35andthecontrastbetweenthetwois
+instructive.TheMasterofCatharineHallhadpursuedhisMishnaicandTalmu-
+dicstudieswithoutsignificantinstructionfromcontemporaryJewishscholars.
+HewasinterestedinestablishingthechronologyofGospeltextsandusingthe
+Jewish sources to illuminate the realia of first-century Palestine. He was not
+particularlysympathetictocontemporaryJewsandcertainlyhadnodoctrinal
+interestinJewishteachingotherthanseeingittraditionallyasaninferiorand
+obsoleteanticipationofChristianity.36VonRosenrothwasquitedifferentand
+wasstudyingthefarmoreadvancedanddifficulttextsoftheZoharpreciselyfor
+theirdoctrinalvisionandinevidentsympathywithlocalJewishscholars.Never
+thelessKnorrwaswellinformedofseveralaspectsofLightfoot’sworkashewas
+ofcontemporarybiblicallinguistic,textualandchronographicalscholarshipas
+theannotationstotheTranslationseektomakeclear.Hebrewchronographical
+textsarealsomentionedinreferencestoSederOlamandcitationsfromSefer
+Juchasin,andwecanseehehadrecoursebothtoJ.Buxtorf’sgreatLexiconchal-
+34 SeveraloftheseworksappearinthecatalogueoftheSulzbachlibrarytowhich,conse-
+quently,wemayhavesomeconfidencethatKnorrhaddirectaccess.Whichisnottosay
+thatsubstantialworkdoesnotremaintobedoneinestablishingpreciselywhichHebrew
+sourceshehadathisdisposal.TheSeferChesedle-AbrahamofAbrahambenMordecai
+Azulai(1570–1643)wasfirstprintedinSulzbachin1685byMosesbenUriSchragaBloch
+withtheassistanceof Knorr.ThemanuscriptusedisnowMs.Heb.17intheUniversi-
+tätsbibliothekinErlangen.ThesameyearImanuelAtaiasprintedanotherversionfor
+MeshullamZalmonbenAbrahamBerackofGoriceinAmsterdam.Thetextinthisedition
+isbothpartialandfaulty.Unfortunatelyitisthistextwhichhasbeenusedbysubsequent
+editors.
+35 Similaritiesanddifferencesbetweenthetwoareillustratedthroughouttheannotations
+tothetranslation.
+36 NonethelessKnorrwasappreciativeofLightfootandmentionedhimwithmanyother
+greatHebraistsofhistoryinkdii,p.31§41:“EthâcipsalinguaviritotinsignesutpoteOri-
+genes[etmultialii]Lightfootiusatquealiinonsibimodoipsisfamamcomparavereimmor-
+talem;sed&EcclesiaeChristianaehancaccenderuntlucem,quanobisadhuc,hacquidem
+inparte,fruiconcessumest.”(“AndinthislanguagesomanydistinguishedmenlikeOrigen
+[andmanyothersand]Lightfootnotonlyacquiredeverlastingfameforthemselves:but
+alsotheChristianChurcheslitthislightwhichevenstilltodayisgiventoustoenjoyin
+part.”)
+Anna M. Vileno and Robert J. Wilkinson - 978-90-04-44342-6
+
+[Page 76]
+biblical texts in messias puer 53
+daicumandhisworkonHebrewAbbreviations.InadditiontoHebrew,Syriac
+wasnotanunreasonableexpectationof abiblicalscholarinthesecondhalf
+oftheSixteenthCentury37.ThePolyglotBiblesofAntwerp,ParisandLondon
+hadmadethebiblicaltextavailableinseveralancientorientallanguagesand
+sufficient grammars and lexica existed for those who wished to study them.
+The1734CatalogueofthelibraryinSulzbach(nowinMunich)maygiveapar-
+tialpictureofsomeofthe“oriental”volumesonceheldthere.38Knorrwasalso
+interested in the cognate ancient biblical languages.39 Leibniz tells us of his
+interestinHiobLudolf’sEthiopicstudies(andhisremarksonaSamaritanlet-
+terandcomparativealphabets40)andhecitestheEthiopianSynaxarionforthe
+numberoftheHolyInnocents.Notallorientallearningwasfirsthandhowever,
+andpredictablywefinderuditionatsecondhandwiththecitationof Arabic
+sourcestakenfromSamuelBorchardt(1599–1667),theFrenchProtestantBib-
+licalscholarandOrientalist,andanArabicetymologyfor“Herod”takenfrom
+theLexiconHeptaglottonoftheCambridgeOrientalistEdmundCastell(1601–
+1686).HisdescriptionofthelanguageofJesusistakenwithacknowledgement
+(aswehaveseen)fromWalton.ThesecasesindicatethatvonRosenrothwas
+familiarwiththebestrecentworkinthefieldandabletousetheseresources
+properlyandtoadvantage.
+With respect to Knorr’s Zoharic scholarship, Messias Puer again makes
+apparentthecumulativeforceofhisresearchesoverseveralyears.Knorrgives
+extensivecitationstopreviousSulzbachcompilations.Firstof allthereisthe
+Excerpta which we now are able in outline to describe, which was evidently
+aworkdesignedtocomplementMessiasPuer.Butextensivereferenceisalso
+madetothepreviousanthologiesof textsinKabbalaDenudata,whenceLoci
+communes in particular is a much exploited collection. The earlier works of
+collectionandinterpretationwereappliedtotheexpositionof thedebatein
+Adumbratio (though again they are mentioned only by citation and not by
+37 For Syriac Studies in the Seventeenth Century seeWilkinson, “Constructing Syriac in
+Latin”,art.cit.
+38 CilianJosephvonDüring’s1734NovumInventariumBibliothecæSulzbaco-Palatinæ(Bay-
+erischeStaatsbibliothek,CbmCat.580,RespositoriumA.)Wehavedrawnattentionin
+theannotationstotheTranslationtovolumesusedbyKnorrwhicharefoundinthiscat-
+alogue.WeareindebtedtoRosmarieZellerfordrawingourattentiontothisvolume.
+39 ForKnorr’sinvolvementwithseveralfriendsina“CollegiumGlottologicumzumStudium
+derJudaistikundderorientalischenSprachen”[“ALinguisticCollegefortheStudyof
+JudaismandOrientalLanguages”.]inLeipzigin1660,seeZeller,“DieRollevonFrancis-
+cusMercuriusVanHelmont”,art.cit.,p.391.
+40 ForabriefbibliographyofearlySamaritanstudies,seeWilkinson,Orientalism,op.cit.,
+p.104,note37.
+Anna M. Vileno and Robert J. Wilkinson - 978-90-04-44342-6
+
+[Page 77]
+54 chapter 4
+quotation).OnthesegroundswefeelemboldenedtoclaimthatMessiasPuer
+mayberegardedastheculminationof aprogrammeof writingandpublica-
+tionwhichbeganatleastby1684,theyearof thesecondvolumeof Kabbala
+Denudata,of AdumbratioandoftheSulzbacheditionofthePeshittaNewTes-
+tament.
+ThefullforceofKnorr’sargumentsandtheirtextualsupportintheZoharic
+texts is only really apparent to the reader who looks up the quotations. No
+doubtthiswaswhatthefirst(oratleast,intended)readerswouldhavebeen
+themselvesobligedtodo.MessiasPuercannotbereadquickly:anexperienced
+scholaroftheNewTestamentmaywellbeabletolookatalongstringofbib-
+licalreferences(suchasKnorrprovides)andrecallmostof thepassages.Itis
+farmoredifficulttoimaginereaderssofamiliarwiththeSulzbachanthologies
+thattheycouldsoreadilyidentifythepassagesinquestion.Notperhapsimpos-
+sible;buttheimaginablereaderswouldprobablybeJewishscholarswhohad
+themselves cooperated on the collection of the material in the first place. It
+wasclearlytoaddresstheproblemof mobilisinganddeployingthisaccumu-
+latedZohariceruditionintheexegesisoftherelevantNewTestamenttextsthat
+KnorrproducedtheExcerpta,aswehavearguedabove.Itisforthesereasons
+that we have included in the Apparatus to the Edition extensive quotations
+fromKnorr’spreviouskabbalisticworkswhentheyarecitedbyhim.Itishoped
+thatbyexplicitlydisplayingtheintra-textualconnectionsbetweentheseworks
+thatboththecoherenceandthegoalofthisbodyofworkwillbecomeappar-
+entandthatmoreofthecomplexityofKnorr’sthoughtmaybeappreciatedby
+thereader.
+KnorrwasaveryhighlycompetentscholarofHebrewandAramaicandthe
+Zohar collections. He also showed himself (like Lightfoot) interested in the
+chronologicalproblemsofScripture(althoughinKnorr’scasetheinterestwas
+perhapsultimatelyintheuseofchronologyintheinterpretationofpredicative
+biblicalpropheciesanticipatingtheeventsof theEnd)41;questionsof history
+and original languages of canonical books and their production; the consid-
+erablydifferentformsof thebiblicaltextacrosstheversionsandtherealities
+oflifeinNewTestamenttimes.Onemightbetemptedheretodrawadistinc-
+tion between those matters which some would describe as von Rosenroth’s
+“occultist”interests(contentiousthoughsucharetrojectionmaybe)andhis
+well-informedandtechnicalbiblicalscholarship.Thiswouldbewrong.There
+41 Lightfoot’sAnglicanismshowedlittleenthusiasmforeschatologicalanticipations.Hewas
+happytodeployJewishknowledgetoilluminateNewTestamentrealia,butwithoutmuch
+sympathyforbiblicalorcontemporaryJews.HewascertainlynotinterestedinaJewish
+MessianicKingdom.
+Anna M. Vileno and Robert J. Wilkinson - 978-90-04-44342-6
+
+[Page 78]
+biblical texts in messias puer 55
+isacasetobemadeforKnorr’simportanceinthedevelopmentof alesstra-
+ditional and confessional biblical studies and even in the emergence of less
+committedaccountsofReligion.Withthatcase,therealsoemergestheques-
+tionof whetherweshouldconsiderEsotericismhadanyroletoplayinthese
+developments.
+GuyG.Stroumsa’sANewScience:theDiscoveryofReligionintheAgeofRea-
+son most informatively and stimulatingly traces the long history of this new
+discipline which he describes in his work, but it is clear that he dismisses
+“Esotericism” as a possible factor in this development: it was supposedly so
+boldlyopposedtothenewly-emergingReason42.Stroumsadoesnotmention
+Knorrandhisremarksonthecontributionof symbolismareconfinedtothe
+Renaissance(thesymbolismofthelaterAthanasiusKircherbeingconsidered
+asanomalousandcharacteristicoftheRenaissanceratherthantheEarlyMod-
+ernPeriod).Itisnotunreasonable(oruncommon),however,forKnorrtobe
+consideredanimportantrepresentativeofwhatwecall,retrospectivelyforthis
+period,“Esotericism”.Thereareseveralindications,which,particularlywhen
+takentogether,arguestronglyforKnorr’sinclusionin thebroaderpictureof
+thedevelopmentofbiblicalstudiesandinanaccountofthebirthofthis“New
+Science”:hisstudyof Religion,hisdeepphilologicalconsciousnessandaccu-
+racy.Moreover,MessiasPuerdemonstratesthatKnorrwashighlyinterestedin
+theconcretecircumstancesofproductionofthebiblicaltextsandtheproject
+oftheirexpositioninconformitywiththerelevanthistorical,sociologicaland
+material knowledge. All these preoccupations Knorr shared with his famous
+contemporary,RichardSimon(1638–1712),theFrenchOratorianPriestandOri-
+entalist,almostuniversallyrecognized,atleastintheFrenchspeakingworld,
+as the “Father of Biblical Criticism”.We may ask therefore: should we recon-
+sider the limits of the Science of Religions (and maybe to extend them) in
+ordertointegratetheretrojectednotionof“Esotericism”insomeformintoit,
+orshouldweexpandourveryprovisionaldefinitionof “Esotericism”tocater
+fortheextraordinaryscholarshipofChristianKnorrvonRosenroth?43
+42 G.G.Stroumsa,ANewScience:theDiscoveryofReligionintheAgeofReason(Cambridge
+Mass.:HarvardUniversityPress,2010):pp.33–47.
+43 AnnaM.Vilenoisgratefulfordiscussionoftheseissuesafterherpaper“Knorr’sMessias
+Puer:betweenWesternEsotericismandtheStudyofReligion”attheinaswe(IsraeliNet-
+workfortheAcademicStudyofWesternEsotericism)Conference,heldattheHebrew
+UniversityofJerusalemon30.5.2018.
+Anna M. Vileno and Robert J. Wilkinson - 978-90-04-44342-6
+
+[Page 79]
+chapter 5
+The Intra-textuality of MessiasPuer: Knorr Citing
+Knorr
+MessiasPuer hasremainedinmanuscriptandinspiteof itspartialprinting,
+doesnotseemtohavemuchattractedtheattentioneitherofKnorr’snearcon-
+temporaries(withthenotableexceptionofLeibnizandafewothers,wehave
+discussedabove)orlaterscholars.Nonetheless,theworkconstitutesthefinal
+advancedstateofcompletionofKnorr’sconsiderableworkasaChristianKab-
+balist.MessiasPuerconstitutesprobablyoneofthemostrigorousapplications
+of Kabbalahtothetextsof theNewTestament.Itsrecoverythereforemaybe
+expectedtostimulatereflectionuponhispreviouswritingsinthelightof the
+finalandcoherentexegeticalachievementof MessiasPuer.
+On consideration of the copious references made in Messias Puer, one is
+immediately struck by Knorr’s constant recourse to the texts he had already
+anthologised in the two volumes of his Kabbala Denudata which appeared
+in 1677/1678 and 1684.We have argued above that MessiasPuer was initially
+accompanied by a companion volume of Excerpta, which functioned as a
+sourcebookof Zoharicmaterialarrangedaftertheorderof topicsinMessias
+Puer.Inasimilarway,Knorrmadeconstantreferencetomaterialhehadaccu-
+mulatedandprintedoverthepreviousdecadeorso.Inthiscaseitwasnotjust
+acollectionofextracts,butratherabodyofsubstantialtexts,sometranslations
+ofHebrewworks,otherswrittenbyhimself(possiblywithothers)like Adum-
+bratioorcompiledtoformalexiconofkeytermslikeLocicommunes.Messias
+PuerisraiseduponthefoundationsofthesepreviousworksandKnorrassumes
+thereaderhasthemtohandtoconsolidateordeveloppointsmadeinMessias
+Puer. One thus becomes aware of the cumulative force of Knorr’s work and
+realisesthatMessiasPuerisinfacttheculminationofthosepreviouslabours
+whichunderpinthewholework.
+Fromgeneralconsiderationswemayturnourattentiontotherelationships
+between MessiasPuer andotherearlierspecifictextsof Knorr.Weshallstart
+withtwoworkswhichwerenotpartofKabbalaDenudata,butprecededit,the
+ApocalypseCommentaryof1670andtheHarmoniaEvangeliorumof1672which
+treatsNewTestamentpassagesinessentiallythesameorderas MessiasPuer
+andoffersasimilar“worldchronology”tothatfoundinMessiasPuer.
+© koninklijkebrillnv,leiden,2021 | doi:10.1163/9789004443426_006
+Anna M. Vileno and Robert J. Wilkinson - 978-90-04-44342-6
+
+[Page 80]
+the intra-textuality of messias puer: knorr citing knorr 57
+1 TheApocalypseCommentary(1670)andtheHarmonia
+Evangeliorum(1672)
+The Renaissance interest in Chronography was motivated by several related
+concerns. There was an initial compunction to bring universal history into
+accordwithbiblicalnarrativebyreconcilingitnotonlywiththeEurope’sown
+Classicalchronologies,butalsowiththechronologicalmaterialprovidedfrom
+the “new worlds”.1This latter data seemed to complicate matters by offering
+apparentcorroborationofthepre-Adamichypothesesofdifferenthumanori-
+gins other than from the biblical Adam, which were becoming increasingly
+popular2andwhichweremadenotoriousin1655bythePrae-Adamitaeofthe
+French diplomat and millenarian theologian Isaac de Lapeyrère (1596–1676)
+whichwasEnglishedthefollowingyearas MenbeforeAdam.Theseaccounts
+threatened the integrity of the biblical Adamic lineage3. Attempts to defend
+thescripturalchronologyweremadeevenmoredifficultbythestrikingdiffer-
+encesinthechronologiesoftheGreekandHebrewbibles.4
+Inresponsetothisgrowingawarenessoftheneedforuniversalhistories,par-
+ticularly in France, chronological studies flourished. Jean Bodin (1530–1596),
+theFrenchjuristandpoliticalphilosopher,wrotethat“themostimportantpart
+of the subject [of universal history] depends upon the chronological princi-
+1 Mingjun-Lu,TheChineseImpactuponEnglishRenaissanceLiterature:AGlobalizationand
+LiberalCosmopolitanApproachtoDonneandMilton(London:Routledge,2015):pp.89–92
+usedhere.ForhisdiscussionoftheMilton-Oldenburgexchangesonthistopic,seepp.116–
+118.
+2 Paracelsushadclaimedthat“itcannotbebelievedthatsuchnewlyfoundpeopleintheislands
+areofAdam’sblood”,butrathermusthavecomefrom“adifferentAdam”.GiordanoBruno
+held“theblackrace/oftheEthiopiansandtheyellowoffspringofAmerica[…]cannotbe
+tracedtothesamedescent,noraretheysprung/fromthegenerativeforceofasingleprogeni-
+tor”.SeeReadingsinEarlyAnthropology,editedbyJ.S.Slotkin(London:Routledge,2012),p.43.
+3 OnLapeyrère,seeD.N.Livingstone,Adam’sAncestorsRace:ReligionandthePoliticsofHuman
+Origins(Baltimore:JohnsHopkins,2008):pp.26–51;R.H.Popkin,IssacdeLaPeyrère(1596–
+1676).HisLife,WorksandInfluence(Leiden:Brill,1987).Pages26–41dealwithpre-Adamites.
+J.-P.Oddos,IsaacdeLapeyrère(1596-1676)(Paris,2012);A.Pietsch,IsaacLaPeyrère (Berlin,
+2012)
+4 TheEnglishCalvinistWilliamWhitaker(1547–1595),exploitingtheseproblemsinconfes-
+sionalconflictandinsupportoftheHebrew,remarkedin1610:“thereisthegreatestdifference
+betweentheHebrewandGreekbooksintheaccountofdatesandyears”for“theGreekbooks
+reckon2242yearsfromAdaminthebeginningoftheworldtotheflood,aswereadinAugus-
+tine,EusebiusandNicephorus’Chronology.ButintheHebrewbooksweseethattherewere
+nomorethan1656.ThustheGreekcalculationexceedstheHebrewby586years.”(William
+Whitaker.ADisputationonHolyScriptureagainstthePapists,editedbyWilliamFitzgerald
+(Cambridge:UniversityPress,1849):p.121.)
+Anna M. Vileno and Robert J. Wilkinson - 978-90-04-44342-6
+
+[Page 81]
+58 chapter 5
+ple[…]asystemofuniversaltimeisneededforthismethodofwhichwetreat”.5
+TheFrenchJesuitDionysiusPetavius(1583–1652),whoseworkKnorrconsulted,
+consideredchronology“purecalculationof time”andthusquantitativelydif-
+ferentfrom“history”,for:
+Historyhasasitsowntopossessfullythematterof deedsandtowrite
+downtheirorder,usuallywithproofs,arguments,andwitnesses,whence
+theorderof individualyearsisestablished.Chronologyindeedinquires
+afteronething,bywhatsignsandmarkseachthingmaybearrangedinits
+yearsandtimes,andisnearlyalwayscontentwiththat.Itdoesnotextend
+furtherthanindividualevents.6
+ChronologyisforPetaviusoneofthefoursciences—Physics,Astronomy,Music
+andCivilDivisionsofTime—whichhavetodowithTime.
+The study of Time in this manner was decisively advanced by the great
+FrenchscholarJosephScaliger(1540–1609)whoserevolutionaryOpusnovum
+deemendationetemporumof1583quitetransformedthesubject.Treatingboth
+sacredandprofanesourcesasofequalvalue,Scaligercreatedasingletemplate
+whichallowedhimtointegratenon-biblicaldataintothebiblicalschemaand
+toextendthatschemeintothefuture.Hecalledthishis“JulianPeriod”.7
+Itwouldbeinappropriateheretolistthemanyauthorsoftheperiod,bothon
+theContinentandinEngland,whowroteonchronographicalmatters.8Suffice
+5 JeanBodin,MethodfortheEasyComprehensionofHistory,translatedbyB.Reynolds(New
+York:Norton,1969),p.303.
+6 ThisisfromthePrefaceofPetavius’Rationarumtemporum(Paris,1633),itselfaversionof
+hisOpusdedoctrinatemporum(Paris,1627).ForPetavius’chronology,seeD.J.Wilcox,The
+MeasureofTimesPast.Pre-NewtonianChronologiesandtheRhetoricofRelativeTime(Chicago:
+UniversityofChicagoPress,1987):p.205.
+7 SeeOpusnovumdeemendationetemporum(Paris,1583),p.198.Fundamentaltothestudyof
+Scaliger’schronologyisA.Grafton, JosephScaliger:AStudyintheHistoryofClassicalScholar-
+ship.Vol2HistoricalChronology(Oxford:Clarendon,1993).Thereisanexcellentsummaryin
+thesameauthor’s“Scaliger’sChronology:Philology,WorldHistory,Astronomy”inId.,Defend-
+ersoftheText.TheTraditionofScholarshipinanAgeofScience(1450–1800)(CambridgeMass.:
+HarvardUniversityPress,1991):pp.104–146withnotesatpp.276–289.TheJulianPeriodis
+explainedatpp.104–144.AlsoWilcox,TheMeasureofTimesPast,op.cit.,pp.198–199.
+8 S.Mandelbrote,“‘TheDoorsshallflyopen’:ChronologyandBiblicalInterpretationinEng-
+land,1630–1730”,inTheOxfordHandbookoftheBibleinEarlyModernEngland,c.1530–1700,
+editedbyK.Killeen,H.SmithandR.Willie(Oxford:UniversityPress,2015):pp.176–193;
+A.Grafton,“From‘deDieNatali’to‘deEmendationeTemporum’:TheOriginsandSetting
+ofScaliger’sChronology”, JournaloftheWarburgandCourtauldInstitutes48(1985):pp.100–
+143;Id.,“TraditionandTechniqueinHistoricalChronology”inAncientHistoryandtheAnti-
+quarian:EssaysinMemoryofArnaldoMomigliano,editedbyM.CrawfordandC.R.Ligota
+Anna M. Vileno and Robert J. Wilkinson - 978-90-04-44342-6
+
+[Page 82]
+the intra-textuality of messias puer: knorr citing knorr 59
+ittonotethatScaligerhimselfremarkedtoSethCalvisius(whosechronologi-
+calworkKnorralsoconsulted)inaletterof3October1605thateveryyearthe
+Frankfurt Book Fair witnessed a new crop of chronographical books— “Nul-
+laeFrancofurtensesnundinaesineChronologorumproventu”.9Notthatquantity
+broughtunanimity:ithasbeennotedthattwenty-nineseparatedatesforthe
+Creation of the World are found in the works of 108 early modern scholars
+broachingthetopic.10
+ChronographicalstudieshadaparticularinterestforKnorrintheirservice-
+ability for the interpretation of biblical prophecy, particularly of the several
+periods specified in both the Book of Daniel and the Apocalypse.11 He was
+alsoabletomakeuseof JewishchronographiesliketheSederOlamandSefer
+Juchasin.WecanobserveKnorr’sexploitationofthismaterialnotonlyinMes-
+siasPuerbutalsointwoworkswhichanticipateKnorr’suseof chronological
+datathereforthispurpose12.
+(London: Warburg Institute, 1995): pp. 15–31; Id., “Chronology and its Discontents in
+RenaissanceEurope:TheVicissitudesofaTradition”inTime:HistoriesandEthnologies,
+editedbyD.O.HughesandT.R.Trautmann(AnnArbor,1995):pp.139–167;Id.,“Some
+UsesofEclipsesinEarlyModernChronology”, JournaloftheHistoryofIdeas64,2(2003):
+pp.213–229;P.Nothaft, DatingthePassion:TheLifeof JesusandtheEmergenceof Sci-
+entificChronology(200–1600)(Leiden:Brill,2012):esp.pp.203–283.Thepublicationof
+K.Macfarlane,HughBroughton(1549–1612):Scholarship,ControversyandtheEnglishBible
+(UnpublishedDoctoralThesis,OxfordUniversity,2017)isalsonowanticipated.
+9 “NoFrankfurtfairgoesbywithoutitscropofchronologers”.QuotedbyAnthonyGrafton,
+“Scaliger’sChronology”,art.cit.,p.105;277.
+10 C.A.Patrides,“RenaissanceEstimatesoftheYearofCreation”,HuntingtonLibraryQuar-
+terly26,4(1963):pp.315–322atpp.316–317.
+11 A.Seifert,DerRückzugderbiblischenProphetievonderneuerenGeschichte:Studienzur
+Geschichte der Reichstheologie des frühneuzeitlichen deutschen Protestantismus (Köln:
+Böhlau,1990);I.Backus,ReformationReadingsoftheApocalypse(Oxford:UniversityPress,
+2000);Ead.,“TheBeast:InterpretationsofDaniel7.2–9andApocalypse13.1–4,11–12in
+Lutheran,ZwinglianandCalvinistCirclesintheLateSixteenthCentury”,Reformationand
+RenaissanceReview3(2001):pp.59–77;W.S.Reid,“TheFourMonarchiesofDanielinRef-
+ormationHistoriography”,HistoricalReflections8(1981):pp.115–123.
+12 OnenotesreferencestotheseworksinhabCod.Guelf30.4,whichcontainstwenty-two
+lettersofKnorr’scorrespondencefromthe1670s.SeeZeller,“Nachlass”,art.cit.,p.59.There
+isalsoanextensivework,CollegiumüberUniversalHistorie,writteninGermaninKnorr’s
+handwhichisfoundwithtwootherworksinhabCod.Guelf149.13.Extrav.,avolumefrom
+Knorr’slibrarydonatedbyJacobBurkhardt.ThismaybetheworktowhichUngerreferred
+toin“VitaeKnorrianaecurriculum”as“deIntricatissimisdubiischronologicis”(p.192)and
+whichheconsideredtobelost.Knorrindicatedhisinterestinthesemattersasearlyas
+hisDissertation,DissertatiodeAntiquisRomanor.Numismatib.ConsecrationemIllustran-
+tibus,op.cit.Aftertheendofchapter3§15hegivesthecorollariaofhiswork.Thefirst
+is:“Anexversionelxx.Interpretum,CodiceSamariticô,HistoriâJosephi,FabulisRabbino-
+Anna M. Vileno and Robert J. Wilkinson - 978-90-04-44342-6
+
+[Page 83]
+60 chapter 5
+Knorr’s commentary upon the Apocalypse, Eigentliche Erklärung über die
+GesichterderOffenbarungSJohannis…appearedin1670underthepseudonym
+of Peganius.13 Knorr’s systematic correlation of World History with the peri-
+odsmentionedintheApocalypsecanbeseenataglanceinthetabularpre-
+sentation(“KurzerinhaltdiesesBüchleinsaufChronologischeArtvorgestellet”).
+He finds three chronological sections in the Apocalypse. To the first period
+fromtheDestructionof JudaismtotheDestructionof Paganismheallocates
+the absolute dates of 34 ac to 337 ac. The second period from the Destruc-
+tion of Paganism to the demise of Spiritual Babylon runs from 379 ac to
+1860 ac. The third period, from the Seventh Trumpet until the End, is not
+absolutely dated, but includes the 1000 year reign, the loosing of Satan and
+the war against Gog and Magog, after which comes “the Restoration of All
+Things”.14
+The HarmoniaEvangeliorum,OderZusammenfügungdervierH.Evangelis-
+ten […] Dem ist beygefüget eine Chronologische Vorbereitung Uber das Neue
+rumetAntiquitatibusChaldæorum,Ægyptiorum&Sinensiumdemonstraripossit,Natale
+munditempusvulgaremAeramannis1440anticipare?”[“Whetheritcanbedemonstrated
+fromtheSeptuagintTranslation,theSamaritanCodex,Josephus’History,Rabbinictales
+andtheAntiquitiesoftheChaldaeans,theEgyptiansandtheChinese,thattheperiodof
+theworld’sbirthprecededthecommoneraby1440years?”]Towhichthereponsewas
+“N[ego]”(“Ideny”)(p.32).
+13 ChristianKnorrvonRosenrothApokalypse-Kommentar,ed.byBattafarano,(Bern:Peter
+Lang, 2004). For Knorr’s understanding of World History as the History of Salvation,
+seepp.197–205.Also,I.M.Battafarano,“GottalshermetischerDichter.ChristianKnorrs
+vonRosenrothingeniös-barockerKommentarder‘Johannesapokalypse’(1670)”,Morgen-
+Glantz 7 (1997): pp. 15–65; and Id. “‘Denn wenn Gott brüllet / wer wollte nicht weis-
+sagen’ChristianKnorrsvonRosenrothDeutungderWeltgeschichtealsHeilsgeschichte
+im Apokalypse-Kommentar(1670)”,MorgenGlantz15(2005):pp.13–26;G.vanGemert,
+“ChristianKnorrvonRosenrothundPetrusSerrariusDieApokalypsekommentareinDeu-
+tungszusammenhang”,Morgen-Glantz11(2001):pp.205–227.Further:R.Zeller,“Knorrs
+ErklärungderGesichterJohannisimKontextderzeitgenössischenApokalypse-Deutung”,
+Morgen-Glantz 21 (2011): pp. 9–14; Ead., “Knorrs Apokalypse Deutung und England”,
+Morgen-Glantz 21 (2011): pp. 107–133; G. van Gemert, “Knorrs Apokalypse-Kommentar
+undderniederländischeKontext.Breckling,Serrarius,Hiëlundandere”,Ibid.,pp.211–
+225;vonGreyerz,K.“DasNachdenkenüberdieApokalypseimEnglanddesspäteren17.
+Jahrhunderts”,Ibid.,pp.15–38.ThereisalsoanEnglishversion: AGenuineExplication
+oftheVisionsoftheBookofRevelation:FullofNewChristianConsiderationswhereinTrue
+andFalseChristendomisbrieflyandnakedlyrepresentedbyA.B.Peganius(London:W.G.,
+n.d.)onwhichseeW.G.Marigold,“DieenglischeÜbersetzungvonKnorrsKommentar
+zurJohannesapokalypseunddieRezeptiondeutscherErbauungsschrifteninEnglandin
+17.Jahrhundert”,Morgen-Glantz8(1998):pp.171–196.
+14 JohnLightfoot’sworkwasalsoimportanttoKnorrinhisstudyoftheApocalypse.
+Anna M. Vileno and Robert J. Wilkinson - 978-90-04-44342-6
+
+[Page 84]
+the intra-textuality of messias puer: knorr citing knorr 61
+Testament15waspublishedbyJohannDavidZunnerinFrankfurtin1672.The
+title-page suggests that the work had been made from an English “Vorlage”
+(“AußdemEnglischeninsTeutscheübersetzt”)andthatthisoriginalwasfound
+inthepapersof JamesUssher,Bishopof Armagh(1581–1656)(“Welchebeyde
+SchriffteninJacobiusseriErtzbischoffenzuArmachundPrimateninIrland/
+hinterlassenerBibliothecgefundenworden”),thoughitmustbeconcededthat
+it is not precisely clear just what is being claimed in this title page!There is
+nothinginUssher’sNachlaßwhichmighthaveservedassuchanoriginal.
+C.T.Unger’s1718biographyof Knorrnonethelessrepeatsthisclaim:“Ejus-
+demestinterpretatioGermanicaHarmoniæEvangelistarumabanonymoAnglice
+conscriptæ & in musæo Vsseriano repertæ”16, but he also records contrary
+rumours:“DicituripseKnorriusauctoresse,&istadeAnglicoconfinxisse.”17The
+copyofthe1672printededitioninhabWolfenbüttel(sign.Td126)hasmoreto
+sayonthisscoreinahandwrittennote18:
+“Autor hujus libri est Vir illustris Knorr à Rosenroth, Consiliarius, dum
+viveret, intimus Marchionis Sulzbacensis, Vir in literatura Orientali ver-
+satissimus. Dedit hoc opus Helmontio, Hebraicarum rerum ad supersti-
+tionemusqueperito,cujuscuraacsumptibusederetur.ObtulitHelmontius
+inspiciendumlibrumM[anu]sc[rip]tumDoctoriFabritio, AcademiaeHei-
+delbergensisTheologo.Quieditionemmaturaresuasit,additogeminocon-
+silio,detitulolibrireformando,acdeoperacastrandoaliterqueinstruendo.
+Quodadtitulumattinet,Autoremverumdissimulandum,judicavit,acpere-
+15 “harmoniaevangeliorum,OderZusammenfügungdervierH.Evangelisten.Worinnen
+alleundjedederoselbenWortbeydesnachLutheriundderEnglischenversioninOrdnung
+gebracht/DochmitsonderlichenBuchstabenunterschieden/unddurchkurtzeVomem-
+lichzuErbauungdeßChristlichenLebenszielendeAnmerckungenerkläretsind.Demist
+beygefügeteineChronologischeVorbereitungUberdasNeueTestament/zudessenrichtigem
+Verstandnützlichzugebrauchen.WelchebeydeSchriffteninJACOBIusseri,Ertzbischof-
+fenzuArmachundPrimateninIrland/hinterlassenerBibliothecgefundenworden.Auß
+demEnglischeninsTeutscheübersetzt.Franckfurt/InVerlegungJohannDavidZunners.
+GedrucktbeyJohannAndrea.annom.dc.lxxii.”
+16 “His too is the German translation of the Gospel Harmony made by an anonymous
+EnglishmanandfoundinUssher’slibrary”.(Unger,“VitaeKnorrianaecurriculum”,op.cit.,
+p.193.)
+17 “KnorrhimselfissaidtobeitsauthorandtohaveputittogetherfromtheEnglish.”For
+thiswork,seeM.FinkeandE.Handschur,“ChristianKnorrsvonRosenrothLebenslauf
+ausdemJahre1718”,art.cit.
+18 WefollowhereG.vanGemert,“ZuKnorrsEvangelienharmonievon1672Vorlage,Ver-
+fasserfrageundKontext”,Morgen-Glantz3(1993):pp.155–162,whohaspresentedtheevi-
+denceandshownthelikelyreliabilityofthistestimony.
+Anna M. Vileno and Robert J. Wilkinson - 978-90-04-44342-6
+
+[Page 85]
+62 chapter 5
+grinumeumque Anglum subornandum.Atqueita Usserii umbraplacuit,
+subquadelitesceretKnorràRosenroth.Textum porrocastravitFabritius,
+eaqueeliminavit,quaelectoremoffenderepossevidebantur,maxime,quae
+migrationemanimarumconcernerent.VersionemquoqueLutheriGerma-
+nicam inserere suasit, ne Lutherani nova versione absterrerentur. Prae-
+fationem addiditDoctor Schuz, i[uris]c[onsul]tusFrancofurtensis,quiet
+sumptibusHelmontianisedidit.
+Sic
+Autor,KnorràRosenroth.
+Curator,Helmontius.
+Castrator,Fabritius.
+Editor,Schuzius.”19
+TheprintedcopyinYalesubstantiallyreportsthesamematerialbutalsopur-
+ports to identify the source, Hermann van der Hardt (1660–1746) from 1690
+ProfessorofOrientalLanguagesinHelmstadt:
+ExexemplobibliothecaeGuelpherbytanaecuiHerm.vonderHardtmanu
+suasequentiaadscripsit:20
+AutorhujuslibriestKnorràRosenroth,Consiliarius,dumviveret,intimus
+Marchionis Sultzbacensis, vir in literatura Orientali versatissimus. Dedit
+hoc opus Helmontio Hebraicarum rerum ad superstitionem usque perito,
+19 “TheauthorofthebookistheillustriousgentlemanKnorrvonRosenroth,intimatecoun-
+selor,whilehelived,oftheDukeofSulzbach,amanmostversedinOrientalliterature.
+HegavetheworktovanHelmont,skilledinHebrewstudiestothepointofsuperstition,
+tohaveitprintedathisownexpense.VanHelmontofferedthebookinmanuscriptfor
+inspectiontoDoctorFabricius,atheologianattheUniversityofHeidelberg.Headvised
+rapidpublicationbutaddedtworecommendations:tochangethebook’stitlepage;and
+toedit[emasculate]theworkandarrangeitdifferently.Asfarasthetitlepagewent,
+hethoughttoconcealthetrueauthorandattributetheworktoaforeignEnglishman.
+AndsotheghostofUssherwaschosen,behindwhomVonRosenrothlayhidden.Fabri-
+ciusthenwentontoedit[emasculate]thetextandtoeliminatethosethingsitappeared
+couldoffendthereader,particularlythosethingsaboutthemigrationofsouls.Healso
+persuadedhimtoinsertaversionofLuther’sGerman[translation],sothattheLutherans
+wouldnotbefrightenedawaybythenewtext.TheFrankfurtlawyerDoctorSchuzadded
+aprefaceandpublisheditatvanHelmont’sexpense.So:VonRosenrothwroteit;VanHel-
+montpaidforit;Fabriciusedited[emasculated]itandSchuzgotitprinted.”(vanGemert,
+“ZuKnorrsEvangelienharmonie”,art.cit.,p.159).
+20 “FromacopyintheWolfenbüttellibrary,towhichHerm.vonderHardtaddedthefollow-
+inginhisownhand”.
+Anna M. Vileno and Robert J. Wilkinson - 978-90-04-44342-6
+
+[Page 86]
+the intra-textuality of messias puer: knorr citing knorr 63
+cuiuscuraetsumtibusederetur.ObtulitHelmontiusinspiciendumlibrum
+M[anu]sc[rip]tumDoctoriFabricio,AcademiaeHeidelbergensisTheol.qui
+editionem maturare suasit, addito gemino consilio de titulo libri refor-
+mando,acdeoperacastrandoaliterqueinstruendo.Quodat[sic!]titulum
+attinet, autorem verumdissimulandum judicavit, ac peregrinum eumque
+Anglumsubornandum.AtqueitaUsseriiumbrasplacuit,subquadelites-
+ceret Knorr à Rosenroth. Textum porro castravit Fabricius, eaque elimi-
+navitquaelectoremoffenderevidebanturposse,maximequaemigrationem
+animarum concernerent.Versionemquoque Germanicaminserere suasit,
+ne Lutherani nova versione absterrerentur. Praefationem addidit Doctor
+SchützJureconsultusFrancofurtanus,quietsumtibusHelmontianisedidit.
+SicAutorKnorràRosenroht[sic!]
+CuratorHelmontius
+CastratorFabricius
+EditorSchutzius.21
+Evidentlytherearecomplexquestionsherewhichdemandfurtherattention,
+notleastthebizarrenotionofascandalousGermantranslationofan“English
+version”.22Here,however,weshallconfineourselvestotwopertinentfeatures
+ofthisworkasitrelatestoMessiasPuer.Firstoneshouldnotethelocationof
+thisearlierworkofKnorr’swithinthefieldofUniversalHistoryandChronol-
+ogy.Theworkbeginswithatime-line:“FolgetdemnacheineVorbereitungüber
+das Neue Testament nemlich die Zeit-Rechnung / und ein kurtzer Begriff der
+ganzen Histori des NeuenTestaments”23. The Chronology thereafter synchro-
+nisestheYearof theWorld(W);theYearbeforetheBirthof Christ(vC);the
+YearafterChrist’sBirth(C);theRegnalYearsofmentionedMonarchs(K);the
+WeeksofDaniel’sProphecy(D)andtheYearoftheGospel(E).
+Obviouslyawell-establishedchronologyisthebasisforsuccessfulharmon-
+isation.
+21 Ibid,pp.160–161.
+22 TheLutheranversioncitedintheHarmoniaisindeedpreciselythat,butthe“EnglishVer-
+sion”whichhasbeenputintoGermanappearstobetheVulgaterathercarefullytranslated
+withwordsnaturallyomittedintheLatinbeingaddedinbracketsintheGerman.The
+eighteenprintedGermanlanguagebibleswhichprecededLuther’stranslation(1522–1534)
+wereallmadefromtheVulgatetext.
+23 “Herefollowsa[work]preliminarytotheNewTestament,namelyaChronologicalCalcu-
+lationandashortSketchofthewholeofNewTestamentHistory”(HarmoniaEvangelio-
+rum,op.cit.,p.2).
+Anna M. Vileno and Robert J. Wilkinson - 978-90-04-44342-6
+
+[Page 87]
+64 chapter 5
+We should also note that the Gospel Harmony itself in its first eight sec-
+tionsisthebasisfortheorderoftheNewTestamentpassagestreatedinMes-
+sias Puer. Knorr suggests there that this order has the economic advantage
+of harmonisation; and then follows the sequence of his earlier work24. The
+order of the Harmonia is: Lk 1.1–4; Jn 1.1–14; Lk 1.5–56; Mt 1.1–25; Lk 1.57–80;
+Lk2.1–38;Mt2.1–23;Lk2.39–52.Theorderof MessiasPueris:Lk1.1–4;Jn1.1–5
+(slightlyshorterthantheHarmoniapassage25);Lk1.5–26;Lk1.26–38;Lk1.39–
+52(thesametextandorderastheHarmonia,butbrokenintoshortersections);
+Mt 1.1–25; Lk 1.54–80; Lk 2.1–39; Mt 2.1–23; Lk 2.40–52. This pattern itself is
+found previously in Lightfoot in work repeatedly cited in Knorr’s commen-
+tary.26
+Within MessiasPuer itself,Knorr’sinterestinthechronologicalaspectsof
+WorldChronologyandeschatologicaldatesareevident,forexample,inpas-
+sages treating of Zachariah’s Ministry (folio 13v); Matthew’s Genealogy and
+several passages on Lk 2 (folios 37v–39v). The prophetess Anna’s life history
+isrelatedtotheselargerperiods.However,onemustnotforgetthecomplex-
+itiesintroducedintothisdiscoursebythedoctrineof reincarnationtowhich
+weshallreturnbelow.TheinterestinreincarnationwhichKnorrsharedwith
+severalof hiscontemporarieswasenrichedbyhisinnovativeuseof thethe-
+oryof therevolutionof soulsasithadbeendevelopedinLurianicKabbalah.
+Theoriginalityandinnovationof MessiasPuerspecificallyhereresidesinthe
+combinationoftheseparatefieldofchronographywiththisesotericdoctrine
+achievedbyrecoursetoKabbalah.
+We shall consider below the doctrine of a Jewish Earthly Messianic King-
+dom, a striking feature of Knorr’s eschatological expectations as it emerges
+fromMessiasPuer.
+24 “Christianus.Prolegomenahæcpræmitto,utcæteraEvangeliorumcontentajuxtatempo-
+rumserieminunamcoadunarepossimharmoniam,unâqueannotationealiquando,siDeus
+concesserit,pluribussatisfaciamtextibus.”(HistoriæEvangelicæinitium,folio1r).(“Chris-
+tian:Iputthisintroductionfirst,sothatImightbeabletoordertheotherthingsinthe
+Gospelsintooneharmonioustimesequence,andthusGodwilling,totreatseveraltexts
+adequatelywithjustalittleaddedcommentary”.)
+25 ThepassageisshortenedinMessiasPuertoavoidmentionofthesubsequentministryof
+JohntheBaptistwhichfallsoutsidethechronologicallimitsofthework.
+26 ConvenientlyinLightfoot,Erubin;orMiscellaniesandtheHarmonyoftheGospels.Partsi
+&ii,op.cit.
+Anna M. Vileno and Robert J. Wilkinson - 978-90-04-44342-6
+
+[Page 88]
+the intra-textuality of messias puer: knorr citing knorr 65
+2 KabbalaDenudata
+TheimportanceofcitationsfromKabbalaDenudatainMessiasPuerhasbeen
+mentionedabove.ArapidcomparisonoftheworkscitedinMessiasPuerwith
+thosecollectedin KabbalaDenudataindicatesthatthewholeof theanthol-
+ogywasexploitedbyKnorrinMessiasPuer.Threetextsaremostheavilycited:
+Locicommuneskabbalisticipublishedinthevolumeof1677;Derevolutionibus
+animarumandAdumbratiokabbalæchristianæ,bothofwhichwerepublished
+inthevolumeof1684.AdumbratioiscitedsomethirtytimesthroughoutMes-
+siasPuer.TherearemorethanahundredreferencestoLociandthesetooare
+evenlydistributedthroughoutthework.Derevolutionibusanimarum,atrans-
+lationoftheLurianictreatisedevotedtothedoctrineoftherevolutionofsouls,
+iscitedmostfrequently(morethan130times),butunliketheLoci,theDerev-
+olutionibusanimarumisnotcitedregularlythroughouttheworkbutonlyin
+thosepassagesconcernedprincipallywiththisdoctrine.Aswehaveremarked
+alltheothertreatisesintheanthologyarecitedwiththenotableexceptionof
+theexchangeswithHenryMorewhichappearinthefirstvolumeandMore’s
+otherworkswhichKnorrintegratedintohisanthology.Itisthusveryclearthat
+Knorrmadereferenceonlytoworkswhichhehadhimself (partially?)edited
+(likeAdumbratio),ortranslated(likeDerevolutionibus)orcompiled(likeLoci).
+Thefamiliarityof theauthorwiththecitedtextsisanimportantelementfor
+understandingthewayinwhichMessiasPuerwasconceivedandelaboratedby
+Knorr.Thisisparticularlyrelevant,asweshallsee,inthecaseof Adumbratio.
+3 Adumbratiokabbalæchristianæ
+Inmanyrespects,MessiasPuerappearsasthecounterpartof Adumbratiokab-
+balæchristianæandbothworkswillbenefitfrombeingconsideredtogether.
+Adumbratiowaspublishedanonymouslyin1684asapartof thesecondvol-
+umeof KabbalaDenudata.MessiasPuer,foritspart,remainedinmanuscript
+formcataloguedunderafalsetitle,astheoriginaltitlepagewasnotpreserved.
+Both texts take the form of a dialogue between two characters who seem to
+havebeencarriedoverfromtheoneworktoother,yetundergoasubtletrans-
+formation between 1684 and 1688/9, as the Cabbalista and the Philosophus
+Christianus of Adumbratio become respectively a Cabbalista Catechumenus
+andaChristianus.Thedialogueof1684openswithastatementoftheKabbalist
+accordingtowhichthetwocharactersagreetodrawup“asharedhypothesis”
+oratleastan“hypothesisbywhichboth[theKabbalist]willbebetterableto
+understand [the Christian] doctrine and [the Christian Philosopher] will be
+Anna M. Vileno and Robert J. Wilkinson - 978-90-04-44342-6
+
+[Page 89]
+66 chapter 5
+abletograsp[the]enigmaticwaysof speaking[of theJews]”withtheinten-
+tionofachieving“themostpressingnecessity”oftheconversionoftheJews.27
+Adumbratio comprises principally an exposition of Kabbalistic doctrines,
+particularlythoseoftheLurianictradition.28Assumingaphilosophicperspec-
+tive, the two characters undertake to test the possibility of applying these
+particulardoctrinestoChristianityinsearchof equivalentswhichoffercon-
+firmationoftheLurianicsystem.Theprocessisparticularlystrikinginthecase
+of AdamKadmon,the“PrimordialMan”wheredetailsarespecificallyandsys-
+tematicallycomparedwithcharacteristicsofChristrecognisedintheChristian
+tradition.Theexploitationofahermeneuticofanalogyallows Adumbratioto
+entertain a plurality of meaning which skilfully masks the subtle pressures
+applied to the text of the New Testament and thereby gives the impression
+of a convincing demonstration. The construction of the “shared hypothesis”
+ismadepossiblebyignoringsomespecificallyChristianthemesandavoiding
+theusualstumblingblocksofthefamiliargenreofpolemicaldialogue.Specif-
+icallytheVirginConceptionofChristandthePassionarecarefullyavoidedin
+Adumbratio.29Evenwhen“thecomingof Christintotheworld”30isinques-
+tion,thetextconfinesitself strictlytotheFatherandhisroleintheintroduc-
+tion of the Son into the world.31 This account is in no way innocent, since
+27 Adumbratiokabbalæchristianæ(Frankfurt:JohannesDavidZunner,1684),p.3.Thisenjoys
+anindependentpaginationandisusuallyprintedwiththesecondvolumeoftheKabbala
+Denudata.Onthistopic,W.Schmidt-Biggemann,“KnorrvonRosenrothsmissionarische
+Intentionen”,art.cit.,pp.189–204.
+28 ForanintroductiontothisschoolofKabbalah,seeG.Necker,Einfürungindielurianische
+Kabbala(FrankfurtamMain:Verl.DerWeltreligionen,2008).
+29 TwodiscretementionsoftheVirginMaryappearinAdumbratioatpages63and64.This
+lastoneisinteresting:suddenly,theChristianPhilosopherremembersthathepromisedto
+bebrief:“Quæproptereasaltemallegantur,ut[(juxtacommuneRegulamvestram;cumdici-
+tis:IdquodacciditPatribus(i.e.supernis)accidit&liberis(i.einfernis)]appareatnihilesse
+absurdi,siMaterMessiædicaturVirgo,juxtaJesch.7,vs.14.DealiisautemMessianæNativi-
+tatisCircumstantisnihilhicaddemus,nenimiisdigressionibusdilabamuràscopopropositæ
+brevitatis.”(“Itismoreoverclaimedthat[(accordingtoyourcommonrulewhenyousay:
+‘Thatwhichhappenstothefathers(i.e.above)happensalsotothechildren(i.e.below)]
+thereappearsnothingunreasonablewhentheMotherofMessiahiscalledavirgininIsa.
+7.14.ButabouttheothercircumstancesofMessiah’sbirth,weshalladdnomore,lestwith
+toomanydigressionsweslipfromourtargetofagreedbrevity.”)Weconsiderthetreat-
+mentoftheVirginBirthinMessiasPuerbelow.
+30 ThewordincarnatioisneverusedofMessiahinAdumbratio.
+31 Jn16.28isinvokedhere(Adumbratio,op.cit.,p.44).AllisonCoudertconsidersthediminu-
+tionof theroleof Christacharacteristicof theintellectualambienceinwhichKnorr
+developed:“WhileinParisLeibnizformulatedaprayerwhichhethoughtthebasisfora
+trulyecumenicalreligion,onlytoreceiveashockedresponsefromArnauld,whorejected
+Anna M. Vileno and Robert J. Wilkinson - 978-90-04-44342-6
+
+[Page 90]
+the intra-textuality of messias puer: knorr citing knorr 67
+itisconformedtotheaccountof creationfoundinLurianicKabbalahwhich
+centresaroundthefigureofAdamKadmon(whoalsois“broughtdownintothe
+world”).32Moreover,thefinalchaptersof Adumbratiowhichdescribethefinal
+stateofrestitutionusealanguagewhichpointedlyavoidsthehabitualexeget-
+icaltermsusedoftheredemptiveroleofChrist.33Matterspresentthemselves
+inaverydifferentguisejustafewyearslaterin MessiasPuer.TheKabbalist,
+nowbecomeaKabbalistCatechumen,cooperatesactivelyandonequalterms
+withtheChristianintheinterpretationof theNewTestamenttexts.Heisno
+longercontentmerelytoexpoundkabbalisticdoctrinebutactivelyseeksnew
+interpretationsoftheGospelswhichmightbedevelopedfromtheresourcesof
+Kabbalah.TheChristianPhilosopheralsochangesandbecomessimply—that
+iscompletely—Christianasthewritingmovesfromaconsciouslyphilosophi-
+calstyletothatof anessentiallyexegeticaltext.Themannerof proceedingis
+quitedifferenttoo:where Adumbratiofrequentlyconfineditself tothemere
+enumerationof parallelpassages(sometimesof apurelyformalrelevance34),
+MessiasPuer revealsitself tobefarmoreinnovativeandcreative,asweshall
+attempttoindicatebelow.Thisisbecauseof thechallengeintroducedbythe
+detailed examination of the biblical text and its previous interpreters which
+constrainstheexegete(Knorr)toinnovateif heisbothtosatisfytherequire-
+mentsofthetextandalsotoarticulateacoherenttheologicalreadingfromhis
+owndoctrinalprinciples.Thephilosophicalquestionsweremoreeasilydealt
+withinthefreedomofAdumbratio’simagineddebate:nowthedebateinvolves
+themoreintransigentwordsoftheGospeltextandthedemandstheyimpose
+uponapersuasiveexegesis.
+itoutrightbecauseitsaidnothingaboutChrist.VanHelmont’secumenismwenteven
+fartherthanLeibniz’s,tothepointthathewaspursuedandimprisonedasaheretic.He
+believedthatallmencouldbesaved,whatevertheirreligion,asentimentthatclearly
+undercuttheuniqueroleofChristinsalvationandembracedthePelagianideathatan
+individualcouldbesavedbyhisownefforts.AsIwillshow,thesamePelagianimplications
+appearinLeibniz’smaturemonadologyandcamefromvanHelmontandtheLurianic
+Kabbalah.”(LeibnizandtheKabbalah,op.cit.,p.10).
+32 TheHebrewverbisלשלתשנ,“todropthrough”,“tolower”.
+33 The last chapters (10–12) are entitled: “DestatupostremæRestitutionis,ejusqueGradu
+primo;DesecundoGraduRestitutionisAnimarum;DeduobusultimisRestitutionisMes-
+sianæGradibus.”Chapter11specificallydescribesthefightingofChristagainstthe“Shells”
+inLurianicterms.Alsoamongtheveryrarementionsofthe“suffering”or“sacrifice”of
+Christ,thecrucifixionisnevermentioned,exceptintheallegoricalreadingof“takingup
+one’scross”meaning“tofollowChrist”(Adumbratio,op.cit.,p.64).
+34 Vileno,Àl’ombredelakabbale,op.cit.,p.157.
+Anna M. Vileno and Robert J. Wilkinson - 978-90-04-44342-6
+
+[Page 91]
+68 chapter 5
+4 TheQuestionofAuthorship
+WehaveseenabovethatKnorr’sownpersonalconvictionsaresomewhathid-
+den in his anthologies of translations. We have also noted his discretionary
+preference for anonymity, though there is no substantial disagreement over
+hisauthorshipoftheApocalypseCommentarywhichwehaveused.Inthecase
+of theHarmonia,wesimplyneedafarbetterideaof whatisgoingoninthat
+obfuscatedtextbeforeweuseanassertionofKnorr’sauthorshiptoattemptto
+discoverwhathewishedtosayinit.
+Thequestionofauthorshipisfarmorecontestedinthecaseof Adumbratio,
+thoughithasgenerallybeenassumeditwasrathertheworkofvanHelmont.35
+SarahHuttonarguedforvanHelmont’sauthorship36andRosmarieZellerhas
+recentlypointedoutthetendencytoattributeallworkstoKnorrandnoneto
+van Helmont.37 In a recent monograph Anna M.Vileno while accepting the
+general difficulty of deciding the question argued that a good case could be
+madeforassertingthatchapter3of Adumbratiowasprincipallytheworkof
+Knorrandthatchapter7wasprincipallywrittenbyvanHelmont.38Mostschol-
+arswouldacceptthattheremayhavebeensomeformofcooperationbetween
+thetwofriends.
+InthecaseofMessiasPuerthesituationisfarclearer.Whilstitremainspos-
+siblethatdraftsof passagesbyvanHelmont(oranyoneelse)mayhavebeen
+used to produce the secretaries’ own drafts, that this was the case we shall
+35 Sheila A. Spector called her English translation of Adumbratio without equivocation,
+“FrancisMercuryvanHelmont’sSketchofChristianKabbalah”.
+36 S.Hutton,AnneConway:AWomanPhilosopher(CambridgeUniversityPress,2009):p.204.
+37 ZellerandNecker,“Einleitung”,art.cit.
+38 Vileno,Àl’ombre,op.cit.,pp.132–135.NoristhiscontentiondisprovedbyMessiasPuer.
+OnemaynoticethatonechapterofAdumbratiowhichKnorrdoesnotciteinMessiasPuer
+ischapter7,preciselythattentativelyattributedtovanHelmont.Itisalsothecase(aswe
+havejustseen)thatKnorrinMessiasPuerdoesnotoncerefertoHenryMore’sworkwhich
+alsoappearsinKabbalaDenudata.Itisquiteplausibletoimaginethathedidnotcite
+theseworksbecausehehadnotwrittenthemhimselfandwasthusnotfullyathomewith
+theircontent.ForasurveyofproblemsofauthorshipsurroundingVanHelmont’sworks,
+seeHutton,AnneConway,op.cit.,pp.148–150.ConcerningtheAdumbratioinparticular
+andthevariouselementsofitscomposition,seeEad.,pp.204–205,Vileno,Àl’ombre,op.
+cit.,pp.132–135andR.Zeller,“DieLehrevonderPräexistenzderSeelenbeiKnorrund
+HelmontimKontextderDiskussioninEngland”,Morgen-Glantz,24(2014):pp.133–154.
+ThequestionofthepreciserelationshipbetweenKnorrandVanHelmontisextremely
+complexduetothehabitualanonymityofbothparties.Knorrwasprobablyledtoaninter-
+estinKabbalahbyVanHelmont.SarahHuttonhasshownVanHelmonttohavebeenan
+indefatigabletravellermaintainingnumerouscontactswellbeyondSulzbachwhothereby
+enabledKnorrtokeepabreastofthelatestphilosophicaldevelopmentsofhisday.
+Anna M. Vileno and Robert J. Wilkinson - 978-90-04-44342-6
+
+[Page 92]
+the intra-textuality of messias puer: knorr citing knorr 69
+neverbeabletoknow.Wemayhoweverbequitesurethatthecorrectionof
+thesecretaries’workwasdonebyKnorrandthatweareabletoobservehim
+refashioninghisworkinseveralwaysaswehavediscussedabove.Thereisno
+reasonabledoubtthatKnorrwasinthissensetheauthorof themanuscript,
+whichcontemporarytestimonythoughthehadwritten,andthatinallproba-
+bilityheattemptedtoseethroughthepress.
+Itremainsthentoask,doesKnorr’sundoubtedauthorshipof MessiasPuer
+createapresumptionthathewasalsotheauthorof Adumbratio?
+ItisclearthatMessiasPuerwasintendedasacompanionpiecetoAdumbra-
+tio.Itsveryformasadialogue(andthemoredevelopedrelationshipbetween
+the two characters) makes it explicitly clear that MessiasPuer is a sequel to
+the earlier work. But this continuity of genre and of dramatispersonae does
+notinanywayentailidentityofauthorship.Adumbratiomay(toanunknown
+extent)beaworkofcollaboration,butthereisnoreasontoconsiderMessias
+Puertobeso.Theevidenceofthemanuscriptandofcontemporarytestimony
+isdecisive.FurthermoretheverynatureofthescholarshipdisplayedinMessias
+Puerischaracteristicof Knorrratherthanof vanHelmont.Thereisnodoubt
+ofKnorr’sabilitiesasaHebraist(aswehaveseenabove).Thereislessevidence
+ofthisforvanHelmont.HisworkontheHebrewAlphabetAlphabetiverenat-
+uralishebraicibrevissimedelineatio… (1667) is most definitely not a work of
+Semiticphilologyorastudyof Hebrew(aswewouldunderstandit),ratherit
+istheassertionofarelationshipbetweentheshapeofHebrewlettersandthe
+anatomyof thehumanthroat,whichhasindeedspeculativeimplicationsfor
+the“naturalness”of Hebrewasalanguage,butisnotwhatweunderstandby
+philology.39Nor,evenifwecreditvanHelmontwithasubstantialcontribution
+tothemorephilosophicalAdumbratio,wouldthatshowhimequippedwiththe
+necessaryknowledgeoftheMishnaicandTalmudicmaterialdeployedinMes-
+siasPuer topresenttherealiaof NewTestamenttimesortohavepreviously
+demonstratedkabbalisticexpositionalinnovation.Itisthereforenotevident
+upon what basis we could claim that MessiasPuer reflected his erudition or
+creativeexegesis.
+Finally we may perhaps return to the question raised above of whether
+KnorrwascapableofbeingthesoleauthorofMessiasPuer.Inconsideringthe
+changesKnorrmadetothedistributionof materialbetweenthetwoconver-
+sationalistsinthedialogue,werashlyspeculatedwhetherarealcollaboration
+39 ForKnorr’sprefacetothiswork,seeZeller,“DieRollevonFranciscusMercuriusVanHel-
+mont”,art.cit.,pp.390–391,andforawidercontext,Ead.,“AdamischeSprache,Natur-
+spracheundKabbala.ÜberlegungenzurSprachtheorieundPoesiein17.Jahrhundert”,
+Morgen-Glantz6(1996):pp.133–154.
+Anna M. Vileno and Robert J. Wilkinson - 978-90-04-44342-6
+
+[Page 93]
+70 chapter 5
+withaJewishscholarmightliebehindthepersonaof theKabbalistCatechu-
+men. We do not know, but we may consider whether such an hypothesis is
+necessary. On balance it would seem that the work Knorr had done before
+MessiasPuerinanthologisingforKabbalaDenudataandcollectingthemate-
+rial in the enormous Locicommunes (even if he were helped at some stage,
+whichpresumablywouldhavebeenlikely,if notindeednecessary)equipped
+himwiththerequiredfluencyinthestudyof theLurianicdoctrinestoprac-
+ticetheirmanipulationonhisown.Thequestionthenremainswhetherhewas
+individuallycapableofsynthesisingthismaterialwiththetextoftheNewTes-
+tament.Inthisrespectwemayconcludethatitwouldhavebeenmorelikely
+forKnorrtobepossessedofathoroughknowledgeoftheNewTestamenttexts
+andtheissueswhicharisefromtheminthehistoryoftheirinterpretationthan
+aJewishscholar.Asmuchof theachievementof MessiasPuerliesinthesyn-
+thesisof thetwosystemsandtheachievementof aclosereadingof theNew
+Testamentinthelightofthekabbalisticdoctrines,itmaybe,infact,easierto
+imaginethatsynthesistookplaceinthemindofoneman,amanwhohadinti-
+mate knowledge of both Luria and the Christian NewTestament.We would
+argue,therefore,thatthereisnothinginMessiasPuerthatcanbeshownKnorr
+couldnothavewritten,muchthathemightwellhavebeentheonlypersonto
+beabletowrite,andnocompellingreasontothinkhehadanimmediatecol-
+laborator.Contemporarytestimony,aswehaveseenabove,givesnohintthat
+MessiasPuerwasacollaborativeeffort.WeshallthusconsiderKnorrtobeits
+soleauthor.
+Anna M. Vileno and Robert J. Wilkinson - 978-90-04-44342-6
+
+[Page 94]
+chapter 6
+Theological and Exegetical Innovation in Messias
+Puer
+MessiasPuerisamaster-pieceofexegeticcreativityandingenuity.Inessence
+itisaharmonisationoftwoseparatenarrativeswhichhadnotpreviouslybeen
+brought into such a close relationship: the narrative of the Gospel passages
+chronologically ordered and the Lurianic narratives of Creation, the Soul of
+Messiah, Salvation, Reincarnation and his account of the divine Sefirot.The
+readermorefamiliarwiththeGospelnarrativewillnonethelessobservethat
+theapparentlyarbitraryresponsesofthedialogue—promptedbythecontin-
+genciesoftheGospeltext—doinfactcumulativelyevokethemajordoctrines
+ofLuriatoproduceacoherent,integratedandutterlyinnovativeinterpretation
+of thetext.ForfactualcommentontheNewTestament,History,Topography,
+Mannersetc.,Knorrwascontenttoavailhimself of theaccumulatedwisdom
+ofcontemporaryChristianHebraistsandhissustainedengagementwithLight-
+foot gives us a way to measure the rather prosaic banality of this material.
+Butintextualexpositionanddoctrinalmatters,thecaseisquitedifferent.On
+manyoccasionstheapplicationofkabbalisticperspectivesistotallynew,sim-
+plybecausenobodypreviouslyhadsoughttoreadtheNewTestamentinthis
+perspective,norhadanyoneelsediscoveredtheconsequentialdifficultiesand
+opportunitieswhichtheNewTestamenttextreadinthislightprovokedand
+towhichKnorrproposedhisownsolutions.Perhapsanobviouspointmaybe
+madehere:believingandconfessionallycommittedexegetesseetheiractivi-
+tiesasessentiallyanextractionofmeaningsalreadyexistingwithinScripture
+ortheTradition.Tothosewithout,allof thisactivityappearsasacreationof
+meaning rather than the discovery of truths hidden from the foundation of
+the world. From outside, the teachings of the Jewish Kabbalists appear pro-
+foundly creative and Knorr’s innovation in reading the New Testament in a
+Lurianiclightisessentiallyaprolongationof thatsamecreativeexegesis.Nor
+wasKnorr’sreadingconfinedmerelytothepassagesfromtheGospels,which
+aretheostensiblesubjectof thecommentary.Knorr’scopiouscitationsshow
+usclearlyinwhatsensehewishedtoreadalargenumberofpassagesinActs,
+theEpistlesandtheApocalypse.Mostcentraldoctrinalissuesarebroached,
+though, as readers of Adumbratio have noticed, there hardly emerges much
+of a “theologiacrucis”.Yet Knorr does have an account of sin and evil in the
+worldandanelaboratedviewofhowMessiahbringssalvationintheendtoall.
+© koninklijkebrillnv,leiden,2021 | doi:10.1163/9789004443426_007
+Anna M. Vileno and Robert J. Wilkinson - 978-90-04-44342-6
+
+[Page 95]
+72 chapter 6
+AndthatsalvationdoesinvolveMessiah’ssufferingatthehandsofthe“Shells”.
+Messiahdiesandisresurrected.
+Itissalutarytoobservejusthowmulti-dimensionalandintegratedKnorr’s
+readingis.Onoccasiononeof theinterlocutorsmakesacommentandthen
+his remarks are interpreted as a “mystery”1 or as “MysticalTheology”2 which
+provokesapsychologicalreadingofthetext—apropheticmystery,however,is
+morelikelytoinvolvechronographicandprophetictimeperiods.Onoccasion,
+theconversationwillprogresstopracticalspirituallessonsworkedupfromthe
+detailsof thetext,asinthecaseof thelargeexcisionof themeaningsof the
+forty-seven names in Matthew’s genealogy of Jesus.3 Similarly, at the end of
+comment upon Lk 1.38 at folio 18r Knorr turns the people and events of the
+narrativejusttoldintoa“storyoftheconceptionoftheDivineLifeintheSoul”.
+Thereisacoherentsalvificstructurebehindtheseexhortationsand,asonedis-
+coverselsewhereinMessiasPuer,anelaboratedpsychologyofthedisturbances
+ofthe(tri-partite)soulasabasisfor“Christianliving”.4ThoughChristianKab-
+balahasawholemaybeapparentlymoreinterestedintheoreticalratherthan
+ethicalquestions,therecanbenodoubtofMessiasPuer’sorientationtowards
+becomingbehaviour.
+Thedialoguealsodisplaystheintegrationofseveralkeykabbalisticperspec-
+tivesintheinterestofafullaccountoftheGospeltexts.Thecomplexityofthe
+expositiondevotedinJohntheBaptistisremarkable:hisparents’reincarna-
+tionsaretracedandthe“mysterious”(i.e.sefirotic)associationsof hisfather
+Zachariah’sroleandpriestlyfamilyaremadeclearwithrespecttoChokhmah,
+1 Seeforexampleatfolios5r/5vwhereHerodrepresentstheKingdomofHepar,orthelower
+stomach,orEvilDesire.Atfolio6rZachariahandElischeba(afterhavingbeinglinkedtoFoun-
+dationandKingdom)aremadetoteachalessonabouttheacceptibilitytoGodofgenuine
+prayer.Orseefolio18rwhichsimilarlyexpandsonthenamesandplacesinLk1.5–38.
+2 Seeforexampleatfolio15r.
+3 Cf.folios28v–29r.
+4 Similarly,thefirstcontributionoftheChristianPhilosopherinAdumbratioemphasisesthe
+importanceofimitatingthecharacterofMessiah:“Vereorautem,nevelinlimineteabster-
+reatscopusmeus,quieotendit,utnontantuminfinitaDeiergagenushumanumpropensio
+atquebonitasillustretur;sedetiampersonailla,quænobisMessiasdicitur,ejusquevita,quoad
+ejusfieriqueat,exaltetur;necnonsinceraejusdemimitatiocultusqueDeipuruspromoveatur;
+adeoquehypothesisistaomniasublimiorumstudiorum&actuumsectatoribuscommendabilis
+fiat.”(“ButIamafraidlest,evenjustuponthethreshold,mygoalmayfrightenyouaway,which
+aimsnotsomuchtoillustratetheinfiniteinclinationandgoodnessofGodtothehumanrace,
+butrathertoexaltthatpersonagewhowecallMessiahandhislife(totheextentitcouldbe
+his)andalsotopromotethesincereimitationofhimandthepureworshipofGod,sothat
+thishypothesismaybecommendedtothefollowersofallaspectsofmoreloftydutiesand
+actions”.)(Adumbratiokabbalæchristianæ,p.3).
+Anna M. Vileno and Robert J. Wilkinson - 978-90-04-44342-6
+
+[Page 96]
+theological and exegetical innovation in messias puer 73
+Chesed and Hod.We learn of the descent of these Sefirot into “Foundation”
+(Yesod)and“Kingdom”(Malkhut)intheComingof John.Priortohiscoming
+thebarrennessofZachariahandElisabethhadindicatedthelackofholyillumi-
+nationin“Kingdom”(Malkhut)(orEcclesia).John,ofcourse,wasarevolutioof
+ElijahandalsoidentifiedwithSandalphon.Hisbirthinvolvesadivisionofhis
+soulwhichhadnotsunkinthefallofsoulsthroughsin.Thedivisionofhissoul
+helpsusunderstandhowhewasableinheaventoattendhisowncircumcision
+onearth,justas(weshallsubsequentlylearn)Messiahwasabletosupport“all
+things”duringhishumiliationonearth.John’sbirthproclaimslibertyfromthe
+Shells,withenormousrichnessandcomplexity.
+YetKnorrisnottotallywithoutself-inhibitioninhiscommentaryasweshall
+hopetoshow.HeappearsreluctanttomentionbynamekeytermsinLurianic
+Kabbalah,thoughweknowfromelsewherethathewasfamiliarnotonlywith
+the terminology but also the doctrines. Certainly at no point does he offer a
+singlefullyintegratedaccountof Luriaandmanyaspectsof thattraditiongo
+withoutspecificmention.Thisobservationshouldinpartbemitigatedbyan
+appreciationofthesignificanceofthecitationsmadethroughoutthetextand
+itisforthisreasonthatthesehavebeensetoutinfullintheApparatus.Inter-
+pretationofagivenpassageinMessiasPuerrequiresofnecessitythatthecited
+passages be considered. None the less, some topics are not fully explicated.
+Thequestionof thesenseinwhichMessiahisdivineisobviouslyof thevery
+firstimportanceanditisaddressedintwopassagesweshallshortlyconsider.
+Butbriefly:onecanseethewayinwhichKnorraddressestheissueandwhat
+ishiskabbalisticsolution.Butthisispresentedwithoutafullandsystematic
+presentationoftherelevantkabbalisticnotionsanditssignificanceisscarcely
+emphasised. No doubt the genre imposed its restraints and Knorr may have
+soughttosparehisreadersunnecessarydifficulty,butthoughadaringandfun-
+damentallyinnovativework,MessiasPuerbearsonitssurfacetheevidenceof
+Knorr’scircumspectionandprudence.
+Shortofafullexpositionalcommentary,thefootnotestothetranslationare
+designedtoprovidethereaderwithsuchmaterialasisnecessaryfortheunder-
+standingof thetext,thoughthesewillfallshortof exposingallthedoctrinal
+andexegeticalinnovationof MessiasPuer.Wehavethereforeselectedseveral
+themesinthepagesbelowtoillustratesomeofthedistinctivefeatureof Mes-
+siasPuerinthisrespect.Ourintentionhereispurelydescriptive,andoureditio
+princepsdoesnotalsopretendtobeasynthesisedexpositionorevaluationof
+Knorr’stheology.Suchaworkwillrequiremoretimeandreflectionandmore
+scholars.Wehopehowevertobeabletoatleastindicatetheexcitingsignifi-
+canceof MessiasPuerinthisrespect.
+Anna M. Vileno and Robert J. Wilkinson - 978-90-04-44342-6
+
+[Page 97]
+74 chapter 6
+1 TheRevolutionofSouls
+Thedoctrineofthe“RevolutionofSouls”(reincarnation)iscentraltoLurianic
+KabbalahandtoKnorrvonRosenroth.WemeetitinMessiasPuerwithrespect
+to several individuals, but then on a larger chronographical and prophetic
+stage. From the very beginning of the book (folio 5r) and frequently there-
+after, one is referred back to the exposition of the topic in Derevolutionibus
+animaruminKabbalaDenudata.
+This treatise is entirely devoted to the exposition and exegetical applica-
+tion of the doctrine of the revolution of souls, central to Lurianic Kabbalah.
+ThetermcomesfromtheHebrewgilgulandgilgulha-nefeshfromtheinfini-
+tive legalgel “to roll”, “to revolve”, whence the idea of “revolution”. Scholem
+detected the first indication of the doctrine in the Sefer ha-Bahir, although
+the term does not itself appear there. Bahir introduces the concept in the
+context of reflection upon theodicy.5The doctrine also appears after a fash-
+ion in Zohar,6 but is limited there to certain individuals in the context of
+sexual disorders and does not appear as a universal law applicable to every-
+body.
+InthesecondhalfoftheSixteenthCenturythedoctrineofgilgulwasempha-
+sizedbytheLurianicSchoolandcontextualisedwithinafarwiderperspective,
+namely that of the “Restoration of theWorld” which embraced a significant
+messianicdimension.AccordingtothedoctrinedescribedbyHayyimVital,all
+soulswereoncecontainedwithinAdamKadmon,the“PrimordialMan”(whois
+tobedistinguishedfromAdamRishon,the“FirstMan”).The“PrimordialMan”
+istobeunderstoodhereasacosmologicalfigure.Thesuccessiverevolutionsof
+asouldonotdependexclusivelyuponaperson’sowndeeds,butequallyupon
+its“root”,thatistosay,the“root”of thatspecificsoulwithinthecosmicbody
+of AdamKadmon,sinceoriginally,beforebeingincarnatedinahumanbody,
+thesoulhadexistedwithinthebodyofAdamKadmon.Asoulenjoyssolidar-
+itywithothersoulswhichhavetheirorigininthesamepartofAdamKadmon’s
+bodyandwhothussharethesame“root”.Thesoulswhichhadbeendistributed
+throughoutthediverseorgansandlimbsofthePrimordialMan(sothatsome
+weresaidtobefromhisheadorhisfeetetc.)enjoyedgreaterorlesserstatus,
+dependentupontheirplaceoforigin.
+5 Scholem,MajorTrendsinJewishMysticism,op.cit.,pp.280sq.Foradetaileddiscussionofthe
+useoftheLurianictheoryoftherevolutionofsoulsinthecontextofKnorr’smessianicexpec-
+tations,seeA.M.Vileno,“ReincarnationsofMessiah(s):MessianicExpectationsinChristian
+KnorrvonRosenroth’sLastWork”,FrankfurterJudaistischeBeiträge43(2019/20):pp.73–96.
+6 Zoharii,99b.
+Anna M. Vileno and Robert J. Wilkinson - 978-90-04-44342-6
+
+[Page 98]
+theological and exegetical innovation in messias puer 75
+Intheaccountof CreationasimaginedintheLurianictradition,thesinof
+theFirstManejectedthesouls(describedas“sparks”)intothematerialworld,
+theworldof the“shells”.Inthiswayparticlesof bothGoodandEvilbecame
+mixed together and it falls to mankind to make their sparks (i.e. their souls)
+ascend again back towards their Creator by keeping the commandments, so
+that they might separate Good and Evil and purge their souls from the Evil
+contractedbythesinof theFirstMan.Thisisthecontextof the“revolution
+of souls”:thesemultipleincarnationsareoccasionsfortherestorationof the
+soul. In this perspective the revolutioanimarum is not to be considered as a
+punishment,butratherasanopportunityforthereparationofsinspreviously
+committed.Onecanseeclearlyherehowthequestionof theodicywastaken
+upanddevelopedbyLurianicthinkers.Thetransmigrationofthesoulenables
+onetoexplainwhycertainoftherighteousenjoyastateoffelicity,whilstothers
+suffercruelly.
+Furthermore,oneshouldemphasisethatthedoctrineofthetransmigration
+ofsoulsconstitutesapointofdepartureforanewwayofinterpretingthetradi-
+tionaltexts(mainlybutnotexclusively)oftheBible,byemphasisingthelinks
+which exist between characters of different epochs who, by reason of being
+incarnationsofthesamesoul,sharecharacteristicswhichcanbeexplainedin
+nootherway.
+This hermeneutic technique shares points of similarity with traditional
+Christiantypologyanditispreciselyinthiswaythatitisextensivelyexploited
+by Knorr.7The doctrine of the “revolution of the soul” reveals itself as most
+usefultoourChristianKabbalist—inthesensethatitoffershimthekeytoa
+coherentreading—andatthesametimeasvaluablebecauseitderivesfrom
+Jewishtraditionwhichenjoyed,intheeyesofascholarlikeKnorr,anauthor-
+ity undeniably superior to the Greek tradition which also contained similar
+notions.
+Thedoctrineoftherevolutionofsoulsisfundamentaltonumerousexegeti-
+caldevelopmentsinMessiasPuerandisdeployedbothwithrespecttoindivid-
+ualsencounteredintheNewTestamenttext(amongstwhomMessiahoccupies
+a predominant position) and also with respect to groups of people (like the
+Magi or the Holy Innocents of Matthew chapter 2)—and is even used with
+7 Thedoctrineof“therevolutionofsouls”asitappearsinJewishHebrewKabbalahseemsto
+havebeenknowntosomeChristianwritersbeforethediffusionofLurianicKabbalah.There
+isanechointhecircleofCardinalEgidiodaViterbobetween1530and1550.Weknowthat
+Egidiotranslated(orhadtranslated)theSeferha-Bahir.AtroughlythesametimeinFrance,
+GuillaumePostelproducedanannotatedtranslationofSeferha-Bahirinwhichhetookan
+interestinthedoctrineofgilgul.
+Anna M. Vileno and Robert J. Wilkinson - 978-90-04-44342-6
+
+[Page 99]
+76 chapter 6
+respect to events. The notion of the revolution of souls permits a reinforce-
+mentoftheparallelsproposedbymoreclassicaltypology8.Howeverthisisnot
+justanannouncementof NewTestamentfeaturesdetectedintheOldTesta-
+mentonthebasisofsymbolicparallels,buttheassertionofarealontological
+identitybetweenpeoplewholivedatverydifferenttimesfromeachother.
+ThusthecharacteristicssharedincommonbetweenJosephthesonofJacob
+andJosephthespouseof Mary9aretobeexplainedbythefactthatthelatter
+isareincarnationof theformer.Similarlyinthecaseof Marywhoisassimi-
+latedtoEvebytheintermediaryof Miriam,thesisterof Moses.Atfolio15ra
+marginaladditionshowsKnorrinsertingMiriamthesisterofMosesasa“link”
+between the first woman Eve and Mary, the mother of Jesus. Having estab-
+lished that Miriam was a reincarnation of Eve, the characteristics of Miriam
+andMaryarethencompared.Inadditiontothefactthattheyhavethesame
+name,bothofthemreceivedtheHolySpiritandsangacanticle.Moreover,each
+onewasinherownway“afountainof life”10.ThefigureofJohntheBaptistis
+theobjectofparticularattention11,doubtlessonaccountoftheparallel,amply
+exploitedwithintheChristiantradition,betweenJohn’smissionasforerunner
+andthatofElijahdescribedintheSecondBookofKings.MentionofJohnthe
+BaptististheoccasionfortheChristianKabbalisttodistinguishbetweendif-
+ferenttypesof reincarnationaccordingtothepartof thesoulinvolved12and
+toemphasisetheessentialimportanceofthisdoctrine.Inshort:JohntheBap-
+tistwasnotjustsomeonewhosimplyresembledElijah,butwasinfactElijah
+himself.
+8 AsinthecaseoftherelationshipestablishedbetweenEveandMary.
+9 MessiasPuerrecallsthatbothweredescribedaschastemenandbothofthemreceived
+revelationsbywayofadream.Furthermorebothappearasa“nourisher”,oneoftheLand
+ofIsraelandtheother,accordingtoKnorr,asthe“nourisher”ofMary(Cf.folio14v,onLk
+1.27).
+10 “[…]itissaidofMiriam,Moses’sisterthatbyhermediationthemiraculousspringfol-
+lowedtheIsraelitecampandthatafterherdeaththiswaterdriedup(Num20.1–2,Num-
+bersRabbahinitio).Muchmore[thanthis]canbesaidoftheotherMiriam,becauseby
+hermediationtheFountainofSalvationbegantoflowintoEcclesia(Jn7.37;1Cor10.4).
+TheReincarnationofIsaiah’sprophetesswasinterposed[betweenthetwoMariams](Isa
+7.14)andthisiswhy(5)the[Hebrew]wordhʿlmh[virgin]isappliedtoeachofthethree
+ofthemEx2.8;Isa7.14;Mt1.23.”(Cf.folio15ronLk1.27).
+11 Cf.folio9v.
+12 “Accordingtoourteachers,onetypeistheReincarnationofthePsychewhichwecall[in
+Hebrew]Nefesh,another,theReincarnationoftheSpiritor[inHebrew]Ruachand[a
+third],thatoftheMindor[inHebrew]Neshamah.Itappears(toattendalsotoyourown
+textatthesametime)thatinJohn[theBaptist]therewasaReincarnationnotofthesoul
+butofthespiritofElijah(accordingtothewordsoftheAngelinLk1.17).”(Cf.folio9v).
+Anna M. Vileno and Robert J. Wilkinson - 978-90-04-44342-6
+
+[Page 100]
+theological and exegetical innovation in messias puer 77
+Unsurprisingly,wefindthesamedoctrinemoreconsequentiallyassertedin
+thecaseofMessiah.CommentingonMt1.1“SonofDavid”,theKabbalistCate-
+chumenpassesinreviewthebiblicalcharactersofAdam,AbrahamandDavid.
+TodemonstratethesinglechainoftheserevolutionsoftheSoulofMessiah13,
+Knorr appeals to several sources including Zohar andYalqutReuveni.14 Else-
+where,Knorr’screativeexegeticalresponsetotheNewTestamenttextsiswell
+exemplifiedinhistreatmentofthegenealogyofJesuswhich,thoughinformed
+by contemporary discussions, innovates precisely in the introduction of the
+doctrine of the Revolutions of Souls into the set of possible solutions to the
+notoriousexegeticproblemsthere.15ThusJesus,wediscoveratfolio24r,may
+really be Son of Joseph by virtue of his descent from his maternal grandfa-
+ther:
+ChristianIfIwasdealingwithoneoftheunbelieversamongstyourpeo-
+ple,Ishouldbeallowedtoresorttofirstprinciples,namelythat:(1)human
+soulsexistbeforetheyareborn;and(2)theycanbebornseveraltimes.
+That(3)theliteralsenseinScriptureshouldnotbeneglected;onemaybe
+abletopassover[fromit]tomysteries.
+Sowhatwouldbesoabsurd,if IhadsaidthatJosephhadtrulybeen
+thefatherofMessiah;butspecificallyinthesensethathisdaughter,who
+haddiedalittlebefore,wassoonrebornfromHeli(Lk3.23)andwasthus
+betrothedtoJoseph?Forif itcouldhappenthatthose[souls],whohad
+[once]beenspouses,soonbecamesonandmother—whichiswhatthe
+ZoharexpresslyteacheshappenedinthecaseofLeviratemarriage—why
+should it not happen that those [souls] who were father and daughter
+shouldshortlythereafteremergeasspouses?—especiallyontheassump-
+tionoftheperpetualvirginityofMary.
+Andso,tospeakfirstof allspecificallyaboutthethirdgroup[of the
+genealogy],therearefourteengenerations,since[ashasjustbeendemon-
+strated]therewasagenerationbetweenJosephandMary.(2)Specifically,
+also,thistableachievesademonstrationthatJesuswasaSonofDavid[by
+descent]fromhisgrandfatheri.e.Joseph.
+13 Ontheconceptofthe“SoulofMessiah”,seeJ.-P.Brach,“DasTheoremder‘messianischen
+Seele’inderchristlichenKabbalabiszurKabbalaDenudata”,Morgen-Glantz16(2006):
+pp.244–258.
+14 Cf.folios24v/25v.
+15 TheKabbalistCatechumenonMt1.3(folios25v/r)hasanexplanationoftheanomalous
+appearanceofZarainthegenealogyofferedintermsofexpiatoryreincarnation.
+Anna M. Vileno and Robert J. Wilkinson - 978-90-04-44342-6
+
+[Page 101]
+78 chapter 6
+Itgoeswithoutsayingthatthegeneralintentionoftheworkisademonstra-
+tionthattheChristrecognisedbyChristiansistheMessiahtowhomallJewish
+literature—biblical,talmudicoresoteric—alludes.Consequentlythefigureof
+Messiah appears continually throughout the book and we have emphasised
+heretwocaseswherethedoctrineoftherevolutionofsoulswassystematically
+appliedtothequestionof Messiah,firstwithrespecttothefigureof Messiah
+himselfandthenintherigorousanalysisofhisgenealogyasitispresentedin
+theGospels.
+Mention of the Ten Tribes and the massacred Holy Innocents develops a
+more general perspective upon the destiny of groups. This has quite unex-
+pectedconsequencesasinthecaseoftheMagi.CommentonMt2.1findsthem
+tobereincarnationsof JannesandJambresof thesonsof Balaamandgivesa
+plausible account of their souls’ long progress, the prophetic powers of Bal-
+aamandalsotheirownsensitivitytothechallengeof thestar.Astherewere
+(apparently)quiteanumberofthem,itissuggestedthatsomemightberein-
+carnationsofthelapsedkingsofIsraelandJudah.
+ThecaseoftheSlaughteredInnocentsinMt2.17citingtheprophecyofJer
+31.15offersaquiteinnovativeinterpretativeopportunityandKnorr’ssolution
+issurprising.Hereonegroupofindividualsisdestinedtoberebornto,inacer-
+tainway,“diebetter”afterlearningoftheestablishmentoftheNewCovenant.
+Knorrisawareoftheparadoxicalnatureofthistypeofreincarnationandrefers
+thereadertoDerevolutionibusanimarumforfurtherdetails.16
+Beyondthecyclesofrevolutionsofsouls,Knorrfindsevidenceoflargerhis-
+toricalcycleswhicharenotmerelytypologicallysimilar,butinvolvethesame
+soulsinparallelstrugglesagainsttheshards.HestartswiththeSoulofMessiah
+andEgypt.CommentinguponMt2.13,theKabbalistCatechumenasserts:
+JustlikethefirstexileoftheIsraelites(whoseLeaderwasalwaysthesoul
+of Messiah) to Egypt, where according to Hebrew teaching the Shekhi-
+nah was exiled with them.Thus the first exile of Messiah himself is in
+Egypt so that his departure from Egypt might pre-figure the time now
+16 “Accordingtotheteachingsofyoursages,thisfulfillmentcannotbebetterexplainedthan
+bythere-incarnationofthosewhowereoncekilledbytheBabyloniansinthisveryplace
+andthenhadbeenrebornandwerekilledagain.Andsincethesoulsaresoonmorefully
+toberestoredandonaccountofChristhavenowbeentakenfromamongtheliving,it
+isreasonabletobelievethattheywererebornassoonaspossibleandimmediatelyafter
+theestablishmentoftheNewCovenantandthenafterthepouringoutoftheHolySpirit
+wereilluminatedbyitsgiftsandthroughmartyrdomobtainedthefinalconsummation.
+Forsuchreincarnations,seeTractDeRevol.Animarum,p.423,§10.”(Cf.folio49r).
+Anna M. Vileno and Robert J. Wilkinson - 978-90-04-44342-6
+
+[Page 102]
+theological and exegetical innovation in messias puer 79
+present in which the people of Messiah can be lead out from spiritual
+straits(forthisisthemeaningofthewordmçrym[Egypt]).
+Towards the end of this extract Christian calls this “the Revolution of Ages”,
+whichdoctrineassertsthat“whatMessiahdidandsufferedofold,thosesame
+thingsrecurquiteoftenuntiltheFinalFullRestitution”.17
+Thedoctrineof the“revolutionof souls”thustransformstheconventional
+typologyof theGospelsintoanassertionof realcontinuity(of soul)between
+severaldifferenthistoricalpersonsorgroups,oftenwiththesamename.That
+thedoctrineisappliedtoHerodwillcomenowasnosurprise,butitisthen
+developed,afterthefashionof thepreviouspassagewithrespecttotheShell
+ofEdom.18AsuccinctstatementofthecaseisfoundonMt1.16atfolio49r:“As
+EdompersecutedJacob,sothisIdumaean[Herod]willpersecuteChristand
+theDragonEdom(Rev12.3)[Rome][willpersecute]theChristians.”
+Alongerandmoredevelopedpassageonthisthemetobefoundatfolios5r/
+5v displays the notion which is called this time the “Flow of Ages”. It also
+nicelyillustratestherichcomplexityof Knorr’sexegesisasheintegratesvar-
+iousaspectsofLurianicteachinginhisreadingoftheGospeltextandalsohis
+chronographicalandpropheticinterests.KnorrestablishesthatHerodwashis-
+torically,asthesonof Antipater,anEdomite.Theprogressivedominationof
+EdomitesovertheSoulsof theJewishpeople(incorrelationwiththelatter’s
+placeof originwithinthebodyof AdamKadmon)isdescribedthroughtheir
+varioushistoricalexperiences.RometooisshowntohaveEdomiteantecedents
+through Josippon’s tale of Tzepho who disputed the right of primogeniture
+withJosephandhisbrotheratthetombof Jacob.Tzephointimefoundedan
+Edomite colony in Campania and became the first king of Rome.19 Rome is
+identified as Edom in Isa 63.1 and as the Red Dragon in Rev 12.13. Returning
+toHerodhimself,heisshowntobethereincarnationofHadarthelastkingof
+Edom(Gen36.39)asanexampleof the“Hypothesisof Revolutions”whereby
+thereisnothingnewundertheSunand“thosewhoinacertainfatedperiod
+wereoncefamousandnowbelievedtohaveappearedrepeatedlyinthethe-
+atreofthisworld.”A“mystic”meaningmaybeperceivedifwetakeacluefrom
+theZohar:Herodislinked(psychologically)totheKingdomof Heparorthe
+LowerStomachorEvilDesire.Thisexplainshisbehaviourbutalsoidentifies
+himasaprecursorofthemanofsinin2Thess.
+17 Cf.Ibid.
+18 ReferenceisfoundtotheshellsofMoabandEgypt(OnMt1.5“byRuth”)atfolio25v.
+19 TurnusandtheRutuliinAeneidBook7alsoattesttothisEdomiteorigin.
+Anna M. Vileno and Robert J. Wilkinson - 978-90-04-44342-6
+
+[Page 103]
+80 chapter 6
+KnorrcommentshereuponthenameandroleofHerodinLk1.5.Theinter-
+est and originality of his development lies in the blending of individual and
+historicalaccountsbyanapplicationofthedoctrineoftherevolutionofsouls
+togroups.Suchteachingseemstohaveanalogieswithotherkabbalisticteach-
+ingsabouttheshemittottowhichKnorrrefersaseitherthe“RevolutionofAges”
+orthe“FlowofAges”.ItisnoticeablehoweverthatKnorrdoesnotusethisspe-
+cifictermin MessiasPuer,nonethelessanentryisdedicatedtotheconcept
+in his Loci communes kabbalistici. The concept of gilgul spread significantly
+from the second half of the Sixteenth Century onwards, mainly due to the
+popularityoftheKabbalisticschoolofIsaacLuria.Inthiscontext,thetransmi-
+grationofsoulsbecamemuchmorewidespread,flourishinginageneralvision
+oftherestorationoftheworldwhich,accordingtoScholem,includedastrong
+messianic dimension.20The transmigration of the soul thus assumed both a
+collectiveandanindividualdimension,sinceeveryonebecameaparticipant
+intheprocessofgeneralrestoration.
+2 TheLurianicNarrativeoftheShards,theSparksandJeshuahas
+Saviour
+WhenonestudiesacaseofCulturalTransfer21suchasChristianKabbalah,an
+immediatequestionarises:shouldonegiveanaccountoftherelevanttextsas
+theyappearwithintheJewishtradition,orastheyappearinthewritingsofthe
+Christianauthorswhoappropriatedthem?Or,toputitanotherway,shouldone
+emphasisethecontextofthereceptionorthecontextwhencethetransferred
+materialwastaken?22
+20 Scholem,Lemessianismejuif (Paris,1974),pp.97–102.Fortheidentificationofthedoc-
+trineoftheshemittotandKnorr’s“FlowofAges”,seeVileno,“ReincarnationsofMessiah(s):
+MessianicExpectationsinChristianKnorrvonRosenroth’sLastWork”,art.cit.
+21 By“CulturalTransfer”oneunderstandshere:“unmouvementd’objets,personnes,pop-
+ulations,mots,idées,concepts…entredeuxespacesculturels(États,nations,groupes
+ethniques,espaceslinguistiques,airesculturellesetreligieuses).Objetnouveauderecher-
+ches,lathéoriedes‘transfertsculturels’proposed’enanalyserlessupportsetleslogiques.
+Elle s’intéresse à tous les domaines possibles de l’interculturel, du métissage—zones
+frontières entre cultures, langues, systèmes religieux ou politiques”. (“A movement of
+objects,people,populations,words,ideas,concepts…betweentwoculturalspaces(states,
+nations,ethnicgroups,linguisticspaces,culturalandreligiousareas).Anewobjectof
+research,thetheoryof‘culturaltransfers’proposestoanalyzeculturalsupportsandlogics.
+Itisinterestedinallpossibleareasofinterculturality,mixing—frontiersbetweencultures,
+languages,religiousorpoliticalsystems”.)(B.Joyeux-Prunel,“‘Lestransfertsculturels’.Un
+discoursdelaméthode”,Hypothèses1(2002):pp.149–162,p.151).
+22 Ibid,p.153.
+Anna M. Vileno and Robert J. Wilkinson - 978-90-04-44342-6
+
+[Page 104]
+theological and exegetical innovation in messias puer 81
+In the case of Knorr, should one then describe (say) the myth of creation
+asitwaselaboratedintheLurianicschools,orratherchoosethefinalfinished
+productandpresentwhatourChristianHebraisthimselfhastosayaboutitin
+hiswork?Onehasnowishtoimposeanartificiallyabstractdefinitionupon
+thevarietiesof LurianicKabbalah,butitmaynonethelessbehelpfultogive
+belowabrief accountof themainpointsof Luria’sdoctrine.Infactweknow
+thatthevariousepisodeswhichmakeuptheLurianiccreationmythwerewell
+knowntoKnorr23,althoughtheydonotalwaysallappearexplicitlyinMessias
+Puer.
+AnyinvestigationofspecificallyLurianicKabbalahencountersafundamen-
+taldifficulty,whichisthatthereisnotasingleunifiedaccountoftheLurianic
+narrative. Issac Luria—the kabbalist active in the town of Safed in Galilee
+between 1569–1572 who gave his name to the movement—wrote practically
+nothing.Welearnofhisthoughtnecessarilythereforethroughthewritingsof
+hispupils,whoeachpresentapersonalreadingoftheteachingsoftheirmas-
+ter.The difficulty which the Lurianic corpus thus presents is emphasised by
+LawrenceFine:
+Whilewetendtothinkofacreationmythintermsofasingle,coherent
+narrativethatcanbetoldasonedoesasimplestory,Luria’smythologi-
+calteachingshavenotcomedowntousinthisway.Instead,wediscover
+aseeminglyendlessseriesofinordinatelycomplexnotions,presentedin
+oftenfragmentaryandconflictingversionsbymultipleauthorsandedi-
+tors.[…]Notonlydoweencounterconflictsandcontradictionsbetween
+the versionspresentedbydifferentauthors […] but wesometimes also
+findthemoccurringevenamongthedifferentversionspresentedbyasin-
+gleindividual.24
+23 SeveralentriesintheLocicommuneskabbalisticiarespecificallydedicatedtothem:“Adam
+Kadmon” (pp. 28–31); “Tsimtsum” (pp. 665–666); “Kelipot” (pp. 675–676); “Reshimu”
+(pp.693–694);“Sheviratha-kelim”(pp.478–480;698–703);“Tikun”(pp.732–736).
+24 L.Fine,PhysicianoftheSoul,HealeroftheCosmos.IsaacLuriaandhisKabbalisticFel-
+lowship(StanfordUniversityPress,2003),p.124.Scholemsimilarlyevokesthisdiversity
+amongstthemanuscriptsandthefactthatthreedifferentversionsoftheLurianicwrit-
+ingswereputintocirculationbythedisciplesofHayyimVital(Cf.Scholem,SabbataiSevi.
+TheMysticalMessiah1626–1676,op.cit.,p.182).Althoughitisscarcelypossibletogivean
+accountoftheextentofresearchaddressingthemanyfacetsofLurianicKabbalah,the
+followingarefundamentalforaninitialapproach:Scholem,MajorTrends,op.cit.,pp.244–
+286;I.Tishby,TheDoctrineofEvilandoftheShardintheKabbalahofAri(inHebrew)
+(Jerusalem:Magnes,1942);R.Meroz,TheTeachingsofRedemptioninLurianicKabbalah
+(inHebrew)(HebrewUniversityofJerusalem,1988);Ead.,“FaithfulTransmissionVersus
+Innovation:LuriaandHisDisciples”,inGershomScholem’sMajorTrendsinJewishMysti-
+Anna M. Vileno and Robert J. Wilkinson - 978-90-04-44342-6
+
+[Page 105]
+82 chapter 6
+ThenatureoftheHebrewsourceswhichservedasthebasisofKnorr’swork
+remainsafundamentalproblem.25WehavetheSulzbachLibraryCatalogue,in
+asfarasconcernstheworkssubsequentlytransferredtotheBayerischeStaats-
+bibliothekinMunich.Butthislatterisstillinmanuscriptandhasnotyetbeen
+exhaustivelyinvestigated.26
+As we have seen, Lurianic Kabbalah was transmitted in several versions,
+sometimesquitedifferentfromeachother.Thenquestionarisesfromwhich
+branch(s)ofthetraditionKnorrtookhismaterial.TheLocicommuneskabbal-
+isticiareinthisrespectaninvaluablesourceof information.Forincompiling
+them,Knorr,meticulousscholarthathewas,indicatedhissourceattheendof
+each entry in this encyclopaedia.27This permits us to see the sources which
+Knorr knew, in addition to those texts which he translated in extenso in his
+anthology,KabbalaDenudata.28Inthiswaywecanobservethathisexplana-
+tionsoftechnicaltermsinLurianicKabbalaharetakenfromEtsHayyim,“The
+Tree of Life”. The presentation of the Lurianic descent from Adam Kadmon
+is said to be taken from “Ez Chajim Part. Ozaroth Chajim Tract. Adam Kad-
+cism50YearsAfter,ed.byP.Schäfer,J.Dan(Tübingen:MohrSiebeck,1993):pp.257–273;
+M.Idel,“ConcerningtheConceptofTsimtsuminKabbalahandinScholarship”,Mekhkarei
+Yerushalaym10(1992):pp.59–112;Id.,“‘OnefromaTown,TwofromaClan’.TheDiffusionof
+LurianicKabbalaandSabbateanism:ARe-Examination”,JewishHistory7,2(1993):pp.79–
+104;S.Magid,“FromTheosophytoMidrash:LurianicExegesisoftheGardenofEden”,ajs
+Review22,1(1997):pp.37–75;Y.Liebes,“Mythvs.SymbolintheZoharandinLurianicKab-
+balah”,inEssentialPapersonKabbalah,ed.byL.Fine(NewYork:UniversityPress,2000),
+pp.212–241;L.Fine,PhysicianoftheSoulandhisnumerousarticlesontheritualaspect
+ofLurianicKabbalah(mentionedinthebibliographythere:Ibid,pp.454–455);G.Necker,
+Einfürung,op.cit.
+25 Amongtherarearticlesdevotedtothistopic,seeK.Burmistrov,“DiehebräischenQuellen
+derKabbalaDenudata”,Morgen-Glantz12(2002):pp.341–376andE.Morlok,“DeRevolu-
+tionibusAnimaruminderKabbalaDenudataunddessenlurianischeVorlageSeferhaG-
+ilgulimvonChajjimVital(1543–1620)”, Morgen-Glantz24(2014):pp.1–18.OnHerrera’s
+textsinKabbalaDenudata,seeG.Necker,HumanistischeKabbalaimBarock:Lebenund
+WerkdesAbrahamCohendeHerrera(Berlin:DeGruyter,2011):p.11,notes41–42.
+26 WehaveindicatedinfootnotestheworkscitedbyKnorrinMessiasPuerwhich,thanksto
+thecatalogueof1734,weknowwere(then)foundintheSulzbachLibrary.RosmarieZeller
+withtheassistanceofLauraBalbianihasprovidedalistofthecategoriesofclassifica-
+tionintowhichthe4815volumesweredivided.Cf.R.Zeller,“DieKatalogederSulzbacher
+Hofbibliothek”,Morgen-Glantz19(2009):pp.311–392.Thiscataloguefollowedaninitial
+catalogueof1679whichissimilarlyavailable.
+27 ForananalysisofKnorr’slexicographicworkintheLoci,seeA.B.Kilcher,“Lexikographis-
+cheKonstruktionderKabbala.DieLocicommunescabbalistici[sic]derKabbalaDenuda-
+ta”,Morgen-Glantz7(1997):pp.67–125.
+28 Itshouldberemarkedthatnow,throughthemanyworkswhicharecitedinit,Messias
+PueroffersusanewwayofentryintothevastlearningofKnorr.
+Anna M. Vileno and Robert J. Wilkinson - 978-90-04-44342-6
+
+[Page 106]
+theological and exegetical innovation in messias puer 83
+mon”29.Butthisreferenceisnotclear,totheextentthat“OzarothChajim”could
+perhapsdesignateaspecificversionof HayyimVital’swritings,“whichistoa
+largeextentaconciseversionofthehomiliesintheoriginalEzHayyim”30.But
+KnorralsomakesreferenceheretoEtsHayyim.Buttheworkwetodayrecog-
+nise under that title is in fact the product of several reworkings of the text,
+either by HayyimVital himself or his pupils.31 Another not insignificant dif-
+ficultyarises,inadditiontothatof theidentificationof Knorr’ssources.The
+transmission of Lurianic writings into Europe has been the subject of much
+debate since the pioneering workof Gershom Scholem.The Kabbalist Israel
+Sarug,claimingtohaveLuria’steaching,seemstohavebeenresponsibleforthe
+
+---
+
+*Extracted from: Anna M Vileno Robert J Wilkinson Messias Puer_ Christian Knorr von Rosenroths Lost Exegesis of Kabbalistic Christianity BRILL (630 pages)*
+*Figures mentioned: Henry More, Éliphas Lévi*
+*Concepts mentioned: Emanation, Correspondence*

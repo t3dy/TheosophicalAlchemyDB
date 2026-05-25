@@ -1,0 +1,103 @@
+---
+source: DE TRIBUS PRINCIPIIS, Oder Beschreibung Der Drey Principien Gttliches Wesens: Of the Three Principles of Divine Being, 1619, by Jacob Boehme
+source_category: Western Esotericism
+author: Weeks, Andrew;Penman, Leigh;
+total_pages: 876
+section: preface 59
+section_number: 31
+date_processed: 2026-05-25T14:37:17.813630
+figures_mentioned: Jacob Böhme, Paracelsus
+concepts_mentioned: Tincture, Regeneration, Enlightenment
+---
+
+# DE TRIBUS PRINCIPIIS, Oder Beschreibung Der Drey Principien Gttliches Wesens: Of the Three Principles of Divine Being, 1619, by Jacob Boehme
+
+## Section: preface 59
+
+preface 59
+ofGod,butareratherherdedaboutlikedumbcattle,regardingourselvesand
+thecreationofGodasacowcontemplatesabarndoor;andweresistGodand
+hiswill,abidinginopposition,causingtheruinofbody,soul,andGod’snoble
+creature.Inwhatdreadfulfearsomedarknessdowefallifwefailtoknowour-
+selves,toknowwhatweare,ofwhichsubstanceandofwhatdignity;whether
+weareeternalormortalwiththebody;andwhetherwewouldrenderaccount
+forwhatwedoandare,afterhavingbeenmademastersof allcreaturesthat
+aresubjecttoourpowerandoperation.
+Sincewecannotbutsee,know,andrecognizethatGodwantsustoaccount 6
+forallthatwedoandforhowweexercisestewardshipofhiscreatures(Lk16:2);
+andsince,whenwedeviatefromhiscommands,hepunishesusdreadfully(we
+seefrightfulexamplesofthisfromthebeginningoftheworldinJews,heathens,
+and|Christians,aboveallintheFlood,SodomandGomorrah,andinPharaoh 4
+andIsrael’sdwellinginthedesert,andmuchthereafterdowntothepresent
+day);therefore,inlightofallthis,nothingismorenecessarythanthatwelearn
+wisdomandgettoknowourselves,toknowwhatgreatvirtueisinus,andwhat
+horridwolvesareamongus,inoppositiontoGodandhiswill.
+Fornohumanbeingisexcusedbyignorance,muchlesssinceGod’swillis 7
+inscribedinourmindssothatweallknowwhatitisthatwearetodo.5More-
+over,allcreaturescompelus,sincewehaveGod’slawasacommandment.Thus
+thereisnoexcusebutoursomnolent,lazyneglectforwhichwearetobejudged
+asindolent,uselessservantsinthevineyardoftheLord.
+Henceweareinthedirestneedofself-knowledge,forthedevilabideswith 8
+usinthisworld.HeisGod’senemyandours,seducingandtrickingusevery
+daytotakeleaveof GodourFather,ashedid(withourfirstparents)inorder
+tomultiplyhisrealmandcheatusoutofoureternalsalvation,asitiswritten
+(1Pt5:8):he(yourenemythedevil)goesaroundlikearoaringlionlookingfor
+someonetodevour.
+Wehoverinsuchdreadfuldangerinthisworldsurroundedonallsidesby 9
+enemieswhileonourperilouspilgrimage,andbearingtheworstenemyofall
+5 Romans2:15ascribesinnateknowledgeofthedivinewillnottothemindbuttotheheart,
+thoughthemeaningismuchthesame:“Theyshowthatwhatthelawrequiresiswrittenon
+theirhearts,towhichtheirownconsciencealsobearswitness.”(Luther:“siebeweisen/des
+Gesetzeswerckseybeschriebeninjremhertzen/SintemaljrGewissensiebezeuget.”)
+
+[Page 71]
+60 vorrede
+(tragen)adenwirverdecken,undnichtwollenkennenlernen;(welcherdoch
+derallerschädlichsteGastist,undunsinGOttesZornstürtzet;jaeristselber
+derZornGOttes,derunsstürtzetindasewigeZorn-Feur,indieewigunerlö-
+schliche Pein.)b So ists ja gar nöthig, daß wir denselben Feind (wol)c lernen
+kennen,wasersey,wererseyundwieersey;wieerinunskommeundwas
+seinRechtundEigenthuminunssey,sowoldesTeufelsRechtundZugangin
+uns;wiederselbemitunsermeigenenFeinde,derinunswohnet,befreundet
+ist;wiesieeinandergünstigundholdsind;wiesiebeydeGOttesFeindesind,
+undunsimmernachstellen,unszuverderbenundzuermorden.
+10
+Ferneristunszubetrachten,unddunsselbstlernenzu|kennen,garhoch-
+5
+nöthig,ausdengrossenUrsachen,dieweilwirsehenundwissen,daßwirum
+unserseigenenFeindeswillen(derGOttesundunserFeindist,derinunswoh-
+net, ja der halbe Mensch selbst ist)e müssen sterben und verwesen; und so
+derselbeinunsmächtigwird,daßerOberhandkriegetundPrimaswird,stürt-
+zeterunsinAbgrundzuallenTeufeln,beydenenewigzuwohneninewiger
+unerlöschlicherQuaalundPein,jainewigeFinsterniß,ineinHausdesWustes,
+indieewigeVergessungallesGuten,indenWiderwillenGOttes,daßunsGOtt
+undalleCreaturenewiganfeinden.
+11 Noch viel höhere Ursachen haben wir, daß wir uns lernen selber kennen,
+wiewirsindinGutemundBösen,indemwirdieVerheissunghabendesewi-
+genLebens,daßsowirunserneigenenFeindsamtdemTeufelüberwinden,wir
+sollenGOttesKinderseyn,undinseinemReichebeyIhme,undinIhmebeysei-
+nenheiligenEngeleninewigerFreude,Klarheit,HerrlichkeitundWolthunin
+HoldundSanftmuth,ohneeinigeBerührungedesBösen,auchohneeinigeErk-
+entnißdesBöseninGOttewigleben.DazuhabenwirdieVerheissung,daßso
+wirunsernFeindhabenüberwunden,undindieErdeverscharret,wirineinem
+neuenLeibe,inwelchemkeineQuaalseynwird,amJüngstenTagewiedersol-
+len herfürgehen, und mit GOtt ewig leben in vollkömmlicher Liebe, Freude,
+WonneundSeligkeit.
+12 AuchsohabenwirdieErkentnißundWissenschaft,daßwirinunshabendie
+vernünftigeSeele,welcheinGOttesLiebeist,welcheunsterblichist:undsosie
+vonihremGegensatznichtüberwundenwird,sondernkämpfetwiederihren
+aB4rmissing,“haben”standswithoutparen.;P17insertedaboveline;SXIIvhabenonly;1682
+“haben”ismissing. bB4vsic,noparen.;P17sic,noparen.(“deruns…stürzet”);SXIIv–XIIIrsic,
+noparen.;1682sic,noparen. cB4vmissing;P18,sic,noparen.;SXIIIrmissing;1682sic. dB4v
+“und”missing;P18(withinasuperscribedcorrectionthatdoesn’tfullymatch1730:“vnszube-
+trachtten,vnßselbst…kennenzulernenhochnöttig”);SXIIIr“uns”missing;1682sic,noparen.
+eB4vsic,noparen.;P18sic,inparen.;SXIIIrsic,paren.added;SXIIIrsic,paren.added;1682sic,
+inparen.
+
+[Page 72]
+
+---
+
+*Extracted from: DE TRIBUS PRINCIPIIS, Oder Beschreibung Der Drey Principien Gttliches Wesens: Of the Three Principles of Divine Being, 1619, by Jacob Boehme (876 pages)*
+*Figures mentioned: Jacob Böhme, Paracelsus*
+*Concepts mentioned: Tincture, Regeneration, Enlightenment*

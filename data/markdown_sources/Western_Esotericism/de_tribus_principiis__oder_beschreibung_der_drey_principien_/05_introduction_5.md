@@ -1,0 +1,105 @@
+---
+source: DE TRIBUS PRINCIPIIS, Oder Beschreibung Der Drey Principien Gttliches Wesens: Of the Three Principles of Divine Being, 1619, by Jacob Boehme
+source_category: Western Esotericism
+author: Weeks, Andrew;Penman, Leigh;
+total_pages: 876
+section: introduction 5
+section_number: 5
+date_processed: 2026-05-25T14:37:17.804158
+figures_mentioned: Jacob Böhme, Paracelsus
+concepts_mentioned: Tincture, Regeneration, Enlightenment
+---
+
+# DE TRIBUS PRINCIPIIS, Oder Beschreibung Der Drey Principien Gttliches Wesens: Of the Three Principles of Divine Being, 1619, by Jacob Boehme
+
+## Section: introduction 5
+
+introduction 5
+wemightcalla“theoryof everything.”Everythingof concerntohimisincor-
+poratedintohisnarrativeofaprocessbothnaturalandspiritual,bothhuman
+anddivine.
+SinceBoehme’saccountcanvaryindetail,itisbestretoldinageneralized
+form.Inthedepthsofnothingness,aprimal“tart”darknesscravestheunattain-
+ablelightwhichshinesintoit.Sincethecravinghasnothingtoseizeholdof,
+thedarknesscontractsinonitself,therebygeneratingsomethingoutofnoth-
+ing.Likeahungrystomach,thecontractioncausesapangof bitterness.Out
+offearandfrustration,theobjectlesscontractionissuesinarevolvingmotion.
+FrictionthenresultsinheatandaterrifyingflashorSchrack.Asifbychemical
+transformation, the light softens the contracted material and yields a sweet,
+refreshingwater.Thefinalstagesof thissublimationarelove,emittedsound,
+andaconsolidationormultiplicationof thebeingthatistherebycreatedor
+transformed,bornorreborn.
+Boehme’snarrativeoftheuniversalprocesscontainsmotivesofthemechan-
+ical (contraction, consolidation, friction, ignition) and chemical causation
+(transformationfrombittertosweetbyheatorlightwithwaterasaby-prod-
+uct),aswellasplanetaryastrologyandalchemicaltransmutation.Thestages
+areassociatedwiththesenses,includingsmellsandtastes.Thesequencesug-
+gestsbirth,growth,andtheemergenceofconsciousness.Itblursthedistinction
+between the physical and the mental or spiritual.The impregnating force of
+desire,theshrinkinginoffear,theentrapmentoffrustration,theshockofthe
+fieryflash,andtheoutburstofjoyandfulfillmentarefeelingsaswellasforces,
+spiritualaswellasmaterial.Thesequencealludestoconsciousnessorenlight-
+enmentasanemergencefromdarkness;torebirthasatransformationbyvirtue
+oflight;andtotheeternalbirthoftheheartasaself-actualizationofGod.The
+narrativeshiftsfrommotifsof theFatherandSontointimationsof theHoly
+Spirit,sothatthethreeprinciplescorrespondprovocativelytothepersonsof
+theTrinity.Thelightworldhasaclearrelationtothe“heart”orSonofGod.More
+controversially,thefirstprincipleordarkworldisidentifiedwiththeFatheras
+revealedintheangryGodoftheOldTestament(II4:44).Thedivineaspectof
+thethirdprincipleharborsathematicallyundevelopedkinshipwiththeHoly
+Spirit.Thelife-renewingforceofthefallenworldconsistsofthesource-spirits
+thatgeneratenatureinAurora.
+To make sense of the principles and their process, we need to keep their
+frames of reference separate while bearing in mind that they also coincide.
+Conceivedspatially,theyareaconvolutionofworlds.Conceivedsequentially,
+theyarephasesinanevolutionfromdarkness,anger,andblindnesstolight,
+gentleness,andenlightenment.Theuniversalprocessallowsthehiddeneter-
+nalbeingof thedeitytorevealitself intimebyproceedingfromdarknessto
+
+[Page 17]
+6 introduction
+light.Boehme’sstrategyandconvictionasanauthor,aswellastheopacityand
+redundancyof hisexpression,deriveinnosmallmeasurefromhisconstrual
+oftheprinciplesandtheirprocessineverysphereofbeing,whetherinnature,
+humanlife,psychology,biblicalhistory,ortheology.Theuniversalityofthepat-
+ternandprocessreconfirmstheubiquityandomnipotenceofGod.
+4 PredestinationandtheProblemofEvil
+Divine ubiquity and omnipotence also condition two questions that engage
+Boehmefromthebeginningandwhichhetreatsascorrelative.Howcanwe
+accountforevilifGodisomnipotentandgood?AnddoestheomnipotentGod
+chosesomesoulsforgraceandothersfordamnation?SinceGodisall-powerful
+andthecreatorofall,therearisesanimplicationwhichBoehmeassociateswith
+Calvinism:aGodwhoenactsan“electionof grace”isanexecutionerof souls
+andaninitiatorofevil.Boehme’sawarenessofthisimplicationconstituteshis
+iterationof theproblemof evil.Theexistenceof aCreatorbothomnipotent
+andgoodseemsincompatiblewiththeexistenceofevilinthecreation.
+Wecanhardlydisdainthelayauthor if hissolution tothistimeless prob-
+lemisinadequate.WhyshouldweexpecthimtosucceedwhenSaintThomas
+AquinasandthephilosopherGottfriedWilhelmLeibnizfailedtoresolvethe
+sameproblemtouniversalsatisfaction,despitehavingfargreaterresourcesof
+learning at their disposal? Like them, Boehme proposes a solution which is
+imaginativeandintellectuallystimulating.Heproposesthatevilarisesdevel-
+opmentally.Whenthespirittransgressesitsproperpathofdevelopment,per-
+verting the eternal process that evolves toward the light, the spirit regresses
+intodarknessandremainsthereforever.Thedevilisapervertedversionofthe
+divinebeing.Godisinallthings,butnotalwaysinthemodeof divinity.The
+eternalprocessbywhichGodeternallybecomesGodisreversedbythedevil
+orfalsehumanbeinginanactof disobedienceorusurpationempoweredby
+freewill.
+Theadvantageof equatingallthingsdivine,natural,andhumanwiththe
+principlesisobvious.Boehmecandiscussgoodandevilwithoutallowingthat
+God is, or creates, evil. The terminology of the principles, together with the
+mentalcomplexitiesofalchemyandnaturetheory,offersamodeofspeaking
+about good and evil which does not dichotomize all things and creatures in
+termsof staticessences.Intheevolutionof achemicalprocessortheforma-
+tionofhumancharacter,whatcomesintobeinggoodmayyetberuined.What
+isruinedorbadcannonethelessbepurifiedandtransformed.Entitiescanbe
+transmutedandcreaturesreborn.
+
+[Page 18]
+
+---
+
+*Extracted from: DE TRIBUS PRINCIPIIS, Oder Beschreibung Der Drey Principien Gttliches Wesens: Of the Three Principles of Divine Being, 1619, by Jacob Boehme (876 pages)*
+*Figures mentioned: Jacob Böhme, Paracelsus*
+*Concepts mentioned: Tincture, Regeneration, Enlightenment*

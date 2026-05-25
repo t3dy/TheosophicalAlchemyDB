@@ -1,0 +1,115 @@
+---
+source: Anna M Vileno Robert J Wilkinson Messias Puer_ Christian Knorr von Rosenroths Lost Exegesis of Kabbalistic Christianity BRILL
+source_category: Western Esotericism
+author: Unknown
+total_pages: 630
+section: preface xv
+section_number: 5
+date_processed: 2026-05-25T14:38:22.999736
+figures_mentioned: Henry More, Éliphas Lévi
+concepts_mentioned: Emanation, Correspondence
+---
+
+# Anna M Vileno Robert J Wilkinson Messias Puer_ Christian Knorr von Rosenroths Lost Exegesis of Kabbalistic Christianity BRILL
+
+## Section: preface xv
+
+preface xv
+practiceinreadingtheextractsof theZoharpublishedinthesecondvolume
+of the anthology which give a vocalised text in the same Hebrew characters
+oppositeaLatintranslationandaccompaniedbycommentaries.Theexercise
+ofreadingtheSyriacNewTestamentinsquareHebrewtypetogetherwiththe
+KabbalisticlexiconwhichistheLoci,shouldenablethereadertoapproachthe
+textoftheZoharwithoutdifficulty.24AZoharicreadingoftheNewTestament
+thusbecomesattainable.
+The second volume of the Kabbala Denudata begins with a long preface
+inwhichKnorr,basinghimself onauthenticidentifiabletextualsources,sets
+outthehistoryofthecollectionof theZohar,asitisreportedinJewishtradi-
+tion.Undoubtedlyhavinghimselfaninterestinthequestion,Knorrdefended
+the antiquity of the Zohar.25 Indeed to trace the Zohar back to Simon bar
+Yochaiastraditiondemands,entailsplacingitclosetothetimeofJesus.26Itis
+thenfareasiertoclaimthattheZoharcontainsChristiantruths.Theprincipal
+24 “Siquemabsterreatdifficultassivestyli,sivemateriæhocinoperepropositæ,issciat,in
+TomosecundoKabbalæDenudatæcertosexhiberiinusumhujusExercitiigradus.Textus
+enimLibrorumquivocanturSiphradeZeniutha:Idrarabba,&Idrasuta,quæsuntCom-
+pendiatotiusKabbalæ,ibidemproponunturpunctati,&inSectionesatqueparagraphos
+dissecti,unàcumVersione&Commentariis.TresautemTractatusinitialeslibriSoharEdi-
+tionisMantuanæibidempariterproponuntur,sedcumversionetantùm&Commentario.
+Inquibussipaululumquisfueritexercitatus;(præsertimsiNovumTestamentumSyriacum
+literisHebraicisimpressumfrequenterinsimulperlegatur;)Opushocipsumnonpunctatum
+sineversione,facilèintelliget;cumpotissimumnecCommentariodestituatur:&inTomo
+primoKabbalæDenudatæLexiconetiamaliqualeadmanushabeat,cumadminiculisnec-
+essariisaliis.”(“Anyonewhoisrepelledbythedifficultyof thestyleorof thematerial
+containedinthisworkshouldknowthatinthesecondvolumeof KabbalaDenudata
+therearetextsprovidedtobeusedasprogressiveexercises.Thetextofthebooksenti-
+tledSiphradeZeniutha,IdraRabbaandIdraSuta—whichconstituteasummaryofthe
+wholeKabbalah—isgivenwithvocalisation,dividedintoparagraphsandaccompanied
+byatranslationandcommentary.ThefirstthreetractatesoftheZoharintheMantuan
+editionaresimilarlyprovidedwithatranslationandcommentary.Ifonepracticesalittle
+withthesetexts(andespeciallyifoneatthesametimeregularlyreadstheNewTesta-
+mentprintedinHebrewLetters),onewillveryeasilycometotermswiththisworkwhich
+isneithervocalisednorfurnishedwithatranslation—thoughisstillprovidedwithacom-
+mentary.FinallythereadershouldhavetohandtheLexiconfoundinthefirstvolumeof
+KabbalaDenudata,whichoffersothernecessaryassistance.”)(C.KnorrvonRosenroth,
+“Lectoribenevolosalutem!”inLiberSohar(Sulzbach:1684),withoutpagination).
+25 Thistraditionaldate,adoptedbyKnorr,isinconflictwithboththehistoricalfactsand
+currentphilology.TheseplacetheredactionoftheZoharattheendoftheThirteenth
+CenturyinSpain,whilstthetraditionalviewattributesittoSimonbarYochai,asecond-
+centuryscholar,wholivedinPalestine.
+26 ThetitlepageofthesecondvolumeofKabbalaDenudataof1684describestheAramaicof
+theZoharaswritten“inspecieIdiomatisTerræIsraëliticætemporeChristi&Apostolorum
+usitati”(C.KnorrvonRosenroth,KabbalaDenudataii,(Frankfurt,1684)).
+Anna M. Vileno and Robert J. Wilkinson - 978-90-04-44342-6
+
+[Page 17]
+xvi preface
+objectremainshowevertorendertheZoharaccessibletoLatinreaders,though
+Knorr’sapologeticconcernsareparticularlyclearinthisyearof1684.However
+in addition to Adumbratio kabbalæ christianæ already mentioned, Christian
+KnorrvonRosenrothwasalsotheauthorofaworkentitledMessiasPuer,which
+nowwiththiseditioncanbeseentorepresentthefinaloutcomeofhisKabbal-
+isticstudiesfromaChristianperspective.
+TheworkofChristianKnorrvonRosenrothenjoyedawideandlong-lasting
+reception.Hiskabbalisticanthologyremained,untiltheendoftheNineteenth
+Centurytheprincipalifnottheonlyonesourcethroughwhichreaderscould
+access kabbalistic studies without mastering the Hebrew language. Major
+scholarsandintellectualpersonalitiessuchasAdolpheFranck,HeinrichGraetz
+orPaulVulliaudquotedKnorrextensivelyuntiltheverybeginningoftheTwen-
+tiethCentury.27Moststrikingly,standingbothinthetraditionestablishedby
+earlierChristianKabbalahandalsorepresentingitslastmostsignificantmon-
+ument, Knorr’s work was responsible for taking Kabbalah out of the field of
+theJewishStudiesandintroducingitintothelargerfieldof ModernEsoteri-
+cismandOccultism.28ThekabbalisticlibraryofferedbyKnorr,eventhoughit
+oftenremained,sotospeak,anunknownquantityunderawell-knowntitle,
+enjoyed such a wide fame that it progressively assumed a kind of mythical
+status itself. Beyond its historical and philological contribution in spreading
+kabbalistictextsthroughawideEuropeanreadership,theKabbalaDenudata
+alsobegantofunctionasakindof “warrantycertificate”underthevalidation
+ofwhichallkindofmagicalandesoterictextscirculated.29
+27 Cf. A. Franck, La kabbale ou la philosophie religieuse des Hébreux (Geneva and Paris:
+Slatkine,1981[18431]):pp.137,256;H.Graetz,GeschichtederJudenvondenältestenZeiten
+bisaufdieGegenwart.AusdenQuellenneuBearb(Leipzig:O.Leiner,1897):vol.10,p.267;
+P.Vulliaud,TraductionintégraleduSiphradi-tzeniutha(Paris:E.Nourry,1930),withaPref-
+aceofJeandePauly.OnVuillaud,seefurther:J.-P.Brach,“PaulVuillaud(1875–1950)and
+JewishKabbalah”KabbalahandModernityeditedbyB.Huss,M.PasiandK.VonStuckrad
+(Leiden,Brill2010):pp.129–149.
+28 Tosuchanextentthat,accordingtoAndreasB.Kilcher,the“historyofthefoundationof
+ModernOccultismisinfactthehistoryoftheKabbalaDenudata’sreceptionintoEso-
+teric Freemasonry during the last third of the Nineteenth Century and the first third
+oftheTwentiethCentury”(“VerhüllungundEnthüllungdesGeheimnisses.DieKabbala
+DenudataimOkkultismusderModerne”,Morgen-Glantz16(2006):pp.343–383,pp.361–
+362).ThebriefsummaryofthisreceptionasreportedhereispartiallybasedonKilcher’s
+study.SeealsoB.Roling,“ErlösungImAngelischenMakrokosmos.EmanuelSwedenborg,
+Die KabbalaDenudataUndDieSchwedischeOrientalistik”, Morgen-Glantz,16(2006):
+pp.385–457.
+29 Ibid,pp.343–348.SeealsoE.Asprem,“KabbalahRecreata:ReceptionandAdaptationof
+KabbalahinModernOccultism”ThePomegranate9/2(2007):pp.132–153.
+Anna M. Vileno and Robert J. Wilkinson - 978-90-04-44342-6
+
+[Page 18]
+
+---
+
+*Extracted from: Anna M Vileno Robert J Wilkinson Messias Puer_ Christian Knorr von Rosenroths Lost Exegesis of Kabbalistic Christianity BRILL (630 pages)*
+*Figures mentioned: Henry More, Éliphas Lévi*
+*Concepts mentioned: Emanation, Correspondence*

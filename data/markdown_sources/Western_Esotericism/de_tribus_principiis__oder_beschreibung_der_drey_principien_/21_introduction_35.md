@@ -1,0 +1,108 @@
+---
+source: DE TRIBUS PRINCIPIIS, Oder Beschreibung Der Drey Principien Gttliches Wesens: Of the Three Principles of Divine Being, 1619, by Jacob Boehme
+source_category: Western Esotericism
+author: Weeks, Andrew;Penman, Leigh;
+total_pages: 876
+section: introduction 35
+section_number: 21
+date_processed: 2026-05-25T14:37:17.810115
+figures_mentioned: Jacob Böhme, Paracelsus
+concepts_mentioned: Tincture, Regeneration, Enlightenment
+---
+
+# DE TRIBUS PRINCIPIIS, Oder Beschreibung Der Drey Principien Gttliches Wesens: Of the Three Principles of Divine Being, 1619, by Jacob Boehme
+
+## Section: introduction 35
+
+introduction 35
+elements,thehumanbeing,andthesoul.Thehumanbeingiscalled“Mensch”
+becausehisconstitutionisthatof a“mixedperson”(17:16).Sinceheisnotall
+ofapiece,thespiritoftheworldassailshisdividedbeinginordertogetatand
+possessthevirginofwisdom.ThisiswhatoccasionsGodtocommandhimnot
+toeatofthetreeoftheknowledgeofgoodandevilinwhichdeathabides.Adam
+mustavoidthefatalworldlyinfectiontowhichhismixedconstitutionrenders
+himsusceptible.Thetreeof temptationwasworldlyandearthlylikealltrees
+sincethattime.
+Wealreadyknowthatthefallwasnotjustamatterofeatingforbiddenfruit.
+Self-knowledge,theauthordeclares,sufficestounderstandthefall.Thequali-
+tiesofthefallenarerecognizedinthecreaturesofanangryandarrogantage:
+“in arrogance and hubris, in selfish power and pomp, in greed and mendac-
+ity, in falsehood and betrayal, and finally in disease and destruction” (17:42).
+Reflectionsof greatabstractionareinterpolatedintothesimplebiblicalnar-
+rative,asif thereader’sadherencetoanincorporealspiritweretobetested.
+AslongasAdamwasabsorbedintheheartof God,thethirdprinciplecould
+not touch him.To remain so forever was beyond his powers.The virgin fled
+intimacywithhim.GodanticipatedtheoutcomeandcreatedawifeforAdam.
+Thoughhisweaknesssetthedeclineinmotion,hereatingandpersuadinghim
+todolikewisedrovetheirdownfalltoitsconclusion.Hellcapturedthesoul.The
+spiritofthisworldtookthebody.Humanbeingscameundertheswayof“the
+princeof thisworld,”an“executioner”whocarriesoutsentencesforahigher
+judge(17:68).
+Boehme characterizes the fall in terms his contemporaries might have
+related to themselves: “The stars are the counsel and God the king in the
+domain.WhoeverfallsawayfromGodcomesunderthecounselof thestars.
+Theycomewithmanyaswordtodestroyone,andwithmanyanooseorexe-
+cutionbywater”(17:69).Sincethehumanconditionhasbeendefinedasoneof
+perpetualexileandthreatenedcaptivity,sincanmeancompromisingwithor
+surrenderingtothealienworldinwhichweareexiled:“Foryouleadanearthly
+mindintothegatesof thedepthwherethespiritof Godholdsswayundyou
+desecratetheelementthatstandsbeforeGod”(17:78).Godisomnipresent,but
+so is the threat of betrayal and contamination. Boehme reads Genesis 3:7—
+therecognitionbythehumanpairthattheyarenaked—asproofthathuman
+beingswerenotcreatedwithabestialbody.Thefallenhumansoulwasaltered
+andabsorbedintotheelementofthisworld.Thebodywastransformed.
+CalledtoaccountbyGod,AdamandEvebothattempttoshifttheblame.
+Thoughthedevilseemspoisedtocelebrateultimatevictory,asubtleinterpre-
+tationof Genesis3:15allowstheauthortodiscernarayof hope:thewoman’s
+offspringwillbetheenemyof theserpentandcrushitsheadunderfoot.The
+
+[Page 47]
+36 introduction
+“offspring”ofthewomanisChristwhowillcrushthedevilforalltime.Thisisa
+secretconcealedfromthedevilandunknowntomostpeople,butwhichwillbe
+mademanifesttorevealthefullnessofdivinemercy.Thischapterdedicatedto
+thetragedyofthefallendswiththeimminenceofsalvation.Itconcludeswith
+theseven“strongarticlesoftheChristianfaith.”
+ChapterEighteen.Thischapternominallydevotedto“thepromisedseedof
+thewomanandtheserpent-crusherandtheexitof AdamandEvefrompar-
+adiseortheGardenofEden”followsaperpendiculartrajectoryintothenight-
+marish historical terrain in which Boehme was presently writing. Adam and
+Eve’sexitfromparadiseandGod’scurseupontheearthconformtothesense
+ofperilandabandonmentasthepolitical-confessionalsystemshowssignsof
+collapse.Theserpent-crusheristhesecretlypresentSavior.Thereadermight
+wonderwhysuchacentraltenetofallChristianityneedstobevestedinmys-
+terioussymbolism.Thematterof Christ’somnipresenceandthequestionof
+hisbirththroughMaryandof herdivineorhumanstatusledthereaderinto
+treacherous terrain overshadowed by politically mobilized confessions and
+subvertedbycovertvoicesofdissentofwhichtheRosicrucianspecterhaunt-
+ingBoehme’stimewasonlythemostprominent.Underthesecircumstances,
+seeminglyarcanedoctrinalissuescouldbecomeexplosiveandthereforecalled
+forsymbolicdistancing.
+Theexilefromparadiseanddesolationof theworldlendsitself toanalle-
+goricalapplicationtothepresentmoment:“Forthehumanbeinghasbecome
+awolf,andtohimtheyarelikelions;andoneissetagainsttheother”(18:9).The
+“wolf”maydesignatethepresumedravenousaggressionofmilitantCalvinism.
+The “lions” are heraldic emblems of kingship, referring to the major powers
+withapoliticalinterestintheBohemiancrisis.The“fox”(18:109)presumably
+representsanopportunistictendencywhichhopestoridethecoattailsofthe
+majoractors.Theauthormustdistinguishtheangerandrevengethatpertain
+to the first principle, insisting that God resides in the second. The strain of
+maintainingthedistinctionimposesanalmostmanichaeanorgnosticaspect
+in Boehme’s vision that becomes more dichotomous as the crisis intensifies
+(seeW157–159,175–176).
+Thekeytothe“serpentcrusher”liesinthesublimematterofChrist’shuman
+genesis:tograspit,onemusttreadafinelinebetweenatoohumanversionof
+Christandatooremoteconceptof thedivinity.Boehme’saccountof Mary’s
+pregnancyandthehumangestationoftheSonofGodinducesacomplexand
+seemingly ethereal swarm of symbols and abstractions, suited for dismaying
+the modern reader.The prose is stylistically tortured; but there is a point to
+the verbal labyrinths of concatenation, regression, and encapsulation. They
+acknowledgethecomplexityofapoliticizedreligiousdiscourse,whileremind-
+
+[Page 48]
+
+---
+
+*Extracted from: DE TRIBUS PRINCIPIIS, Oder Beschreibung Der Drey Principien Gttliches Wesens: Of the Three Principles of Divine Being, 1619, by Jacob Boehme (876 pages)*
+*Figures mentioned: Jacob Böhme, Paracelsus*
+*Concepts mentioned: Tincture, Regeneration, Enlightenment*

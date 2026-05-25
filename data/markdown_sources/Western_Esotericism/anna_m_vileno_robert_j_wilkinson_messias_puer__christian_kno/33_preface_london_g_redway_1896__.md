@@ -1,0 +1,1418 @@
+---
+source: Anna M Vileno Robert J Wilkinson Messias Puer_ Christian Knorr von Rosenroths Lost Exegesis of Kabbalistic Christianity BRILL
+source_category: Western Esotericism
+author: Unknown
+total_pages: 630
+section: Preface(London:G.Redway,1896).
+section_number: 33
+date_processed: 2026-05-25T14:38:23.021879
+figures_mentioned: Henry More, Éliphas Lévi
+concepts_mentioned: Emanation, Correspondence
+---
+
+# Anna M Vileno Robert J Wilkinson Messias Puer_ Christian Knorr von Rosenroths Lost Exegesis of Kabbalistic Christianity BRILL
+
+## Section: Preface(London:G.Redway,1896).
+
+Preface(London:G.Redway,1896).
+Walker,DavidPickering,TheDeclineofHell:Seventeenth-centuryDiscussionsofEternal
+Torment(Chicago:UniversityofChicagoPress,1964).
+Walton,MichaelT.,AnthoniusMargarithaandtheJewishFaith:JewishLifeandConver-
+sioninSixteenthCenturyGermany(Detroit:WayneStateUniversity,2012).
+Wappmann,Volker,DurchbruchzurToleranz:dieReligionspolitikdesPfalzgrafenChris-
+tianAugustvonSulzbach1622–1708,(Neustadta.d.Aisch:Degener,1998).
+Wappmann,Volker,“Juden,Quäker,Pietisten.DieIrenikdesSulzbacherKreises1651–
+1708” in Union-Konversion-Toleranz. Dimensionen der Annäherung zwischen den
+christlichenKonfessionenim17und18.Jahrhunderted.byHeinzDuchhardtandGer-
+hardMay(Mainz:P.vonZabern,2000):pp.119–138.
+Weber,Camilla,“JüdischesLebeninSulzbachundFloßim17.und18.Jahrhundert”,
+Morgen-Glantz22(2012):pp.115–143.
+Weber,RobertandGryson,Roger(eds.),BibliaSacraiuxtaVulgatamversionem(Stutt-
+gart:DeutscheBibelgesellschaft,2007).
+Weinberg,Magnus,“DiehebräischenDruckereieninSulzbach”, JahrbuchderJüdisch-
+LiterarischenGesellschaft,1(1903):pp.25–32.
+Weinberg, Magnus, “Die hebräischen Druckereien in Sulzbach” Verbesserungenund
+Ergänzungen(Frankfurt:Sänger&Friedberg,1923).
+Weinberg, Magnus, GeschichtederJudeninderOberpfalz Volume 5 (Munich: Ewer-
+Buchhandl,1927).
+Weiss,Judith,“TheQualityofGuillaumePostel’sZoharLatinTranslation(1547–1553)”,
+Accademia:RevuedelaSociétéMarsileFicin15(2013):pp.63–82.
+Weiss,Judith,GuillaumePostel’sFirstLatinTranslationandCommentaryoftheZohar,
+2volumes(HebrewPhDdissertation,BenGurionUniversityoftheNegev,2013).
+Anna M. Vileno and Robert J. Wilkinson - 978-90-04-44342-6
+
+[Page 604]
+bibliography 581
+Weiss,Judith,AKabbalisticChristianMessiahintheRenaissance:GuillaumePosteland
+theBookofZohar(inHebrew)(TelAviv:HakibbutzHameuchad,2016).
+Weiss,Judith,OntheConciliationof NatureandGrace.ALatinTranslationandCom-
+mentaryontheZoharbyGuillaumePostel(1510–1581)(inHebrew)(Jerusalem:The
+HebrewUniversity,MagnesPress,2017).
+Welton,DanielMorse, JohnLightfoot.TheEnglishHebraist(Leipzig:Ackermannand
+Glazer,1878).
+Werle, Fritz, “Éliphas Lévi.Versuch einer Biographie”, in Éliphas Lévi, DasBuchder
+Weisen(Vienna:München-Planegg,1928).
+Wilcox, Donald J.J., The Measure of Times Past. Pre-Newtonian Chronologies and the
+RhetoricofRelativeTime(Chicago:UniversityofChicagoPress,1987).
+Wilkinson,RobertJ.,Orientalism,AramaicandKabbalahintheCatholicReformation
+(Leiden:Brill,2007).
+Wilkinson,RobertJ.,TheKabbalisticScholarsoftheAntwerpPolyglotBible(Leiden:Brill,
+2007).
+Wilkinson,RobertJ.,“SyriacStudiesinRomeintheSecondHalfoftheSixteenthCen-
+tury”, JournalforLateAntiqueReligionandCulture6(2012):pp.55–74.
+Wilkinson,RobertJ.,Tetragrammaton.WesternChristiansandtheHebrewNameofGod
+fromtheBeginningstotheSeventeenthCentury(Leiden:Brill,2015).
+Wilkinson,RobertJ.,“ConstructingSyriacinLatin:EstablishingtheIdentityofSyriacin
+theWestoveraCenturyandaHalf(c.1550-c.1700):AnAccountofGrammaticaland
+Extra-LinguisticDeterminants”,Babelao:ElectronicJournalforAncientandOriental
+Studies5(2016):pp.169–283.
+Wilkinson,RobertJ.,“LesÉditionsimpriméesdelaPeshittasyriaqueduNouveauTes-
+tament”inLeNouveauTestamentensyriaque,ed.byJean-ClaudeHaelewyck(Paris:
+Geuthner,2017):pp.269–289.
+Wilkinson,RobertJ.,“TheKabbalisticTreatmentoftheVirginMaryinChristianKnorr
+von Rosenroth’s Historiae Evangelicae initium secundum quatuor Evangelistas. A
+Provisional Description”, Accademia.RevuedelasociétéMarsileFicin (forthcom-
+ing).
+WilliamWhitaker,ADisputationonHolyScriptureagainstthePapists,editedbyWilliam
+Fitzgerald(Cambridge:UniversityPress,1849).
+Williams,Frank(trans.),ThePanarionofEpiphaniusofSalamisBooki(Sects1–46),2nd
+ed.(Leiden:Brill,2009).
+Williams,Frank(trans.),ThePanarionofEpiphaniusofSalamisBooksii&iiiDeFide,
+2nded.(Leiden:Brill,2013).
+Wilson,John,“AVisittotheSamaritans”,TheVisitor(London:TheReligiousTractSoci-
+ety,1847):pp.407–410.
+Wiseman,DonaldJ.,“RahabofJericho”,TyndaleBulletin14(1964):pp.8–11.
+Witakowski,Witold,“TheMagiinSyriacTradition”inMalphonow-Rabod-Malphone:
+Anna M. Vileno and Robert J. Wilkinson - 978-90-04-44342-6
+
+[Page 605]
+582 bibliography
+StudiesinHonourofSebastianP.Brock,ed.byGeorgeKiraz(PiscawayNJ:Gorgias,
+2008),pp.809–847.
+Wolfson,ElliotR., AlongthePath.StudiesinKabbalisticMyth,SymbolismandHerme-
+neutics(StateUniversityofNewYorkPress,1995).
+Woods,Alice,OfWingsandWheels.ASyntheticStudyofBiblicalCherubim(Berlin,De
+Gruyter,2008).
+Yosha,Nissim,MythandMetaphor.AvrahamCohenHerrera’sPhilosophicInterpretation
+ofLurianicKabbalah(inHebrew)(Jerusalem:Magnes,1994).
+Zagorin,Perez,WaysofLying.Dissimulation,PersecutionandConformityinEarlyMod-
+ernEurope(Cambridge,Mass.:HarvardUniversityPress,1990).
+Zeller,Rosmarie.,“AdamischeSprache,NaturspracheundKabbala.Überlegungenzur
+SprachtheorieundPoesiein17.Jahrhundert”,Morgen-Glantz6(1996):pp.133–154.
+Zeller, Rosmarie, “Naturmagie, Kabbala, Millennium. Das Sulzbacher Projekt Um
+Christian Knorr von Rosenroth und der Cambridger Platoniker Henry More”,
+Morgen-Glantz11(2001):pp.13–76.
+Zeller,Rosmarie,“DerNachlaßChristianKnorrvonRosenrothinderHerzogAugust-
+BibliothekinWolfenbüttel”,Morgen-Glantz16(2006):pp.55–71.
+Zeller, Rosmarie, “Die Kataloge der Sulzbacher Hofbibliothek”, Morgen-Glantz 19
+(2009):pp.311–392.
+Zeller,Rosmarie,“KnorrvonRosenrothsApokalypseDeutungundEngland”,Morgen-
+Glantz21(2011):pp.107–133.
+Zeller,Rosmarie,“KnorrsErklärungderGesichterJohannisimKontextderzeitgenös-
+sischenApokalypse-Deutung”,Morgen-Glantz21(2011):pp.9–14.
+Zeller,Rosmarie,“DieLehrevonderPräexistenzderSeelenbeiKnorrundHelmontim
+KontextderDiskussioninEngland”,Morgen-Glantz,24(2014):pp.133–154.
+Zeller,Rosmarie,“DieRollevonFranciscusMercuriusVanHelmontbeiderAnseidlung
+derJudeninSulzbach”,Morgen-Glantz25(2015):pp.383–401.
+Zigabenos, Euthymios, Commentary on the Four Gospels, Patrologia Græca, vol. 129
+(Paris:J.-P.Migne,1864).
+Anna M. Vileno and Robert J. Wilkinson - 978-90-04-44342-6
+
+[Page 606]
+Index of Terms and Nouns
+Aaron 151,165,195,211,337,339 America 324n110,325
+Abba 95,337,341,366n262 Aminadab 289,337,341,359
+Abiah 151,165,169,171,289 Ammonites 331,335,339
+Abijah 225,341,359,363,439 Amon 289,341,345,361
+Abital 451 Amsterdam ix,ixn4,x,xn5,1n2,3,3n6,18,
+Abiud 289,353,361 39n18,52n34,84
+Abner 342n177 AmuloofLyon 121n28
+Abraham 11,14,77,82n25,84,84n36,98, Anastasius 309
+133,133n84,169,211,263,269,269n28, Angel 151,153,161,177,191,193,211,213,215,
+277,285,289,316n85,323,327,341,347, 221,223,239,241,251,271,275,285,291,
+357,397,403,413,435,462n165,509, 371,403,405,429,431,455,459,461,
+509n82,510n92 463,465,469,475,481,499,537,541
+Absalom 342n177 Anna 64,99,111,112,136n28,311n73,
+Abulafia,Abraham 316n85 347n198,433,456n148,491,501
+Achaea 125 Annius,Ioannes(GiovanniNanni) 159n69,
+Adam 139,143n53,191,199,199n246,223, 516n112
+249,251,253,261,263,269n28,271,321, Anthony,Mark 447
+322n101,335,367,375,385,401,411, Antidicomarianites 352n228
+411n84,419,424n125,447,513,517n112 Antigonus 155
+AdamKadmon 47,66,74,79,81n23,82,87, Antioch 125
+88,93,108,109,143n53,223,251 Antipas 533
+AdamRishon 74,87 Antipater 155,533,535
+Adonijah 342n177 AntwerpPolyglotBible 45,45n8
+Adumbratio xiii,xiv,xvi,xx,xxn44,8,37, ApocalypseCommentary 56,57,68,96
+44,47,50,53,56,65,66,66n27,66n29, ApostleJohn 137
+66n30,66n31,67n33,68,68n35,68n38, Aquinas 466n178
+69,71,72n4,85,89,90,92,93,96,99, Arabia 453,471n195,505,511
+102,108,115,120n21,125n45,136n28, Arabic xxi,19,30,40,47,53,124n42,125,
+137n30,141,143,147,155,181,193,207, 219,243,348n205,395n20,397n40,
+231,251,253,261,377,381,383n331,385, 453n142,503,503n58,509,510n92
+389,405,411,413,417,437,443,449 Archegus 101,107,231,233,260n174,263
+Agrippa 447 Archelaus 445,446n119,447,501,533,
+Ahab 205n274,341,341n172,350n215 533n174,534n179,535,535n181
+Ahaz 341,341n170,343,344n183,361,387 Aristotle 107,366n258
+Ahaziah 339,341 Asa 341,359
+Akim 361 Asiah 251,279,279n63
+Al-Damîrî 453n142 Assher 491,535,543
+Alexandria 119,125,295,295n38,308n64, Athanasius 308n65,309,473
+399n45,517n112 Atsilut 141,251,253,279n63,281
+Alkabetz,Salomon x Augustine 57n4,96,96n55,143n54,163n95,
+al-Qazwini 453n142 297,297n46,301,301n54
+Alsted,JohannHeinrich 99,99n66 Augustus 429,443,444n109,445,447,533,
+Altdorf 6n14,46n11,97n58 535
+Amasa 342n177 Azariah 339
+Amazia 341,341n170,343 Azor 361
+Ambrose 143n54
+Anna M. Vileno and Robert J. Wilkinson - 978-90-04-44342-6
+
+[Page 607]
+584 index of terms and nouns
+Babylon 169,203,289,289n9,349 Chaldean 291,305,309
+Balaam 14,15,78,477,513 Chaldeans 501,509,511
+Baptism 2n4,3n5,5n11,201,373,427,441 Chanukah 441,443
+Barcochba 203 CharterofPrivileges 97
+Barnabus 309 ChayahandYechidah 95,373,403,403n59,
+Bartholemew 295 467,467n180
+BarYochai,Simeon xv,xvn25,127 Chesed 165,347,421,485,491,527,545
+Bathsheba 335,337,451 Chilion 327
+BayerischeStaatsbibliothek 6n16,24–26, China 324n110,325
+53n38,82 Chokhmah 139,143,281,337,379,383,523
+Bayle,Pierre 7 ChristianAugustus,Pfalzgraf 21n6,31,31n1,
+BenAsheribnHalawa,Baḥya(Beḥai) 32n4,50,96,310n70,479n225
+320n92 Chronography 57
+BenElicha,Ishmael 481 Chrysostom,John 297,299
+BenGershom,Levi 191n206 Citthaei 157
+BenMordecaiAzulai,Abraham 52n34 ConstantinetheGreat 283
+BenSira,Jesus 207 Conway,Anne 68n36,68n38,98
+BenUriSchragaBloch,Moses 26n19,52n34 Cordovero,Moshe x
+Benjamin 311n73,345 Cornelius 187,209
+Benjani 347 Corona 109,112,253,491
+Beroea 295,301 Crafft,JohanDaniel 1
+Bethlehem 429,431,449,451,455,457,459, Cuthites 306n62
+465,471n195,473,495,497,499,501, Cyrene 123
+503,503n57,519,521,523 Cyrenius 443,445
+Binah 139,143,281,337,379,421,491,523 Cyril 473
+Bithiah 331 Cyrus 437
+Blavatsky,Helena xviii,xx
+Boaz 120n22,327,331,333,341,359 Dan 322n101,342n176,343n177,427n134,
+Bochart,Samuel 53,452n142 443n103
+Bodin,Jean 57,58n5 Daniel 187,213,223n27,225,314n81,324n110,
+Breton,André xx 425n126,427,427n134,437,507
+Briah 251,279n63,281 Daroma 12,13,161
+Bruno,Giordano 57n2 David 4,14,32n5,51,61,61n15,66n27,77,
+Burckhard,Jakob 16 93,103,107,112,157n61,221,222n27,
+Buxtorf,Johann 46,51,52,121,121n28, 233,235,247,251,255,257,265,269n28,
+318n85,417,479,481n228 271,289,291,292n29,313,315,316n85,
+317,319,319n92,321,323,327,333,335,
+Caesarea 295,296n43,299,309 335n148,335n150,337,339,341,341n172,
+Cainan 435 342n177,343,348n205,348n206,353,
+CaiusCaesar 447 359,366n263,367,372n279,373,375,
+Caleb 401 397,399n45,401,411,429,443,449,451,
+Calvisius,Seth 59,343,343n181 460n161,461,462n165,465,477,479,
+Campania 157 491,535
+Canaan 203n268,331,339,355n234, DeLapeyrère,Isaac 57
+452n142 Descartes,René xi
+Casaubon,Isaac 308n65,472n195,473 Dinah 329n126,342n175,347,347n198
+Castell,Edmund 53,243n110 Draxe,Thomas 98
+Cellarius,Christoph 318n85 DuPlessis-Mornay,Philippe 389n349
+Cerinthians 303 DuRyer,André 366n263
+Anna M. Vileno and Robert J. Wilkinson - 978-90-04-44342-6
+
+[Page 608]
+index of terms and nouns 585
+DuTillet,Jean 310n69 Eusebius 57n4,292n29,293,293n30,
+DukeAnthonyUlrichofBrunswick xii,3, 296n45,298n49,299,300n50,308n64,
+62n19,96 381n322,473,509,533,533n173
+Euthymius 553,553n75
+Ebionites 303,305,305n61 Eve 76,76n8,237,269n28,271,335,387,
+Ecclesia 73,76n10,94,103,104,111,137,195, 411n84,491
+203,209,223,229,237,279,281,283, Excerpta xiin15,2n2,9,9n26,10,10n27,11,
+285,337,357,365,369,391,391n359, 16,16n31,24,40n21,51,51n33,53,54,56,
+401,487,491,503,523,527,549 96,43n30,126n53,133,137,147,149,161,
+Edom 79,155,155n50,157,159,159n71,161, 169,175,177,187,191,199,201,211,213,
+331n134,381,443n104,529 219,229,231,245,259,263,273,317n85,
+EgidiodaViterbo 45,75n7,159n69 323,325,327,331,333,351,389,403,
+Egypt 78,79n18,94,157,203,295,298n48, 407,409,413,425,465,477,479,481,
+331,345,347,349,356n241,435,499, 493,507,515,519,521,531,535,541,543,
+501,524n139,525,527 545,547,549,551,553,555
+EinSof 109,139,143n53,253
+Eleazar 289,361 Fabricius,JohanChristian 6,24
+Eliakim 289,349,361 FeastofDedication 269
+Elijah 12,73,76,76n12,95,121,121n24,153, FeastofLights 441
+187,189,191,191n205,193,195,199, FeastofTabernacles 269,441,547
+203,205,207,207n283,209,211n301, Ferber,Johann 318n85
+263n193,399,402n57,403,403n58, Finch,Henry 98
+415 Findekeller,ChristophDaniel 1
+Elisabeth/Elischeba 151,153,165,219,221, Foundation 163,167,241,241n102,331
+223,225,263,267,269,271,273,279, Franck,Adolphe xvi
+279n61,313,337,365,395,400n52,403
+Elisha 205,355n234,367n263 Gans,David 534n179
+Elkana 169 GeorgioVeneto,Francesco 143n51
+Emmanuel 249,291,325n110 Gabri 511
+Ein-Gedi 407,423,425 Gabriel 120n23,153,177,179,179n162,211,
+Enoch 191,191n205,261,401,411,411n84 213,221,225,226n40,227,263,459
+Ephesus 125n43,135 Galen 107,366n258
+Ephraimites 319 Galilee 155,221,227,229,229n51,263,313,
+Epiphanius 163n94,296n44,297,300n50, 429,435,501,533,535
+301,301n53,302n56,303,303n59, Gedulah 407
+352n228,353,473,501n49,509 Geier,Martin 39n18
+Er 327 Gera 345
+Erasmus 295n40 Gevurah 143,177,179,187,407
+Ehrenbert,KarlMaria,FreiherrvonMoll 6 GiantofTwinSubstances 143
+Erpenius,Thomas 124n42,452n142,505n65 Gideon 243
+Esau(Esavus) 12,326n116,157,161,327,357, Głogów ix
+381,381n320,443n104 Goodwin,Thomas 98,98n63
+EshMetsaref xiiin18,xvii,xviin30,xviin32 Graetz,Heinrich xvi
+Esotericism xvi,xix,xx,55,55n43 GregoryofNyssa 466n178,473
+Essenes 424n126,425 Gutbirio,Aegidio 535n182
+Esther 245,247,451n137
+Ethiopia 2 Hadrian 301
+Ethiopian(s) 57,528n154 Ham 159,339
+Ethiopic xxi,53,513n100,529 Hamul 345
+Anna M. Vileno and Robert J. Wilkinson - 978-90-04-44342-6
+
+[Page 609]
+586 index of terms and nouns
+Hanamel 329n125 Ituraea 533
+Hannah 169,491 Jacob 157,161,207n283,221,251,255,
+Hannover 1 263,269,269n28,285,313n77,319,
+Haran 327,435,509,511,513 319n92,326n116,327,341,345,345n187,
+HarmoniaEvangeliorum 56,57,60,63n23 345n189,347,355n235,357,361,393,
+Harvey,William 103,107,365,366n258 401,413,435,457,515,529
+Hasidism xiii JannesandJambres 78,513,513n100
+Hebron 269,271,271n34,271n35,277, Japheth 339
+277n51,345,400n52,401,403,39n19 Javan 339
+Heli 313,353 Jeconiah(Jechoniah,Jehoiachin) 347,349,
+Hemor 347 350n215,351,361
+Hepar 161 Jehoahaz 347,349
+Herod 47,53,72n1,79,80,151,155,155n50, Johaiada 164
+157,161,205n274,443,497,499,501, Jehoiakim 345,349,350n215
+503,503n58,529,533,533n173,535, Jehoiarib 222n27,223,441
+535n180,535n181 Jehosaphath 341,359
+Herodias 205n274 Jeremiah 127,201n257,329n125,350n215,
+HerzogAugustBibliothek ixn1,ixn3,xxi 401,499,531
+n45,6,11,18n2,20,26,26n18 Jericho 329n125,329n128,407,423
+Hezekiah 341,343,361,453 Jerome 125,125n44,295,295n38,295n39,
+Hezron 341,359 295n40,296n41,296n43,299,301,
+Hilkiah 329n125 303,305,356n241,427n134,466n178,
+Hillel 353,451,478n224,479 473
+HistoriaeEvangelicaeinitium 4n7,5,6,8– Jerusalem 122n35,131,157n61,159n73,
+10,25,35,49n24,99n67 160n84,161,175n148,227,269,293,
+Innocents(Holy) 53,75,78 300n50,301,305,307,309,317n85,325,
+Hominer,Hayim 157n61 347,407,425,431,433,435,439,451,
+Horace 455 473,477,483,491,493,495,497,501,
+Huldah 329n125 501n48,503,503n56,507,509,513n100,
+Huysmans,Joris-Karl xx 521,531,535,539,545,549
+Huz 347 Jesse 331,333,341,359,483
+Jeush 381,381n320
+IbnShaprut,Hasdai 310n69 Jezebel 205n274
+Ibzan 331 Joab 342n177,343
+Idumean(s) 79,157,159,161,529 Joash(Joas) 339,341,341n170
+Imma 95 Job 347,347n198,347n200,476n216,477
+ImmaculateConception 101n73,106, Jochebed 239
+233n69 Johanan 347
+Incense 151,151n20,165,175,179,187,217, John 36,64n25,72,76,95,111,121n24,
+481,525 122n35,135,135n18,139,140n39,147,
+India 293n33,294n37,295,347 169,177,179n162,187,189n195,191,193,
+Irenaeus 247n123,293,299,301,302n56 193n217,195,195n223,195n224,199,201,
+Isaac 157,169,207,263,269,269n28, 205,205n274,209,223n27,226n40,227,
+285,308n65,326n116,341,355n235, 247n122,263n193,273,301n54,308n65,
+388n348,401n54,413 309,311n73,319n92,320n95,365n257,
+Isaiah 131n76,159,227n43,237,343,343n179, 367n263,373,395,399n46,401,402n57,
+386n344,387,389,401,456n148, 403,404n65,405,407,411n84,415,423,
+471n195 425n130,427,439,441,443,472n195,
+Issachar 227 480n227,541
+Anna M. Vileno and Robert J. Wilkinson - 978-90-04-44342-6
+
+[Page 610]
+index of terms and nouns 587
+Joram 289,339,341,343,359 Kircher,Athanasius 55
+Joseph 32n4,47,53n38,58,58n7,76,77,79, Kittim 159
+82n24,100,100n68,104–106,111,157, Kollyridons 352n228
+221,235,237,257,265,269,289,291, Khunrath,Heinrich 39n19
+312n76,313,313n77,315,316n85,317,
+319,321,335n150,343n177,345,345n187, Laban 161,345,393,513,515
+347,349n206,353,353n228,355, Laud,Archbishop 98,98n62
+361,363,369n269,373,392n363,393, Law 125,127,128n64,128n65,129,131,133,
+393n364,393n366,401,407,425n126, 145,167,187,195,301,307,419,431,433,
+429,431,433,451,455,456n148,459, 435,479,493,551
+471n195,473,475,478n222,487,499, LeFèvredeLaBoderie,Guy 45,46n11,49,
+523,535,539,545,553 49n28,143n51,305
+Josephus 157n61,222n26,329n128,425,439, LeFèvredeLaBoderie,Nicolas 143n51
+446n119,447,501,508n81,517,533,535, Leibniz,GottfriedWilhelm xi,1
+535n181 Leipzig 123n35,343n181,553n75
+Joshua 128n64,203,203n268,222n27,329, Lévi,Éliphas xviii,xviiin36,xixn40,xix
+329n124,329n125,329n126,333,345 n42
+Josiah 341,343,343n179,345,347,349,361 Levita,Elias 121n28,123
+Josippon(Yosipon) 79,157,157n61 Lichtenthaler,Abraham 26n19
+Jotham 289,341,341n170,361 Lightfoot,John xxi,xxin45,36,36n13,51,
+Juchasin 123,353,451,551 52,52n36,54,54n41,60n14,64,64n26,
+Judah 151,157,157n61,165,257,311n73,319, 71,96,122n35,133n84,151n18,168n124,
+320n95,325,326n116,327,329,329n126, 179n161,187n187,203n268,205n274,
+341,342n175,345,345n187,345n189, 209n296,215n317,219n330,223n27,
+348n205,357,365n256,387,400n52, 247n122,259n172,269n28,271n35,
+403n58,437,451,459,479,493,497, 311n73,326n116,327n119,329n124,
+503,503n57,515,519,551 343n177,348n205,348n206,350n215,
+JustinMartyr 247n123,471n195,503 351n216,351n217,354n234,386n344,
+388n349,389,395n20,397n40,400n52,
+KabbalaDenudata ix,ixn4,x,xi,xiin15, 404n66,425,427n133,444n109,
+xiii,xiiin16,xiv,xivn19,xv,xvn24,xv 457n153,462n165,479n224,492n264,
+n26,xvi,xvin28,xvii,xviin31,xviin32, 493,500n47,503n56,504n62,518n117
+xix,xx,6n12,7,8,16n31,35n12,43,53, Locicommunes(kabbalistici) xiii,xiiin18,
+56,65,66n27,68n38,70,74,77n13,82, xviin32,35n12,53,56,65,70,80,81n23,
+82n25,82n27,83–85,85n40,95,97,115, 82,82n27,83n29,105,115,138n33,
+115n4 147n79,163n93,164n98,165,165n108,
+Kain 161 166n110,174n142,178n158,188n189,
+Keni 161 194n218,196n229,202n264,228n45,
+Kenosis 249,261 234n72,238n90,240n99,242n104,
+Keter 139,143,281,379,523 244n114,246n118,251n135,253n147,
+Kiel 33 262n186,272n37,274n43,276n48,
+Kimchi,David 51,348n205,349,351,351n216 279n59,280n65,282n72,331n131,
+Kindness 157,195,239,239n96,241,339 335n144,364n252,368n268,370n273,
+Kingdom 129,139,161,165,167,169,179, 378n304,379n307,380n313,390n354,
+203,223,229,237,239,241,245,247, 398n41,407n69,408n74,410n80,
+253n153,255,257,273,277,279,285, 414n91,415n93,420n108,422n116,
+318n89,319,323,325,335,337,339,343, 470n190,484n237,486n242,489n253,
+349,369,371,373,381,399,411,413,415, 502n50,522n130,526n143,527n146,
+437,461,489,503,521,535,549,553 546n47,554n77
+Anna M. Vileno and Robert J. Wilkinson - 978-90-04-44342-6
+
+[Page 611]
+588 index of terms and nouns
+Locke,John 161n86 362n246,363,365,366n262,367n263,
+Lollius 447 371,375n285,377,377n290,387,389,
+LondonPolyglotBible 36,44n5,46n11,48, 392n363,393,393n364,393n366,
+124n42,177n154,219n329,304n60, 397,405,409n79,429,431,433,441,
+527n147 451,455,456n148,457,459,466n178,
+Lottery 171,171n136,173 471n195,473,475,475n209,478n222,
+Ludolph,Hiob 2,529n154 487,499,501,501n49,519n118,523,
+Luïscius,A.G. 4 545
+Luke 119,119n11,123,124n43,125,125n44, MaryofCleopas 353n228
+125n46,151,221,225,267,307,308n64, MarySalome 353n228
+309,311n73,313n77,351n216,395, Masada 425
+444n110,445n111,479n225,480n227, Masius,Andreas 42
+481,483,545,552n74,553n76 Mathers,SamuelLiddellMacGregor xvii
+Lumnius,JoannesFredericus 324n110 Mattan 361
+Luria,Isaac x,xiii,71,73,80,81,83,207, Matthew 265n196,289,291,291n25,292n28,
+316n85,355n235,375n285 292n29,293,293n30,293n32,293n33,
+Lurianic(Kabbalah,tradition,system) ix,x, 296n41,296n43,296n45,297n46,
+xi,xiii,xiiin17,xviii,38,51,64,66,67, 297n47,297n48,299,300n50,301,
+67n31,73,74,75,75n7,80,81,81n24,82, 302n55,303,305,307,308n65,309,
+83,83n30,83n32,84,84n36,85,86,95, 310n69,311,311n71,311n72,313n77,315,
+316,340,382,391 322n101,329,329n124,333,341,341n170,
+Lydiat,Thomas 112,343,343n183,437, 349n206,353,355,391,456n148,501,
+437n90,439,491 513,519
+Meelführer,RudolfMartin 46n11
+Machlon 327 Menachem 477
+Mackenzie,Kenneth xx Merkhabah 177,461
+Magdalene 275 Messiah x,xn7,5n11,10,12–15,34,35n10,
+Magi 36,75,78,112,163,227,227n41, 47,48,66n29,66n30,71,72n4,73,
+467n180,471n195,497,499,501,501n49, 74n5,75,77,77n13,78,79,80n20,
+504n64,505,507,513,523,523n134 81n24,88–96,96n54,99–110,112,121,
+Maimonides,Moses 41n24,43,335n151, 137,137n28,139,141,143,143n53,145,
+371n274,425,509n82,510n92,511, 145n68,147,149,165,167,171,177,179,
+511n94 187,189,193,193n217,195,199,201,
+Malkhut 139,143,255,279,369,381,399, 203,209,223,225,229,231,233,241,
+469,489,545 247,249,251,251n141,253,255,259,
+Manasseh 324n110,341,361 260n174,261,269,271,273,275,277,
+Manoah 239 279,283,313,316n85,317,319,319n92,
+Margaritha,Anthonius 317n85 321,323,325,327,339,353,354n233,
+Martha 49,243n111,316n85,362n246,363 355,363,365,367,367n263,369,
+Mary/Maria/Marjam 3n5,5n11,25n15, 371,371n275,373,373n280,375n285,
+47,48,49n24,66n29,76,76n8,76n9, 377,377n290,379,381,383,385,387,
+77,93,94,99,99n67,100,100n68, 388n349,389,391,391n359,393,
+101,101n72,102,103,103n77,104–107, 403n59,405,409,413,415,417,421,
+111,141,141n46,145n68,221,225,231, 423,429,433,443,449,457,460n161,
+237,239,239n96,241,243,245,247, 461,463,465,467,467n180,469,473,
+257,259n174,260n174,265,267,269, 477,479,481,483,485,487,489,491,
+271,273,275,277,279,279n63,281, 495,497,503,507,515,519,519n118,521,
+285,287,289,291,312n76,313,315, 525,527,531,535,537,547,549,551,
+347n198,352n228,353,353n228,355, 553
+Anna M. Vileno and Robert J. Wilkinson - 978-90-04-44342-6
+
+[Page 612]
+index of terms and nouns 589
+MessiahbenDavid 316n85 Neshamah 76n12,191,261,357,373
+MessiahbenJoseph 316n85 Netsach 111,283,369,407,555
+MessiasPuer xi–xiii,xvi,xx,xxi,1,2,2n2, Nicephorus,CallistusXanthopulus 57n4,
+2n3,2n4,3,3n5,4,4n7,7,7n19,8,8n20, 296n45,297,296n45
+9n26,10,11,16,24,30–34,35n11,37, Nitsutsot 91,373,419,461
+38,38n18,39,40,44,50–55,55n43,56, Noah 159,159n69,245,339,401
+59,63,64,64n25,65,66n29,67,68, Nonius,Marcellus 455
+68n38,69,71–75,76n9,80,81,82n26, Nürnberg 6n14,44n3,97n58
+82n28,84,85,88,90,93–96,99,108,
+113–115 Obed 161,289,327,331,333,341,359
+Metatron 191n205,225,261,417 Oecolampadius,Johannes 201n257
+Methodius 456n148 Onan 327,345
+Michael 171n136,225,297n45,317n85, OralLaw 11,108,127,129
+325n110,411n84,459,510n92 Origen 52n36,88,163n95,189n195,293,
+Millennium 257 293n30,299,312n76,356n241,381n322,
+Miriam 76,76n10,237,239,239n96,387 473,513n100,553
+Moab 331
+Molanus,GehardtW. 2,15 Pantaenus 293,293n33,295n38,299
+More,Henry xi,xivn19,39,65,68n38, Panthera 381n322
+90n47 Papias 292n29,293,298n49,299,303,
+Moréri,Louis 4 463n167
+Morhof,DanielGeorg 33 Paradise 195,257,385,507,541,551
+Moses 52n34,76,76n10,91,103,108,111,127, Parallelismi(s) 7,8,9,322n98,323,326n113
+128n64,129,141,145,157n61,175n148, Parez 341
+203,203n268,215,237,316n85,333, Paris 124n42
+342n175,343n177,351n216,355n235, Passover 403,439,441,459,539,545,547
+365,375,387,399,401,421,431,479,491, PathsofWisdom32 109,142n51
+507,510n92,511n94,513,513n100 Paul 98,121,124n43,125,147,283n78,
+Münster,Sebastian 121n28,157n61,310n69, 293n32,308n64,309,311n73,325n111,
+319n92 365n258
+Pedaiah 351,351n217
+Naamah 339 Pella 300n50,301
+Nabal 161,515 Perez 327,345,357,399
+Nabateans 509,511 Peringer,Gustav 318n85
+Nahor 347 Persia 325,325n110,505,511
+Nahshon 341,359 Persians 219,437,501,505,509
+Naomi 331 Peshitta xiv,xivn22,8,8n21,9n26,10,21,
+Nathan 316n85,351n217,451,476n216 24,35,36n12,44,44n1,44n2,44n5,
+Nazaraeans 46,295,296n43,297,301,303, 45n7,46,47,47n13,48–50,54,99n67,
+303n59,305 100,108,112,114,119n11,135n18,137n28,
+Nazarene 501 151n19,170n136,197n232,209n297,
+Nazareth 123,193,221,227,231,263,319,429, 241n101,305,310n70,319n92,424n126,
+435,523,535,537,541 482n234,492n263,527n147,535n182
+Nazarite 219n330,537 Petavius,Dionysius 58,58n6,437
+Nazianzenus,Gregory 297,297n47 Phanuel 491
+Nebuchadnezzar 437 Phares 289,326n116,327
+Nebusaradan 531 Pharisaism 283
+Nefesh 76n12,93,189,261,271,279,321,357, Philip 533,535
+373 PhilipWilhelm,DukeofPfalz-Neuburg 31
+Anna M. Vileno and Robert J. Wilkinson - 978-90-04-44342-6
+
+[Page 613]
+590 index of terms and nouns
+Philippi 125n43 Sabaeans 509,509n82,515
+Philo 356n241,399n45,461n163,516n112,517 Safed x,81,316n85,355n235
+Phoenicians 159 Salmon 289,329,329n124,333,341
+Pike,Albert xx Samael 385,443,443n104,443n105,511
+Pisani,Ottavio 383n331 Samaritan(s) 53,60n12,306n62,307,
+Piscator,Johann 98 320n95,321,435n82,471,529n154
+Plato 183n177,189 Samson 537,537n190
+PlinytheElder 425,453n142 Samuel 306n62,319n92,342n175,349n206,
+Postel,Guillaume 45,45n10,49,75n7, 399,401,491
+120n22,310n69,317n85,411n84 Sandalphon 73,191,193n217,399,399n46,
+PrincipleofCreation 135,145 417
+Sarah 12,13,169,211,239,259,269,269n28,
+QuintusTineiusRufus 159n73 403
+Qurʾan 189,366n263,367,475 Sarug 83,83n32,84,86n41
+Satan 231,233,327,411,413,443,445,521
+RabanMaur 121n28 Scaliger,Joseph 58,58n7
+RabbiAkiva 159n73,203 Schechanjahu 171
+Rahab 327,327n119,329,329n124,329n125, Scherzer,JohannAdam 39n18
+329n128,331,333,339 Schuer,JanLodewijk 4
+Ram 341,359 Scotto,Ottaviano 357n241
+Ramah 531 Sefirah,sefirot 47,50,71,87,103,104,108,
+Raphael 213,459,460n160 110,111,112,113,143n51,167n112,180n163,
+Raphia 159 195,203,229,241n102,250n133,
+Rashi 326n116,329n128,388n348 263n148,273,279n63,368n266,
+Rebecca 169,259,269,347 487n251,555n86
+Rehoboam 255,321n95,339,341,345, Semmedo,Alvarez 325n110
+359 Serpent 316n85,335,381,521
+Reincarnation xn5,64,74,76,77n15,78, Shallum 329n125,349
+79,88,93,121n24,161n86,165,189, Shards 78,87–89,91,92,327,331,375,
+201n256,211,229,235,237,312n76,321, 375n285,377,381,385,411,413,419,421,
+325,327,327n118,343,387,402n57,463, 443,449,477,489,527
+491 Shealtiel 351,361
+RevolutionofAges 79,80 Shechem 343n177,347
+Revolution(s)(ofSouls) 74,77,78,79,155, Shekhinah 112,139,141,171,179,259,369,381,
+161,165n109,211,315,375 417,467,481,491,493,507,509,515,521,
+Rhenferd,Jacob 119n16 525
+Ricci,Matteo 325n110 Shell(s) 67n33,72,73,75,79,87,149,149n84,
+Robertson,William 319n92 157,191,197,199,231,239
+Rome 124n42,125n43,155n50,157,158n61, Shem 339,401
+283,283n78,292n28,293n32,294n37, Shema 311,543
+297n45,325n110,425n126,504n63, Shemoneh‘Esreh 175n148
+517n112,529 Shephatiah 451
+Ruach 76,189,261,281,357,373 Shepherds 120n23,429,431,455,457n153,
+RudolfAugustvonBraunschweig-Lüneburg 459,461,461n163,463n165,463n166,
+310n70,479n225 467,473,475,507,507n79
+Ruth 289,327,327n119,331,339 Shiloh 319,319n92,321n95
+Rutuli 159 Shobal 341
+Simeon 216n321,342n175,343,343n177,347,
+389n349,433,456n148,479,479n224,
+Anna M. Vileno and Robert J. Wilkinson - 978-90-04-44342-6
+
+[Page 614]
+index of terms and nouns 591
+479n225,481,483,485,487,487n252, SyriacNewTestament xiv,xv,8,8n20,35,
+501 46
+SimeontheRighteous 216n321
+Simon,Richard xi,xxi,55,309n65 Tacitus 446n118,447
+Simultaneum 32 Tamar 289,316n85,327,331,339,345,
+Solomon 133n84,320n95,321,339,341, 365n256
+342n177,345,348n206,351n217, Targum 131,139,140n39,160n84,161,181,197,
+359,388n348,389,437,451,453, 199,213,329,329n128,389,389n351,451,
+491 451n137,457,465,513n100,519,527,531,
+SoulofMessiah 71,77n13,78,93,94,95,101, 537
+102,103,105,106,107,233,247,251,260, TempleArchives 218n328
+261,327,365,367,371n275,373,375, TenLostTribes 78,92,324n110,325,
+379,467n180,507,525 325n110,403n58,423
+Spizel,Gottlieb 324n110 TenWordsofCreation 139
+Strabo 473 Terah 401
+Strength 129,195,245 Tetragrammaton 85,95,110,111,145,177,
+Suetonius 445 177n154,193,195,223,279,281,318n90,
+Sulzbach ixn2,xi,xin8,xii,xiin12,xii 325,341,355,359,361,371,379,379n312,
+n13,xiin15,xiv,xivn23,xvn24,1,1n1, 417,417n102,461,465,465n172
+1n2,3n5,6n14,6n16,8n20,8n21,16, Tevunah 555
+16n34,18,21n6,24,26n19,31,31n1,32, Thamar 327n119,328n122
+32n3,32n5,38n18,44,44n3,50n31,51, TheFatherandtheMother 469
+51n32,52n34,53,54,62n19,68n38,82, Theon,Max xx
+82n26,96,97n56,114,120n22,126n53, Theophilus 119,133,133n84
+177n154,191n206,197n232,297n45, Theophylact 292n28,293,308n65,309,
+297n46,297n47,298n48,304n60, 501n49,553,553n76
+311n70,366n263,383n331,401n53, ThirtyYearsWar 32,32n5,99
+472n195,479n225,507n77,527n147, Thomas 243n110,294n37,297n45,319n92,
+536n182 343n183,366n263,439,452n142,510n84
+SynodofDiamper 294n37 Tiferet 92,105,108,109,110,111,139,143,255,
+Syriac xiv,xv,xx,5,7n19,8,8n20,9,9n26, 281,371n275,407,409,421,503,527,
+10,21,24,25n15,35,40,44,44n1,44n2, 537,547
+45,45n8,46,46n11,47–50,53,53n37, Titus 124n43,439
+88,100,104,108,109,112,114,119n16, Tobit 213
+123,124n42,125,127,131,135n19,137, Trachontis 533
+137n28,137n29,141,145,149n83,151n18, TreeofLife 547,547n50
+151n19,151n21,163n97,165,170n136, Tremellius,Immanuel 49
+177,177n154,181,195,199,203,205, Trigault,Nicolas 325n110
+209,227,231,241,241n101,243,259, Tsevi,Sabbatai x
+259n172,289n8,291,293,294n37, Turnus 159,159n73
+296n43,299,303,304n61,305,307, Tzepho,sonofElipha,sonofEsavus 157
+309,310n70,362n246,371,377,377n291,
+385,391,393,395n20,397n40,401, Uriah 335,337
+401n53,417,417n102,424n126,425,445, Uriel 461
+453n142,457,457n152,461,463,467, Ussher,James 61,61n16,62n19
+469,473,480n227,481,483,485,489, Uziah 289,339
+503,504n64,505,505n65,518n117,519, Uzzah 211
+527,527n147,535,535n182,537n190, Uzziah 211,341,341n170,343,359
+545,553
+Anna M. Vileno and Robert J. Wilkinson - 978-90-04-44342-6
+
+[Page 615]
+592 index of terms and nouns
+VanderHardt,Hermann 62 Willet,Andrew 98
+VanHelmont,Jean-Baptiste xii Yesod 73,103,104,105,110,111,163,241n102,
+VanHelmont,FrancisMercury xii,xii 281,337,369,407,471,555
+n11,xiii,xiv,xivn20,xxin45,1n2,3, Yetserha-ra 88,101,233,371,385
+8n20,18,21n6,26n19,31,31n2,32,32n3, Yetsirah 142n51,251,279n63,281,477n217,
+39n18,42,47n15,50n29,51n32,53n39, 477n217,547n50
+62n19,67n31,68,68n35,68n38,69,
+69n39,85n40,90,97n57,98,383n331 Zachariah 64,72,73,90,91,99,104,105,
+VanHoogstraten,David 4 106,151,153,163,165,169,171,175,181,
+Varro 455 185,187,189,195,195n224,211,213,
+Ve-Adar 439 215,218n328,219,225,257,267,269,
+Virgil 158n68,159,453,455 367n263,395,407,409,411,421,439,
+Vienna 1,44,49n27 441,459,475
+Virgin 141n46,221,227,231,231n59,233, Zacuto,Abraham 123n36
+233n69,235,237,241,241n102,247, Zadok 289,361
+247n122,259n172,260n174,261, Zebulon 227,229,229n51,503,503n57,535
+263,275,291,321,327,353n228,367, Zedekiah 341,349
+367n263,368n266,377,386n344,387, ZeirAnpin 94,95,340n167,366n262,
+389,391,393 368n268,371n275,391,391n359,485,
+VirginBirth 66n29,99,106,107 487n251,527,555
+Vital,Hayyim 74,81n24,83,83n30,316n85 Zemach 477,534n179
+Vitringa,Campegius 5n12 Zerach 327
+VonMandelslo,JohannAlbrecht 347n201 Zerubbabel 222n27,316n85,351,353,361
+VonZesen,Philipp 39n18 Zohar xn6,xin8,xiv,xivn23,xv,xvn24,xv
+Vulliaud,Paul xvi,xvin27,xixn39 n25,xvn26,xvii–xix,xixn39,2,3n5,
+Vulgate 119n13,119n14,119n15,119n16,135n19, 7,7n19,8,8n20,9,9n22,9n26,11,14,
+135n20,135n21,135n22,135n23,137n29, 15,15n30,24,26n19,32n5,33,35n12,
+151n18,151n19,151n20,151n21,153n42, 38n18,39,40,45,45n9,45n10,46,50,
+153n43,155n49,170n136,221n14,221n15, 50n31,51,51n33,52,54,74,74n6,77,
+221n16,221n17,222n23,267n19,267n20, 79,82n24,83,83n30,83n31,83n33,
+267n21,289n8,289n9,319n92,383n331, 84n35,105,110,111,114,115n4,120n22,
+388n347,429n22,457n148,483n236, 121,126n53,127,133,135,137,139n38,
+512n99 142n50,147,157,161,163,167,169,175,
+177,179,189,199,201,211,229,259,263,
+Wagenseil,JosephChristoph 32n4,46n11, 271,275n45,305,314n81,315,321,323,
+97,97n58,121n28 325,327,336n156,337,339,341,341n170,
+Waite,ArthurEdward xix,xx 347,351,391,403,403n58,407,409,
+Walker,John 383n330 413,423,425,465,467,469,471n194,
+Walton,Brian 36,44n5,46n11,48,53, 479n225,491,513,513n100,515,531,533,
+177n154,304n60,305,317n85,401n53, 541,553
+527n147 ZoharicAramaic 45n9,50
+Westcott,WilliamWynn xvii Zoroaster 509
+Widmanstetter,JohannAlbrecht 44,45n6,
+49,49n27,241n101
+Anna M. Vileno and Robert J. Wilkinson - 978-90-04-44342-6
+
+[Page 616]
+Index of Biblical References
+Gen 27.40 157
+1.1 365 28.13-14 285
+2.4 255 28.15 393
+4.13 383 28.20 139
+6.8 245 28.21 139
+8.7 393 29.1 513
+9.25 329,339 29.5 271
+11.7 213 29.12 393
+11.12 435 29.20 345
+11.26 435 29.32-35 345
+11.32 435 30.20 229
+12.5 327 30.25 345
+12.40 435 31.11 213
+13.18 269,403 35.10 245
+15.1 245 35.19 457
+15.6 269,277 35.21 457
+15.8 211 35.27 269
+16.7 177 35.29 269
+16.9 177 36.39 161
+16.10 177 38.2 345
+17.5 269,403 38.24 365
+17.7 285 38.25 403
+17.7-8 285 38.29 403
+17.8 285 41.46 345
+17.10 269,403 45.6 345
+17.15 269,403 46.2 435
+17.17 211 46.3 245
+17.51 403 46.12 345
+18.1 269 46.21 345
+18.8 389 47.9 345
+18.10 239,269 49.8 487
+18.12 211,219 49.10 319
+19.14 363 49.13 487
+19.15 383 49.16 487
+19.19 401 49.19 487
+21.17 245 49.22 487
+22.16-17 413 49.31 269
+23.2 269 50.13 269
+23.17 269
+23.19 269 Ex
+25.6 505 2.8 237
+25.9 269 3.2 177,507
+25.25 403 4.14 195
+26.3-4 285 4.16 215
+26.22 359 4.22 251
+27.29 487 6.23 165,337
+Anna M. Vileno and Robert J. Wilkinson - 978-90-04-44342-6
+
+[Page 617]
+594 index of biblical references
+Ex(cont.) 33.10 175
+10.7 203 33.11 175
+12.40 435 33.17 453
+14.24 181,463,507
+16.29 465 Jos
+19.17 139 2.15 455
+20.13 553 5.13 465
+23.33 203 7.1 341
+30.12 445 7.13 409
+30.23 523 7.24 341
+38.8 493 8.1 245
+10.10 465
+Lev 15.61 423
+15.1 383 19.15 503
+16.22 383 21.11 269
+19.3 553 21.12 401
+25.26 465 22.20 341
+Num Judg
+5.5 465 2.1 177
+20.1-2 237 2.4 177
+20.6 211 3.9 379
+20.8 211 3.15 379
+20.11 215 5.23 177
+20.12 211 5.24 243
+22.22-27 177 5.25 389
+22.31-32 177 6.3 505
+22.34-5 177 6.11-12 177
+23.7 513 6.12 243
+24.16 515 6.15 519
+24.24 161 6.20-22 177
+25.7 203 6.23 241,245
+35.5 465 6.38 389
+35.19 465 8.10-11 505
+35.21 465 12.8 331
+35.24 465 13.3 177,257
+35.25 465 13.4 199,219
+35.27 465 13.5 537
+36.8-9 353 13.13 177
+13.15-18 177
+Deut 13.20-21 177
+1.21 245
+4.45-46 331,435 Ruth
+17.15 517 2.20 465
+20.7 363 3.9 465
+22.23 363 4.1 465
+28.20 181 4.3 465
+32.14 389 4.4 465
+33 343 4.6 465
+Anna M. Vileno and Robert J. Wilkinson - 978-90-04-44342-6
+
+[Page 618]
+index of biblical references 595
+4.17 403 19.7 177
+4.22 333 21.21 341
+22.19 213,467
+1Sam
+1.19 403 2Kgs
+2.3 379 2.9 203
+2.10 411,491 2.15 203
+2.20 493 8.24 339
+4.3 181 9.8 341
+4.14 181 9.18 341
+5.11 181 9.22 271
+10.19 379 9.31 271
+15.35 393 10.15 271
+17.13 459 11.2 339
+23.5 135 11.7 169
+24.1 425 12.21 339
+24.1-2 423 13.3 379
+24.7 481 14.1 339
+28.10 383 14.21 339
+15.1 339
+2Sam 15.27 345
+3.12 321 15.33 345
+5.3 271 16.1 345
+6.6 211 18.17 199
+6.23 393 19.35 177
+12.13 337 21.19 345
+17.29 389 22.1 345
+19.21 481 23.30-31 347
+23 343 23.34 349
+24.1 445 23.36 345
+24.6 349
+1Kgs 24.8 349
+1.41 181 25.5 199
+3.7 345 25.7 349
+4.26 453 25.10-12 199
+4.30 505 25.20 199
+6.1 331,435 25.27 349
+8.13 229
+8.23 409 1Chron
+8.25 409 1.35 381
+9.26 159 2.12 333
+11.42 345 2.50 341
+13.2 343 3.3 451
+14.21 339 3.5 451
+14.22 345 3.6 405
+14.31 359 3.8 405
+17.1 191 3.12 339
+18.12 203 3.15 347
+19.1 195 3.16 349
+Anna M. Vileno and Robert J. Wilkinson - 978-90-04-44342-6
+
+[Page 619]
+596 index of biblical references
+1Chron(cont.) Neh
+3.17 349,351 7.26 451
+3.17-24 451 8.2 451
+3.19 351,353 12.1 351
+4.1 341
+4.18 331 Esth
+6.7 341 1.8 199
+7.56 401 1.10 181
+8.20 345 2.14 523
+21.15 177 2.17 245
+21.30 177 6.1 181
+23.5 345 6.10 451
+23.21 405 6.11 451
+23.23 405
+24.10 169 Job
+24.11 171 1.3 505
+24.18 169 11.9 549
+28.19 407 20.17 389
+29.23 341 25.3 467
+30.1 345 27.5 393
+30.10 409 29.6 389
+39.9 453
+2Chron 41.2 135
+1.10 519
+6.14 409 Ps
+6.16-17 409 2.2 317
+9.25 453 2.7 249
+15.5 519 9.2 197
+20.2 423 12.3 393
+22.10 341 18.51 401
+23.4 169 19.4 181
+24.20 165 27.5 489
+26.16 211 34.8 177
+28.1 343 34.17 327
+29.1 343 40.10 121
+32.28 453 45.5 317
+36.6 349 45.9 523
+36.9 349 46.9 403
+55.22 389,491
+Ezra 57.5 491
+2.21 451 65.13 197
+2.36 169 68.9 121
+2.37 169 68.12 121
+3.2 351 68.22 515
+7.3 341 80.17 407
+89.18 411
+89.52 317
+90.10 333
+92.11 411
+Anna M. Vileno and Robert J. Wilkinson - 978-90-04-44342-6
+
+[Page 620]
+index of biblical references 597
+96.11 197 8.10 391
+109.5 327 8.18 391
+110.7 251 9.6 391
+114.1 331,435 10.24 525
+114.3 435 10.26 525
+116.16 247 10.34 483
+120.4 491 11.1 227,483,537
+126.1 401 11.14 505
+132.17 411 14.19 227
+133.3 317 14.20 391
+147.20 487 19.20 199
+148.14 411 22.14 393
+25.8 381,385
+Prov 25.9 547
+1.10 131 28.29 135
+6.14 181 29.9 181
+6.35 131 37.36 177
+7.16 523 40.9 121
+9.5 503 40.21 135
+11.10 197 41.4 135
+13.9 197 43.11 379
+23.16 197 45.15 379
+26.10 199 45.17 379
+26.22 181 45.21 379
+30.19 489 48.11 139
+30.33 389 49.5 139
+49.6 227
+Eccl 49.15 139
+1.9 161 51.5 139
+52.7 121
+Cant 53.12 251
+5.6 523 56.7 391
+5.13 523 59.20 495
+60.3 257
+Isa 60.3-4 487
+1.8 227 60.14 391
+1.14 139 60.19-20 423
+1.16 139 60.21 227,413
+1.26 391 61.1-2 317
+6.2 213 62.4 391
+6.3 469 63.1 161
+6.6 215 63.15 229
+7.11 215 65.4 227
+7.13 343 65.20 233
+7.14 237,247,249,389,393 65.23 233
+7.16 257,387 66.9 135
+7.21-25 389
+8.3 387
+8.8 391
+Anna M. Vileno and Robert J. Wilkinson - 978-90-04-44342-6
+
+[Page 621]
+598 index of biblical references
+Jer 25.4 505
+1.5 201 25.10 505
+1.5-6 407 33.22 407
+2.22 337 34.23-24 321
+3.17 391 37.1 407
+16.13 485 37.24 321
+22.11 349 40.1 407
+22.18-19 349 48.35 243,391
+22.30 351
+23.16 391 Dan
+23.19 181 5.13 225
+24.6 139 5.24 227
+25.16 181 7.10 213
+25.27 181 7.16 213
+27.5 139 7.24 411
+27.18 139 8.21 411
+29.14 139 9.3 187
+29.23 139 9.21 225
+30.9 321 9.23 187,213
+30.21 519 9.25-26 317
+31.15 531 9.26 483
+31.31 285 9.26-27 481
+31.33 127 9.27 427
+36.12 405 10.5-10 241
+36.30 349 10.10 213
+48.25 411 10.12 213
+49.28 505 10.19 241
+52.11 341 10.21 225
+52.31 349 11.7 227
+14.20 213
+Lam
+2.19 463 Hos
+4.20 481 1.7 139
+1.9 139
+Ezek 3.5 321
+1.3 407 11.1-2 525
+1.10 177 13.4 379
+1.24 467
+1.26 413,469 Joel
+1.26n 177 2.13 485
+1.28 461
+3.12 467,469 Amos
+3.22 407 3.9 181
+3.23 461 6.7 197
+8.4 461
+10.2 215 Obad
+10.4 461 1.9 161
+10.6 215 1.21 379
+20.36 525
+Anna M. Vileno and Robert J. Wilkinson - 978-90-04-44342-6
+
+[Page 622]
+index of biblical references 599
+Mic 1.21 249,393
+2.6 519 1.22 537
+4.8 457 1.23 237,415
+5.1 457 1.24 473
+7.15 525 1.25 247
+7.19 421 2.5 537
+2.6 303
+Nah 2.12-13 213
+2.4 181 2.13 177,213,237
+2.15 303
+Hab 2.16 465,537
+3.2 455 2.18 303
+2.19 177,213,237
+Hag 2.23 231,391
+1.1 351 3.1 195,423
+1.12 351 3.3 417
+1.14 351 3.10-12 415
+2.3 351 3.17 253
+2.6 525 4.3 249
+2.24 351 4.6 249
+4.14 537
+Zech 4.15 303
+1.1 165 4.23 121,123
+1.11-12 177 5.6 285
+1.18-19 411 5.9 391
+2.5 139 5.12 197
+3.1 177 5.19 391
+3.6 177 5.22 129
+8.3 391 5.23-24 523
+8.7 379 5.28 129
+13.1 381 5.32 129,473
+5.34 129
+Mal 5.39 129
+3.1 493 5.44 129
+4.5 189,415 6.34 295
+7.14 147
+BenSira 7.22 379
+48.10 207 7.23 495
+7.24-25 489
+Tobit 8.4 493,523
+12.15 213 8.17 303,537
+8.19 419
+Mt 8.20 323
+1.1 233,263,355,367 8.29 249
+1.15 475 9.2 385
+1.17-22 237 9.5 385
+1.18 197,233,247 9.6 385
+1.19 235,269 9.15 259
+1.20 213,237,245,263,461 9.22 247
+Anna M. Vileno and Robert J. Wilkinson - 978-90-04-44342-6
+
+[Page 623]
+600 index of biblical references
+Mt(cont.) 19.17 147
+9.23 181 20.8 199
+9.27 317 20.20 247
+9.35 121,123 20.23 199
+9.42 247 20.28 411
+10.3 393 20.30 247,317
+10.5-6 209 20.31 247,317
+10.13 241 21.4 537
+10.32 495 21.5 303
+11.11 193,199 21.9 317
+11.12 133,179,443 21.13 391
+11.12-13 193 21.15 317
+11.13 195,405 21.16 543
+11.14 189 21.32 209
+11.18 303 21.42 543
+12.5 543 22.16 419
+12.17 537 22.24 419
+12.20 393 22.31 543
+12.23 317 22.36 419
+12.38 419 22.42 317
+12.47 233 22.45 317
+13.5 489 23.5 283
+13.11 129 23.18-19 523
+13.20 489 24.12 537
+13.30 413 24.15 123
+13.35 129,537 24.24 203
+13.40-43 413 24.30 259
+13.43 413,485 24.37 197
+13.49-50 413 25.15 537
+13.52 127 25.35 455
+13.55 393 25.46 413
+13.56 543 26.5 181
+14.13 453 26.13 123
+14.15 453 26.18 419
+14.22 393 26.26 503
+14.24 181 26.31 303
+14.25 463 26.47 517
+14.33 249 26.51 249
+15.5 523 26.61 537
+15.9 131 26.63 249
+15.22 317 26.64 259
+15.24 209 27.1 517
+16.16 249 27.9 537
+17.5 253 27.38 285
+18.8 147 27.40 249
+18.9 147 27.43 249
+19.4 137,543 27.52 271
+19.8 137 27.54 249
+19.16 419 27.56 393
+Anna M. Vileno and Robert J. Wilkinson - 978-90-04-44342-6
+
+[Page 624]
+index of biblical references 601
+27.57 127 Lk
+28.5 245 1.2 127
+28.19 127 1.4 127
+28.20 393 1.11 371,459
+29 493 1.13 245,405,461
+1.14 195
+Mk 1.15 273,373,415
+1.1 123,193,249 1.16 255
+1.4 443 1.16-17 177
+1.24 537 1.17 191,209,259,449
+2.19 259 1.19 121,459
+2.26 517 1.26 397,459
+3 493 1.27 353
+3.11 249 1.30 461
+4.5 489 1.31 391,393
+4.16 489 1.32 317,319,321,415
+5.7 249 1.32-33 473
+5.30 259,377 1.33 285
+5.35-36 199 1.35 205,373,403,415,507,
+5.36 245 555
+5.38 199 1.36 165,313
+5.39 243 1.38 473
+6.3 247,543 1.56 365,397
+6.5 259 1.59 475,507
+7.11 523 1.69 319,321
+9.1 259 1.72 403
+9.38-39 379 1.76 391,407
+9.43 147 2.7 247
+9.45 147 2.9 509
+10.6 137 2.10 195
+10.29 123 2.15 227
+10.45 411 2.20 121
+10.47 317,537 2.23 391
+10.48 317 2.38 411
+11.17 391 2.48 247
+12.35 317 3.1-4 443
+13.8 181 3.2 195
+13.25 467 3.10 209
+14.2 181 3.18 121
+14.14 457 3.23 313,353
+14.67 537 3.31 317
+15.39 249 3.36 435
+15.46 489 3.38 249
+15.47 393 4.14 205
+16.1 393 4.16 543
+16.6 537 4.17 543
+16.17 379 4.18 283
+4.34 537
+4.36 473
+Anna M. Vileno and Robert J. Wilkinson - 978-90-04-44342-6
+
+[Page 625]
+602 index of biblical references
+Lk(cont.) 19.38 469
+5.12 465 19.46 391
+5.17 377 19.47 517
+5.34 259 20.41 317
+6.19 377 20.42 317
+6.20 283 21.1 523
+6.20-21 285 21.4 523
+6.23 273 21.9 181
+6.24-25 285 21.28 411
+6.48 489 22.11 457
+7.5 209 22.24 489
+8.3 199 22.66 517
+8.6 489 23.2 465
+8.13 489 23.5 181
+8.28 249 24.4 495
+8.46 377 24.19 537
+9.12 457 24.27 129,141
+9.31 129,465 24.36 241
+9.49 379 24.44 129
+9.51 475 24.45 129
+10.1 123 24.49 205,259
+10.5-6 241
+10.20 379 Jn
+10.21 197 1.1 365
+10.26 543 1.3 365
+10.27 379 1.6 227
+10.30 285 1.12 251
+10.41 243 1.14 249,259
+12.8 495 1.15 201
+12.14 209 1.17 193,283,405
+12.15 147 1.18 139,249
+12.38 463 1.19 201,385
+12.42 199 1.20 495
+13.14 209 1.26 201,415
+13.32 549 1.27 201
+13.33 465 1.29 415
+14.14 413 1.31 427
+15.4 453 1.34 201,249
+15.19 391 1.36 201
+15.21 391 1.47 229
+16.16 133,443 1.52 509
+17.20 481 3.2 419
+18.11 283 3.5 381
+18.37 537 3.6 263
+18.38 317 3.13 541
+18.39 317 3.16-18 249
+19.2 199 3.29 407
+19.7 457 3.36 147,207
+19.11 481 4.10 381
+Anna M. Vileno and Robert J. Wilkinson - 978-90-04-44342-6
+
+[Page 626]
+index of biblical references 603
+4.19 315 17.3 209
+5.2 293 17.4-5 251
+5.24 147 17.6 145
+5.33 201 17.19 537
+5.35 197 17.20 293
+5.39 129 18.5 537
+5.40 147 18.7 537
+5.46 141 18.24 517
+6.10 453 19.13 293
+6.27 253 19.19 537
+6.32-33 503 20.14 275
+6.33 147 20.19 241
+6.35 503 20.21 241
+6.45 543 20.26 241
+6.48 503 20.31 147,249
+6.50-51 503 21.7 243
+6.51 147
+6.63 147 Acts
+6.69 249 1.8 205,259
+7.8 475 1.18 209
+7.37 237 2.1 475
+7.38 381 2.3 259
+7.42 317,321,455 2.6 181
+7.49 209 2.22 537
+7.52 229 2.26 197
+8.11 481 2.27 425
+8.12 147 2.36 249,317,355,465
+8.21 385 2.46 197
+8.24 385 2.47 463
+8.44 137 3.6 537
+8.56 413 3.21 257
+9.41 385 4.6 329,517
+10.10 147 4.8 517
+10.17 251,355 4.10 537
+10.36 251 4.12 379,411
+11.24 481 4.33 205,259
+11.27 249 5.19 177
+11.50 463 6.8 259
+11.52 209,377 6.14 537
+12.27 181 7.4 435
+12.41 177,413,469,481 7.25 411
+13.13 249 7.30 177
+14.6 147 7.46 247
+15.22 385 8.10 259
+15.24 385 8.14 127
+15.26 227 8.26 177
+16.8-9 385 9.5 481
+16.21 197 9.25 455
+16.27 227 10.2 187,209
+Anna M. Vileno and Robert J. Wilkinson - 978-90-04-44342-6
+
+[Page 627]
+604 index of biblical references
+Acts(cont.) 28.24 207
+10.4 187 28.28 411
+10.6 455,457
+10.22 525 Rm
+10.31 403 1.1 123
+10.38 259 1.3 317,321
+10.41 463 1.4 249,253
+10.44 259 1.5 283
+11.15 259 1.9 123
+11.19 127 1.16 133,259
+11.26 301 1.17 167
+11.30 133 2.8 207
+12.7 177 2.18 127
+12.23 177 3.3 215
+13.1 123,133 3.22 167
+13.24 209 3.24 283,411
+13.24-25 427 4.16 283
+13.32-33 249 4.21 131
+13.35 425 4.30 411
+14.2 207 5.2 283
+14.19 181 5.15 283
+14.21 127 5.17 283
+15.2 133,181 5.20-21 283
+15.4 133 6.14-15 283
+15.6 133 8.15 251,461
+15.10-11 405 8.23 411
+15.16 321 9.4 485
+15.22 133 10.9-10 495
+15.23 133 10.16 123
+15.39 489 10.22 207
+16.4 133 11.2 495
+17.28 261 11.5-6 283
+18.2 181 11.24-27 285
+18.25 127 11.26 325
+19.29 181 11.30 207
+19.32 181 11.30-31 207
+19.40 181 11.32 209
+20.1 181 11.36 147
+21.30 181 12.5 207,377
+21.40 293 14.5 131
+22.2 293 14.11 495
+22.8 537 15.19 133,205
+23.10 181 15.31 207
+24.5 181,301 16.21 123
+24.14 495 16.23 199
+24.15 413 16.25 129
+26.9 537
+26.14 293
+28.23 457
+Anna M. Vileno and Robert J. Wilkinson - 978-90-04-44342-6
+
+[Page 628]
+index of biblical references 605
+1Cor Gal
+1.18 133 3.5 133
+1.24 133 3.17 435
+2.4 133 3.26 251
+2.5 133 3.27 363
+2.13 475 4.4 475
+3.11 317 4.19 313,363
+4.20 133 4.24 129
+6.15 377 6.6 127
+8.6 147,365
+10.4 237,365 Eph
+10.9 365 1.5 469
+10.16-17 377 1.7 411
+11.29 503 1.9 487
+12.10 133 1.10 475
+12.12-13 377 1.14 411
+12.14-27 207 1.23 377
+12.27 377 2.2 209
+12.28 133 2.14 469
+12.29 133 2.16 377
+13.4 181 3.9 129,147,365,487
+14.19 127 3.16 133
+14.33 181 3.17 391
+15.26 385 3.20 133
+15.28 387 4.12 377
+15.54-56 385 4.13 377
+15.54-57 413 4.15 207,557
+4.16 377
+2Cor 5.6 209
+1.21 317 5.8 485
+3.3 129 5.30 377
+3.6 129 6.17 411
+3.7 129
+3.7-11 121 Phil
+3.18 121 1.23 483
+4.6 121,363 2.9 251,355
+6.5 181 2.11 485
+6.16 391 2.17-18 197
+8.18 123 3.21 259
+10.10 197
+10.12 475 Col
+11.26 287 1.11 133
+11.32 199 1.14 411
+12.9 259 1.15-16 365
+12.20 181 1.16 147
+13colophon 125 1.17 147,261
+1.18 377
+1.24 377
+1.26 129,487
+Anna M. Vileno and Robert J. Wilkinson - 978-90-04-44342-6
+
+[Page 629]
+606 index of biblical references
+Col(cont.) 4.11 207
+1.29 133 4.14 129,249
+2.2 131 4.14-15 199
+2.19 377 5.1 523
+3.6 209 6.16 489
+3.15 377 7.1 129
+4.14 123,125 7.7 489
+8.3-4 523
+1Thes 8.5 129
+1.5 131 8.9 285
+9.1 129
+2Thes 9.8 129
+2.3 163 9.9 523
+2.4 163 9.12 411
+2.9 197 9.15 411
+9.19 463
+1Tim 10.7 141
+2.6 411 11.39 165
+2.15 537 11.39-40 413
+5.10 455 11.40 165,463
+13.1 455
+2Tim 13.8 365
+1.7 461
+1.8 123 Jam
+1.9-11 487 1.1 209
+2.8 317,321 1.6 181
+2.13 215 1.8 181
+4.11 123 2.23 133
+4.17 131
+1Pet
+Tit 1.1 209
+1.8 455 1.8 197
+3.5 197 3.1 207
+3.14 181
+Philem 3.22 467
+24 123 4.9 455
+4.13 197
+Heb 4.17 207
+1.1 215
+1.2 147,365 2Pet
+1.3 139,261 1.4 363
+1.3-5 253
+1.6 469 1Jn
+1.10 137 1.1 137
+2.9 249,355 2.7 137
+2.14-15 413 2.13 137
+3.3 215 2.14 137
+3.13 391 2.20 317
+4.9 129 2.22 317
+Anna M. Vileno and Robert J. Wilkinson - 978-90-04-44342-6
+
+[Page 630]
+index of biblical references 607
+2.27 317,363 13.18 549
+3.1 391 14.14 413
+5.12 147 16.13 203
+19.9 127
+3Jn 19.11 391
+5 455 19.20 203
+20.1-2 413
+Jude 20.1-6 411
+9 225 20.4-7 253
+20.7 413
+Rev 20.10 203
+1.17 245 21.1 411
+1.19 127 21.2 549
+2.1 127 21.3 391
+2.8 127 21.6 381
+2.12 127 21.8 413
+2.18 127 21.12 325
+3.1 127 21.23 423
+3.7 127,321,411 21.23-24 485
+3.14 127,137,365 21.24 257
+5.5 321 21.26 257
+5.13 485 22.1-5 411
+7.5-8 343 22.3 285
+7.15 285,391,413 22.3-5 413
+8.1 177 22.5 423,485
+11.4 199 22.15 413
+11.6 203 22.16 317,321,411
+12.3 161,529 22.17 381
+12.7 225
+Anna M. Vileno and Robert J. Wilkinson - 978-90-04-44342-6
+
+---
+
+*Extracted from: Anna M Vileno Robert J Wilkinson Messias Puer_ Christian Knorr von Rosenroths Lost Exegesis of Kabbalistic Christianity BRILL (630 pages)*
+*Figures mentioned: Henry More, Éliphas Lévi*
+*Concepts mentioned: Emanation, Correspondence*

@@ -1,0 +1,108 @@
+---
+source: DE TRIBUS PRINCIPIIS, Oder Beschreibung Der Drey Principien Gttliches Wesens: Of the Three Principles of Divine Being, 1619, by Jacob Boehme
+source_category: Western Esotericism
+author: Weeks, Andrew;Penman, Leigh;
+total_pages: 876
+section: introduction 45
+section_number: 26
+date_processed: 2026-05-25T14:37:17.811799
+figures_mentioned: Jacob Böhme, Paracelsus
+concepts_mentioned: Tincture, Regeneration, Enlightenment
+---
+
+# DE TRIBUS PRINCIPIIS, Oder Beschreibung Der Drey Principien Gttliches Wesens: Of the Three Principles of Divine Being, 1619, by Jacob Boehme
+
+## Section: introduction 45
+
+introduction 45
+quickenedtheessences;butthesoulregressed,sothatacosmicflawawaited
+reparation:“Theworldwascreatedasaprincipiuminthefourthform,akind
+ofprogeny;betweenthefourthandfifth,paradisecameintobeing;andinthe
+fifth,theelement,encompassingtheeternallightofthedivinity,therebyopen-
+ing a second centrum in which the soul entered, but then looked back and
+becameenthralledtothefourthform”(25:25).
+BoehmehastransposedthefocusfromthehistoricaleventsofChrist’sdeath
+and resurrection to the speculative patterns of coherence that overlay time
+witheternityandthehumanwiththedivine.Toanswerthequestionwhyit
+isthatChristmustnotonlydiebutsuffernumeroustorments(25:18),hefirst
+intimatesthatthetormentsarepeculiarlymonitory.Wearetobeforewarned
+againstopeningtoowidethedooroftheimagination.Thenhedelineateshow
+eachtormentrecallsandinvertssomeaspectofthefallofAdamandEve.The
+authorenumeratestensuchparallelsandmorearesuggested.
+Thismodeofargumentationisbothalientousandinstructiveofthemen-
+talityof theauthor.Thescripturalargumentsof theearlierReformationhad
+been based on what was written (solascriptura).They had not led to agree-
+ment.Therefore,Boehmeandthecontemporarieswhoavidlyreadhimorpro-
+posedsimilarargumentsshiftedfromwhatwecalla“correspondencetheory
+of truth” (doctrines were to be proved by literal evidence in the Bible) to a
+coherencetheory,inspiredbybiblicaltypologiesandrevealedharmoniesinall
+theimaginedstructuresofcreationandrevelation.Thecoherencemodegains
+authorityfromparallelssuchastheabove.Forus,theyhavenobearingonthe
+points argued, since we understand only empirical evidence in support of a
+thesis.Thepurposeoftheparallelsandtheirsymboliccoherencewastoevoke
+a latent divine plan ordering the events of Christ’s crucifixion and resurrec-
+tionsothatdistancemightyieldtoproximity,evenwithrespecttoanominous
+present.
+Theauthorknowsthatwarhysteriaandhatredarecontagiousandcanonly
+beresistedthroughequanimityandintrospection:“Therefore,leteachgointo
+himselfandnottalkabouttheerrorsofothers.Leteachinsteadconverthim-
+selfandavoidtheangeroftheconsumingone.Otherwisehewillcryout:Oh!
+Babylonisinflames.Forthenhetoomustburn,beingflammableofthatsame
+fire.If yousenseathoughtinyouthatlongsforanger,thattooisinBabylon”
+(25:105).Heconcludes:“AndclearlyyouseewhatthefalsePhariseesandschol-
+arsofscripturedidto[Christ].Nothinghappenedinvainorbychance”(25:66).
+Thefalse“scholarsof scripture”arethepastorsandacademicexpertswhose
+quarrelshaveledtothemalaiseof war.Nothingishappeningbychance.The
+conformityofdisturbingneweventstobiblical-apocalypticprototypesisself-
+evidenttoBoehmeandhisadherents.
+
+[Page 57]
+46 introduction
+ChapterTwenty-Six.NominallydevotedtothecelebrationofPentecost,the
+chapterdiscussestheclarificationof Christ’sbody,touchesonthemiracleof
+theapostles’speakinginthetonguesof allnations,andturnstothe“Gateof
+Babylon”orconflictbetweenfeudingtheologicalfactions:“Nowletusreflecton
+themultiplesectsandconflictsinreligion:wheredotheycomefromandwhy
+dotheyarise?…Forgreatwarsanduprisingsarebeinginstigatedonaccount
+of faith…Eachpersecutestheotherforhisconviction”(26:13).Boehmeisin
+nodoubtthatthecauseispastoralandscholarlyauthoritarianism:“Toyouthe
+innocentonesIwanttodemonstratetheirpoison.Noticehowallthelaypeople
+lookstothemandthink:Itmustbetruewhatthepastorsays.Heisaservantof
+God,andrepresentshim.”(26:14).Whohasruinedthechurchof Christ?“The
+answeristhearroganceof thescholars”(26:16).Theauthorsetsoutinsome
+detailhisaccountofthecorruptioncausedbythescholar-theologiansandthe
+motivesof theirwilltopower.Thereplytotheircorruptionof thechurchis
+theauthorityof theHolySpirit,exemplifiedbythePentecostmiracle:“[Saint
+Peter]spokenotofthelawsofthePharisees,butfromthespiritofMosesand
+theprophets,fromthetempleof theHolySpirit.Thatgotthroughtoillumi-
+natethepoorsinner.Soyouwhonowteachpersecution,considerwhatyou
+havearisenfrom”(26:31).Thechapterendsinathunderingsermonofhelpless
+rageanddesperatepleading,understandableinviewofthedisastersaccurately
+anticipatedbytheauthor:“Thejudgementhangsoveryou.Theswordhasbeen
+bornandwantsitsfill.GooutfromBabylonandyouwilllive,thoughwehave
+alreadyseenafirethere.Babylonstandsinflame,butitwillnotconsumethe
+onewhogoesout”(26:34).
+ChapterTwenty-Seven.Thelastchaptermusttreatofthe“FinalJudgment,
+theResurrectionoftheDead,andEternalLife.”Thereisanappealtoreadersto
+assesswheretheystandwithGod:“lookandseeinwhatsortoffieldyoustand
+sothatyoumightbeassessedaswoodforthegreathouseof Godinhislove,
+notwoodforasteptobetroduponwiththefeet,or,muchworse,tobeused
+forkindling,leavingbehindonlyashesthatreturntoearth”(27:2).Theneces-
+sityofdecidingreflectsthetransienceoftheworld,andthisinturnleadsthe
+authortorecapitulatehismetaphysicsof thewillwhichembodiesbothfree-
+domandtransience.ThosewhofailtochooseGodwillsoonbeconsumedby
+bitterness:“Thusonegodlessonewillcursethenextforhavinginspiredhim
+(ingodlessness).Thelowlywillcursethehigherforhavingcausedhimtrouble.
+Thelaypersonwillcursetheclericwhohadvexedhimwithbadexamplesand
+seducedhimwithfalseteachings”(27:13).Theresponsesof theguiltyandthe
+justareevokedandtheradianteternallifeofthesavedsketchedout.
+Boehme instructs the reader on the appropriate response to the present
+Babylonianconfusion,onhowtoevaluatethecontendingvoices.Circumspec-
+
+[Page 58]
+
+---
+
+*Extracted from: DE TRIBUS PRINCIPIIS, Oder Beschreibung Der Drey Principien Gttliches Wesens: Of the Three Principles of Divine Being, 1619, by Jacob Boehme (876 pages)*
+*Figures mentioned: Jacob Böhme, Paracelsus*
+*Concepts mentioned: Tincture, Regeneration, Enlightenment*

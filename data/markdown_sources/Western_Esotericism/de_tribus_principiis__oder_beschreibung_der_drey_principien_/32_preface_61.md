@@ -1,0 +1,107 @@
+---
+source: DE TRIBUS PRINCIPIIS, Oder Beschreibung Der Drey Principien Gttliches Wesens: Of the Three Principles of Divine Being, 1619, by Jacob Boehme
+source_category: Western Esotericism
+author: Weeks, Andrew;Penman, Leigh;
+total_pages: 876
+section: preface 61
+section_number: 32
+date_processed: 2026-05-25T14:37:17.814017
+figures_mentioned: Jacob Böhme, Paracelsus
+concepts_mentioned: Tincture, Regeneration, Enlightenment
+---
+
+# DE TRIBUS PRINCIPIIS, Oder Beschreibung Der Drey Principien Gttliches Wesens: Of the Three Principles of Divine Being, 1619, by Jacob Boehme
+
+## Section: preface 61
+
+preface 61
+withinus,whomweconcealanddonotcaretoknow(thoughheisthemost
+harmfuloneofall,thrustingusintoGod’swrath;indeedheisnothingbutthe
+wrathofGod,hurlingusintotheeternalfireofanger,theeternalpainwithout
+salvation).Itisthereforemostnecessarythatweindeedmaketheacquaintance
+of that veryenemyand knowwhat and who he is,howhe acts,and howhe
+comesintous,andwhatrightandpossessionofhisliewithin,indeedthedevil’s
+rightandaccesstous;andhowitisthatthatonewholiveswithinusbecame
+friendswithourownenemy;andhowtheyfavoroneanother,bothbeingene-
+miesofGod;andhowitisthattheyperpetuallypersecuteustoourmurderand
+ruination.6
+10
+Moreover,itismostnecessarytostudyandknow|ourselvesforthesegrave
+5
+reasons: we see and ascertain that we are destined to perish and molder on
+accountof ourenemy(whoisoursandGod’senemy,dwellingwithinus;yes
+indeed,heishalfourhumanself);andifweareunabletovanquishhim,ifhe
+insteadgetstheupperhandandtakesprimacy,hewillthenthrustusintothe
+abysstoallthedevilsinordertodwellwiththemineternal,unquenchabletor-
+mentandpain,trulyintotheeternaldarkness,trulyintoahouseofdesolation,
+intoeternaloblivionfromeverythinggood,trulyintotheoppositionof God,
+withGodandallcreatureseternallyopposingus.
+Therearefarmoreurgentreasonswhywemustgettoknowourselvesand 11
+howweabideingoodandevil:wehavethepromiseof eternallife.If wecan
+overcomeourownenemyalongwiththedevil,wearedestinedtobeGod’schil-
+drenandabidewithhiminhisrealm,toliveeternallywithinGodalongwith
+his holy angels in eternal joy, clarity, glory, goodness in gentleness and bliss,
+withoutanycontactwithevilnoranyknowledgeof it.Tothiseffect,wehave
+thepromisethat,havingvanquishedourenemyandburiedhimintheearth,
+wewillgoforthinanewbodyinwhichthereshallbenosufferingontheDayof
+JudgmentandthatwewilldwellwithGodeternallyinconsummatelove,joy,
+affection,andbliss.
+Thusdowehaveknowledgeandawarenessthatwehavewithinustheratio- 12
+nalsoulthatabidesinGod’slovewhichisimperishable;andifitisnotdefeated
+by its opponent, if it instead does combat with its enemy as a knight of the
+spirit,andGodlendsitthesupportof hisHolySpirit,thesoulwillbeillumi-
+6 Incharacterizingthepersistentdangerposedbythedevil,B.shiftsfromevokingtheLutheran
+notionofAnfechtungorsatanicthreat,totheLutherandoctrinalpresenceofevilwithinthe
+humanbeingwhoissimuljustusetpeccator,bothjustifiedandasinner,toaquasiFlacian
+asseverationthatthefallenhumanbeingindeedisthedevil(cf.3:2).Onlyilluminationand
+rebirthcantilttheprecariousbalancebacktowardGod.
+
+[Page 73]
+62 vorrede
+FeindalseingeistlicherRitter,daßihrGOttwillbeystehenmitseinemheiligen
+Geiste,willsieerleuchtenundkräftigmachenzusiegenwiederalleihreFeinde,
+willfürsiestreiten,undinUberwindungdesBösensiealseinentreuenRitter
+glorificirenundcrönenmitderschönstenHimmels-Crone,(2.Tim.4:7.8.Apoc.
+2:10.)
+13 DieweilderMenschdennnunweiß,daßeraucheinzweyfacherMenschist,
+inGutemundBösenhabhaft,unddaßdasallesseinEigenthumist,undersel-
+berderselbeeinigeMenschist,derdaistgutundböse,unddaßervonbeyden
+dieBelohnung zu gewartenhat, daß woer alhie in diesem Lebenhinwirbet,
+6 auchgleichseineSeelehinfähret,wennerstirbet;|unddaßerinseinerArbeit,
+dieeralhiemachet,inKraftwirdamJüngstenTageaufstehen,unddarinnewig
+leben,auchdarinnenglorificiretwerden;unddaßdasselbeseineewigeSpeise
+undQuallseynwird:soistihmejahoch-nöthig,daßersichselberlerneken-
+nen,wieerbeschaffensey?undwovonihmederguteundböseTriebkomme?
+undwasdochdasGuteundBöseinihmeeigentselbersey?undwovonesher-
+rühre?wasdocheigentlichderUrsprungallesdesGutenundallesdesBösen
+sey?wovonoderwodurchdochdasBöseseyinTeufelundMenschen,sowol
+inalleCreaturkommen?sintemalderTeufeleinheiligerEngelgewesen,und
+derMenschauchguterschaffenwordenist,sichauchsolcheUnlustinallen
+Creaturenfindet,daßsichallesbeisset,schläget,stösset,quetschetundfeindet,
+undalsoeinWiederwilleinallenCreaturenist,undalsoeinieglicherCörper
+mitihmeselbstuneinsist;wiezusehen,daßsolchesnichtalleininlebendigen
+Creaturenist,sondernauchinSternen,Elementen,Erden,Steinen,Metallen,
+inHoltz,LaubundGras:inallenistGiftundBosheit;Undbefindetsich,daßes
+alsoseynmuß,sonstwärekeinLebennochBeweglichkeit,auchwäreweder
+Farbe, Tugend, Dickes oder Dünnes oder einigerley Empfindniß, sondern es
+wärealleseinNichts.
+14 In solcher hohen Betrachtung findet man, daß solches alles von und aus
+GOttselberherkomme,unddaßesseineseigenenWesenssey,dasErselber
+ist,undErselberaussichalsogeschaffenhabe:undgehöretdasBösezurBil-
+dung und zur Beweglichkeit, und das Gute zur Liebe, und das Strenge oder
+WiederwilligegehöretzurFreuden.SofernedieCreaturimLichteGOttesist,so
+machetdasZornigeoderWiederwilligedieaufsteigendeewigeFreude;soaber
+das Licht GOttes erlischet, machet es die ewige aufsteigende peinliche Qual
+unddashöllischeFeur.
+15 Dieses alles wie es sey, will ich alhie die 3 Göttlichen Principia beschrei-
+ben,darinnendannalleserkläretwird,wasGOttsey;wasdieNatursey;was
+dieCreaturensind?wasGOttesLiebeundSanftmuthist;wasGOttesWollen
+oderWilleist;wasderTeufelundZornGOttesist?inSumma,wasFreudund
+
+[Page 74]
+
+---
+
+*Extracted from: DE TRIBUS PRINCIPIIS, Oder Beschreibung Der Drey Principien Gttliches Wesens: Of the Three Principles of Divine Being, 1619, by Jacob Boehme (876 pages)*
+*Figures mentioned: Jacob Böhme, Paracelsus*
+*Concepts mentioned: Tincture, Regeneration, Enlightenment*

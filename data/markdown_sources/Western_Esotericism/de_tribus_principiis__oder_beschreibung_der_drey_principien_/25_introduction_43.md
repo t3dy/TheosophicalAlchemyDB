@@ -1,0 +1,108 @@
+---
+source: DE TRIBUS PRINCIPIIS, Oder Beschreibung Der Drey Principien Gttliches Wesens: Of the Three Principles of Divine Being, 1619, by Jacob Boehme
+source_category: Western Esotericism
+author: Weeks, Andrew;Penman, Leigh;
+total_pages: 876
+section: introduction 43
+section_number: 25
+date_processed: 2026-05-25T14:37:17.811478
+figures_mentioned: Jacob Böhme, Paracelsus
+concepts_mentioned: Tincture, Regeneration, Enlightenment
+---
+
+# DE TRIBUS PRINCIPIIS, Oder Beschreibung Der Drey Principien Gttliches Wesens: Of the Three Principles of Divine Being, 1619, by Jacob Boehme
+
+## Section: introduction 43
+
+introduction 43
+understandingof thesacraments.EventheSchwenckfeldianabstentionfrom
+Communionisrejected:“Donotinstituteformewiththebodyandbloodof
+Christanysortofabsentiaorabsence.”(23:54).Thosehemostbitterlyopposes
+(“highpriestsandPharisees”)areincapableofgivingvoicetotheHolySpirit;for
+“howwouldyougrantsuchthingswhenyouareabidinginthedesert,having
+choseninthatfinaltemptationthekingdomofthisworld?Whatarewetosay
+ofyou?Nosooneristheangerignitedthanyoucarrykindlingtoit.ForBaby-
+lonisinflames”(23:2).ComparedtotheCalvinistorAnabaptistpositionshe
+clearlyrejects,Boehme’sdefensesofinfantbaptism,realpresenceinthebread
+andwine,anddivineubiquityareinconformitywiththeFormulaofConcord;
+buttheyarecouchedintermsintendedtoreconciledoctrinalrivalry,yetcer-
+taintoprovoketheofficialpastorsandtheologiansuponwhomheconsistently
+heapsabuse:“Youshouldbeawarethattheinnerelementwhichcontainsthe
+entirebodyofthisworldbecametheeternalbodyofChrist”(23:20).Yetthegist
+ofhiscommentsmilitatesagainstrebellionagainstworldlyauthority:“Allthe
+angelsineachthronemustsubmittheirwilltothethroneandprincelyangel,
+ascanbeseeninthefallof Luciferandascanbeseenintheregionsof royal
+regimesofthisworld”(23:22).Creationandrevelationareon-going:“eventoday
+allthingsstillabideintheprocessofcreating”(23:25).
+Thehumbleauthorwhoreceivesdivineinsightmustparticipateintheon-
+going revelation. His audacious speculative symbols are brought to bear on
+behalf of an essentially orthodox defense of infant baptism. The new born
+infant,thrustalreadyintothedevil’sbattlezone,hasthevirginof wisdomto
+watchoverit,almostintheroleofafairygodmother:“Sheimmediatelyupon
+[thesoul’s]entranceintolifemovesintothatcentrumasacompaniontothe
+soulandadearbosomfriend,warningthesoulagainstungodlypaths,warn-
+ing it to turn around, and return into the covenant.” (23:47). His defense of
+thesacramentsismatchedbythefuryof hisdenunciationof theunregener-
+ateoneswhoaresettingBabyloninflame:“Oh,youscoundrel,stayawayfrom
+theappearanceofthetestamentsofChrist,unlessyoucanbringyourselftoit
+asanotherhumanbeing.Youarebutamurdererwhowillvexhisfellowaslong
+asyouareonthefalsepath”(23:59).
+ChapterTwenty-Four.Devotedtotruecontrition(wahrerBusse),thischap-
+teranticipatesalatertractdevotedtothesamesubjectandcontainingsomeof
+the same topics such as the necessity of seriousness and perseverance since
+the hopes of the contrite may not be fulfilled at once; the succor given by
+the virgin of divine wisdom; and the opposition of all who heap scorn on
+anyone who would convert. However, the chapter is in no small measure an
+apologyfortheauthorwho,despitehislackofeducationandworldlyinsignif-
+icance, has been chosen to reveal great things. Artfully, he evokes the devil’s
+
+[Page 55]
+44 introduction
+attemptstohinderhisauthorshipandenvisionstheallegoricaldesperationof
+thelostsoulinsearchofsalvation.Hisvisionofasatanicgardenfromwhichthe
+huntedsoulslongtoescapesuggeststheloomingimmediacyof thepolitical-
+confessionalcrisisunfoldinginPrague,acityvisitedbytheauthorduringadra-
+maticmomentofpoliticaltransition(24:10,note1).Boehme’svisionjoinsthe
+existentialperilofanysoulbesiegedbysinandevilwiththeimperilmentofhis
+contemporariesdriventodisasterbythoseswepttowardtheflamingworldof
+Babylon:“thewickedcaptivepeople[whomthedevil]hascaughtarehishunt-
+ingpack”(24:13).Sometimesthedevilisassociatedwithwarfeveringeneral,
+sometimeswithasovereignwhoserealmisthreatenedwithdivision:“Thedevil
+wouldstillbecontentlosingseveralsouls,eventhoughitwouldmakehisrealm
+smallerandweaker;buttheprospectofhiskingdombeingrentasunderinthe
+process he cannot abide” (24:15). The dangers facing the hunted soul reflect
+theauthor’sownsituation:“Icannotbecertainof mylifethiswayandwith-
+holdfrommyselfandmyfamilydailybreadandsustenance,andcanonlywait
+fordeathandbatheinpeople’sscorn”(24:18).Thesameperseverancewhich
+hasresolvedtheauthortocontinuewritingconstitutesthedeterminationhe
+advisestothetroubledbutcontritesoulinsearchofrebirth.Thechapterends
+witharecapitulationoftheallegoricalgrowthofthetreethroughstormsand
+challenges,animposingsymbolfromtheprefaceof Aurora.
+ChapterTwenty-Five.Boehmecontinueswiththetrainofthoughtbegunin
+ChapterTwenty-Twobyelucidatingtheguaranteeofredemptionaftercontri-
+tion:“theadventof[the]humangenesis[of]Christopenedforusadoorinto
+heaveninhisholybody,sothat,throughtruecontritionandfaithinhim,we
+canlikewiseclotheoursoulsinthenewwhitedressof innocenceinhislove”
+(25:8).ThisreferstoGodhavingbecomehumantoconquerdeath,hell,andsin
+throughtheuniquehistoricaleventsof hiscrucifixionandresurrection.One
+wonderswhetherBoehmeisveeringawayfromhisspeculativeestrangement
+of Christianteachingstowardaconventionalcontemplationof thesufferings
+anddeathoftheSavior,thatis,awayfrompatternandbacktostory.
+Thisisnotthecase.ThedeathandresurrectionofChristareconnectedback
+totheeternalbirthofthesourcespirits:“Writingabouttheeternalbirthinits
+origin at the beginning of this book, we addressed the birth of the essences
+andthesevenspiritsofeternalnature.Indoingso,weintimatedhowitisthat
+inthefourthformof theeternalbirth,thereisa✠birth,wheretheessences
+in the rotating wheel make a ✠ birth.They cannot go out.The eternal birth
+iseverywhereinallthings,inthebeingofallbeings.”(25:22).Christ’sdefeatof
+deathwascosmicandimmediateineachcenterofbeing:“alltheessencesinall
+thequalitieswereheightenedatthepointof overcomingdeath,whenChrist
+wastodefeatdeath,destroyhell,andbindthedevil”(25:23).Thecrossbirth
+
+[Page 56]
+
+---
+
+*Extracted from: DE TRIBUS PRINCIPIIS, Oder Beschreibung Der Drey Principien Gttliches Wesens: Of the Three Principles of Divine Being, 1619, by Jacob Boehme (876 pages)*
+*Figures mentioned: Jacob Böhme, Paracelsus*
+*Concepts mentioned: Tincture, Regeneration, Enlightenment*

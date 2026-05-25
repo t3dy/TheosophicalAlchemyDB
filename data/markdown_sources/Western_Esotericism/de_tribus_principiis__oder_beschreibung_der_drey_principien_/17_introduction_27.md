@@ -1,0 +1,108 @@
+---
+source: DE TRIBUS PRINCIPIIS, Oder Beschreibung Der Drey Principien Gttliches Wesens: Of the Three Principles of Divine Being, 1619, by Jacob Boehme
+source_category: Western Esotericism
+author: Weeks, Andrew;Penman, Leigh;
+total_pages: 876
+section: introduction 27
+section_number: 17
+date_processed: 2026-05-25T14:37:17.808657
+figures_mentioned: Jacob Böhme, Paracelsus
+concepts_mentioned: Tincture, Regeneration, Enlightenment
+---
+
+# DE TRIBUS PRINCIPIIS, Oder Beschreibung Der Drey Principien Gttliches Wesens: Of the Three Principles of Divine Being, 1619, by Jacob Boehme
+
+## Section: introduction 27
+
+introduction 27
+identifiedtheforce-qualitieswithmanifestationsofwill:therecouldbenosuf-
+fering,fear,desire,orjoywithouttheloveof lifeandthewilltomaintainand
+extendit.AswithSchopenhauer,oneparticularmanifestationof will,acces-
+sible in self-knowledge, is mysteriously central to all: “For you can see that
+there is the male and the female, and that each urgently desires to insemi-
+nateforthepurposeofmixing.Thisisagreatmystery”(8:40).20Boehmediffers,
+however,fromSchopenhauerinintimatingthatthewillwithitspowerfulmys-
+teriumconiunctionisisnotdrivensolelybylongingforsurvival,butfornothing
+lessthanparadise.Copulationvainlystrivestogeneratethe“childofparadise”:
+“Hence the origin of the two genders and their procreation.Yet they do not
+attaintheparadisiacalchildoflove.Thereisagreathunger;andthereforethe
+activityofprocreationgoesonwithgreatintensity”(8:44).
+Chapter Nine.While generally following and amending the chronology of
+Genesis, Boehme digresses in this chapter to characterize the nature of par-
+adise.TheGardenof Edenwasnotparadisebutaplacemuchlikeourworld.
+Paradisewasandisthedivineblissoftheobedientwill.Paradiseisthesecond
+principle,accessibleonlybywayof rebirth.Itisaccessiblewithin,thoughits
+presenceisnotmerelysubjective.Thefecundityof paradiseischaracterized
+bymetaphorsofthoughtandinnerfreedom,thoughtheeternalbirtheffected
+inthesequenceofqualitiesguaranteesthesubstantialrealityofparadise.The
+interiorityofparadiseisassertedwithbitterinvectiveagainstthefalsepastors
+whomisguidetheirflockandseducethemintostrife.Thethoughtsanddeeds
+ofthislifewillabideasanimmaterialfiguretoconfrontusintheafterlife.Those
+whocannotgraspBoehme’swritingsshouldnotscornthem,asthedevildoes.
+Theconditionofeternallifeisatstake.
+The invective is not a thoughtless aside but the key to understanding
+Boehme’s Spiritualism as a radical rejection of coercive force, derision, vio-
+lence, and religious laws and institutions. His inward turn is conditioned by
+everything repulsive in his surroundings from false clerical authority to war-
+20 Schopenhauerwrote:“Thereproductiveactistotheworldasthesolutionistotheriddle.
+Theworldisgreatinspaceandancientintimeandinexhaustibleinthemultiplicityof
+itsforms.Yetallofthisisnothingbutamanifestationofthewilltolive;moreover,the
+concentration,thefocusofthewill,isthereproductiveact.Init,theinnerbeingofthe
+worldisexpressedmostclearly”:“DerZeugungsaktverhältsichfernerzurWelt,wiedas
+WortzumRätsel.Nämlich,dieWeltistweitimRaumundaltinderZeitundvonuner-
+schöpflicherMannigfaltigkeitderGestalten.JedochistdiesAllesnurdieErscheinungdes
+WillenszumLeben;unddieKoncentration,derBrennpunktdiesesWillens,istderGen-
+erationsakt.IndiesemAktalsosprichtdasinnereWesenderWeltsichamdeutlichsten
+aus”(DieWeltalsWilleundVorstellungII,2,ZüricherAusgabe,WerkeinzehnBänden,vol.4
+(Zürich:Diogenes,1977),pp.667–668).(Translationisbytheauthor.)
+
+[Page 39]
+28 introduction
+fare,ridicule,foodshortages,andevenbadweather.Thematerialandhistorical
+darknessandtheeternal,transcendentlightconditiononeanotherthroughout
+hiswritings.Inaworldofcrushingsanctimony,want,andhostility,paradiseis
+therealmofconscience,freedom,mercy,hope,andjoy.Premisedonfaith,par-
+adiseisinterioryetwhollyreal.
+ChapterTen.Justaswemustunderstandtheouterfromtheinner,wemust
+interpretthepastwithrespecttoanaspirationalfuture.Thischaptercomprises
+Boehme’smostimpressiveevocationofaprimalangelicAdambeforethefall.
+Itsextravagantassertionsofhisfreedomfromnecessityandwantaremeaning-
+fulwithrespecttothedesiredfuturecondition.ThechaptergoesbeyondGen-
+esis2toextollthenearperfectionof primalandrogynousAdam.Theauthor
+justifieshisextravagancewiththebiblicaltropeof seeingbeyondthe“veilof
+Moses” (10:6). The veil shields the eyes and minds of the unspiritual from a
+divineilluminationunbearabletothosewhoarenotreborn.
+Just as every material is accorded a higher innate quality by Boehme, the
+firsthumanancestorwasnomerefoilsetupforarbitrarypunishmentbyavin-
+dictiveGod.WithAdam,Godintendedtogenerateanangelichosttoinhabit
+the realm devastated by Lucifer’s rebellion. Adam was made not from mere
+earthbutfromthelimbus,thematrixof earth,amassaorquintaessentia:he
+wasendowedforeternity.Hispowersderivedfromhis“knowledge”(10:11).His
+livingsoulwasaspiratedintohimbyGodandhisnourishmentwastobethe
+wordofGod.AdamknowinglynamedallthecreaturesledbeforehimbyGod.
+Herequirednosleepbutsaweverythingwithwideopeneyesdayandnight.
+BoehmeassuresusthatGodwouldnothavedestroyedsuchafinecreaturefor
+anythingaspettyasabitefromanapple.Norshouldanyoneimputerevenge
+ormaliciousforeknowledgetoGod.Adamwaspunishedbythespiritusmaioris
+mundi,thespiritofthegreatworld.
+Butwhydidthishavetohappen?Asalways,wecanfindtheanswerbylook-
+ingintoourselvesandintonature.Whatweseeintheformeris“thewillofhell
+andanger”andinthelatter“theenviouswillofallcreaturesofthisworldand
+whyallofthemoppose,envy,bite,andstrikeoneanother”(10:30).Weseethe
+drivenoppositionandconflictinherentinthewillinalllife,humanandnatu-
+ral.Contemplatingtheeternalsequence,weaskwhythemindwasnotmeant
+to“abideinOneWill,”thewillofGod.Theansweristhat,“ifthewillabidedin
+asinglebeing,themindwouldhaveonlyonequalitytoyieldthewill.Itwould
+bemotionlessandliestillandwoulddonothingbutthatsinglething.Inthis
+therewouldbenojoy,norknowledge,norart,norawarenessofanythingelse,
+indeednowisdom”(10:35).Envy,curiosity,longing,andfrustrationareinnate
+inthewill.Withoutitsrestlessstriving,therecouldbenojoy,knowledge,or
+wisdom,thoughthesecomedearlyintermsofsuffering.
+
+[Page 40]
+
+---
+
+*Extracted from: DE TRIBUS PRINCIPIIS, Oder Beschreibung Der Drey Principien Gttliches Wesens: Of the Three Principles of Divine Being, 1619, by Jacob Boehme (876 pages)*
+*Figures mentioned: Jacob Böhme, Paracelsus*
+*Concepts mentioned: Tincture, Regeneration, Enlightenment*
