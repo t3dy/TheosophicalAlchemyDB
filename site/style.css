@@ -1,8 +1,14 @@
 /* TheosophicalAlchemyDB — Enhanced Dark Scholarly Design */
 
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@400;600;700&family=Inter:wght@400;500;600&display=swap');
+
 :root {
     --parchment: #f5f0e8;
     --dark-text: #2c2418;
+
+    --font-heading: 'Outfit', 'Georgia', serif;
+    --font-ui:      'Inter', system-ui, sans-serif;
+    --font-body:    'Georgia', 'Garamond', serif;
     --burnt-sienna: #8b4513;
     --tan-gold: #d4a574;
     --deep-brown: #5c3d2e;
@@ -23,10 +29,14 @@
 }
 
 body {
-    font-family: 'Georgia', 'Garamond', serif;
+    font-family: var(--font-body);
     background-color: var(--parchment);
     color: var(--dark-text);
     line-height: 1.7;
+}
+
+h1, h2, h3, h4 {
+    font-family: var(--font-heading);
 }
 
 /* Header */
@@ -105,7 +115,7 @@ body {
     border: none;
     border-right: 1px solid var(--burnt-sienna);
     cursor: pointer;
-    font-family: 'Georgia', serif;
+    font-family: var(--font-ui);
     font-size: 0.95rem;
     transition: all 0.3s ease;
 }
@@ -364,7 +374,7 @@ body {
 }
 
 .leaflet-popup-content {
-    font-family: 'Georgia', serif;
+    font-family: var(--font-ui);
     color: var(--dark-text);
 }
 
@@ -441,7 +451,7 @@ body {
     border: none;
     outline: none;
     color: var(--parchment);
-    font-family: 'Georgia', serif;
+    font-family: var(--font-ui);
     font-size: 1rem;
 }
 
@@ -584,7 +594,7 @@ mark {
 }
 
 .filter-select {
-    font-family: 'Georgia', serif;
+    font-family: var(--font-ui);
     font-size: 0.88rem;
     padding: 0.35rem 0.6rem;
     background: var(--parchment);
@@ -600,7 +610,7 @@ mark {
 }
 
 .filter-reset {
-    font-family: 'Georgia', serif;
+    font-family: var(--font-ui);
     font-size: 0.82rem;
     padding: 0.38rem 0.9rem;
     background: transparent;
@@ -629,7 +639,7 @@ mark {
 .card-badge {
     display: inline-block;
     font-size: 0.68rem;
-    font-family: 'Georgia', serif;
+    font-family: var(--font-ui);
     text-transform: uppercase;
     letter-spacing: 0.08em;
     padding: 0.18em 0.55em;
@@ -667,7 +677,7 @@ mark {
     background: transparent;
     border: 1px solid var(--tan-gold);
     color: var(--burnt-sienna);
-    font-family: 'Georgia', serif;
+    font-family: var(--font-ui);
     font-size: 0.88rem;
     padding: 0.3rem 0.8rem;
     cursor: pointer;
@@ -976,7 +986,7 @@ mark {
     border-radius: 4px !important;
     padding: 0.5rem 0.65rem !important;
     color: var(--parchment) !important;
-    font-family: 'Georgia', serif !important;
+    font-family: var(--font-ui) !important;
     font-size: 0.85rem !important;
     line-height: 1.5 !important;
 }
