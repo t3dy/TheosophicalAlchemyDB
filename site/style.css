@@ -781,6 +781,128 @@ mark {
     font-size: 0.9rem;
 }
 
+/* ─── Map wrapper & side panel ────────────────────────────────────────────── */
+
+.map-wrapper {
+    position: relative;
+    display: flex;
+    gap: 1rem;
+    height: 600px;
+    margin-bottom: 1.5rem;
+}
+
+#map-container {
+    flex: 1;
+    border: 2px solid var(--burnt-sienna);
+    position: relative;
+}
+
+.map-side-panel {
+    width: 0;
+    background: var(--light-parchment);
+    border: 2px solid var(--burnt-sienna);
+    border-left: none;
+    overflow: hidden;
+    transition: width 0.35s cubic-bezier(0.25, 0.46, 0.45, 0.94);
+    display: flex;
+    flex-direction: column;
+}
+
+.map-side-panel.open {
+    width: 380px;
+}
+
+.map-side-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem;
+    border-bottom: 2px solid var(--tan-gold);
+    background: rgba(139, 69, 19, 0.08);
+    flex-shrink: 0;
+}
+
+.map-side-header h3 {
+    font-size: 1rem;
+    color: var(--burnt-sienna);
+    margin: 0;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+
+.map-side-close {
+    background: none;
+    border: none;
+    font-size: 1.2rem;
+    color: var(--burnt-sienna);
+    cursor: pointer;
+    padding: 0;
+    margin-left: 0.5rem;
+    flex-shrink: 0;
+    transition: color 0.2s;
+}
+
+.map-side-close:hover {
+    color: var(--accent-dark);
+}
+
+#map-side-content {
+    flex: 1;
+    overflow-y: auto;
+    padding: 1rem;
+}
+
+.map-side-item {
+    color: var(--dark-text);
+}
+
+.map-side-item p {
+    margin-bottom: 0.6rem;
+    font-size: 0.9rem;
+    line-height: 1.6;
+}
+
+.map-side-item h4 {
+    color: var(--burnt-sienna);
+    font-size: 0.95rem;
+    margin: 0.8rem 0 0.4rem;
+    border-bottom: 1px solid var(--tan-gold);
+    padding-bottom: 0.3rem;
+}
+
+.map-side-summary {
+    background: rgba(212, 165, 116, 0.1);
+    padding: 0.6rem;
+    border-left: 3px solid var(--tan-gold);
+    font-style: italic;
+    color: var(--deep-brown);
+}
+
+.map-side-summary p {
+    margin-bottom: 0.4rem;
+}
+
+.map-side-summary p:last-child {
+    margin-bottom: 0;
+}
+
+/* Leaflet tooltip styling */
+.map-tooltip {
+    background: rgba(44, 36, 24, 0.95) !important;
+    border: none !important;
+    border-radius: 4px !important;
+    padding: 0.5rem 0.65rem !important;
+    color: var(--parchment) !important;
+    font-family: 'Georgia', serif !important;
+    font-size: 0.85rem !important;
+    line-height: 1.5 !important;
+}
+
+.map-tooltip strong {
+    color: var(--tan-gold);
+}
+
 /* ─── Map legend ──────────────────────────────────────────────────────────── */
 
 .map-legend {

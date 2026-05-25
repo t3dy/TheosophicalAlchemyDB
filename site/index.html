@@ -211,7 +211,16 @@
                     <span class="legend-dot" style="background:#f39c12"></span> Learning Centers
                 </label>
             </div>
-            <div id="map-container" class="map-container"></div>
+            <div class="map-wrapper">
+                <div id="map-container" class="map-container"></div>
+                <div id="map-side-panel" class="map-side-panel">
+                    <div class="map-side-header">
+                        <h3 id="map-side-title">Select a location</h3>
+                        <button id="map-side-close" class="map-side-close">✕</button>
+                    </div>
+                    <div id="map-side-content" class="map-side-content"></div>
+                </div>
+            </div>
         </section>
 
         <!-- About Section -->

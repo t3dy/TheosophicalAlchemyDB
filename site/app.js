@@ -691,10 +691,13 @@ function initializeMap() {
             radius: 7, fillColor: '#e74c3c', color: '#c0392b',
             weight: 2, opacity: 1, fillOpacity: 0.8
         });
-        marker.bindPopup(buildMapPopup(figure.name,
-            `${figure.birth_year || '?'}–${figure.death_year || '?'} · ${figure.nationality || ''}`,
-            figure.summary));
-        marker.on('click', () => openModal('figures', figure.id, true));
+        const dateRange = `${figure.birth_year || '?'}–${figure.death_year || '?'}`;
+        marker.bindPopup(buildMapPopup(figure.name, `${dateRange} · ${figure.nationality || ''}`, figure.summary));
+        marker.bindTooltip(buildMapTooltip(figure.name, dateRange, figure.scholars), { sticky: true, className: 'map-tooltip' });
+        marker.on('click', () => {
+            openModal('figures', figure.id, true);
+            showMapSidePanel('figures', figure);
+        });
         figureGroup.addLayer(marker);
     });
 
@@ -705,10 +708,13 @@ function initializeMap() {
             radius: 6, fillColor: '#3498db', color: '#2980b9',
             weight: 2, opacity: 1, fillOpacity: 0.8
         });
-        marker.bindPopup(buildMapPopup(text.title,
-            `${text.year || ''} · ${text.language || ''} · ${text.location || ''}`,
-            text.summary));
-        marker.on('click', () => openModal('texts', text.id, true));
+        const year = text.year || '?';
+        marker.bindPopup(buildMapPopup(text.title, `${year} · ${text.language || ''} · ${text.location || ''}`, text.summary));
+        marker.bindTooltip(buildMapTooltip(text.title, year, []), { sticky: true, className: 'map-tooltip' });
+        marker.on('click', () => {
+            openModal('texts', text.id, true);
+            showMapSidePanel('texts', text);
+        });
         textGroup.addLayer(marker);
     });
 
@@ -773,8 +779,50 @@ function initializeMap() {
     });
 }
 
+function buildMapTooltip(name, dateOrYear, scholars) {
+    let tip = `<strong>${escHtml(name)}</strong><br><em>${escHtml(dateOrYear)}</em>`;
+    if (scholars?.length) tip += `<br><span style="font-size:0.8em">Scholars: ${escHtml(scholars.join(', '))}</span>`;
+    return tip;
+}
+
 function buildMapPopup(title, meta, summary) {
     return `<strong>${escHtml(title)}</strong><br>
             <em style="font-size:0.85em">${escHtml(meta)}</em><br>
             <span style="font-size:0.85em;color:#555">${escHtml(truncate(summary || '', 120))}</span>`;
+}
+
+function showMapSidePanel(section, item) {
+    const panel = document.getElementById('map-side-panel');
+    const title = document.getElementById('map-side-title');
+    const content = document.getElementById('map-side-content');
+
+    const name = item.name || item.title || '—';
+    title.textContent = name;
+
+    let html = '';
+    if (section === 'figures') {
+        html = `<div class="map-side-item">
+                    <p><strong>Life Span:</strong> ${item.birth_year || '?'}–${item.death_year || '?'}</p>
+                    <p><strong>Nationality:</strong> ${item.nationality || 'Unknown'}</p>
+                    <p><strong>Location:</strong> ${item.location || 'Unknown'}</p>
+                    ${item.primary_discipline ? `<p><strong>Discipline:</strong> ${escHtml(item.primary_discipline)}</p>` : ''}
+                    <p class="map-side-summary">${paragraphify(item.summary || '')}</p>
+                    ${item.embodied_practice ? `<h4>Practice</h4><p>${item.embodied_practice}</p>` : ''}
+                </div>`;
+    } else if (section === 'texts') {
+        html = `<div class="map-side-item">
+                    <p><strong>Year:</strong> ${item.year || '?'}</p>
+                    <p><strong>Language:</strong> ${item.language || 'Unknown'}</p>
+                    <p><strong>Location:</strong> ${item.location || 'Unknown'}</p>
+                    <p class="map-side-summary">${paragraphify(item.summary || '')}</p>
+                    ${item.historical_context ? `<h4>Historical Context</h4><p>${item.historical_context}</p>` : ''}
+                </div>`;
+    }
+
+    content.innerHTML = html;
+    panel.classList.add('open');
+
+    document.getElementById('map-side-close').addEventListener('click', () => {
+        panel.classList.remove('open');
+    });
 }
