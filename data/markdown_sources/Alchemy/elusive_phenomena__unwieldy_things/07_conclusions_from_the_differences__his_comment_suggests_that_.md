@@ -5,9 +5,9 @@ author: Unknown
 total_pages: 313
 section: conclusions from the differences. His comment suggests that he would not do so
 section_number: 7
-date_processed: 2026-05-25T14:20:24.949644
-figures_mentioned: Robert Boyle, Plotinus, Isaac Newton, Francis Bacon
-concepts_mentioned: Enlightenment, Regeneration, Correspondence
+date_processed: 2026-05-25T14:42:14.069987
+figures_mentioned: Robert Boyle, Francis Bacon, Plotinus, Isaac Newton
+concepts_mentioned: Correspondence, Enlightenment, Regeneration
 ---
 
 # Elusive Phenomena, Unwieldy Things
@@ -3707,5 +3707,5 @@ thought-transference, which occurred with mediums in 1882 and 1883.14 In the
 ---
 
 *Extracted from: Elusive Phenomena, Unwieldy Things (313 pages)*
-*Figures mentioned: Robert Boyle, Plotinus, Isaac Newton, Francis Bacon*
-*Concepts mentioned: Enlightenment, Regeneration, Correspondence*
+*Figures mentioned: Robert Boyle, Francis Bacon, Plotinus, Isaac Newton*
+*Concepts mentioned: Correspondence, Enlightenment, Regeneration*

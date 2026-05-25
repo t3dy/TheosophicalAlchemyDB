@@ -5,9 +5,9 @@ author: Unknown
 total_pages: 302
 section: chapter 11: Relation between “body” and “spirit”
 section_number: 25
-date_processed: 2026-05-25T14:24:29.939226
-figures_mentioned: Francis Bacon, Thomas Aquinas, Roger Bacon, Albertus Magnus, John Dee
-concepts_mentioned: Elixir of Life, Emanation, Calcination, Sublimation, Distillation, Quintessence, Correspondence, Fermentation, Dissolution
+date_processed: 2026-05-25T14:47:03.232618
+figures_mentioned: Thomas Aquinas, Albertus Magnus, Francis Bacon, John Dee, Roger Bacon
+concepts_mentioned: Correspondence, Calcination, Quintessence, Fermentation, Dissolution, Elixir of Life, Emanation, Distillation, Sublimation
 ---
 
 # Roger Bacon and the Incorruptible Human, 1220–1292
@@ -28,5 +28,5 @@ aBacon, Opus minus, 313
 ---
 
 *Extracted from: Roger Bacon and the Incorruptible Human, 1220–1292 (302 pages)*
-*Figures mentioned: Francis Bacon, Thomas Aquinas, Roger Bacon, Albertus Magnus, John Dee*
-*Concepts mentioned: Elixir of Life, Emanation, Calcination, Sublimation, Distillation, Quintessence, Correspondence, Fermentation, Dissolution*
+*Figures mentioned: Thomas Aquinas, Albertus Magnus, Francis Bacon, John Dee, Roger Bacon*
+*Concepts mentioned: Correspondence, Calcination, Quintessence, Fermentation, Dissolution, Elixir of Life, Emanation, Distillation, Sublimation*

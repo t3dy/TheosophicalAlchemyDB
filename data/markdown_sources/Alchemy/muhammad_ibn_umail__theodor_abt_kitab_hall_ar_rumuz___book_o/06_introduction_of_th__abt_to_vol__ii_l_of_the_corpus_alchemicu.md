@@ -5,9 +5,9 @@ author: Unknown
 total_pages: 401
 section: introduction of Th. Abt to Vol. II.l of the Corpus Alchemicum Arabicum
 section_number: 6
-date_processed: 2026-05-25T14:26:13.446039
-figures_mentioned: Robert Fludd, Paracelsus, Thomas Aquinas, Michael Maier, Zosimos of Panopolis
-concepts_mentioned: Rubedo, Coagulation, Emanation, Quaternio, Sublimation, Quintessence, Great Work, Distillation, Dissolution, Enlightenment
+date_processed: 2026-05-25T14:48:43.648590
+figures_mentioned: Thomas Aquinas, Robert Fludd, Zosimos of Panopolis, Michael Maier, Paracelsus
+concepts_mentioned: Quintessence, Coagulation, Enlightenment, Dissolution, Rubedo, Distillation, Great Work, Quaternio, Sublimation, Emanation
 ---
 
 # Muhammad Ibn Umail_ Theodor Abt Kitab Hall ar Rumuz _ Book of the Explanation of Symbols Psychological Commentary Living Human Heritage Publications
@@ -43,5 +43,5 @@ Concerning the Cultivation of Gold). Arabic text with translation and
 ---
 
 *Extracted from: Muhammad Ibn Umail_ Theodor Abt Kitab Hall ar Rumuz _ Book of the Explanation of Symbols Psychological Commentary Living Human Heritage Publications (401 pages)*
-*Figures mentioned: Robert Fludd, Paracelsus, Thomas Aquinas, Michael Maier, Zosimos of Panopolis*
-*Concepts mentioned: Rubedo, Coagulation, Emanation, Quaternio, Sublimation, Quintessence, Great Work, Distillation, Dissolution, Enlightenment*
+*Figures mentioned: Thomas Aquinas, Robert Fludd, Zosimos of Panopolis, Michael Maier, Paracelsus*
+*Concepts mentioned: Quintessence, Coagulation, Enlightenment, Dissolution, Rubedo, Distillation, Great Work, Quaternio, Sublimation, Emanation*

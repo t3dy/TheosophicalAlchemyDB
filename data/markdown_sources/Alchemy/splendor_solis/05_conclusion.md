@@ -5,9 +5,9 @@ author: Dr. Stephen Skinner
 total_pages: 148
 section: Conclusion
 section_number: 5
-date_processed: 2026-05-25T14:32:36.884587
-figures_mentioned: Johann Valentin Andreae, Jacques Gohory, Heinrich Cornelius Agrippa, Ashmole, Elias, Roger Bacon, Albertus Magnus, Heinrich Khunrath, Hermes Trismegistus, Adam McLean, Pico della Mirandola, Johannes Trithemius, Robert Boyle, Oswald Croll, Marsilio Ficino, Zosimos of Panopolis, John Dee, Paracelsus, Thomas Aquinas, Michael Maier
-concepts_mentioned: Tincture, Nigredo, Rubedo, Coagulation, Calcination, Lapis Philosophorum, Sublimation, Quintessence, Great Work, Albedo, Correspondence, Universal Solvent, Distillation, Dissolution, Enlightenment
+date_processed: 2026-05-25T14:54:25.238630
+figures_mentioned: Ashmole, Elias, Heinrich Khunrath, Robert Boyle, Adam McLean, Johannes Trithemius, Paracelsus, Hermes Trismegistus, Thomas Aquinas, Heinrich Cornelius Agrippa, Oswald Croll, Pico della Mirandola, Johann Valentin Andreae, Roger Bacon, Michael Maier, Jacques Gohory, Albertus Magnus, Marsilio Ficino, Zosimos of Panopolis, John Dee
+concepts_mentioned: Correspondence, Tincture, Calcination, Quintessence, Universal Solvent, Coagulation, Lapis Philosophorum, Dissolution, Enlightenment, Rubedo, Nigredo, Distillation, Great Work, Sublimation, Albedo
 ---
 
 # Splendor Solis
@@ -360,5 +360,5 @@ www.watkinspublishing.com
 ---
 
 *Extracted from: Splendor Solis (148 pages)*
-*Figures mentioned: Johann Valentin Andreae, Jacques Gohory, Heinrich Cornelius Agrippa, Ashmole, Elias, Roger Bacon, Albertus Magnus, Heinrich Khunrath, Hermes Trismegistus, Adam McLean, Pico della Mirandola, Johannes Trithemius, Robert Boyle, Oswald Croll, Marsilio Ficino, Zosimos of Panopolis, John Dee, Paracelsus, Thomas Aquinas, Michael Maier*
-*Concepts mentioned: Tincture, Nigredo, Rubedo, Coagulation, Calcination, Lapis Philosophorum, Sublimation, Quintessence, Great Work, Albedo, Correspondence, Universal Solvent, Distillation, Dissolution, Enlightenment*
+*Figures mentioned: Ashmole, Elias, Heinrich Khunrath, Robert Boyle, Adam McLean, Johannes Trithemius, Paracelsus, Hermes Trismegistus, Thomas Aquinas, Heinrich Cornelius Agrippa, Oswald Croll, Pico della Mirandola, Johann Valentin Andreae, Roger Bacon, Michael Maier, Jacques Gohory, Albertus Magnus, Marsilio Ficino, Zosimos of Panopolis, John Dee*
+*Concepts mentioned: Correspondence, Tincture, Calcination, Quintessence, Universal Solvent, Coagulation, Lapis Philosophorum, Dissolution, Enlightenment, Rubedo, Nigredo, Distillation, Great Work, Sublimation, Albedo*

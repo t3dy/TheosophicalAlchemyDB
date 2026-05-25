@@ -5,9 +5,9 @@ author: Israel Regardie & Chic Cicero & Sandra Tabatha Cicero
 total_pages: 225
 section: INTRODUCTION
 section_number: 2
-date_processed: 2026-05-25T14:19:38.824164
-figures_mentioned: Arthur Edward Waite, Hermes Trismegistus, Plotinus, Mary Anne Atwood, Isaac Newton, Jabir ibn Hayyan, Ashmole, Elias, Nicolas Flamel, Robert Fludd, Paracelsus, Marsilio Ficino, Roger Bacon, Albertus Magnus, Zosimos of Panopolis, Thomas Vaughan, John Dee
-concepts_mentioned: Nigredo, Spagyric Art, Laboratory Alchemy, Elixir of Life, Theosis, Quintessence, Correspondence, Great Work, Initiation, Fermentation, Theurgy, Enlightenment, Coagulation, Emanation, Sublimation, Secret Doctrine, Albedo, Universal Solvent, Color Symbolism, Tincture, Spiritual Alchemy, Regeneration, Calcination, Lapis Philosophorum, Divine Names, Distillation, Dissolution
+date_processed: 2026-05-25T14:41:13.552874
+figures_mentioned: Hermes Trismegistus, Albertus Magnus, Marsilio Ficino, Ashmole, Elias, Thomas Vaughan, John Dee, Arthur Edward Waite, Isaac Newton, Mary Anne Atwood, Plotinus, Robert Fludd, Jabir ibn Hayyan, Nicolas Flamel, Zosimos of Panopolis, Roger Bacon, Paracelsus
+concepts_mentioned: Correspondence, Universal Solvent, Nigredo, Spagyric Art, Initiation, Calcination, Spiritual Alchemy, Quintessence, Fermentation, Dissolution, Regeneration, Great Work, Secret Doctrine, Laboratory Alchemy, Sublimation, Divine Names, Coagulation, Lapis Philosophorum, Distillation, Tincture, Color Symbolism, Theurgy, Enlightenment, Elixir of Life, Theosis, Emanation, Albedo
 ---
 
 # Gold: Israel Regardie's Lost Book of Alchemy
@@ -112,5 +112,5 @@ Autumnal Equinox 2013
 ---
 
 *Extracted from: Gold: Israel Regardie's Lost Book of Alchemy (225 pages)*
-*Figures mentioned: Arthur Edward Waite, Hermes Trismegistus, Plotinus, Mary Anne Atwood, Isaac Newton, Jabir ibn Hayyan, Ashmole, Elias, Nicolas Flamel, Robert Fludd, Paracelsus, Marsilio Ficino, Roger Bacon, Albertus Magnus, Zosimos of Panopolis, Thomas Vaughan, John Dee*
-*Concepts mentioned: Nigredo, Spagyric Art, Laboratory Alchemy, Elixir of Life, Theosis, Quintessence, Correspondence, Great Work, Initiation, Fermentation, Theurgy, Enlightenment, Coagulation, Emanation, Sublimation, Secret Doctrine, Albedo, Universal Solvent, Color Symbolism, Tincture, Spiritual Alchemy, Regeneration, Calcination, Lapis Philosophorum, Divine Names, Distillation, Dissolution*
+*Figures mentioned: Hermes Trismegistus, Albertus Magnus, Marsilio Ficino, Ashmole, Elias, Thomas Vaughan, John Dee, Arthur Edward Waite, Isaac Newton, Mary Anne Atwood, Plotinus, Robert Fludd, Jabir ibn Hayyan, Nicolas Flamel, Zosimos of Panopolis, Roger Bacon, Paracelsus*
+*Concepts mentioned: Correspondence, Universal Solvent, Nigredo, Spagyric Art, Initiation, Calcination, Spiritual Alchemy, Quintessence, Fermentation, Dissolution, Regeneration, Great Work, Secret Doctrine, Laboratory Alchemy, Sublimation, Divine Names, Coagulation, Lapis Philosophorum, Distillation, Tincture, Color Symbolism, Theurgy, Enlightenment, Elixir of Life, Theosis, Emanation, Albedo*

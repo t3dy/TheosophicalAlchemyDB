@@ -5,9 +5,9 @@ author: Unknown
 total_pages: 313
 section: conclusions on psychical research, but rather to show the value of this field of
 section_number: 9
-date_processed: 2026-05-25T14:20:24.951427
-figures_mentioned: Robert Boyle, Plotinus, Isaac Newton, Francis Bacon
-concepts_mentioned: Enlightenment, Regeneration, Correspondence
+date_processed: 2026-05-25T14:42:14.071711
+figures_mentioned: Robert Boyle, Francis Bacon, Plotinus, Isaac Newton
+concepts_mentioned: Correspondence, Enlightenment, Regeneration
 ---
 
 # Elusive Phenomena, Unwieldy Things
@@ -39,5 +39,5 @@ the table. Only the table without the indicator could move, which led to Faraday
 ---
 
 *Extracted from: Elusive Phenomena, Unwieldy Things (313 pages)*
-*Figures mentioned: Robert Boyle, Plotinus, Isaac Newton, Francis Bacon*
-*Concepts mentioned: Enlightenment, Regeneration, Correspondence*
+*Figures mentioned: Robert Boyle, Francis Bacon, Plotinus, Isaac Newton*
+*Concepts mentioned: Correspondence, Enlightenment, Regeneration*

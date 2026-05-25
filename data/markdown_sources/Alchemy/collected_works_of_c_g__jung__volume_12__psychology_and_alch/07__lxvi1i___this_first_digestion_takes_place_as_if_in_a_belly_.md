@@ -5,9 +5,9 @@ author: Jung, C. G., Hull, R. F.C., Adler, Gerhard
 total_pages: 618
 section: §LXVI1I: "This first digestion takes place as if in a belly."
 section_number: 7
-date_processed: 2026-05-25T14:31:20.651836
-figures_mentioned: Arthur Edward Waite, Hermes Trismegistus, Pico della Mirandola, Plotinus, Jabir ibn Hayyan, Paracelsus, Thomas Aquinas, Arnaldus de Villanova, Marsilio Ficino, Michael Maier, William Blake, Albertus Magnus, Meister Eckhart, Heinrich Khunrath
-concepts_mentioned: Nigredo, Elixir of Life, Quintessence, Correspondence, Initiation, Fermentation, Enlightenment, Citrinitas, Coagulation, Emanation, Alchemical Hermaphrodite, Sublimation, Albedo, Calcinatio, Putrefactio, Tincture, Rubedo, Regeneration, Calcination, Lapis Philosophorum, Distillation, Dissolution
+date_processed: 2026-05-25T14:53:10.912597
+figures_mentioned: Hermes Trismegistus, Thomas Aquinas, Albertus Magnus, Marsilio Ficino, Heinrich Khunrath, Arthur Edward Waite, Arnaldus de Villanova, William Blake, Meister Eckhart, Plotinus, Pico della Mirandola, Jabir ibn Hayyan, Michael Maier, Paracelsus
+concepts_mentioned: Correspondence, Nigredo, Putrefactio, Initiation, Citrinitas, Calcination, Quintessence, Fermentation, Dissolution, Regeneration, Sublimation, Coagulation, Lapis Philosophorum, Alchemical Hermaphrodite, Distillation, Rubedo, Tincture, Enlightenment, Elixir of Life, Calcinatio, Emanation, Albedo
 ---
 
 # Collected Works of C.G. Jung, Volume 12: Psychology and Alchemy
@@ -228,5 +228,5 @@ us access to the text of the Codex Berolinensis. There, in an
 ---
 
 *Extracted from: Collected Works of C.G. Jung, Volume 12: Psychology and Alchemy (618 pages)*
-*Figures mentioned: Arthur Edward Waite, Hermes Trismegistus, Pico della Mirandola, Plotinus, Jabir ibn Hayyan, Paracelsus, Thomas Aquinas, Arnaldus de Villanova, Marsilio Ficino, Michael Maier, William Blake, Albertus Magnus, Meister Eckhart, Heinrich Khunrath*
-*Concepts mentioned: Nigredo, Elixir of Life, Quintessence, Correspondence, Initiation, Fermentation, Enlightenment, Citrinitas, Coagulation, Emanation, Alchemical Hermaphrodite, Sublimation, Albedo, Calcinatio, Putrefactio, Tincture, Rubedo, Regeneration, Calcination, Lapis Philosophorum, Distillation, Dissolution*
+*Figures mentioned: Hermes Trismegistus, Thomas Aquinas, Albertus Magnus, Marsilio Ficino, Heinrich Khunrath, Arthur Edward Waite, Arnaldus de Villanova, William Blake, Meister Eckhart, Plotinus, Pico della Mirandola, Jabir ibn Hayyan, Michael Maier, Paracelsus*
+*Concepts mentioned: Correspondence, Nigredo, Putrefactio, Initiation, Citrinitas, Calcination, Quintessence, Fermentation, Dissolution, Regeneration, Sublimation, Coagulation, Lapis Philosophorum, Alchemical Hermaphrodite, Distillation, Rubedo, Tincture, Enlightenment, Elixir of Life, Calcinatio, Emanation, Albedo*

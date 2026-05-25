@@ -5,9 +5,9 @@ author: Unknown
 total_pages: 313
 section: Introduction: Practices, Strategies,
 section_number: 1
-date_processed: 2026-05-25T14:20:24.944304
-figures_mentioned: Robert Boyle, Plotinus, Isaac Newton, Francis Bacon
-concepts_mentioned: Enlightenment, Regeneration, Correspondence
+date_processed: 2026-05-25T14:42:14.066061
+figures_mentioned: Robert Boyle, Francis Bacon, Plotinus, Isaac Newton
+concepts_mentioned: Correspondence, Enlightenment, Regeneration
 ---
 
 # Elusive Phenomena, Unwieldy Things
@@ -1621,5 +1621,5 @@ rays is treated without an account of the physical causes of refraction. Finally
 ---
 
 *Extracted from: Elusive Phenomena, Unwieldy Things (313 pages)*
-*Figures mentioned: Robert Boyle, Plotinus, Isaac Newton, Francis Bacon*
-*Concepts mentioned: Enlightenment, Regeneration, Correspondence*
+*Figures mentioned: Robert Boyle, Francis Bacon, Plotinus, Isaac Newton*
+*Concepts mentioned: Correspondence, Enlightenment, Regeneration*

@@ -5,9 +5,9 @@ author: Unknown
 total_pages: 302
 section: chapter 4 of the Epistola does not appear elsewhere in Bacon’s genuine
 section_number: 28
-date_processed: 2026-05-25T14:24:29.940082
-figures_mentioned: Francis Bacon, Thomas Aquinas, Roger Bacon, Albertus Magnus, John Dee
-concepts_mentioned: Elixir of Life, Emanation, Calcination, Sublimation, Distillation, Quintessence, Correspondence, Fermentation, Dissolution
+date_processed: 2026-05-25T14:47:03.233487
+figures_mentioned: Thomas Aquinas, Albertus Magnus, Francis Bacon, John Dee, Roger Bacon
+concepts_mentioned: Correspondence, Calcination, Quintessence, Fermentation, Dissolution, Elixir of Life, Emanation, Distillation, Sublimation
 ---
 
 # Roger Bacon and the Incorruptible Human, 1220–1292
@@ -1860,5 +1860,5 @@ Secret seven, 130–132 University of Paris, 183
 ---
 
 *Extracted from: Roger Bacon and the Incorruptible Human, 1220–1292 (302 pages)*
-*Figures mentioned: Francis Bacon, Thomas Aquinas, Roger Bacon, Albertus Magnus, John Dee*
-*Concepts mentioned: Elixir of Life, Emanation, Calcination, Sublimation, Distillation, Quintessence, Correspondence, Fermentation, Dissolution*
+*Figures mentioned: Thomas Aquinas, Albertus Magnus, Francis Bacon, John Dee, Roger Bacon*
+*Concepts mentioned: Correspondence, Calcination, Quintessence, Fermentation, Dissolution, Elixir of Life, Emanation, Distillation, Sublimation*

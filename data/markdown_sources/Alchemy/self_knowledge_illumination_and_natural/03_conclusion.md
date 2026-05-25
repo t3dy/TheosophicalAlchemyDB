@@ -5,9 +5,9 @@ author: Unknown
 total_pages: 32
 section: Conclusion
 section_number: 3
-date_processed: 2026-05-25T14:31:29.681941
-figures_mentioned: Pico della Mirandola, Plotinus, Thomas Aquinas, Marsilio Ficino, Giordano Bruno
-concepts_mentioned: Theosis, Mystical Union, Initiation, Dissolution, Enlightenment
+date_processed: 2026-05-25T14:53:18.702695
+figures_mentioned: Thomas Aquinas, Marsilio Ficino, Giordano Bruno, Plotinus, Pico della Mirandola
+concepts_mentioned: Mystical Union, Enlightenment, Dissolution, Theosis, Initiation
 ---
 
 # Self Knowledge_Illumination_and_Natural
@@ -388,5 +388,5 @@ http://www.brown.edu/Departments/Italian_Studies/pico/index.html
 ---
 
 *Extracted from: Self Knowledge_Illumination_and_Natural (32 pages)*
-*Figures mentioned: Pico della Mirandola, Plotinus, Thomas Aquinas, Marsilio Ficino, Giordano Bruno*
-*Concepts mentioned: Theosis, Mystical Union, Initiation, Dissolution, Enlightenment*
+*Figures mentioned: Thomas Aquinas, Marsilio Ficino, Giordano Bruno, Plotinus, Pico della Mirandola*
+*Concepts mentioned: Mystical Union, Enlightenment, Dissolution, Theosis, Initiation*

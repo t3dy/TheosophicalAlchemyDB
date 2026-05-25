@@ -5,9 +5,9 @@ author: Mitchell, Robert
 total_pages: 320
 section: introduction to Thomas Trotter, Drunkenness and Its Effects, ix–xliii; Porter, “
 section_number: 13
-date_processed: 2026-05-25T14:25:22.640450
-figures_mentioned: Arthur Edward Waite, Isaac Newton, Francis Bacon, Paracelsus, Robert Boyle, Giordano Bruno, William Blake
-concepts_mentioned: Tincture, Correspondence, Fermentation, Dissolution, Enlightenment
+date_processed: 2026-05-25T14:47:53.869874
+figures_mentioned: Francis Bacon, Robert Boyle, Arthur Edward Waite, Isaac Newton, William Blake, Giordano Bruno, Paracelsus
+concepts_mentioned: Correspondence, Tincture, Fermentation, Enlightenment, Dissolution
 ---
 
 # Experimental Life
@@ -195,5 +195,5 @@ Beck,Risk Society.
 ---
 
 *Extracted from: Experimental Life (320 pages)*
-*Figures mentioned: Arthur Edward Waite, Isaac Newton, Francis Bacon, Paracelsus, Robert Boyle, Giordano Bruno, William Blake*
-*Concepts mentioned: Tincture, Correspondence, Fermentation, Dissolution, Enlightenment*
+*Figures mentioned: Francis Bacon, Robert Boyle, Arthur Edward Waite, Isaac Newton, William Blake, Giordano Bruno, Paracelsus*
+*Concepts mentioned: Correspondence, Tincture, Fermentation, Enlightenment, Dissolution*

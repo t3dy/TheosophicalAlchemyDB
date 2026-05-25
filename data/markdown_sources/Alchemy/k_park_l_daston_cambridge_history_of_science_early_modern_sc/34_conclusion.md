@@ -5,9 +5,9 @@ author: Unknown
 total_pages: 857
 section: CONCLUSION
 section_number: 34
-date_processed: 2026-05-25T14:22:17.319443
-figures_mentioned: Joseph Glanvill, Giambattista della Porta, Brian Vickers, Heinrich Cornelius Agrippa, Francis Bacon, Roger Bacon, Albertus Magnus, Henry More, Heinrich Khunrath, Hermes Trismegistus, Pico della Mirandola, Isaac Newton, Robert Boyle, Tycho Brahe, Marsilio Ficino, Thomas Vaughan, Catherine de Medici, John Dee, Plotinus, Bernard Palissy, Robert Fludd, Paracelsus, Thomas Aquinas, Giordano Bruno, Symphorien Champier
-concepts_mentioned: Tincture, Spiritual Alchemy, Calcination, Distillation, Quintessence, Great Work, Correspondence, Fermentation, Dissolution, Enlightenment
+date_processed: 2026-05-25T14:44:35.255012
+figures_mentioned: Francis Bacon, Heinrich Khunrath, Robert Boyle, Symphorien Champier, Giordano Bruno, Catherine de Medici, Paracelsus, Hermes Trismegistus, Thomas Aquinas, Heinrich Cornelius Agrippa, Joseph Glanvill, Isaac Newton, Pico della Mirandola, Roger Bacon, Albertus Magnus, Marsilio Ficino, Giambattista della Porta, Bernard Palissy, Henry More, John Dee, Brian Vickers, Plotinus, Robert Fludd, Tycho Brahe, Thomas Vaughan
+concepts_mentioned: Correspondence, Tincture, Calcination, Spiritual Alchemy, Quintessence, Fermentation, Enlightenment, Dissolution, Distillation, Great Work
 ---
 
 # K Park L Daston Cambridge History of Science Early Modern Science Vol 3 libgen li
@@ -2356,5 +2356,5 @@ andperversion.
 ---
 
 *Extracted from: K Park L Daston Cambridge History of Science Early Modern Science Vol 3 libgen li (857 pages)*
-*Figures mentioned: Joseph Glanvill, Giambattista della Porta, Brian Vickers, Heinrich Cornelius Agrippa, Francis Bacon, Roger Bacon, Albertus Magnus, Henry More, Heinrich Khunrath, Hermes Trismegistus, Pico della Mirandola, Isaac Newton, Robert Boyle, Tycho Brahe, Marsilio Ficino, Thomas Vaughan, Catherine de Medici, John Dee, Plotinus, Bernard Palissy, Robert Fludd, Paracelsus, Thomas Aquinas, Giordano Bruno, Symphorien Champier*
-*Concepts mentioned: Tincture, Spiritual Alchemy, Calcination, Distillation, Quintessence, Great Work, Correspondence, Fermentation, Dissolution, Enlightenment*
+*Figures mentioned: Francis Bacon, Heinrich Khunrath, Robert Boyle, Symphorien Champier, Giordano Bruno, Catherine de Medici, Paracelsus, Hermes Trismegistus, Thomas Aquinas, Heinrich Cornelius Agrippa, Joseph Glanvill, Isaac Newton, Pico della Mirandola, Roger Bacon, Albertus Magnus, Marsilio Ficino, Giambattista della Porta, Bernard Palissy, Henry More, John Dee, Brian Vickers, Plotinus, Robert Fludd, Tycho Brahe, Thomas Vaughan*
+*Concepts mentioned: Correspondence, Tincture, Calcination, Spiritual Alchemy, Quintessence, Fermentation, Enlightenment, Dissolution, Distillation, Great Work*

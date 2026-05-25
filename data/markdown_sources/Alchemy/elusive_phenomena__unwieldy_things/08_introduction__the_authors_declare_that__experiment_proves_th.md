@@ -5,9 +5,9 @@ author: Unknown
 total_pages: 313
 section: Introduction, the authors declare that “Experiment proves that telepathy […] is 
 section_number: 8
-date_processed: 2026-05-25T14:20:24.950911
-figures_mentioned: Robert Boyle, Plotinus, Isaac Newton, Francis Bacon
-concepts_mentioned: Enlightenment, Regeneration, Correspondence
+date_processed: 2026-05-25T14:42:14.071282
+figures_mentioned: Robert Boyle, Francis Bacon, Plotinus, Isaac Newton
+concepts_mentioned: Correspondence, Enlightenment, Regeneration
 ---
 
 # Elusive Phenomena, Unwieldy Things
@@ -439,5 +439,5 @@ The account presented here is far from exhaustive; its aim is not to present gen
 ---
 
 *Extracted from: Elusive Phenomena, Unwieldy Things (313 pages)*
-*Figures mentioned: Robert Boyle, Plotinus, Isaac Newton, Francis Bacon*
-*Concepts mentioned: Enlightenment, Regeneration, Correspondence*
+*Figures mentioned: Robert Boyle, Francis Bacon, Plotinus, Isaac Newton*
+*Concepts mentioned: Correspondence, Enlightenment, Regeneration*

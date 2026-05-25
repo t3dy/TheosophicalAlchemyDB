@@ -5,9 +5,9 @@ author: Unknown
 total_pages: 313
 section: preface he also describes the aim of book III: “The retinal tunic is established
 section_number: 2
-date_processed: 2026-05-25T14:20:24.946703
-figures_mentioned: Robert Boyle, Plotinus, Isaac Newton, Francis Bacon
-concepts_mentioned: Enlightenment, Regeneration, Correspondence
+date_processed: 2026-05-25T14:42:14.067280
+figures_mentioned: Robert Boyle, Francis Bacon, Plotinus, Isaac Newton
+concepts_mentioned: Correspondence, Enlightenment, Regeneration
 ---
 
 # Elusive Phenomena, Unwieldy Things
@@ -312,5 +312,5 @@ illegible here owing to a poor impression in the copy I examined.) Again, Schein
 ---
 
 *Extracted from: Elusive Phenomena, Unwieldy Things (313 pages)*
-*Figures mentioned: Robert Boyle, Plotinus, Isaac Newton, Francis Bacon*
-*Concepts mentioned: Enlightenment, Regeneration, Correspondence*
+*Figures mentioned: Robert Boyle, Francis Bacon, Plotinus, Isaac Newton*
+*Concepts mentioned: Correspondence, Enlightenment, Regeneration*

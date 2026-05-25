@@ -5,9 +5,9 @@ author:
 total_pages: 57
 section: Conclusion L
 section_number: 2
-date_processed: 2026-05-25T14:24:39.933429
-figures_mentioned: Nicolas Flamel, Zosimos of Panopolis, Roger Bacon
-concepts_mentioned: Calcination, Sublimation, Distillation, Dissolution, Enlightenment
+date_processed: 2026-05-25T14:47:12.671460
+figures_mentioned: Zosimos of Panopolis, Roger Bacon, Nicolas Flamel
+concepts_mentioned: Calcination, Enlightenment, Dissolution, Distillation, Sublimation
 ---
 
 # 
@@ -871,5 +871,5 @@ O
 ---
 
 *Extracted from:  (57 pages)*
-*Figures mentioned: Nicolas Flamel, Zosimos of Panopolis, Roger Bacon*
-*Concepts mentioned: Calcination, Sublimation, Distillation, Dissolution, Enlightenment*
+*Figures mentioned: Zosimos of Panopolis, Roger Bacon, Nicolas Flamel*
+*Concepts mentioned: Calcination, Enlightenment, Dissolution, Distillation, Sublimation*

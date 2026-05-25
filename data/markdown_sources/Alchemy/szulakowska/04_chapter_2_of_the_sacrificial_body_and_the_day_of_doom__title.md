@@ -5,9 +5,9 @@ author: Unknown
 total_pages: 87
 section: Chapter 2 of The Sacrificial Body and the Day of Doom, titled The Alchemical Euc
 section_number: 4
-date_processed: 2026-05-25T14:33:09.574566
-figures_mentioned: Pico della Mirandola, Plotinus, Robert Fludd, Paracelsus, Marsilio Ficino, Roger Bacon, Michael Maier, John Dee, Heinrich Khunrath
-concepts_mentioned: Tincture, Spiritual Alchemy, Regeneration, Coagulation, Emanation, Inner Transformation, Distillation, Quintessence, Great Work, Macrocosm-Microcosm, Initiation, Theurgy, Dissolution, Enlightenment
+date_processed: 2026-05-25T14:54:54.420086
+figures_mentioned: Marsilio Ficino, Heinrich Khunrath, John Dee, Plotinus, Pico della Mirandola, Robert Fludd, Roger Bacon, Michael Maier, Paracelsus
+concepts_mentioned: Tincture, Macrocosm-Microcosm, Spiritual Alchemy, Quintessence, Theurgy, Coagulation, Enlightenment, Dissolution, Regeneration, Emanation, Inner Transformation, Distillation, Great Work, Initiation
 ---
 
 # Szulakowska
@@ -107,5 +107,5 @@ metaphor for their own spiritual and scientific work.
 ---
 
 *Extracted from: Szulakowska (87 pages)*
-*Figures mentioned: Pico della Mirandola, Plotinus, Robert Fludd, Paracelsus, Marsilio Ficino, Roger Bacon, Michael Maier, John Dee, Heinrich Khunrath*
-*Concepts mentioned: Tincture, Spiritual Alchemy, Regeneration, Coagulation, Emanation, Inner Transformation, Distillation, Quintessence, Great Work, Macrocosm-Microcosm, Initiation, Theurgy, Dissolution, Enlightenment*
+*Figures mentioned: Marsilio Ficino, Heinrich Khunrath, John Dee, Plotinus, Pico della Mirandola, Robert Fludd, Roger Bacon, Michael Maier, Paracelsus*
+*Concepts mentioned: Tincture, Macrocosm-Microcosm, Spiritual Alchemy, Quintessence, Theurgy, Coagulation, Enlightenment, Dissolution, Regeneration, Emanation, Inner Transformation, Distillation, Great Work, Initiation*

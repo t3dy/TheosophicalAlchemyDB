@@ -5,9 +5,9 @@ author: Pierre
 total_pages: 64
 section: conclusion certain [¼ ].
 section_number: 1
-date_processed: 2026-05-25T14:26:18.178183
+date_processed: 2026-05-25T14:48:47.766765
 figures_mentioned: Albertus Magnus, Zosimos of Panopolis, Roger Bacon
-concepts_mentioned: Tincture, Coagulation, Calcination, Sublimation, Distillation
+concepts_mentioned: Tincture, Calcination, Coagulation, Distillation, Sublimation
 ---
 
 # Microsoft Word - Visualization in Medieval Alchemy.mht
@@ -1122,4 +1122,4 @@ by M. Mertens, Les Belles Lettres, Paris.
 
 *Extracted from: Microsoft Word - Visualization in Medieval Alchemy.mht (64 pages)*
 *Figures mentioned: Albertus Magnus, Zosimos of Panopolis, Roger Bacon*
-*Concepts mentioned: Tincture, Coagulation, Calcination, Sublimation, Distillation*
+*Concepts mentioned: Tincture, Calcination, Coagulation, Distillation, Sublimation*

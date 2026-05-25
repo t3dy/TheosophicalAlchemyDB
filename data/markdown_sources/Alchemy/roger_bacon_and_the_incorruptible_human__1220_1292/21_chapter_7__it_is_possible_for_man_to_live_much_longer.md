@@ -5,9 +5,9 @@ author: Unknown
 total_pages: 302
 section: chapter 7: It is possible for man to live much longer
 section_number: 21
-date_processed: 2026-05-25T14:24:29.938013
-figures_mentioned: Francis Bacon, Thomas Aquinas, Roger Bacon, Albertus Magnus, John Dee
-concepts_mentioned: Elixir of Life, Emanation, Calcination, Sublimation, Distillation, Quintessence, Correspondence, Fermentation, Dissolution
+date_processed: 2026-05-25T14:47:03.231341
+figures_mentioned: Thomas Aquinas, Albertus Magnus, Francis Bacon, John Dee, Roger Bacon
+concepts_mentioned: Correspondence, Calcination, Quintessence, Fermentation, Dissolution, Elixir of Life, Emanation, Distillation, Sublimation
 ---
 
 # Roger Bacon and the Incorruptible Human, 1220–1292
@@ -37,5 +37,5 @@ cBacon, Opus tertium, chapter 104, 872–4
 ---
 
 *Extracted from: Roger Bacon and the Incorruptible Human, 1220–1292 (302 pages)*
-*Figures mentioned: Francis Bacon, Thomas Aquinas, Roger Bacon, Albertus Magnus, John Dee*
-*Concepts mentioned: Elixir of Life, Emanation, Calcination, Sublimation, Distillation, Quintessence, Correspondence, Fermentation, Dissolution*
+*Figures mentioned: Thomas Aquinas, Albertus Magnus, Francis Bacon, John Dee, Roger Bacon*
+*Concepts mentioned: Correspondence, Calcination, Quintessence, Fermentation, Dissolution, Elixir of Life, Emanation, Distillation, Sublimation*

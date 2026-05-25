@@ -5,9 +5,9 @@ author: Unknown
 total_pages: 32
 section: Introduction
 section_number: 1
-date_processed: 2026-05-25T14:31:29.680563
-figures_mentioned: Pico della Mirandola, Plotinus, Thomas Aquinas, Marsilio Ficino, Giordano Bruno
-concepts_mentioned: Theosis, Mystical Union, Initiation, Dissolution, Enlightenment
+date_processed: 2026-05-25T14:53:18.701713
+figures_mentioned: Thomas Aquinas, Marsilio Ficino, Giordano Bruno, Plotinus, Pico della Mirandola
+concepts_mentioned: Mystical Union, Enlightenment, Dissolution, Theosis, Initiation
 ---
 
 # Self Knowledge_Illumination_and_Natural
@@ -807,5 +807,5 @@ the ancient esoteric sources Pico adduces compatible with Christian doctrine? Fi
 ---
 
 *Extracted from: Self Knowledge_Illumination_and_Natural (32 pages)*
-*Figures mentioned: Pico della Mirandola, Plotinus, Thomas Aquinas, Marsilio Ficino, Giordano Bruno*
-*Concepts mentioned: Theosis, Mystical Union, Initiation, Dissolution, Enlightenment*
+*Figures mentioned: Thomas Aquinas, Marsilio Ficino, Giordano Bruno, Plotinus, Pico della Mirandola*
+*Concepts mentioned: Mystical Union, Enlightenment, Dissolution, Theosis, Initiation*

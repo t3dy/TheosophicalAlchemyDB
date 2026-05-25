@@ -5,9 +5,9 @@ author: Mitchell, Robert
 total_pages: 320
 section: conclusions, I end the book with a brief discussion of contemporary criticisms
 section_number: 4
-date_processed: 2026-05-25T14:25:22.631284
-figures_mentioned: Arthur Edward Waite, Isaac Newton, Francis Bacon, Paracelsus, Robert Boyle, Giordano Bruno, William Blake
-concepts_mentioned: Tincture, Correspondence, Fermentation, Dissolution, Enlightenment
+date_processed: 2026-05-25T14:47:53.861636
+figures_mentioned: Francis Bacon, Robert Boyle, Arthur Edward Waite, Isaac Newton, William Blake, Giordano Bruno, Paracelsus
+concepts_mentioned: Correspondence, Tincture, Fermentation, Enlightenment, Dissolution
 ---
 
 # Experimental Life
@@ -1015,5 +1015,5 @@ tions.48 Such a shift cannot be attributed solely to Wordsworth’s and Coleridg
 ---
 
 *Extracted from: Experimental Life (320 pages)*
-*Figures mentioned: Arthur Edward Waite, Isaac Newton, Francis Bacon, Paracelsus, Robert Boyle, Giordano Bruno, William Blake*
-*Concepts mentioned: Tincture, Correspondence, Fermentation, Dissolution, Enlightenment*
+*Figures mentioned: Francis Bacon, Robert Boyle, Arthur Edward Waite, Isaac Newton, William Blake, Giordano Bruno, Paracelsus*
+*Concepts mentioned: Correspondence, Tincture, Fermentation, Enlightenment, Dissolution*

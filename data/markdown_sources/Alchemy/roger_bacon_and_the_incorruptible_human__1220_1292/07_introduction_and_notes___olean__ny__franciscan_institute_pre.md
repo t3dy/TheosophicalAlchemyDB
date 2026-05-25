@@ -5,9 +5,9 @@ author: Unknown
 total_pages: 302
 section: Introduction and Notes, (olean, NY: franciscan Institute Press,
 section_number: 7
-date_processed: 2026-05-25T14:24:29.933780
-figures_mentioned: Francis Bacon, Thomas Aquinas, Roger Bacon, Albertus Magnus, John Dee
-concepts_mentioned: Elixir of Life, Emanation, Calcination, Sublimation, Distillation, Quintessence, Correspondence, Fermentation, Dissolution
+date_processed: 2026-05-25T14:47:03.226853
+figures_mentioned: Thomas Aquinas, Albertus Magnus, Francis Bacon, John Dee, Roger Bacon
+concepts_mentioned: Correspondence, Calcination, Quintessence, Fermentation, Dissolution, Elixir of Life, Emanation, Distillation, Sublimation
 ---
 
 # Roger Bacon and the Incorruptible Human, 1220–1292
@@ -583,5 +583,5 @@ chapters 1 and 3, but does so for the rest of the material. In this text,
 ---
 
 *Extracted from: Roger Bacon and the Incorruptible Human, 1220–1292 (302 pages)*
-*Figures mentioned: Francis Bacon, Thomas Aquinas, Roger Bacon, Albertus Magnus, John Dee*
-*Concepts mentioned: Elixir of Life, Emanation, Calcination, Sublimation, Distillation, Quintessence, Correspondence, Fermentation, Dissolution*
+*Figures mentioned: Thomas Aquinas, Albertus Magnus, Francis Bacon, John Dee, Roger Bacon*
+*Concepts mentioned: Correspondence, Calcination, Quintessence, Fermentation, Dissolution, Elixir of Life, Emanation, Distillation, Sublimation*

@@ -5,9 +5,9 @@ author: Unknown
 total_pages: 136
 section: Introduction Introduction
 section_number: 4
-date_processed: 2026-05-25T14:23:54.228628
-figures_mentioned: Johann Siebmacher, Johann Valentin Andreae, Francis Bacon, Jabir ibn Hayyan, Ashmole, Elias, Roger Bacon, Albertus Magnus, Nicholas Flamel, Henry More, Heinrich Khunrath, Nicolas Flamel, Hermes Trismegistus, Adam McLean, Isaac Newton, Philip Sidney, Robert Boyle, Marsilio Ficino, Zosimos of Panopolis, Thomas Vaughan, John Dee, Robert Fludd, Paracelsus, Thomas Aquinas, Gerhard Dorn, Michael Maier, Giordano Bruno
-concepts_mentioned: Nigredo, Elixir of Life, Quintessence, Correspondence, Iatrochemistry, Great Work, Initiation, Fermentation, Enlightenment, Citrinitas, Coagulation, Alchemical Hermaphrodite, Sublimation, Albedo, Macrocosm-Microcosm, Universal Solvent, Putrefactio, Tincture, Spiritual Alchemy, Rubedo, Regeneration, Calcination, Lapis Philosophorum, Distillation, Dissolution
+date_processed: 2026-05-25T14:46:19.352002
+figures_mentioned: Francis Bacon, Ashmole, Elias, Heinrich Khunrath, Robert Boyle, Nicholas Flamel, Adam McLean, Giordano Bruno, Jabir ibn Hayyan, Paracelsus, Hermes Trismegistus, Thomas Aquinas, Isaac Newton, Johann Valentin Andreae, Roger Bacon, Michael Maier, Nicolas Flamel, Albertus Magnus, Marsilio Ficino, Henry More, Zosimos of Panopolis, Philip Sidney, John Dee, Gerhard Dorn, Johann Siebmacher, Robert Fludd, Thomas Vaughan
+concepts_mentioned: Correspondence, Universal Solvent, Nigredo, Putrefactio, Initiation, Citrinitas, Macrocosm-Microcosm, Spiritual Alchemy, Quintessence, Fermentation, Calcination, Dissolution, Regeneration, Great Work, Iatrochemistry, Sublimation, Coagulation, Lapis Philosophorum, Alchemical Hermaphrodite, Distillation, Rubedo, Tincture, Enlightenment, Elixir of Life, Albedo
 ---
 
 # Lyndy Abraham A Dictionary of Alchemical Imagery Cambridge University Press
@@ -70,5 +70,5 @@ mode of perceiving and communicating information, a mode which was Indian mediev
 ---
 
 *Extracted from: Lyndy Abraham A Dictionary of Alchemical Imagery Cambridge University Press (136 pages)*
-*Figures mentioned: Johann Siebmacher, Johann Valentin Andreae, Francis Bacon, Jabir ibn Hayyan, Ashmole, Elias, Roger Bacon, Albertus Magnus, Nicholas Flamel, Henry More, Heinrich Khunrath, Nicolas Flamel, Hermes Trismegistus, Adam McLean, Isaac Newton, Philip Sidney, Robert Boyle, Marsilio Ficino, Zosimos of Panopolis, Thomas Vaughan, John Dee, Robert Fludd, Paracelsus, Thomas Aquinas, Gerhard Dorn, Michael Maier, Giordano Bruno*
-*Concepts mentioned: Nigredo, Elixir of Life, Quintessence, Correspondence, Iatrochemistry, Great Work, Initiation, Fermentation, Enlightenment, Citrinitas, Coagulation, Alchemical Hermaphrodite, Sublimation, Albedo, Macrocosm-Microcosm, Universal Solvent, Putrefactio, Tincture, Spiritual Alchemy, Rubedo, Regeneration, Calcination, Lapis Philosophorum, Distillation, Dissolution*
+*Figures mentioned: Francis Bacon, Ashmole, Elias, Heinrich Khunrath, Robert Boyle, Nicholas Flamel, Adam McLean, Giordano Bruno, Jabir ibn Hayyan, Paracelsus, Hermes Trismegistus, Thomas Aquinas, Isaac Newton, Johann Valentin Andreae, Roger Bacon, Michael Maier, Nicolas Flamel, Albertus Magnus, Marsilio Ficino, Henry More, Zosimos of Panopolis, Philip Sidney, John Dee, Gerhard Dorn, Johann Siebmacher, Robert Fludd, Thomas Vaughan*
+*Concepts mentioned: Correspondence, Universal Solvent, Nigredo, Putrefactio, Initiation, Citrinitas, Macrocosm-Microcosm, Spiritual Alchemy, Quintessence, Fermentation, Calcination, Dissolution, Regeneration, Great Work, Iatrochemistry, Sublimation, Coagulation, Lapis Philosophorum, Alchemical Hermaphrodite, Distillation, Rubedo, Tincture, Enlightenment, Elixir of Life, Albedo*

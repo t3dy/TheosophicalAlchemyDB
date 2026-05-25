@@ -5,9 +5,9 @@ author: Unknown
 total_pages: 95
 section: introduction of any foreign substance, be reduced to a
 section_number: 1
-date_processed: 2026-05-25T14:29:46.255467
+date_processed: 2026-05-25T14:51:43.788038
 figures_mentioned: None
-concepts_mentioned: Tincture, Spagyric Art, Coagulation, Sublimation, Quintessence, Distillation, Dissolution
+concepts_mentioned: Tincture, Quintessence, Coagulation, Dissolution, Distillation, Spagyric Art, Sublimation
 ---
 
 # Philip Wheeler Twelve Keys Of Basilius Valentinus_ Alchemical Manuscripts
@@ -721,4 +721,4 @@ Toutes les droites sont réservés. Tutti i diritti riservati.Todos les derechos
 
 *Extracted from: Philip Wheeler Twelve Keys Of Basilius Valentinus_ Alchemical Manuscripts (95 pages)*
 *Figures mentioned: None*
-*Concepts mentioned: Tincture, Spagyric Art, Coagulation, Sublimation, Quintessence, Distillation, Dissolution*
+*Concepts mentioned: Tincture, Quintessence, Coagulation, Dissolution, Distillation, Spagyric Art, Sublimation*

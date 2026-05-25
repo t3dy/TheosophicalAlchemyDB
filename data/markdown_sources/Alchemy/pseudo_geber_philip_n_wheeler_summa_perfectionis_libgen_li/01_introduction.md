@@ -5,9 +5,9 @@ author: Unknown
 total_pages: 228
 section: Introduction
 section_number: 1
-date_processed: 2026-05-25T14:30:07.517971
+date_processed: 2026-05-25T14:52:00.977113
 figures_mentioned: None
-concepts_mentioned: Tincture, Coagulation, Calcination, Sublimation, Great Work, Distillation, Dissolution
+concepts_mentioned: Tincture, Calcination, Coagulation, Dissolution, Distillation, Great Work, Sublimation
 ---
 
 # Pseudo Geber Philip N Wheeler Summa Perfectionis libgen li
@@ -5661,4 +5661,4 @@ Publishing Company
 
 *Extracted from: Pseudo Geber Philip N Wheeler Summa Perfectionis libgen li (228 pages)*
 *Figures mentioned: None*
-*Concepts mentioned: Tincture, Coagulation, Calcination, Sublimation, Great Work, Distillation, Dissolution*
+*Concepts mentioned: Tincture, Calcination, Coagulation, Dissolution, Distillation, Great Work, Sublimation*

@@ -5,9 +5,9 @@ author: Unknown
 total_pages: 32
 section: conclusions can be drawn regarding the Early Modern understanding of esotericism
 section_number: 2
-date_processed: 2026-05-25T14:31:29.681354
-figures_mentioned: Pico della Mirandola, Plotinus, Thomas Aquinas, Marsilio Ficino, Giordano Bruno
-concepts_mentioned: Theosis, Mystical Union, Initiation, Dissolution, Enlightenment
+date_processed: 2026-05-25T14:53:18.702340
+figures_mentioned: Thomas Aquinas, Marsilio Ficino, Giordano Bruno, Plotinus, Pico della Mirandola
+concepts_mentioned: Mystical Union, Enlightenment, Dissolution, Theosis, Initiation
 ---
 
 # Self Knowledge_Illumination_and_Natural
@@ -163,5 +163,5 @@ assigned a specific function in the pursuit of the visio Dei.
 ---
 
 *Extracted from: Self Knowledge_Illumination_and_Natural (32 pages)*
-*Figures mentioned: Pico della Mirandola, Plotinus, Thomas Aquinas, Marsilio Ficino, Giordano Bruno*
-*Concepts mentioned: Theosis, Mystical Union, Initiation, Dissolution, Enlightenment*
+*Figures mentioned: Thomas Aquinas, Marsilio Ficino, Giordano Bruno, Plotinus, Pico della Mirandola*
+*Concepts mentioned: Mystical Union, Enlightenment, Dissolution, Theosis, Initiation*

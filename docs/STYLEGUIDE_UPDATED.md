@@ -14,6 +14,25 @@ The portal presents **rigorous scholarship on esotericism** combining:
 4. **Embodied knowing** — practice, not mere theory (Zuber emphasis)
 5. **Gender awareness** — who had access to knowledge, how transmission occurred
 6. **Concept-first organization** — understand patterns, not just chronology
+7. **History-of-science grounding** — For Paracelsian/alchemical traditions, root understanding in actual extant texts and careful philological study, not occultist reinterpretations or 19th-century amateur scholarship
+
+---
+
+## Historiography of Alchemy Framework
+
+This portal adopts the **historiography-of-alchemy** approach established by:
+- **Wouter Hanegraaff & ESSWE** — Western Esotericism as rigorous historical category; *esotericism* as knowledge claim, not pejorative
+- **Allison P. Coudert & ASE** — Alchemy as integral to early modern intellectual history; scholarship exemplified by Association for the Study of Esotericism
+- **David Porecca & Societas Magica** — Magical practices as part of systematic natural philosophy, not fringe superstition
+- **Paracelsian scholarship** — Real alchemical knowledge grounded in medical practice, iatrochemistry, and empirical observation, not occultist fantasy
+
+**Practical application to our entries:**
+- **For Paracelsus & followers:** Root their thinking in actual medical theory, iatrochemical experiments, and texts; avoid conflating with later Romantic/Theosophical reinterpretations
+- **For figures like Fludd/Khunrath:** Distinguish between what they actually wrote about cosmology/alchemy vs. how later occultists misread them
+- **For emblems & visual analysis:** Analyze as texts designed for educated Renaissance readers (medical, philosophical, theological training), not as "secret symbols"
+- **For concepts:** Trace back to medieval alchemy, natural philosophy, theology—not to modern psychology or New Age appropriation
+- **For transmission:** Document actual manuscript chains, print history, translation lineages—not speculative influence
+
 
 ---
 

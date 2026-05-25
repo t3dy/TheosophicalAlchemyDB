@@ -5,9 +5,9 @@ author: Unknown
 total_pages: 272
 section: introduction
 section_number: 3
-date_processed: 2026-05-25T14:23:05.151091
-figures_mentioned: Hermes Trismegistus, Pico della Mirandola, Isaac Newton, Jabir ibn Hayyan, Robert Fludd, Catherine of Siena, Paracelsus, Thomas Aquinas, Robert Boyle, Marsilio Ficino, Roger Bacon, Andreas Libavius, Albertus Magnus, Arnauld de Villeneuve
-concepts_mentioned: Enlightenment, Tincture, Nigredo, Rubedo, Coagulation, Regeneration, Calcination, Lapis Philosophorum, Sublimation, Distillation, Quintessence, Great Work, Albedo, Initiation, Dissolution, Iatrochemistry
+date_processed: 2026-05-25T14:45:30.547839
+figures_mentioned: Hermes Trismegistus, Thomas Aquinas, Albertus Magnus, Marsilio Ficino, Robert Boyle, Arnauld de Villeneuve, Isaac Newton, Catherine of Siena, Andreas Libavius, Pico della Mirandola, Robert Fludd, Jabir ibn Hayyan, Roger Bacon, Paracelsus
+concepts_mentioned: Tincture, Calcination, Quintessence, Great Work, Coagulation, Lapis Philosophorum, Dissolution, Regeneration, Rubedo, Enlightenment, Nigredo, Albedo, Distillation, Iatrochemistry, Sublimation, Initiation
 ---
 
 # Prophecy, Alchemy, and the End of Time
@@ -61,5 +61,5 @@ DeVun_Ch_01.indd 3 12/9/08 12:59:46 PM
 ---
 
 *Extracted from: Prophecy, Alchemy, and the End of Time (272 pages)*
-*Figures mentioned: Hermes Trismegistus, Pico della Mirandola, Isaac Newton, Jabir ibn Hayyan, Robert Fludd, Catherine of Siena, Paracelsus, Thomas Aquinas, Robert Boyle, Marsilio Ficino, Roger Bacon, Andreas Libavius, Albertus Magnus, Arnauld de Villeneuve*
-*Concepts mentioned: Enlightenment, Tincture, Nigredo, Rubedo, Coagulation, Regeneration, Calcination, Lapis Philosophorum, Sublimation, Distillation, Quintessence, Great Work, Albedo, Initiation, Dissolution, Iatrochemistry*
+*Figures mentioned: Hermes Trismegistus, Thomas Aquinas, Albertus Magnus, Marsilio Ficino, Robert Boyle, Arnauld de Villeneuve, Isaac Newton, Catherine of Siena, Andreas Libavius, Pico della Mirandola, Robert Fludd, Jabir ibn Hayyan, Roger Bacon, Paracelsus*
+*Concepts mentioned: Tincture, Calcination, Quintessence, Great Work, Coagulation, Lapis Philosophorum, Dissolution, Regeneration, Rubedo, Enlightenment, Nigredo, Albedo, Distillation, Iatrochemistry, Sublimation, Initiation*

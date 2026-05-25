@@ -5,9 +5,9 @@ author: Unknown
 total_pages: 87
 section: Conclusion
 section_number: 18
-date_processed: 2026-05-25T14:33:09.582648
-figures_mentioned: Pico della Mirandola, Plotinus, Robert Fludd, Paracelsus, Marsilio Ficino, Roger Bacon, Michael Maier, John Dee, Heinrich Khunrath
-concepts_mentioned: Tincture, Spiritual Alchemy, Regeneration, Coagulation, Emanation, Inner Transformation, Distillation, Quintessence, Great Work, Macrocosm-Microcosm, Initiation, Theurgy, Dissolution, Enlightenment
+date_processed: 2026-05-25T14:54:54.424466
+figures_mentioned: Marsilio Ficino, Heinrich Khunrath, John Dee, Plotinus, Pico della Mirandola, Robert Fludd, Roger Bacon, Michael Maier, Paracelsus
+concepts_mentioned: Tincture, Macrocosm-Microcosm, Spiritual Alchemy, Quintessence, Theurgy, Coagulation, Enlightenment, Dissolution, Regeneration, Emanation, Inner Transformation, Distillation, Great Work, Initiation
 ---
 
 # Szulakowska
@@ -24,5 +24,5 @@ for creation, redemption, and the ultimate healing of the cosmos.
 ---
 
 *Extracted from: Szulakowska (87 pages)*
-*Figures mentioned: Pico della Mirandola, Plotinus, Robert Fludd, Paracelsus, Marsilio Ficino, Roger Bacon, Michael Maier, John Dee, Heinrich Khunrath*
-*Concepts mentioned: Tincture, Spiritual Alchemy, Regeneration, Coagulation, Emanation, Inner Transformation, Distillation, Quintessence, Great Work, Macrocosm-Microcosm, Initiation, Theurgy, Dissolution, Enlightenment*
+*Figures mentioned: Marsilio Ficino, Heinrich Khunrath, John Dee, Plotinus, Pico della Mirandola, Robert Fludd, Roger Bacon, Michael Maier, Paracelsus*
+*Concepts mentioned: Tincture, Macrocosm-Microcosm, Spiritual Alchemy, Quintessence, Theurgy, Coagulation, Enlightenment, Dissolution, Regeneration, Emanation, Inner Transformation, Distillation, Great Work, Initiation*

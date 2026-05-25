@@ -5,9 +5,9 @@ author: Unknown
 total_pages: 144
 section: Introduction
 section_number: 3
-date_processed: 2026-05-25T14:32:21.780962
-figures_mentioned: Hermes Trismegistus, Isaac Newton, Brian Vickers, Francis Bacon, Jabir ibn Hayyan, Ashmole, Elias, Nicolas Flamel, Robert Fludd, Roger Bacon, Paracelsus, Thomas Aquinas, Robert Boyle, Marsilio Ficino, Giordano Bruno, Michael Maier, Albertus Magnus, Zosimos of Panopolis, John Dee
-concepts_mentioned: Nigredo, Quintessence, Correspondence, Iatrochemistry, Great Work, Initiation, Fermentation, Enlightenment, Coagulation, Emanation, Sublimation, Albedo, Macrocosm-Microcosm, Universal Solvent, Putrefactio, Color Symbolism, Tincture, Spiritual Alchemy, Rubedo, Regeneration, Calcination, Rosy Cross, Distillation, Dissolution
+date_processed: 2026-05-25T14:54:07.614234
+figures_mentioned: Hermes Trismegistus, Thomas Aquinas, Albertus Magnus, Marsilio Ficino, Francis Bacon, Ashmole, Elias, Robert Boyle, John Dee, Brian Vickers, Isaac Newton, Giordano Bruno, Robert Fludd, Jabir ibn Hayyan, Nicolas Flamel, Zosimos of Panopolis, Roger Bacon, Michael Maier, Paracelsus
+concepts_mentioned: Correspondence, Universal Solvent, Nigredo, Putrefactio, Initiation, Macrocosm-Microcosm, Spiritual Alchemy, Calcination, Quintessence, Fermentation, Dissolution, Regeneration, Rosy Cross, Great Work, Iatrochemistry, Sublimation, Coagulation, Distillation, Rubedo, Tincture, Color Symbolism, Enlightenment, Emanation, Albedo
 ---
 
 # Stanton J Linden The Alchemy Reader_ From Hermes Trismegistus to Isaac Newton Cambridge University Press
@@ -110,5 +110,5 @@ Wildwood House, 1980). Read, Prelude to Chemistry (London: G. Bell and Sons, 193
 ---
 
 *Extracted from: Stanton J Linden The Alchemy Reader_ From Hermes Trismegistus to Isaac Newton Cambridge University Press (144 pages)*
-*Figures mentioned: Hermes Trismegistus, Isaac Newton, Brian Vickers, Francis Bacon, Jabir ibn Hayyan, Ashmole, Elias, Nicolas Flamel, Robert Fludd, Roger Bacon, Paracelsus, Thomas Aquinas, Robert Boyle, Marsilio Ficino, Giordano Bruno, Michael Maier, Albertus Magnus, Zosimos of Panopolis, John Dee*
-*Concepts mentioned: Nigredo, Quintessence, Correspondence, Iatrochemistry, Great Work, Initiation, Fermentation, Enlightenment, Coagulation, Emanation, Sublimation, Albedo, Macrocosm-Microcosm, Universal Solvent, Putrefactio, Color Symbolism, Tincture, Spiritual Alchemy, Rubedo, Regeneration, Calcination, Rosy Cross, Distillation, Dissolution*
+*Figures mentioned: Hermes Trismegistus, Thomas Aquinas, Albertus Magnus, Marsilio Ficino, Francis Bacon, Ashmole, Elias, Robert Boyle, John Dee, Brian Vickers, Isaac Newton, Giordano Bruno, Robert Fludd, Jabir ibn Hayyan, Nicolas Flamel, Zosimos of Panopolis, Roger Bacon, Michael Maier, Paracelsus*
+*Concepts mentioned: Correspondence, Universal Solvent, Nigredo, Putrefactio, Initiation, Macrocosm-Microcosm, Spiritual Alchemy, Calcination, Quintessence, Fermentation, Dissolution, Regeneration, Rosy Cross, Great Work, Iatrochemistry, Sublimation, Coagulation, Distillation, Rubedo, Tincture, Color Symbolism, Enlightenment, Emanation, Albedo*

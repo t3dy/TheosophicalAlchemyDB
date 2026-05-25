@@ -5,9 +5,9 @@ author: Paracelsus, Dr. Franz Hartmann. Helena Petrovna Blavatsky
 total_pages: 11
 section: Full Text
 section_number: 1
-date_processed: 2026-05-25T14:26:20.158901
+date_processed: 2026-05-25T14:48:49.770104
 figures_mentioned: Paracelsus
-concepts_mentioned: Emanation, Dissolution, Elixir of Life, Correspondence
+concepts_mentioned: Correspondence, Dissolution, Emanation, Elixir of Life
 ---
 
 # Paracelsus on sympathetic remedies and cures
@@ -453,4 +453,4 @@ Page 11 of 11
 
 *Extracted from: Paracelsus on sympathetic remedies and cures (11 pages)*
 *Figures mentioned: Paracelsus*
-*Concepts mentioned: Emanation, Dissolution, Elixir of Life, Correspondence*
+*Concepts mentioned: Correspondence, Dissolution, Emanation, Elixir of Life*
