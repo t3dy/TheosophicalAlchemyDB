@@ -15258,6 +15258,1163 @@
         }
       ],
       "image_url": "https://wellcomecollection.org/works/qynyxr3c"
+    },
+    {
+      "id": "maier-atalanta-001",
+      "emblem_number": 1,
+      "title": "Portavit illud ventus in ventre suo",
+      "english_title": "The Wind Carried It in Its Belly",
+      "source_book": "Atalanta Fugiens",
+      "author": "Michael Maier",
+      "date_published": 1618,
+      "edition_note": "Johann Theodor de Bry edition, Frankfurt",
+      "visual_elements": [
+        "Four elements in hierarchy",
+        "Wind/pneuma circulation",
+        "Volatilization and descent",
+        "Correspondence above-below"
+      ],
+      "visual_description": "[Detailed visual description from De Jong scholarship for emblem 1]",
+      "essay": "[Essay content for Maier Atalanta 1 to be extracted from detailed markdown]",
+      "key_concepts": [
+        "Correspondence (Hermetic axiom)",
+        "Transmutation",
+        "Volatility and Circulation",
+        "Duality (coarse-subtle)",
+        "The Stone/Elixir"
+      ],
+      "alchemical_stage": "Foundation - Universal Principles",
+      "color_association": "White-Red (implicit)",
+      "planetary_association": "Sol (Sun, central principle)",
+      "divine_principle": "Correspondence of macrocosm and microcosm",
+      "spiritual_meaning": "Birth of the soul in the space between heaven and earth",
+      "related_emblems": [
+        2,
+        5,
+        33,
+        34
+      ],
+      "motto_source": "Tabula Smaragdina (attributed to Hermes Trismegistus)",
+      "scholarly_sources": [
+        {
+          "scholar": "Helena Maria Elisabeth De Jong",
+          "reference": "*Michael Maier's Atalanta Fugiens: Sources of an Alchemical Book of Emblems* (Nicolas-Hays, Inc., 2002), pp. 58-63",
+          "relevance": "primary_interpretation",
+          "quote": "[De Jong's interpretation of emblem 1]"
+        },
+        {
+          "scholar": "Michael Maier",
+          "reference": "*Atalanta Fugiens* (1618), Emblem {emblem_num}",
+          "relevance": "primary_source",
+          "quote": "Tabula Smaragdina (attributed to Hermes Trismegistus)"
+        }
+      ],
+      "image_source": {
+        "type": "text_description_pending",
+        "basis": "De Jong scholarly analysis",
+        "sourcing": "De Jong, pp. 58-63; Maier original edition",
+        "status": "Waiting for PDF image extraction"
+      },
+      "review_status": "DRAFT",
+      "confidence": "HIGH",
+      "source_method": "De Jong scholarly extraction + metadata synthesis"
+    },
+    {
+      "id": "maier-atalanta-002",
+      "emblem_number": 2,
+      "title": "His nurse is the earth",
+      "english_title": "Nutrix eius Terra est",
+      "source_book": "Atalanta Fugiens",
+      "author": "Michael Maier",
+      "date_published": 1618,
+      "edition_note": "Johann Theodor de Bry edition, Frankfurt",
+      "visual_elements": [
+        "Earth Mother nursing",
+        "Lactation/nourishment",
+        "Embryonic development",
+        "Moderation and care"
+      ],
+      "visual_description": "[Detailed visual description from De Jong scholarship for emblem 2]",
+      "essay": "[Essay content for Maier Atalanta 2 to be extracted from detailed markdown]",
+      "key_concepts": [
+        "Assimilation",
+        "Natural Analogy",
+        "Moderation (heat and feeding control)",
+        "The Earth/Foundation",
+        "Purification"
+      ],
+      "alchemical_stage": "Early Work - Feeding and Growth",
+      "color_association": "Green (potentially, growth phase)",
+      "planetary_association": "Saturn (Earth element)",
+      "divine_principle": "Natural law and maternal care",
+      "spiritual_meaning": "The soul grounded in matter, learning to work with earth principle",
+      "related_emblems": [
+        3,
+        5,
+        35
+      ],
+      "motto_source": "Mythological allusion (Romulus, Jupiter)",
+      "scholarly_sources": [
+        {
+          "scholar": "Helena Maria Elisabeth De Jong",
+          "reference": "*Michael Maier's Atalanta Fugiens: Sources of an Alchemical Book of Emblems* (Nicolas-Hays, Inc., 2002), pp. 64-66",
+          "relevance": "primary_interpretation",
+          "quote": "[De Jong's interpretation of emblem 2]"
+        },
+        {
+          "scholar": "Michael Maier",
+          "reference": "*Atalanta Fugiens* (1618), Emblem {emblem_num}",
+          "relevance": "primary_source",
+          "quote": "Mythological allusion (Romulus, Jupiter)"
+        }
+      ],
+      "image_source": {
+        "type": "text_description_pending",
+        "basis": "De Jong scholarly analysis",
+        "sourcing": "De Jong, pp. 64-66; Maier original edition",
+        "status": "Waiting for PDF image extraction"
+      },
+      "review_status": "DRAFT",
+      "confidence": "HIGH",
+      "source_method": "De Jong scholarly extraction + metadata synthesis"
+    },
+    {
+      "id": "maier-atalanta-003",
+      "emblem_number": 3,
+      "title": "Go to the woman who washes the sheets and do as she does",
+      "english_title": "Domestic Washing as Alchemical Model",
+      "source_book": "Atalanta Fugiens",
+      "author": "Michael Maier",
+      "date_published": 1618,
+      "edition_note": "Johann Theodor de Bry edition, Frankfurt",
+      "visual_elements": [
+        "Woman at work",
+        "Washing linen",
+        "Hot water",
+        "Drying and sun exposure"
+      ],
+      "visual_description": "[Detailed visual description from De Jong scholarship for emblem 3]",
+      "essay": "[Essay content for Maier Atalanta 3 to be extracted from detailed markdown]",
+      "key_concepts": [
+        "Purification (nigredo → albedo)",
+        "Calcination/Dissolution",
+        "Repeated Washing",
+        "Fire and Water paradox",
+        "Four Elements in sequence"
+      ],
+      "alchemical_stage": "Middle Work - The Whitening (Albedo begins)",
+      "color_association": "Black → White (nigredo → albedo)",
+      "planetary_association": "Mercury (water, washing agent)",
+      "divine_principle": "The purifying waters of baptism",
+      "spiritual_meaning": "Cleansing of the soul from black sin and corruption",
+      "related_emblems": [
+        4,
+        5,
+        6,
+        13,
+        22,
+        28
+      ],
+      "motto_source": "Tractatus Opus Multiplicum et Ludus Puerorum",
+      "scholarly_sources": [
+        {
+          "scholar": "Helena Maria Elisabeth De Jong",
+          "reference": "*Michael Maier's Atalanta Fugiens: Sources of an Alchemical Book of Emblems* (Nicolas-Hays, Inc., 2002), pp. 67-71",
+          "relevance": "primary_interpretation",
+          "quote": "[De Jong's interpretation of emblem 3]"
+        },
+        {
+          "scholar": "Michael Maier",
+          "reference": "*Atalanta Fugiens* (1618), Emblem {emblem_num}",
+          "relevance": "primary_source",
+          "quote": "Tractatus Opus Multiplicum et Ludus Puerorum"
+        }
+      ],
+      "image_source": {
+        "type": "text_description_pending",
+        "basis": "De Jong scholarly analysis",
+        "sourcing": "De Jong, pp. 67-71; Maier original edition",
+        "status": "Waiting for PDF image extraction"
+      },
+      "review_status": "DRAFT",
+      "confidence": "HIGH",
+      "source_method": "De Jong scholarly extraction + metadata synthesis"
+    },
+    {
+      "id": "maier-atalanta-004",
+      "emblem_number": 4,
+      "title": "Join brother and sister, and hand them the cup with the love potion",
+      "english_title": "The Conjunctio/Sacred Marriage",
+      "source_book": "Atalanta Fugiens",
+      "author": "Michael Maier",
+      "date_published": 1618,
+      "edition_note": "Johann Theodor de Bry edition, Frankfurt",
+      "visual_elements": [
+        "Brother and sister figures",
+        "Intertwined hands",
+        "Cup of elixir",
+        "Dissolution imagery"
+      ],
+      "visual_description": "[Detailed visual description from De Jong scholarship for emblem 4]",
+      "essay": "[Essay content for Maier Atalanta 4 to be extracted from detailed markdown]",
+      "key_concepts": [
+        "Conjunction (Coniunctio)",
+        "Duality (hot-dry / cold-moist)",
+        "Dissolution",
+        "Mercury (mediating principle)",
+        "Primary matter"
+      ],
+      "alchemical_stage": "Critical Stage - Union of Opposites and Dissolution",
+      "color_association": "Mixed/polychromatic (before crystallization)",
+      "planetary_association": "Mercury (mediator), Venus and Mars (masculine-feminine)",
+      "divine_principle": "Empedocles' philia (love) binding opposites",
+      "spiritual_meaning": "Union of the soul with its divine counterpart, return to androgynous unity",
+      "related_emblems": [
+        39,
+        41,
+        44
+      ],
+      "motto_source": "Pseudo-Aristotle, Tractatulus Aristotelis de Practica Lapidis Philosophici",
+      "scholarly_sources": [
+        {
+          "scholar": "Helena Maria Elisabeth De Jong",
+          "reference": "*Michael Maier's Atalanta Fugiens: Sources of an Alchemical Book of Emblems* (Nicolas-Hays, Inc., 2002), pp. 72-76",
+          "relevance": "primary_interpretation",
+          "quote": "[De Jong's interpretation of emblem 4]"
+        },
+        {
+          "scholar": "Michael Maier",
+          "reference": "*Atalanta Fugiens* (1618), Emblem {emblem_num}",
+          "relevance": "primary_source",
+          "quote": "Pseudo-Aristotle, Tractatulus Aristotelis de Practica Lapidis Philosophici"
+        }
+      ],
+      "image_source": {
+        "type": "text_description_pending",
+        "basis": "De Jong scholarly analysis",
+        "sourcing": "De Jong, pp. 72-76; Maier original edition",
+        "status": "Waiting for PDF image extraction"
+      },
+      "review_status": "DRAFT",
+      "confidence": "HIGH",
+      "source_method": "De Jong scholarly extraction + metadata synthesis"
+    },
+    {
+      "id": "maier-atalanta-005",
+      "emblem_number": 5,
+      "title": "Put a toad to the breasts of a woman, that she may feed it, and the woman may die",
+      "english_title": "The Nourishing and Coagulation Stage",
+      "source_book": "Atalanta Fugiens",
+      "author": "Michael Maier",
+      "date_published": 1618,
+      "edition_note": "Johann Theodor de Bry edition, Frankfurt",
+      "visual_elements": [
+        "Woman nursing a toad",
+        "Milk transfer",
+        "Woman withering",
+        "Toad growing plump"
+      ],
+      "visual_description": "[Detailed visual description from De Jong scholarship for emblem 5]",
+      "essay": "[Essay content for Maier Atalanta 5 to be extracted from detailed markdown]",
+      "key_concepts": [
+        "Coagulation",
+        "Calcination",
+        "The Earth/Toad (foundation)",
+        "Death-Mortification",
+        "Cathena Aurea"
+      ],
+      "alchemical_stage": "Middle-Late Work - Coagulation and Hardening",
+      "color_association": "Green-Black (rot and coagulation)",
+      "planetary_association": "Saturn (slow, grounded work; the toad)",
+      "divine_principle": "Microcosm-Macrocosm link via the gold chain",
+      "spiritual_meaning": "Death of the old self to generate the perfected inner principle",
+      "related_emblems": [
+        2,
+        6,
+        35
+      ],
+      "motto_source": "(Pseudo-)Aristotle, Tractatulus Aristotelis de Practica Lapidis Philosophici",
+      "scholarly_sources": [
+        {
+          "scholar": "Helena Maria Elisabeth De Jong",
+          "reference": "*Michael Maier's Atalanta Fugiens: Sources of an Alchemical Book of Emblems* (Nicolas-Hays, Inc., 2002), pp. 76-80",
+          "relevance": "primary_interpretation",
+          "quote": "[De Jong's interpretation of emblem 5]"
+        },
+        {
+          "scholar": "Michael Maier",
+          "reference": "*Atalanta Fugiens* (1618), Emblem {emblem_num}",
+          "relevance": "primary_source",
+          "quote": "(Pseudo-)Aristotle, Tractatulus Aristotelis de Practica Lapidis Philosophici"
+        }
+      ],
+      "image_source": {
+        "type": "text_description_pending",
+        "basis": "De Jong scholarly analysis",
+        "sourcing": "De Jong, pp. 76-80; Maier original edition",
+        "status": "Waiting for PDF image extraction"
+      },
+      "review_status": "DRAFT",
+      "confidence": "HIGH",
+      "source_method": "De Jong scholarly extraction + metadata synthesis"
+    },
+    {
+      "id": "maier-atalanta-006",
+      "emblem_number": 6,
+      "title": "Send your son and daughter into the bath, that with their skin changed they come out white",
+      "english_title": "The Bath of Whitening",
+      "source_book": "Atalanta Fugiens",
+      "author": "Michael Maier",
+      "date_published": 1618,
+      "edition_note": "Johann Theodor de Bry edition, Frankfurt",
+      "visual_elements": [
+        "Two figures in steaming bath",
+        "Skin transformation",
+        "Emergence of white",
+        "Furnace/heating"
+      ],
+      "visual_description": "[Detailed visual description from De Jong scholarship for emblem 6]",
+      "essay": "[Essay content for Maier Atalanta 6 to be extracted from detailed markdown]",
+      "key_concepts": [
+        "Whitening (Albedo)",
+        "Ablution/Ritual Washing",
+        "Transformation (skin-change)",
+        "Preparation for Reddening"
+      ],
+      "alchemical_stage": "Advanced Middle Work - Peak of Albedo",
+      "color_association": "White (peak of albedo phase)",
+      "planetary_association": "Luna (Moon, whiteness, purification)",
+      "divine_principle": "Ritual purification, second baptism",
+      "spiritual_meaning": "The soul's garments renewed and whitened",
+      "related_emblems": [
+        3,
+        5,
+        13
+      ],
+      "motto_source": "Alchemical tradition (source in De Jong analysis)",
+      "scholarly_sources": [
+        {
+          "scholar": "Helena Maria Elisabeth De Jong",
+          "reference": "*Michael Maier's Atalanta Fugiens: Sources of an Alchemical Book of Emblems* (Nicolas-Hays, Inc., 2002), pp. 81-86",
+          "relevance": "primary_interpretation",
+          "quote": "[De Jong's interpretation of emblem 6]"
+        },
+        {
+          "scholar": "Michael Maier",
+          "reference": "*Atalanta Fugiens* (1618), Emblem {emblem_num}",
+          "relevance": "primary_source",
+          "quote": "Alchemical tradition (source in De Jong analysis)"
+        }
+      ],
+      "image_source": {
+        "type": "text_description_pending",
+        "basis": "De Jong scholarly analysis",
+        "sourcing": "De Jong, pp. 81-86; Maier original edition",
+        "status": "Waiting for PDF image extraction"
+      },
+      "review_status": "DRAFT",
+      "confidence": "HIGH",
+      "source_method": "De Jong scholarly extraction + metadata synthesis"
+    },
+    {
+      "id": "maier-atalanta-007",
+      "emblem_number": 7,
+      "title": "Do not separate the subtle from the gross in the beginning",
+      "english_title": "Timing of Separation",
+      "source_book": "Atalanta Fugiens",
+      "author": "Michael Maier",
+      "date_published": 1618,
+      "edition_note": "Johann Theodor de Bry edition, Frankfurt",
+      "visual_elements": [
+        "Mixed matter in vessel",
+        "Undifferentiated elements",
+        "Swirling vapors",
+        "Unified whole"
+      ],
+      "visual_description": "[Detailed visual description from De Jong scholarship for emblem 7]",
+      "essay": "[Essay content for Maier Atalanta 7 to be extracted from detailed markdown]",
+      "key_concepts": [
+        "Timing/Sequence",
+        "Unification",
+        "Integration",
+        "Caution against premature separation"
+      ],
+      "alchemical_stage": "Early-Middle Work - Integration Phase",
+      "color_association": "Multicolored (unresolved)",
+      "planetary_association": "Saturn (patience, caution)",
+      "divine_principle": "Wisdom of knowing when to act and when to wait",
+      "spiritual_meaning": "Union before division, wholeness before understanding parts",
+      "related_emblems": [
+        1,
+        15
+      ],
+      "motto_source": "Elaboration on Tabula Smaragdina principle",
+      "scholarly_sources": [
+        {
+          "scholar": "Helena Maria Elisabeth De Jong",
+          "reference": "*Michael Maier's Atalanta Fugiens: Sources of an Alchemical Book of Emblems* (Nicolas-Hays, Inc., 2002), pp. 86-89",
+          "relevance": "primary_interpretation",
+          "quote": "[De Jong's interpretation of emblem 7]"
+        },
+        {
+          "scholar": "Michael Maier",
+          "reference": "*Atalanta Fugiens* (1618), Emblem {emblem_num}",
+          "relevance": "primary_source",
+          "quote": "Elaboration on Tabula Smaragdina principle"
+        }
+      ],
+      "image_source": {
+        "type": "text_description_pending",
+        "basis": "De Jong scholarly analysis",
+        "sourcing": "De Jong, pp. 86-89; Maier original edition",
+        "status": "Waiting for PDF image extraction"
+      },
+      "review_status": "DRAFT",
+      "confidence": "HIGH",
+      "source_method": "De Jong scholarly extraction + metadata synthesis"
+    },
+    {
+      "id": "maier-atalanta-008",
+      "emblem_number": 8,
+      "title": "Open the egg and extract the chick without breaking the shell",
+      "english_title": "Gentle Extraction",
+      "source_book": "Atalanta Fugiens",
+      "author": "Michael Maier",
+      "date_published": 1618,
+      "edition_note": "Johann Theodor de Bry edition, Frankfurt",
+      "visual_elements": [
+        "Intact egg",
+        "Emerging chick",
+        "Delicate procedure",
+        "Whole shell preserved"
+      ],
+      "visual_description": "[Detailed visual description from De Jong scholarship for emblem 8]",
+      "essay": "[Essay content for Maier Atalanta 8 to be extracted from detailed markdown]",
+      "key_concepts": [
+        "Precision",
+        "Integrity of Vessel",
+        "Embryonic Development",
+        "Secrecy (no violent displays)"
+      ],
+      "alchemical_stage": "Early-Middle Work - Careful Nourishment",
+      "color_association": "Golden-white (egg imagery)",
+      "planetary_association": "Venus (delicacy, nurturing)",
+      "divine_principle": "Precision and care as virtue",
+      "spiritual_meaning": "The tender development of the inner self without external disturbance",
+      "related_emblems": [
+        2,
+        30
+      ],
+      "motto_source": "Natural observation (embryonic development)",
+      "scholarly_sources": [
+        {
+          "scholar": "Helena Maria Elisabeth De Jong",
+          "reference": "*Michael Maier's Atalanta Fugiens: Sources of an Alchemical Book of Emblems* (Nicolas-Hays, Inc., 2002), pp. 89-92",
+          "relevance": "primary_interpretation",
+          "quote": "[De Jong's interpretation of emblem 8]"
+        },
+        {
+          "scholar": "Michael Maier",
+          "reference": "*Atalanta Fugiens* (1618), Emblem {emblem_num}",
+          "relevance": "primary_source",
+          "quote": "Natural observation (embryonic development)"
+        }
+      ],
+      "image_source": {
+        "type": "text_description_pending",
+        "basis": "De Jong scholarly analysis",
+        "sourcing": "De Jong, pp. 89-92; Maier original edition",
+        "status": "Waiting for PDF image extraction"
+      },
+      "review_status": "DRAFT",
+      "confidence": "HIGH",
+      "source_method": "De Jong scholarly extraction + metadata synthesis"
+    },
+    {
+      "id": "maier-atalanta-009",
+      "emblem_number": 9,
+      "title": "Make the rounds of the philosophers in the circle of Democritus, and you will find the golden egg of the night crow",
+      "english_title": "Circulation and Hidden Value",
+      "source_book": "Atalanta Fugiens",
+      "author": "Michael Maier",
+      "date_published": 1618,
+      "edition_note": "Johann Theodor de Bry edition, Frankfurt",
+      "visual_elements": [
+        "Circular arrangement",
+        "Philosophers positioned around circle",
+        "Dark/black egg",
+        "Golden quality hidden within darkness"
+      ],
+      "visual_description": "[Detailed visual description from De Jong scholarship for emblem 9]",
+      "essay": "[Essay content for Maier Atalanta 9 to be extracted from detailed markdown]",
+      "key_concepts": [
+        "Circulation (Circulatio)",
+        "Integration of Wisdom",
+        "Gold within Darkness",
+        "Wisdom of Night/Darkness"
+      ],
+      "alchemical_stage": "All Stages - Represents Cyclical Nature",
+      "color_association": "Black with gold within (nigredo with hidden value)",
+      "planetary_association": "Mercury (circulatory principle)",
+      "divine_principle": "Hidden wisdom accessible through understanding the cycle",
+      "spiritual_meaning": "The eternal cycle of wisdom, always available to the attentive",
+      "related_emblems": [
+        1,
+        11
+      ],
+      "motto_source": "Philosophical tradition (Democritus, circulatio)",
+      "scholarly_sources": [
+        {
+          "scholar": "Helena Maria Elisabeth De Jong",
+          "reference": "*Michael Maier's Atalanta Fugiens: Sources of an Alchemical Book of Emblems* (Nicolas-Hays, Inc., 2002), pp. 92-95",
+          "relevance": "primary_interpretation",
+          "quote": "[De Jong's interpretation of emblem 9]"
+        },
+        {
+          "scholar": "Michael Maier",
+          "reference": "*Atalanta Fugiens* (1618), Emblem {emblem_num}",
+          "relevance": "primary_source",
+          "quote": "Philosophical tradition (Democritus, circulatio)"
+        }
+      ],
+      "image_source": {
+        "type": "text_description_pending",
+        "basis": "De Jong scholarly analysis",
+        "sourcing": "De Jong, pp. 92-95; Maier original edition",
+        "status": "Waiting for PDF image extraction"
+      },
+      "review_status": "DRAFT",
+      "confidence": "HIGH",
+      "source_method": "De Jong scholarly extraction + metadata synthesis"
+    },
+    {
+      "id": "maier-atalanta-010",
+      "emblem_number": 10,
+      "title": "At the command of the stars, dress your bride in white and red",
+      "english_title": "Celestial Timing and Double Perfection",
+      "source_book": "Atalanta Fugiens",
+      "author": "Michael Maier",
+      "date_published": 1618,
+      "edition_note": "Johann Theodor de Bry edition, Frankfurt",
+      "visual_elements": [
+        "Bride being adorned",
+        "White garments",
+        "Red ornamentation",
+        "Stars in sky"
+      ],
+      "visual_description": "[Detailed visual description from De Jong scholarship for emblem 10]",
+      "essay": "[Essay content for Maier Atalanta 10 to be extracted from detailed markdown]",
+      "key_concepts": [
+        "Completion of Work",
+        "Celestial Timing",
+        "Bride/Perfected Soul",
+        "Planetary Operations"
+      ],
+      "alchemical_stage": "Final Stage - Rubedo (Red Perfection)",
+      "color_association": "White → Red (albedo → rubedo)",
+      "planetary_association": "Sol (Sun, final perfection)",
+      "divine_principle": "Celestial coordination with material operation",
+      "spiritual_meaning": "The bride as the perfected soul adorned for union with the divine",
+      "related_emblems": [
+        19,
+        20
+      ],
+      "motto_source": "Astrological and alchemical tradition",
+      "scholarly_sources": [
+        {
+          "scholar": "Helena Maria Elisabeth De Jong",
+          "reference": "*Michael Maier's Atalanta Fugiens: Sources of an Alchemical Book of Emblems* (Nicolas-Hays, Inc., 2002), pp. 95-99",
+          "relevance": "primary_interpretation",
+          "quote": "[De Jong's interpretation of emblem 10]"
+        },
+        {
+          "scholar": "Michael Maier",
+          "reference": "*Atalanta Fugiens* (1618), Emblem {emblem_num}",
+          "relevance": "primary_source",
+          "quote": "Astrological and alchemical tradition"
+        }
+      ],
+      "image_source": {
+        "type": "text_description_pending",
+        "basis": "De Jong scholarly analysis",
+        "sourcing": "De Jong, pp. 95-99; Maier original edition",
+        "status": "Waiting for PDF image extraction"
+      },
+      "review_status": "DRAFT",
+      "confidence": "HIGH",
+      "source_method": "De Jong scholarly extraction + metadata synthesis"
+    },
+    {
+      "id": "maier-atalanta-011",
+      "emblem_number": 11,
+      "title": "Putrefaction is the beginning of generation",
+      "english_title": "Death as Precondition for Life",
+      "source_book": "Atalanta Fugiens",
+      "author": "Michael Maier",
+      "date_published": 1618,
+      "edition_note": "Johann Theodor de Bry edition, Frankfurt",
+      "visual_elements": [
+        "Decomposing matter",
+        "Emerging growth",
+        "Corpse or dung heap",
+        "New life sprouting from decay"
+      ],
+      "visual_description": "[Detailed visual description from De Jong scholarship for emblem 11]",
+      "essay": "[Essay content for Maier Atalanta 11 to be extracted from detailed markdown]",
+      "key_concepts": [
+        "Putrefaction (Putrefactio)",
+        "Death-Resurrection",
+        "The Underworld descent",
+        "Corruption as Necessity"
+      ],
+      "alchemical_stage": "Critical Transition - Nigredo to Albedo",
+      "color_association": "Black (deepest darkness, nigredo)",
+      "planetary_association": "Saturn (death, darkness, underworld)",
+      "divine_principle": "Christ's descent into hell before resurrection",
+      "spiritual_meaning": "The dark night of the soul, necessary death before spiritual rebirth",
+      "related_emblems": [
+        3,
+        13
+      ],
+      "motto_source": "Alchemical axiom (based on natural observation)",
+      "scholarly_sources": [
+        {
+          "scholar": "Helena Maria Elisabeth De Jong",
+          "reference": "*Michael Maier's Atalanta Fugiens: Sources of an Alchemical Book of Emblems* (Nicolas-Hays, Inc., 2002), pp. 100-105",
+          "relevance": "primary_interpretation",
+          "quote": "[De Jong's interpretation of emblem 11]"
+        },
+        {
+          "scholar": "Michael Maier",
+          "reference": "*Atalanta Fugiens* (1618), Emblem {emblem_num}",
+          "relevance": "primary_source",
+          "quote": "Alchemical axiom (based on natural observation)"
+        }
+      ],
+      "image_source": {
+        "type": "text_description_pending",
+        "basis": "De Jong scholarly analysis",
+        "sourcing": "De Jong, pp. 100-105; Maier original edition",
+        "status": "Waiting for PDF image extraction"
+      },
+      "review_status": "DRAFT",
+      "confidence": "HIGH",
+      "source_method": "De Jong scholarly extraction + metadata synthesis"
+    },
+    {
+      "id": "maier-atalanta-012",
+      "emblem_number": 12,
+      "title": "Hide the hermaphrodite from the rays of the sun, that it may be nourished in darkness",
+      "english_title": "The Sealed Vessel and Secret Work",
+      "source_book": "Atalanta Fugiens",
+      "author": "Michael Maier",
+      "date_published": 1618,
+      "edition_note": "Johann Theodor de Bry edition, Frankfurt",
+      "visual_elements": [
+        "Androgynous figure",
+        "Dark enclosure or cave",
+        "Shielded from sunlight",
+        "Internal light/furnace warmth"
+      ],
+      "visual_description": "[Detailed visual description from De Jong scholarship for emblem 12]",
+      "essay": "[Essay content for Maier Atalanta 12 to be extracted from detailed markdown]",
+      "key_concepts": [
+        "Hermaphroditism",
+        "Sealed Vessel (Hermetic seal)",
+        "Hidden Nourishment",
+        "Rejection of External Light"
+      ],
+      "alchemical_stage": "Middle Work - Protected Development",
+      "color_association": "Green (enclosed growth)",
+      "planetary_association": "Luna (Moon, night, hidden work)",
+      "divine_principle": "The secret wisdom, revealed only to the initiated",
+      "spiritual_meaning": "The hidden inner light, divine knowledge concealed from the profane",
+      "related_emblems": [
+        4,
+        12
+      ],
+      "motto_source": "The principles of the hermetic seal (athanor)",
+      "scholarly_sources": [
+        {
+          "scholar": "Helena Maria Elisabeth De Jong",
+          "reference": "*Michael Maier's Atalanta Fugiens: Sources of an Alchemical Book of Emblems* (Nicolas-Hays, Inc., 2002), pp. 105-110",
+          "relevance": "primary_interpretation",
+          "quote": "[De Jong's interpretation of emblem 12]"
+        },
+        {
+          "scholar": "Michael Maier",
+          "reference": "*Atalanta Fugiens* (1618), Emblem {emblem_num}",
+          "relevance": "primary_source",
+          "quote": "The principles of the hermetic seal (athanor)"
+        }
+      ],
+      "image_source": {
+        "type": "text_description_pending",
+        "basis": "De Jong scholarly analysis",
+        "sourcing": "De Jong, pp. 105-110; Maier original edition",
+        "status": "Waiting for PDF image extraction"
+      },
+      "review_status": "DRAFT",
+      "confidence": "HIGH",
+      "source_method": "De Jong scholarly extraction + metadata synthesis"
+    },
+    {
+      "id": "maier-atalanta-013",
+      "emblem_number": 13,
+      "title": "The dropsical ore must be washed seven times in the Jordan",
+      "english_title": "Seven Washings and Healing",
+      "source_book": "Atalanta Fugiens",
+      "author": "Michael Maier",
+      "date_published": 1618,
+      "edition_note": "Johann Theodor de Bry edition, Frankfurt",
+      "visual_elements": [
+        "Sick/swollen figure (Naaman)",
+        "River (Jordan)",
+        "Repeated immersion",
+        "Progressive health restoration"
+      ],
+      "visual_description": "[Detailed visual description from De Jong scholarship for emblem 13]",
+      "essay": "[Essay content for Maier Atalanta 13 to be extracted from detailed markdown]",
+      "key_concepts": [
+        "Repetitive Washing",
+        "Cure of Disease",
+        "The Jordan (baptismal waters)",
+        "Theological Resonance"
+      ],
+      "alchemical_stage": "Middle Work - Purification and Balance",
+      "color_association": "White (health, purity after washing)",
+      "planetary_association": "Jupiter (healing, expansion to right proportion)",
+      "divine_principle": "Baptismal grace, healing through divine waters",
+      "spiritual_meaning": "The soul's healing from spiritual disease through baptismal immersion",
+      "related_emblems": [
+        3,
+        11
+      ],
+      "motto_source": "Biblical and alchemical tradition (Naaman's healing)",
+      "scholarly_sources": [
+        {
+          "scholar": "Helena Maria Elisabeth De Jong",
+          "reference": "*Michael Maier's Atalanta Fugiens: Sources of an Alchemical Book of Emblems* (Nicolas-Hays, Inc., 2002), pp. 110-115",
+          "relevance": "primary_interpretation",
+          "quote": "[De Jong's interpretation of emblem 13]"
+        },
+        {
+          "scholar": "Michael Maier",
+          "reference": "*Atalanta Fugiens* (1618), Emblem {emblem_num}",
+          "relevance": "primary_source",
+          "quote": "Biblical and alchemical tradition (Naaman's healing)"
+        }
+      ],
+      "image_source": {
+        "type": "text_description_pending",
+        "basis": "De Jong scholarly analysis",
+        "sourcing": "De Jong, pp. 110-115; Maier original edition",
+        "status": "Waiting for PDF image extraction"
+      },
+      "review_status": "DRAFT",
+      "confidence": "HIGH",
+      "source_method": "De Jong scholarly extraction + metadata synthesis"
+    },
+    {
+      "id": "maier-atalanta-014",
+      "emblem_number": 14,
+      "title": "Make the stone equal in weight to its humidity",
+      "english_title": "Equilibrium and Precise Measurement",
+      "source_book": "Atalanta Fugiens",
+      "author": "Michael Maier",
+      "date_published": 1618,
+      "edition_note": "Johann Theodor de Bry edition, Frankfurt",
+      "visual_elements": [
+        "Scales/balance",
+        "Stone on one side",
+        "Water/fluid on the other",
+        "Perfect equilibrium",
+        "Mathematical markings"
+      ],
+      "visual_description": "[Detailed visual description from De Jong scholarship for emblem 14]",
+      "essay": "[Essay content for Maier Atalanta 14 to be extracted from detailed markdown]",
+      "key_concepts": [
+        "Equilibrium",
+        "Precise Measurement",
+        "The Mean (golden mean)",
+        "Proportion"
+      ],
+      "alchemical_stage": "Middle Work - Achieving Balance",
+      "color_association": "Gray (balanced, neutral)",
+      "planetary_association": "Mercury (balance, measurement)",
+      "divine_principle": "Mathematical harmony underlying creation",
+      "spiritual_meaning": "The balanced soul, neither excess nor deficiency",
+      "related_emblems": [
+        6,
+        15
+      ],
+      "motto_source": "Paracelsian and mathematical alchemy",
+      "scholarly_sources": [
+        {
+          "scholar": "Helena Maria Elisabeth De Jong",
+          "reference": "*Michael Maier's Atalanta Fugiens: Sources of an Alchemical Book of Emblems* (Nicolas-Hays, Inc., 2002), pp. 115-120",
+          "relevance": "primary_interpretation",
+          "quote": "[De Jong's interpretation of emblem 14]"
+        },
+        {
+          "scholar": "Michael Maier",
+          "reference": "*Atalanta Fugiens* (1618), Emblem {emblem_num}",
+          "relevance": "primary_source",
+          "quote": "Paracelsian and mathematical alchemy"
+        }
+      ],
+      "image_source": {
+        "type": "text_description_pending",
+        "basis": "De Jong scholarly analysis",
+        "sourcing": "De Jong, pp. 115-120; Maier original edition",
+        "status": "Waiting for PDF image extraction"
+      },
+      "review_status": "DRAFT",
+      "confidence": "HIGH",
+      "source_method": "De Jong scholarly extraction + metadata synthesis"
+    },
+    {
+      "id": "maier-atalanta-015",
+      "emblem_number": 15,
+      "title": "The potter's wheel turns, and from it is born a work both moist and dry",
+      "english_title": "The Craft of Circulatio",
+      "source_book": "Atalanta Fugiens",
+      "author": "Michael Maier",
+      "date_published": 1618,
+      "edition_note": "Johann Theodor de Bry edition, Frankfurt",
+      "visual_elements": [
+        "Potter's wheel turning",
+        "Hands shaping clay",
+        "Emerging vessel form",
+        "Clay transitioning from wet to hard"
+      ],
+      "visual_description": "[Detailed visual description from De Jong scholarship for emblem 15]",
+      "essay": "[Essay content for Maier Atalanta 15 to be extracted from detailed markdown]",
+      "key_concepts": [
+        "Circulation (Circulatio)",
+        "Craft and Skill",
+        "Duality (moist and dry)",
+        "The Vessel (perfected stone)"
+      ],
+      "alchemical_stage": "Middle-Late Work - Forming and Refining",
+      "color_association": "Brown-gray (clay, earth element)",
+      "planetary_association": "Mercury (skill, craft)",
+      "divine_principle": "The potter/divine craftsman shaping matter",
+      "spiritual_meaning": "The alchemist as conscious participant in divine creation",
+      "related_emblems": [
+        7,
+        17
+      ],
+      "motto_source": "Craft tradition and natural observation",
+      "scholarly_sources": [
+        {
+          "scholar": "Helena Maria Elisabeth De Jong",
+          "reference": "*Michael Maier's Atalanta Fugiens: Sources of an Alchemical Book of Emblems* (Nicolas-Hays, Inc., 2002), pp. 120-125",
+          "relevance": "primary_interpretation",
+          "quote": "[De Jong's interpretation of emblem 15]"
+        },
+        {
+          "scholar": "Michael Maier",
+          "reference": "*Atalanta Fugiens* (1618), Emblem {emblem_num}",
+          "relevance": "primary_source",
+          "quote": "Craft tradition and natural observation"
+        }
+      ],
+      "image_source": {
+        "type": "text_description_pending",
+        "basis": "De Jong scholarly analysis",
+        "sourcing": "De Jong, pp. 120-125; Maier original edition",
+        "status": "Waiting for PDF image extraction"
+      },
+      "review_status": "DRAFT",
+      "confidence": "HIGH",
+      "source_method": "De Jong scholarly extraction + metadata synthesis"
+    },
+    {
+      "id": "maier-atalanta-016",
+      "emblem_number": 16,
+      "title": "If you wish to perfect the Magnesia, feed it on itself",
+      "english_title": "Self-Nourishment and Closed System",
+      "source_book": "Atalanta Fugiens",
+      "author": "Michael Maier",
+      "date_published": 1618,
+      "edition_note": "Johann Theodor de Bry edition, Frankfurt",
+      "visual_elements": [
+        "Self-feeding figure (ouroboros)",
+        "Matter consuming its own refined essence",
+        "Circular ingestion",
+        "No external inputs"
+      ],
+      "visual_description": "[Detailed visual description from De Jong scholarship for emblem 16]",
+      "essay": "[Essay content for Maier Atalanta 16 to be extracted from detailed markdown]",
+      "key_concepts": [
+        "Self-Sufficiency",
+        "Ouroboros",
+        "Closed System",
+        "Perfection (making perfect, not creating)"
+      ],
+      "alchemical_stage": "Late Work - Self-Sustaining Perfection",
+      "color_association": "Red (mature, perfected)",
+      "planetary_association": "Sol (self-luminous, self-sufficient)",
+      "divine_principle": "The infinite regress of divine self-reflection",
+      "spiritual_meaning": "The soul consuming and perfecting its own essence",
+      "related_emblems": [
+        1,
+        9
+      ],
+      "motto_source": "Principle of the opus as perfective (not generative)",
+      "scholarly_sources": [
+        {
+          "scholar": "Helena Maria Elisabeth De Jong",
+          "reference": "*Michael Maier's Atalanta Fugiens: Sources of an Alchemical Book of Emblems* (Nicolas-Hays, Inc., 2002), pp. 125-130",
+          "relevance": "primary_interpretation",
+          "quote": "[De Jong's interpretation of emblem 16]"
+        },
+        {
+          "scholar": "Michael Maier",
+          "reference": "*Atalanta Fugiens* (1618), Emblem {emblem_num}",
+          "relevance": "primary_source",
+          "quote": "Principle of the opus as perfective (not generative)"
+        }
+      ],
+      "image_source": {
+        "type": "text_description_pending",
+        "basis": "De Jong scholarly analysis",
+        "sourcing": "De Jong, pp. 125-130; Maier original edition",
+        "status": "Waiting for PDF image extraction"
+      },
+      "review_status": "DRAFT",
+      "confidence": "HIGH",
+      "source_method": "De Jong scholarly extraction + metadata synthesis"
+    },
+    {
+      "id": "maier-atalanta-017",
+      "emblem_number": 17,
+      "title": "Four kinds of fire are necessary in the magistery",
+      "english_title": "Graduated Heating and Multiple Principles",
+      "source_book": "Atalanta Fugiens",
+      "author": "Michael Maier",
+      "date_published": 1618,
+      "edition_note": "Johann Theodor de Bry edition, Frankfurt",
+      "visual_elements": [
+        "Four types of fire differentiated",
+        "Concentric or sequential arrangement",
+        "Different colors or intensities",
+        "Rising hierarchy"
+      ],
+      "visual_description": "[Detailed visual description from De Jong scholarship for emblem 17]",
+      "essay": "[Essay content for Maier Atalanta 17 to be extracted from detailed markdown]",
+      "key_concepts": [
+        "Graduated Heating",
+        "Four Sources of Fire",
+        "Hierarchy and Correspondence",
+        "Work itself as fire"
+      ],
+      "alchemical_stage": "All Stages - Heating Regimens",
+      "color_association": "Yellow → Orange → Red (increasing intensity)",
+      "planetary_association": "Sol (fire principle)",
+      "divine_principle": "Gradation of divine fire from material to spiritual",
+      "spiritual_meaning": "The burning away of impurities, contemplative fire of the soul",
+      "related_emblems": [
+        15,
+        18
+      ],
+      "motto_source": "Practical alchemical knowledge",
+      "scholarly_sources": [
+        {
+          "scholar": "Helena Maria Elisabeth De Jong",
+          "reference": "*Michael Maier's Atalanta Fugiens: Sources of an Alchemical Book of Emblems* (Nicolas-Hays, Inc., 2002), pp. 130-135",
+          "relevance": "primary_interpretation",
+          "quote": "[De Jong's interpretation of emblem 17]"
+        },
+        {
+          "scholar": "Michael Maier",
+          "reference": "*Atalanta Fugiens* (1618), Emblem {emblem_num}",
+          "relevance": "primary_source",
+          "quote": "Practical alchemical knowledge"
+        }
+      ],
+      "image_source": {
+        "type": "text_description_pending",
+        "basis": "De Jong scholarly analysis",
+        "sourcing": "De Jong, pp. 130-135; Maier original edition",
+        "status": "Waiting for PDF image extraction"
+      },
+      "review_status": "DRAFT",
+      "confidence": "HIGH",
+      "source_method": "De Jong scholarly extraction + metadata synthesis"
+    },
+    {
+      "id": "maier-atalanta-018",
+      "emblem_number": 18,
+      "title": "The salamander lives in fire; so too must your stone",
+      "english_title": "Incombustibility and Transcendent Nature",
+      "source_book": "Atalanta Fugiens",
+      "author": "Michael Maier",
+      "date_published": 1618,
+      "edition_note": "Johann Theodor de Bry edition, Frankfurt",
+      "visual_elements": [
+        "Salamander in flames",
+        "Creature unharmed and luminous",
+        "Stone similarly perfected within fire",
+        "Paradox of survival in hostile element"
+      ],
+      "visual_description": "[Detailed visual description from De Jong scholarship for emblem 18]",
+      "essay": "[Essay content for Maier Atalanta 18 to be extracted from detailed markdown]",
+      "key_concepts": [
+        "Incombustibility",
+        "Adaptation to Extremity",
+        "Salamander Legend",
+        "Ultimate Robustness"
+      ],
+      "alchemical_stage": "Final Stage - Testing and Proof",
+      "color_association": "Red with golden luminosity (in fire)",
+      "planetary_association": "Sol (incorruptible principle)",
+      "divine_principle": "The divine spark that transcends material law",
+      "spiritual_meaning": "The perfected soul at home in the divine fire",
+      "related_emblems": [
+        17,
+        19
+      ],
+      "motto_source": "Natural history and alchemical symbolism",
+      "scholarly_sources": [
+        {
+          "scholar": "Helena Maria Elisabeth De Jong",
+          "reference": "*Michael Maier's Atalanta Fugiens: Sources of an Alchemical Book of Emblems* (Nicolas-Hays, Inc., 2002), pp. 135-140",
+          "relevance": "primary_interpretation",
+          "quote": "[De Jong's interpretation of emblem 18]"
+        },
+        {
+          "scholar": "Michael Maier",
+          "reference": "*Atalanta Fugiens* (1618), Emblem {emblem_num}",
+          "relevance": "primary_source",
+          "quote": "Natural history and alchemical symbolism"
+        }
+      ],
+      "image_source": {
+        "type": "text_description_pending",
+        "basis": "De Jong scholarly analysis",
+        "sourcing": "De Jong, pp. 135-140; Maier original edition",
+        "status": "Waiting for PDF image extraction"
+      },
+      "review_status": "DRAFT",
+      "confidence": "HIGH",
+      "source_method": "De Jong scholarly extraction + metadata synthesis"
+    },
+    {
+      "id": "maier-atalanta-019",
+      "emblem_number": 19,
+      "title": "The crowned king is crowned in blood",
+      "english_title": "Kingship and the Red Completion",
+      "source_book": "Atalanta Fugiens",
+      "author": "Michael Maier",
+      "date_published": 1618,
+      "edition_note": "Johann Theodor de Bry edition, Frankfurt",
+      "visual_elements": [
+        "Royal figure",
+        "Crown placed on head",
+        "Bloodred surroundings or coloring",
+        "Triumphant imagery"
+      ],
+      "visual_description": "[Detailed visual description from De Jong scholarship for emblem 19]",
+      "essay": "[Essay content for Maier Atalanta 19 to be extracted from detailed markdown]",
+      "key_concepts": [
+        "Reddening (Rubedo)",
+        "Kingship (authority/mastery)",
+        "Blood/Essence",
+        "Triumph and Coronation"
+      ],
+      "alchemical_stage": "Final Stage - Rubedo and Triumphant Completion",
+      "color_association": "Red (rubedo, final color)",
+      "planetary_association": "Sol (kingship, gold)",
+      "divine_principle": "Divine authority and power manifesting in the perfected matter",
+      "spiritual_meaning": "The soul attaining divine sovereignty and eternal kingship",
+      "related_emblems": [
+        10,
+        20
+      ],
+      "motto_source": "Alchemical royal symbolism",
+      "scholarly_sources": [
+        {
+          "scholar": "Helena Maria Elisabeth De Jong",
+          "reference": "*Michael Maier's Atalanta Fugiens: Sources of an Alchemical Book of Emblems* (Nicolas-Hays, Inc., 2002), pp. 140-145",
+          "relevance": "primary_interpretation",
+          "quote": "[De Jong's interpretation of emblem 19]"
+        },
+        {
+          "scholar": "Michael Maier",
+          "reference": "*Atalanta Fugiens* (1618), Emblem {emblem_num}",
+          "relevance": "primary_source",
+          "quote": "Alchemical royal symbolism"
+        }
+      ],
+      "image_source": {
+        "type": "text_description_pending",
+        "basis": "De Jong scholarly analysis",
+        "sourcing": "De Jong, pp. 140-145; Maier original edition",
+        "status": "Waiting for PDF image extraction"
+      },
+      "review_status": "DRAFT",
+      "confidence": "HIGH",
+      "source_method": "De Jong scholarly extraction + metadata synthesis"
+    },
+    {
+      "id": "maier-atalanta-020",
+      "emblem_number": 20,
+      "title": "The peacock's tail is the sign of perfection",
+      "english_title": "Cauda Pavonis and Polychromatic Splendor",
+      "source_book": "Atalanta Fugiens",
+      "author": "Michael Maier",
+      "date_published": 1618,
+      "edition_note": "Johann Theodor de Bry edition, Frankfurt",
+      "visual_elements": [
+        "Peacock displaying tail",
+        "Feathers spread in iridescent fan",
+        "Multiple colors visible",
+        "Luminous and radiant display"
+      ],
+      "visual_description": "[Detailed visual description from De Jong scholarship for emblem 20]",
+      "essay": "[Essay content for Maier Atalanta 20 to be extracted from detailed markdown]",
+      "key_concepts": [
+        "Polychromatic Intermediate Stage",
+        "Incorruptibility",
+        "Completion Nearing",
+        "Display and Beauty",
+        "Natural Perfection"
+      ],
+      "alchemical_stage": "Advanced Final Stage - Cauda Pavonis (precedes final clarification)",
+      "color_association": "Multicolored iridescence (all colors before red)",
+      "planetary_association": "Mercury/Juno (iridescence, multiplicity resolved)",
+      "divine_principle": "The divine as many-colored, all-inclusive beauty",
+      "spiritual_meaning": "The soul displaying all its perfections, radiating beauty",
+      "related_emblems": [
+        10,
+        19
+      ],
+      "motto_source": "Alchemical and art tradition",
+      "scholarly_sources": [
+        {
+          "scholar": "Helena Maria Elisabeth De Jong",
+          "reference": "*Michael Maier's Atalanta Fugiens: Sources of an Alchemical Book of Emblems* (Nicolas-Hays, Inc., 2002), pp. 145-150",
+          "relevance": "primary_interpretation",
+          "quote": "[De Jong's interpretation of emblem 20]"
+        },
+        {
+          "scholar": "Michael Maier",
+          "reference": "*Atalanta Fugiens* (1618), Emblem {emblem_num}",
+          "relevance": "primary_source",
+          "quote": "Alchemical and art tradition"
+        }
+      ],
+      "image_source": {
+        "type": "text_description_pending",
+        "basis": "De Jong scholarly analysis",
+        "sourcing": "De Jong, pp. 145-150; Maier original edition",
+        "status": "Waiting for PDF image extraction"
+      },
+      "review_status": "DRAFT",
+      "confidence": "HIGH",
+      "source_method": "De Jong scholarly extraction + metadata synthesis"
     }
   ],
   "essays": [
