@@ -410,23 +410,23 @@ def main():
 
     print("Enhancing Paracelsus figure entry...")
     if enhance_paracelsus_figure(data['figures']):
-        print("  ✓ Paracelsus essay enriched with comprehensive scholarship")
+        print("  [OK] Paracelsus essay enriched with comprehensive scholarship")
 
     print("\nAdding scholar profiles...")
     scholar_count = add_scholar_profiles(data)
-    print(f"  ✓ {scholar_count} scholars in database (added 5 Paracelsus specialists)")
+    print(f"  [OK] {scholar_count} scholars in database (added 5 Paracelsus specialists)")
 
     print("\nAdding Paracelsus works to texts section...")
     work_count = add_paracelsus_works(data)
-    print(f"  ✓ Added {work_count} major Paracelsus works")
+    print(f"  [OK] Added {work_count} major Paracelsus works")
 
     print("\nEstablishing relationships...")
     if establish_relationships(data):
-        print("  ✓ Concept links and related figures connected")
+        print("  [OK] Concept links and related figures connected")
 
     print("\nSaving updated database...")
     save_database(data)
-    print("  ✓ Database saved successfully")
+    print("  [OK] Database saved successfully")
 
     print("\n" + "="*60)
     print("PARACELSUS INTEGRATION COMPLETE")
