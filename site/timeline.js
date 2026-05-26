@@ -6,9 +6,10 @@ let selectedEvent = null;
 async function initTimeline() {
     // Fetch timeline data
     try {
-        const response = await fetch('../data/timeline_events.json');
+        const response = await fetch('./data/timeline_events.json');
         const data = await response.json();
         allEvents = data.timeline_events || [];
+        filteredEvents = [...allEvents];
 
         renderTimeline();
         renderStats();

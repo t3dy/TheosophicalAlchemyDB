@@ -46,7 +46,10 @@
         "%5B9789004466005%20-%20Fictional%20Practice%3A%20Magic%2C%20Narration%2C%20and%20the%20Power%20of%20Imagination%5D%20Fictional%20Practice%3A%20Magic%2C%20Narration%2C%20and%20the%20Power%20of%20Imagination.pdf"
       ],
       "source_citations_count": 47,
-      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Johann_Valentin_Andreae.jpg"
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Johann_Valentin_Andreae.jpg",
+      "concepts": [
+        37
+      ]
     },
     {
       "id": 2,
@@ -85,7 +88,10 @@
         "%5B9789004466005%20-%20Fictional%20Practice%3A%20Magic%2C%20Narration%2C%20and%20the%20Power%20of%20Imagination%5D%20Fictional%20Practice%3A%20Magic%2C%20Narration%2C%20and%20the%20Power%20of%20Imagination.pdf",
         "README.md"
       ],
-      "source_citations_count": 134
+      "source_citations_count": 134,
+      "concepts": [
+        38
+      ]
     },
     {
       "id": 3,
@@ -125,7 +131,8 @@
         "Constructing Tradition",
         "README.md"
       ],
-      "source_citations_count": 106
+      "source_citations_count": 106,
+      "concepts": []
     },
     {
       "id": 4,
@@ -165,7 +172,12 @@
         "%5B9789004466005%20-%20Fictional%20Practice%3A%20Magic%2C%20Narration%2C%20and%20the%20Power%20of%20Imagination%5D%20Fictional%20Practice%3A%20Magic%2C%20Narration%2C%20and%20the%20Power%20of%20Imagination.pdf",
         "README.md"
       ],
-      "source_citations_count": 205
+      "source_citations_count": 205,
+      "concepts": [
+        26,
+        33,
+        38
+      ]
     },
     {
       "id": 5,
@@ -206,7 +218,10 @@
         "DE TRIBUS PRINCIPIIS, Oder Beschreibung Der Drey Principien Gttliches Wesens: Of the Three Principles of Divine Being, 1619, by Jacob Boehme"
       ],
       "source_citations_count": 18,
-      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Jacob_Bohme_1575-1624.jpg"
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Jacob_Bohme_1575-1624.jpg",
+      "concepts": [
+        37
+      ]
     },
     {
       "id": 6,
@@ -252,7 +267,8 @@
         "Arguing with Angels"
       ],
       "source_citations_count": 19,
-      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Elias_Ashmole.jpg"
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Elias_Ashmole.jpg",
+      "concepts": []
     },
     {
       "id": 7,
@@ -286,7 +302,10 @@
           "relevance": "primary"
         }
       ],
-      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Emanuel_Swedenborg.jpg"
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Emanuel_Swedenborg.jpg",
+      "concepts": [
+        53
+      ]
     },
     {
       "id": 8,
@@ -322,7 +341,10 @@
         "Christopher McIntosh The Rose Cross and the Age of Reason_ Eighteenth Century Rosicrucianism in Central Europe"
       ],
       "source_citations_count": 3,
-      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Karl_von_Eckartshausen.jpg"
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Karl_von_Eckartshausen.jpg",
+      "concepts": [
+        37
+      ]
     },
     {
       "id": 9,
@@ -362,7 +384,10 @@
         "Constructing Tradition"
       ],
       "source_citations_count": 9,
-      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Claude_de_Saint-Martin.jpg"
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Claude_de_Saint-Martin.jpg",
+      "concepts": [
+        48
+      ]
     },
     {
       "id": 10,
@@ -404,7 +429,10 @@
         "Arguing with Angels",
         "Alchemy, Jung, and Remedios Varo; Cultural Complexes and the Redemptive Power of the"
       ],
-      "source_citations_count": 88
+      "source_citations_count": 88,
+      "concepts": [
+        40
+      ]
     },
     {
       "id": 11,
@@ -444,7 +472,10 @@
         "\"Dispersa Intentio.\" Alchemy, Magic and Scepticism in Agrippa"
       ],
       "source_citations_count": 66,
-      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Thomas_Vaughan_alchemist.jpg"
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Thomas_Vaughan_alchemist.jpg",
+      "concepts": [
+        37
+      ]
     },
     {
       "id": 12,
@@ -481,7 +512,8 @@
         "Daniel Beresniak Symbols of Freemasonry Barnes Noble Books"
       ],
       "source_citations_count": 73,
-      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Francis_Bacon_1561-1626.jpg"
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Francis_Bacon_1561-1626.jpg",
+      "concepts": []
     },
     {
       "id": 13,
@@ -521,7 +553,8 @@
         "Alchemy, Jung, and Remedios Varo; Cultural Complexes and the Redemptive Power of the"
       ],
       "source_citations_count": 89,
-      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Giordano_Bruno_1548-1600.jpg"
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Giordano_Bruno_1548-1600.jpg",
+      "concepts": []
     },
     {
       "id": 14,
@@ -558,7 +591,8 @@
         "A Christian Rosenkreutz Anthology"
       ],
       "source_citations_count": 76,
-      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Heinrich_Khunrath.jpg"
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Heinrich_Khunrath.jpg",
+      "concepts": []
     },
     {
       "id": 15,
@@ -593,7 +627,8 @@
         "undefined series for scimag 1998 jun 26 Åkerman Susanna Rose Cross over the Baltic 10 1163_9789004247413 libgen li"
       ],
       "source_citations_count": 5,
-      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Catherine_of_Siena.jpg"
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Catherine_of_Siena.jpg",
+      "concepts": []
     },
     {
       "id": 16,
@@ -633,7 +668,10 @@
         "README.md"
       ],
       "source_citations_count": 83,
-      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Marsilio_Ficino.jpg"
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Marsilio_Ficino.jpg",
+      "concepts": [
+        38
+      ]
     },
     {
       "id": 17,
@@ -673,7 +711,8 @@
         "%5B9789004466005%20-%20Fictional%20Practice%3A%20Magic%2C%20Narration%2C%20and%20the%20Power%20of%20Imagination%5D%20Fictional%20Practice%3A%20Magic%2C%20Narration%2C%20and%20the%20Power%20of%20Imagination.pdf"
       ],
       "source_citations_count": 80,
-      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Pico_della_Mirandola.jpg"
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Pico_della_Mirandola.jpg",
+      "concepts": []
     },
     {
       "id": 18,
@@ -712,7 +751,8 @@
         "Constructing Tradition"
       ],
       "source_citations_count": 26,
-      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Nicolas_Flamel.jpg"
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Nicolas_Flamel.jpg",
+      "concepts": []
     },
     {
       "id": 19,
@@ -749,7 +789,8 @@
         "The Occult World"
       ],
       "source_citations_count": 17,
-      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Jabir_ibn_Hayyan.jpg"
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Jabir_ibn_Hayyan.jpg",
+      "concepts": []
     },
     {
       "id": 20,
@@ -788,7 +829,10 @@
         "README.md"
       ],
       "source_citations_count": 120,
-      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Hermes_Trismegistus.jpg"
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Hermes_Trismegistus.jpg",
+      "concepts": [
+        53
+      ]
     },
     {
       "id": 21,
@@ -825,7 +869,8 @@
         "Constructing Tradition"
       ],
       "source_citations_count": 50,
-      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Thomas_Aquinas.jpg"
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Thomas_Aquinas.jpg",
+      "concepts": []
     },
     {
       "id": 22,
@@ -864,7 +909,8 @@
         "README.md"
       ],
       "source_citations_count": 99,
-      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Roger_Bacon_1220-1292.jpg"
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Roger_Bacon_1220-1292.jpg",
+      "concepts": []
     },
     {
       "id": 23,
@@ -903,7 +949,10 @@
         "Kabbalah: Rosicrucian Digest (Rosicrucian Order AMORC Kindle Editions)"
       ],
       "source_citations_count": 44,
-      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Plotinus.jpg"
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Plotinus.jpg",
+      "concepts": [
+        25
+      ]
     },
     {
       "id": 24,
@@ -943,7 +992,10 @@
         "Experimental Life"
       ],
       "source_citations_count": 15,
-      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/William_Blake_1757-1827.jpg"
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/William_Blake_1757-1827.jpg",
+      "concepts": [
+        48
+      ]
     },
     {
       "id": 25,
@@ -982,7 +1034,11 @@
         "Constructing Tradition"
       ],
       "source_citations_count": 8,
-      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Louis-Claude_de_Saint-Martin.jpg"
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Louis-Claude_de_Saint-Martin.jpg",
+      "concepts": [
+        48,
+        53
+      ]
     },
     {
       "id": 26,
@@ -1018,7 +1074,10 @@
         "A Christian Rosenkreutz Anthology"
       ],
       "source_citations_count": 4,
-      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Johann_Georg_Gichtel.jpg"
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Johann_Georg_Gichtel.jpg",
+      "concepts": [
+        53
+      ]
     },
     {
       "id": 27,
@@ -1053,7 +1112,12 @@
         "Christopher McIntosh The Rose Cross and the Age of Reason_ Eighteenth Century Rosicrucianism in Central Europe"
       ],
       "source_citations_count": 4,
-      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Adam_Weishaupt.jpg"
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Adam_Weishaupt.jpg",
+      "concepts": [
+        34,
+        35,
+        37
+      ]
     },
     {
       "id": 28,
@@ -1089,7 +1153,11 @@
         "%5B9789004466005%20-%20Fictional%20Practice%3A%20Magic%2C%20Narration%2C%20and%20the%20Power%20of%20Imagination%5D%20Fictional%20Practice%3A%20Magic%2C%20Narration%2C%20and%20the%20Power%20of%20Imagination.pdf"
       ],
       "source_citations_count": 23,
-      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Cagliostro.jpg"
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Cagliostro.jpg",
+      "concepts": [
+        34,
+        48
+      ]
     },
     {
       "id": 29,
@@ -1125,7 +1193,10 @@
         "The Sacrificial Body and the Day of Doom: Alchemy and Apocalyptic Discourse in the Protestant Reformation"
       ],
       "source_citations_count": 21,
-      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Gerhard_Dorn.jpg"
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Gerhard_Dorn.jpg",
+      "concepts": [
+        41
+      ]
     },
     {
       "id": 30,
@@ -1155,7 +1226,10 @@
           "relevance": "primary"
         }
       ],
-      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Leonhard_Thurneiser.jpg"
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Leonhard_Thurneiser.jpg",
+      "concepts": [
+        33
+      ]
     },
     {
       "id": 31,
@@ -1187,7 +1261,8 @@
         "K Park L Daston Cambridge History of Science Early Modern Science Vol 3 libgen li"
       ],
       "source_citations_count": 1,
-      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Catherine_de_Medici.jpg"
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Catherine_de_Medici.jpg",
+      "concepts": []
     },
     {
       "id": 32,
@@ -1223,7 +1298,10 @@
         "The Sacrificial Body and the Day of Doom: Alchemy and Apocalyptic Discourse in the Protestant Reformation"
       ],
       "source_citations_count": 6,
-      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Giambattista_della_Porta.jpg"
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Giambattista_della_Porta.jpg",
+      "concepts": [
+        53
+      ]
     },
     {
       "id": 33,
@@ -1263,7 +1341,8 @@
         "Kabbalah: Rosicrucian Digest (Rosicrucian Order AMORC Kindle Editions)"
       ],
       "source_citations_count": 14,
-      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Henry_Cornelius_Agrippa.jpg"
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Henry_Cornelius_Agrippa.jpg",
+      "concepts": []
     },
     {
       "id": 34,
@@ -1297,7 +1376,8 @@
         "The Sacrificial Body and the Day of Doom: Alchemy and Apocalyptic Discourse in the Protestant Reformation"
       ],
       "source_citations_count": 3,
-      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Rudolf_II_Holy_Roman_Emperor.jpg"
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Rudolf_II_Holy_Roman_Emperor.jpg",
+      "concepts": []
     },
     {
       "id": 35,
@@ -1369,7 +1449,12 @@
         "Arguing with Angels"
       ],
       "source_citations_count": 24,
-      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Johannes_Trithemius.jpg"
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Johannes_Trithemius.jpg",
+      "concepts": [
+        30,
+        31,
+        46
+      ]
     },
     {
       "id": 36,
@@ -1397,7 +1482,8 @@
           "relevance": "primary"
         }
       ],
-      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Samuel_Fictuld_alchemist.jpg"
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Samuel_Fictuld_alchemist.jpg",
+      "concepts": []
     },
     {
       "id": 37,
@@ -1436,7 +1522,11 @@
         "The Chemical Philosophy"
       ],
       "source_citations_count": 5,
-      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Gottfried_Wilhelm_Leibniz.jpg"
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Gottfried_Wilhelm_Leibniz.jpg",
+      "concepts": [
+        37,
+        53
+      ]
     },
     {
       "id": 38,
@@ -1471,7 +1561,8 @@
         "A Christian Rosenkreutz Anthology"
       ],
       "source_citations_count": 4,
-      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Joseph_Glanvill.jpg"
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Joseph_Glanvill.jpg",
+      "concepts": []
     },
     {
       "id": 39,
@@ -1505,7 +1596,8 @@
         "Peter J Forshaw The Mage s Images_ Heinrich Khunrath in His Oratory and Laboratory Volume 1_ Prologue_ Bio Bibliography Introduction to Khunrath s Images Brill"
       ],
       "source_citations_count": 5,
-      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Henricus_Khunrath.jpg"
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Henricus_Khunrath.jpg",
+      "concepts": []
     },
     {
       "id": 40,
@@ -1542,7 +1634,8 @@
         "01 PRELIMS"
       ],
       "source_citations_count": 16,
-      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Philip_Sidney.jpg"
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Philip_Sidney.jpg",
+      "concepts": []
     },
     {
       "id": 41,
@@ -1580,7 +1673,15 @@
         "Thomas Vaughan and the Rosicrucian Revival in Britain"
       ],
       "source_citations_count": 10,
-      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Mary_Anne_Atwood.jpg"
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Mary_Anne_Atwood.jpg",
+      "concepts": [
+        1,
+        2,
+        3,
+        30,
+        40,
+        41
+      ]
     },
     {
       "id": 42,
@@ -1615,7 +1716,10 @@
         "Alchemy and Authority in the Holy Roman Empire"
       ],
       "source_citations_count": 5,
-      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Anna_Zieglerin.jpg"
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Anna_Zieglerin.jpg",
+      "concepts": [
+        40
+      ]
     },
     {
       "id": 43,
@@ -1650,7 +1754,15 @@
         "The Mage’s Images: Heinrich Khunrath in His Oratory and Laboratory"
       ],
       "source_citations_count": 1,
-      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Johann_Siebmacher_alchemist.jpg"
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Johann_Siebmacher_alchemist.jpg",
+      "concepts": [
+        12,
+        13,
+        14,
+        30,
+        40,
+        41
+      ]
     },
     {
       "id": 44,
@@ -1686,7 +1798,11 @@
         ""
       ],
       "source_citations_count": 2,
-      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/George_Cheyne.jpg"
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/George_Cheyne.jpg",
+      "concepts": [
+        30,
+        53
+      ]
     },
     {
       "id": 45,
@@ -1724,7 +1840,12 @@
         "A Christian Rosenkreutz Anthology"
       ],
       "source_citations_count": 17,
-      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Johann_Arndt.jpg"
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Johann_Arndt.jpg",
+      "concepts": [
+        30,
+        40,
+        41
+      ]
     },
     {
       "id": 46,
@@ -1760,7 +1881,10 @@
         "cover"
       ],
       "source_citations_count": 1,
-      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Jane_Lead.jpg"
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Jane_Lead.jpg",
+      "concepts": [
+        30
+      ]
     },
     {
       "id": 47,
@@ -1798,7 +1922,10 @@
         "01 PRELIMS"
       ],
       "source_citations_count": 78,
-      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Isaac_Newton_1643-1727.jpg"
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Isaac_Newton_1643-1727.jpg",
+      "concepts": [
+        30
+      ]
     },
     {
       "id": 48,
@@ -1837,7 +1964,10 @@
         "Anna M Vileno Robert J Wilkinson Messias Puer_ Christian Knorr von Rosenroths Lost Exegesis of Kabbalistic Christianity BRILL"
       ],
       "source_citations_count": 32,
-      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Henry_More.jpg"
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Henry_More.jpg",
+      "concepts": [
+        30
+      ]
     },
     {
       "id": 49,
@@ -1867,7 +1997,10 @@
           "relevance": "primary"
         }
       ],
-      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Benedict_Chabotas.jpg"
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Benedict_Chabotas.jpg",
+      "concepts": [
+        30
+      ]
     },
     {
       "id": 50,
@@ -1906,7 +2039,8 @@
         "A Threefold Journey Throught the Book of Lambspring\\374"
       ],
       "source_citations_count": 25,
-      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Adam_McLean.jpg"
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Adam_McLean.jpg",
+      "concepts": []
     },
     {
       "id": 51,
@@ -1945,7 +2079,10 @@
         "Thomas Vaughan and the Rosicrucian Revival in Britain"
       ],
       "source_citations_count": 15,
-      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Brian_Vickers.jpg"
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Brian_Vickers.jpg",
+      "concepts": [
+        37
+      ]
     },
     {
       "id": 52,
@@ -2031,7 +2168,8 @@
         "Kabbalah: Rosicrucian Digest (Rosicrucian Order AMORC Kindle Editions)"
       ],
       "source_citations_count": 25,
-      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Agrippa_Portrait.jpg"
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Agrippa_Portrait.jpg",
+      "concepts": []
     },
     {
       "id": 53,
@@ -2128,7 +2266,12 @@
         "\"Dispersa Intentio.\" Alchemy, Magic and Scepticism in Agrippa"
       ],
       "source_citations_count": 66,
-      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Thomas_Vaughan_alchemist.jpg"
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Thomas_Vaughan_alchemist.jpg",
+      "concepts": [
+        26,
+        33,
+        53
+      ]
     },
     {
       "id": 54,
@@ -2167,7 +2310,11 @@
         "%5B9789004466005%20-%20Fictional%20Practice%3A%20Magic%2C%20Narration%2C%20and%20the%20Power%20of%20Imagination%5D%20Fictional%20Practice%3A%20Magic%2C%20Narration%2C%20and%20the%20Power%20of%20Imagination.pdf"
       ],
       "source_citations_count": 26,
-      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Zosimos_of_Panopolis.jpg"
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Zosimos_of_Panopolis.jpg",
+      "concepts": [
+        15,
+        30
+      ]
     },
     {
       "id": 55,
@@ -2204,7 +2351,10 @@
         "Prophecy, Alchemy, and the End of Time"
       ],
       "source_citations_count": 1,
-      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Arnauld_de_Villeneuve.jpg"
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Arnauld_de_Villeneuve.jpg",
+      "concepts": [
+        15
+      ]
     },
     {
       "id": 56,
@@ -2240,7 +2390,11 @@
         "A Christian Rosenkreutz Anthology"
       ],
       "source_citations_count": 1,
-      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Jean_d'Espagnet.jpg"
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Jean_d'Espagnet.jpg",
+      "concepts": [
+        37,
+        53
+      ]
     },
     {
       "id": 57,
@@ -2273,7 +2427,8 @@
           "relevance": "primary"
         }
       ],
-      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Anna_Bonus_Kingsford.jpg"
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Anna_Bonus_Kingsford.jpg",
+      "concepts": []
     },
     {
       "id": 58,
@@ -2311,7 +2466,10 @@
         "%5B9789004466005%20-%20Fictional%20Practice%3A%20Magic%2C%20Narration%2C%20and%20the%20Power%20of%20Imagination%5D%20Fictional%20Practice%3A%20Magic%2C%20Narration%2C%20and%20the%20Power%20of%20Imagination.pdf"
       ],
       "source_citations_count": 18,
-      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Éliphas_Lévi_portrait.jpg"
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Éliphas_Lévi_portrait.jpg",
+      "concepts": [
+        53
+      ]
     },
     {
       "id": 59,
@@ -2348,7 +2506,12 @@
         "A Christian Rosenkreutz Anthology"
       ],
       "source_citations_count": 5,
-      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/William_Law.jpg"
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/William_Law.jpg",
+      "concepts": [
+        30,
+        37,
+        53
+      ]
     },
     {
       "id": 60,
@@ -2386,7 +2549,10 @@
         "Peter J Forshaw The Mage s Images_ Heinrich Khunrath in His Oratory and Laboratory Volume 1_ Prologue_ Bio Bibliography Introduction to Khunrath s Images Brill"
       ],
       "source_citations_count": 3,
-      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Joseph_Ennemoser.jpg"
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Joseph_Ennemoser.jpg",
+      "concepts": [
+        30
+      ]
     },
     {
       "id": 61,
@@ -2425,7 +2591,10 @@
         "A Christian Rosenkreutz Anthology"
       ],
       "source_citations_count": 4,
-      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Johann_Georg_Gichtel.jpg"
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Johann_Georg_Gichtel.jpg",
+      "concepts": [
+        30
+      ]
     },
     {
       "id": 62,
@@ -2465,7 +2634,11 @@
         "Experimental Life"
       ],
       "source_citations_count": 28,
-      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Arthur_Edward_Waite.jpg"
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Arthur_Edward_Waite.jpg",
+      "concepts": [
+        40,
+        47
+      ]
     },
     {
       "id": 63,
@@ -2498,7 +2671,10 @@
           "relevance": "primary"
         }
       ],
-      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Iuliana_Covaci.jpg"
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Iuliana_Covaci.jpg",
+      "concepts": [
+        30
+      ]
     },
     {
       "id": 64,
@@ -2539,7 +2715,10 @@
         6,
         8,
         25,
-        40
+        40,
+        12,
+        33,
+        48
       ],
       "gender_awareness": "Paracelsus lived in a male-dominated medical establishment but drew on folk healing traditions (largely women's knowledge); his writings show openness to women's practical wisdom, though not institutional recognition.",
       "scholarship": [
@@ -2587,7 +2766,10 @@
         1,
         6,
         25,
-        40
+        40,
+        15,
+        33,
+        66
       ],
       "gender_awareness": "As a Parisian physician, Gohory was embedded in formal medical culture; his writings do not foreground women's participation, though his laboratory work intersected with apothecaries' traditionally female-staffed operations.",
       "scholarship": [
@@ -2672,7 +2854,8 @@
       "concepts": [
         1,
         6,
-        25
+        25,
+        31
       ],
       "created_at": "2026-05-25T12:08:59.434534",
       "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Jean_Thibault.jpg"
@@ -2760,7 +2943,8 @@
       ],
       "concepts": [
         1,
-        25
+        25,
+        15
       ],
       "created_at": "2026-05-25T12:09:48.317368",
       "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Leonhard_Fuchs.jpg"
@@ -2802,7 +2986,9 @@
         6,
         25,
         61,
-        62
+        62,
+        14,
+        33
       ],
       "transmission_genealogy": "Paracelsus → Paracelsian physicians → van Helmont → 17th-century iatrochemistry → modern chemistry.",
       "scholarship": [
@@ -2880,7 +3066,8 @@
         25,
         61,
         62,
-        63
+        63,
+        31
       ],
       "created_at": "2026-05-25T12:09:48.317378",
       "markdown_sources_found": [
@@ -2906,7 +3093,8 @@
       "summary": "William Bradwardine (1495–1560) was a significant Medicine, Alchemy in the history of Western esotericism. His contributions to Rosicrucian, hermetic, and alchemical thought remain influential in contemporary studies of alchemy and spiritual philosophy. He represents key currents in the intellectual history of Europe.",
       "essay": "William Bradwardine was an early English physician who adopted Paracelsian chemical medicine, preparing mineral remedies and defending them against conservative physicians. His work established a foundation for English Paracelsian practice.",
       "created_at": "2026-05-25T12:45:53.868428",
-      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/William_Bradwardine.jpg"
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/William_Bradwardine.jpg",
+      "concepts": []
     },
     {
       "id": 75,
@@ -3240,7 +3428,8 @@
         1,
         25,
         61,
-        68
+        68,
+        33
       ],
       "created_at": "2026-05-25T12:46:42.266766",
       "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Franciscus_Sylvius.jpg"
@@ -3402,7 +3591,8 @@
         6,
         25,
         61,
-        65
+        65,
+        15
       ],
       "created_at": "2026-05-25T12:48:45.528362",
       "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Jābir_ibn_Ḥayyān_(Geber)_portrait.jpg"
@@ -3587,7 +3777,8 @@
       "essay": "Johann Tauler's emphasis on inner transformation influenced Paracelsian mysticism.",
       "concepts": [
         1,
-        6
+        6,
+        41
       ],
       "created_at": "2026-05-25T12:48:45.528376",
       "markdown_sources_found": [
@@ -3651,7 +3842,12 @@
         3,
         9,
         11,
-        21
+        21,
+        12,
+        25,
+        30,
+        34,
+        66
       ],
       "scholarship": [
         {
@@ -3714,7 +3910,10 @@
         3,
         2,
         21,
-        22
+        22,
+        12,
+        31,
+        66
       ],
       "scholarship": [
         {
@@ -3776,7 +3975,10 @@
         2,
         5,
         6,
-        21
+        21,
+        12,
+        19,
+        39
       ],
       "scholarship": [
         {
@@ -3830,7 +4032,10 @@
         "Constructing Tradition"
       ],
       "source_citations_count": 5,
-      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Alchemical_Theosis.jpg"
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Alchemical_Theosis.jpg",
+      "related_concepts": [
+        40
+      ]
     },
     {
       "id": 5,
@@ -3954,7 +4159,8 @@
         5,
         18,
         20,
-        40
+        40,
+        19
       ],
       "scholarship": [
         {
@@ -4024,7 +4230,12 @@
         3,
         28,
         25,
-        26
+        26,
+        1,
+        12,
+        18,
+        30,
+        37
       ],
       "scholarship": [
         {
@@ -4075,7 +4286,10 @@
         231
       ],
       "emblem_count": 14,
-      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Paracelsian_Correspondence.jpg"
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Paracelsian_Correspondence.jpg",
+      "related_concepts": [
+        40
+      ]
     },
     {
       "id": 9,
@@ -4104,7 +4318,12 @@
         "Alchemy, Jung, and Remedios Varo; Cultural Complexes and the Redemptive Power of the"
       ],
       "source_citations_count": 7,
-      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Alchemical_Putrefactio.jpg"
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Alchemical_Putrefactio.jpg",
+      "related_concepts": [
+        1,
+        14,
+        40
+      ]
     },
     {
       "id": 10,
@@ -4133,7 +4352,10 @@
         "Muhammad Ibn Umail_ Theodor Abt Kitab Hall ar Rumuz _ Book of the Explanation of Symbols Psychological Commentary Living Human Heritage Publications"
       ],
       "source_citations_count": 3,
-      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Alchemical_Quaternio.jpg"
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Alchemical_Quaternio.jpg",
+      "related_concepts": [
+        40
+      ]
     },
     {
       "id": 11,
@@ -4178,7 +4400,11 @@
         11,
         12,
         13,
-        15
+        15,
+        30,
+        51,
+        53,
+        66
       ],
       "scholarship": [
         {
@@ -4239,7 +4465,9 @@
         1,
         13,
         11,
-        17
+        17,
+        15,
+        66
       ],
       "scholarship": [
         {
@@ -4301,7 +4529,8 @@
         12,
         1,
         6,
-        13
+        13,
+        2
       ],
       "scholarship": [
         {
@@ -4358,7 +4587,10 @@
         "Alchemy, Jung, and Remedios Varo; Cultural Complexes and the Redemptive Power of the"
       ],
       "source_citations_count": 41,
-      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Fermentation_alchemical.jpg"
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Fermentation_alchemical.jpg",
+      "related_concepts": [
+        40
+      ]
     },
     {
       "id": 15,
@@ -4398,7 +4630,10 @@
         "A Christian Rosenkreutz Anthology"
       ],
       "source_citations_count": 95,
-      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Alchemical_Distillation_apparatus.jpg"
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Alchemical_Distillation_apparatus.jpg",
+      "related_concepts": [
+        40
+      ]
     },
     {
       "id": 16,
@@ -4425,7 +4660,10 @@
         "The Golden Builders"
       ],
       "source_citations_count": 2,
-      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Emerald_Tablet_Hermes.jpg"
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Emerald_Tablet_Hermes.jpg",
+      "related_concepts": [
+        40
+      ]
     },
     {
       "id": 17,
@@ -4458,7 +4696,10 @@
         "Lyndy Abraham A Dictionary of Alchemical Imagery Cambridge University Press"
       ],
       "source_citations_count": 12,
-      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Alchemical_Universal_Solvent.jpg"
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Alchemical_Universal_Solvent.jpg",
+      "related_concepts": [
+        40
+      ]
     },
     {
       "id": 18,
@@ -4564,7 +4805,10 @@
         "A Christian Rosenkreutz Anthology"
       ],
       "source_citations_count": 72,
-      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Alchemical_Tincture.jpg"
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Alchemical_Tincture.jpg",
+      "related_concepts": [
+        40
+      ]
     },
     {
       "id": 20,
@@ -4611,7 +4855,8 @@
         6,
         18,
         32,
-        33
+        33,
+        31
       ],
       "scholarship": [
         {
@@ -4662,7 +4907,12 @@
         "Alchemy, Jung, and Remedios Varo; Cultural Complexes and the Redemptive Power of the"
       ],
       "source_citations_count": 7,
-      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Citrinitas_yellow_stage_alchemy.jpg"
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Citrinitas_yellow_stage_alchemy.jpg",
+      "related_concepts": [
+        2,
+        3,
+        40
+      ]
     },
     {
       "id": 22,
@@ -4686,7 +4936,10 @@
         231
       ],
       "emblem_count": 11,
-      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Alchemical_Mercury_Philosophical.jpg"
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Alchemical_Mercury_Philosophical.jpg",
+      "related_concepts": [
+        40
+      ]
     },
     {
       "id": 23,
@@ -4700,7 +4953,10 @@
         145
       ],
       "emblem_count": 1,
-      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Alchemical_Sulfur_Philosophical.jpg"
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Alchemical_Sulfur_Philosophical.jpg",
+      "related_concepts": [
+        40
+      ]
     },
     {
       "id": 24,
@@ -4718,7 +4974,10 @@
         207
       ],
       "emblem_count": 5,
-      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Alchemical_Salt_Philosophical.jpg"
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Alchemical_Salt_Philosophical.jpg",
+      "related_concepts": [
+        40
+      ]
     },
     {
       "id": 25,
@@ -4745,7 +5004,10 @@
         "Christopher McIntosh The Rose Cross and the Age of Reason_ Eighteenth Century Rosicrucianism in Central Europe"
       ],
       "source_citations_count": 48,
-      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Neoplatonic_Emanation_diagram.jpg"
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Neoplatonic_Emanation_diagram.jpg",
+      "related_concepts": [
+        40
+      ]
     },
     {
       "id": 26,
@@ -4776,7 +5038,10 @@
         "Lyndy Abraham A Dictionary of Alchemical Imagery Cambridge University Press"
       ],
       "source_citations_count": 16,
-      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Alchemical_Macrocosm-Microcosm.jpg"
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Alchemical_Macrocosm-Microcosm.jpg",
+      "related_concepts": [
+        40
+      ]
     },
     {
       "id": 27,
@@ -4808,7 +5073,10 @@
         "The Golden Builders"
       ],
       "source_citations_count": 3,
-      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Robert_Fludd_Divine_Mind.jpg"
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Robert_Fludd_Divine_Mind.jpg",
+      "related_concepts": [
+        40
+      ]
     },
     {
       "id": 28,
@@ -4822,7 +5090,10 @@
         "cover"
       ],
       "source_citations_count": 1,
-      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Alchemical_Invisible_Brethren.jpg"
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Alchemical_Invisible_Brethren.jpg",
+      "related_concepts": [
+        40
+      ]
     },
     {
       "id": 29,
@@ -4839,7 +5110,10 @@
         "The Chemical Philosophy"
       ],
       "source_citations_count": 6,
-      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Alchemical_Universal_Reform.jpg"
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Alchemical_Universal_Reform.jpg",
+      "related_concepts": [
+        40
+      ]
     },
     {
       "id": 30,
@@ -4857,7 +5131,10 @@
         "%5B9789004466005%20-%20Fictional%20Practice%3A%20Magic%2C%20Narration%2C%20and%20the%20Power%20of%20Imagination%5D%20Fictional%20Practice%3A%20Magic%2C%20Narration%2C%20and%20the%20Power%20of%20Imagination.pdf"
       ],
       "source_citations_count": 57,
-      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Alchemical_Spiritual_Alchemy.jpg"
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Alchemical_Spiritual_Alchemy.jpg",
+      "related_concepts": [
+        40
+      ]
     },
     {
       "id": 31,
@@ -4875,7 +5152,10 @@
         "Christopher McIntosh The Rose Cross and the Age of Reason_ Eighteenth Century Rosicrucianism in Central Europe"
       ],
       "source_citations_count": 8,
-      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Alchemical_Laboratory_Alchemy.jpg"
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Alchemical_Laboratory_Alchemy.jpg",
+      "related_concepts": [
+        40
+      ]
     },
     {
       "id": 32,
@@ -4890,7 +5170,10 @@
         "A Christian Rosenkreutz Anthology"
       ],
       "source_citations_count": 9,
-      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Paracelsus_Spagyric_apparatus.jpg"
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Paracelsus_Spagyric_apparatus.jpg",
+      "related_concepts": [
+        40
+      ]
     },
     {
       "id": 33,
@@ -4907,7 +5190,10 @@
         "Lyndy Abraham A Dictionary of Alchemical Imagery Cambridge University Press"
       ],
       "source_citations_count": 18,
-      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Alchemical_Iatrochemistry.jpg"
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Alchemical_Iatrochemistry.jpg",
+      "related_concepts": [
+        40
+      ]
     },
     {
       "id": 34,
@@ -4925,7 +5211,10 @@
         "README.md"
       ],
       "source_citations_count": 135,
-      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Alchemical_Initiation.jpg"
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Alchemical_Initiation.jpg",
+      "related_concepts": [
+        40
+      ]
     },
     {
       "id": 35,
@@ -4935,7 +5224,11 @@
       "summary": "Grades of Initiation, a esoteric_organization, constitutes one of the foundational ideas within alchemical and Rosicrucian traditions. Understanding this concept is essential for comprehending the operational, philosophical, and spiritual dimensions of the Great Work. It bridges laboratory practice with mystical transformation.",
       "essay": "Grades of Initiation represent the systematic hierarchy of esoteric knowledge and practice from novice through adept levels.",
       "transmission_genealogy": "Transmission through Renaissance magic, Rosicrucian synthesis, and modern esotericism.",
-      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Tree_of_Life_Degrees.jpg"
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Tree_of_Life_Degrees.jpg",
+      "related_concepts": [
+        34,
+        40
+      ]
     },
     {
       "id": 36,
@@ -4953,7 +5246,10 @@
         "%5B9789004466005%20-%20Fictional%20Practice%3A%20Magic%2C%20Narration%2C%20and%20the%20Power%20of%20Imagination%5D%20Fictional%20Practice%3A%20Magic%2C%20Narration%2C%20and%20the%20Power%20of%20Imagination.pdf"
       ],
       "source_citations_count": 42,
-      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Alchemical_Secret_Doctrine.jpg"
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Alchemical_Secret_Doctrine.jpg",
+      "related_concepts": [
+        40
+      ]
     },
     {
       "id": 37,
@@ -4971,7 +5267,10 @@
         "README.md"
       ],
       "source_citations_count": 242,
-      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Illumination_mystical_symbol.jpg"
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Illumination_mystical_symbol.jpg",
+      "related_concepts": [
+        40
+      ]
     },
     {
       "id": 38,
@@ -4989,7 +5288,10 @@
         "%5B9789004466005%20-%20Fictional%20Practice%3A%20Magic%2C%20Narration%2C%20and%20the%20Power%20of%20Imagination%5D%20Fictional%20Practice%3A%20Magic%2C%20Narration%2C%20and%20the%20Power%20of%20Imagination.pdf"
       ],
       "source_citations_count": 39,
-      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Alchemical_Theurgy.jpg"
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Alchemical_Theurgy.jpg",
+      "related_concepts": [
+        40
+      ]
     },
     {
       "id": 39,
@@ -5003,7 +5305,11 @@
         "The Mage’s Images: Heinrich Khunrath in His Oratory and Laboratory"
       ],
       "source_citations_count": 2,
-      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Neoplatonic_Union_Divine.jpg"
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Neoplatonic_Union_Divine.jpg",
+      "related_concepts": [
+        40,
+        47
+      ]
     },
     {
       "id": 40,
@@ -5021,7 +5327,8 @@
         "Alchemy, Jung, and Remedios Varo; Cultural Complexes and the Redemptive Power of the"
       ],
       "source_citations_count": 63,
-      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Magnum_Opus_alchemical.jpg"
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Magnum_Opus_alchemical.jpg",
+      "related_concepts": []
     },
     {
       "id": 41,
@@ -5039,7 +5346,15 @@
         "Szulakowska"
       ],
       "source_citations_count": 4,
-      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Alchemical_Inner_Transformation.jpg"
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Alchemical_Inner_Transformation.jpg",
+      "related_concepts": [
+        1,
+        2,
+        3,
+        12,
+        30,
+        40
+      ]
     },
     {
       "id": 42,
@@ -5053,7 +5368,11 @@
         "The Mage’s Images: Heinrich Khunrath in His Oratory and Laboratory"
       ],
       "source_citations_count": 1,
-      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Hermetic_Principles_Emblem.jpg"
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Hermetic_Principles_Emblem.jpg",
+      "related_concepts": [
+        30,
+        53
+      ]
     },
     {
       "id": 43,
@@ -5068,7 +5387,11 @@
         "Collected Works of C.G. Jung, Volume 12: Psychology and Alchemy"
       ],
       "source_citations_count": 8,
-      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Hermaphrodite_Alchemical_Symbol.jpg"
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Hermaphrodite_Alchemical_Symbol.jpg",
+      "related_concepts": [
+        30,
+        40
+      ]
     },
     {
       "id": 44,
@@ -5078,7 +5401,14 @@
       "summary": "Theurgic Practice refers to the systematic invocation and engagement with divine principles through ritual, sacred language, symbolic manipulation, and contemplative work. Derived from Neoplatonic theurgy (the work of gods in humans), theurgic practice became central to Rosicrucian and spiritual alchemy. Rather than operating on matter chemically to produce transmutation, the theurgist works with divine principles and symbolic correspondences to accomplish inner transformation.",
       "essay": "Theurgic Practice refers to the systematic invocation and engagement with divine principles through ritual, sacred language, symbolic manipulation, and contemplative work. Derived from Neoplatonic theurgy (the work of gods in humans), theurgic practice became central to Rosicrucian and spiritual alchemy. Rather than operating on matter chemically to produce transmutation, the theurgist works with divine principles and symbolic correspondences to accomplish inner transformation. Rosicrucian theurgy integrated Kabbalistic divine names, astrological correspondences, hermetic principles, and contemplative practice into systematic methodology for consciousness transformation. Theurgic Practice emphasizes that the adept's consciousness, properly aligned with divine principles through ritual and meditation, becomes the instrument of transformation. Zuber's scholarship on spiritual alchemy demonstrates how alchemical practice functioned as theurgic work—the Great Work accomplished through ritual invocation of divine principles reflected in material substances and psychological processes. Theurgic Practice distinguishes spiritual alchemy from both practical chemistry and mere imagination, positioning it as engagement with actual divine realities mediated through symbol and consciousness.",
       "transmission_genealogy": "Transmission through Renaissance magic, Rosicrucian synthesis, and modern esotericism.",
-      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Theurgic_symbol_neoplatonic.jpg"
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Theurgic_symbol_neoplatonic.jpg",
+      "related_concepts": [
+        30,
+        38,
+        40,
+        41,
+        46
+      ]
     },
     {
       "id": 45,
@@ -5092,7 +5422,13 @@
         "Christopher McIntosh The Rose Cross and the Age of Reason_ Eighteenth Century Rosicrucianism in Central Europe"
       ],
       "source_citations_count": 1,
-      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Alchemical_Spiritual_Chemistry.jpg"
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Alchemical_Spiritual_Chemistry.jpg",
+      "related_concepts": [
+        12,
+        13,
+        41,
+        66
+      ]
     },
     {
       "id": 46,
@@ -5110,7 +5446,10 @@
         "Kabbalah: Rosicrucian Digest (Rosicrucian Order AMORC Kindle Editions)"
       ],
       "source_citations_count": 27,
-      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Kabbalistic_Divine_Names.jpg"
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Kabbalistic_Divine_Names.jpg",
+      "related_concepts": [
+        30
+      ]
     },
     {
       "id": 47,
@@ -5128,7 +5467,17 @@
         "Alchemy, Jung, and Remedios Varo; Cultural Complexes and the Redemptive Power of the"
       ],
       "source_citations_count": 18,
-      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Alchemical_Mystical_Union.jpg"
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Alchemical_Mystical_Union.jpg",
+      "related_concepts": [
+        1,
+        2,
+        3,
+        12,
+        30,
+        37,
+        39,
+        40
+      ]
     },
     {
       "id": 48,
@@ -5145,7 +5494,14 @@
         "%5B9789004466005%20-%20Fictional%20Practice%3A%20Magic%2C%20Narration%2C%20and%20the%20Power%20of%20Imagination%5D%20Fictional%20Practice%3A%20Magic%2C%20Narration%2C%20and%20the%20Power%20of%20Imagination.pdf"
       ],
       "source_citations_count": 70,
-      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Alchemical_Regeneration.jpg"
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Alchemical_Regeneration.jpg",
+      "related_concepts": [
+        1,
+        2,
+        3,
+        30,
+        40
+      ]
     },
     {
       "id": 49,
@@ -5155,7 +5511,11 @@
       "summary": "Embodied Knowledge refers to understanding achieved through direct sensory, emotional, and bodily engagement with materials and processes, rather than abstract intellectualization. Alchemy, whether material or spiritual, insists that true knowledge requires direct engagement—the alchemist must work with actual substances, experience dissolution and crystallization, undergo emotional and psychological processes, not merely read about them. The alchemical tradition rejected purely scholastic knowledge divorced from practice.",
       "essay": "Embodied Knowledge refers to understanding achieved through direct sensory, emotional, and bodily engagement with materials and processes, rather than abstract intellectualization. Alchemy, whether material or spiritual, insists that true knowledge requires direct engagement—the alchemist must work with actual substances, experience dissolution and crystallization, undergo emotional and psychological processes, not merely read about them. The alchemical tradition rejected purely scholastic knowledge divorced from practice. Paracelsus's insistence on direct observation, Fludd's integration of sensory perception with cosmological understanding, spiritual alchemists' emphasis on direct experience of consciousness transformation—all exemplify Embodied Knowledge. Zuber's scholarship recognizes that the strength of the alchemical tradition lies in its integration of intellectual, emotional, and sensory dimensions of knowledge. Embodied Knowledge distinguishes alchemical epistemology from both mechanistic science (which privileges abstract measurement over sensory engagement) and pure mysticism (which divorces knowledge from material engagement). Spiritual alchemy's insistence that alchemical practice involves the whole person—mind, emotions, body, spirit—represents a sophisticated epistemology valuing direct engagement.",
       "transmission_genealogy": "Transmission through Renaissance magic, Rosicrucian synthesis, and modern esotericism.",
-      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Alchemist_Laboratory_Practice.jpg"
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Alchemist_Laboratory_Practice.jpg",
+      "related_concepts": [
+        12,
+        30
+      ]
     },
     {
       "id": 50,
@@ -5165,7 +5525,14 @@
       "summary": "Hermetic Correspondence, founded on the Emerald Tablet's 'As above, so below,' asserts that the divine, celestial, and terrestrial realms are interconnected through systematic correspondences—what happens at one level mirrors and affects the others. This principle became foundational to all alchemical, astrological, and magical practice. The macrocosm-microcosm doctrine extends this: the universe and the human being mirror each other; working with materials reflects divine creative activity.",
       "essay": "Hermetic Correspondence, founded on the Emerald Tablet's 'As above, so below,' asserts that the divine, celestial, and terrestrial realms are interconnected through systematic correspondences—what happens at one level mirrors and affects the others. This principle became foundational to all alchemical, astrological, and magical practice. The macrocosm-microcosm doctrine extends this: the universe and the human being mirror each other; working with materials reflects divine creative activity. Hermetic Correspondence transforms alchemy from mechanical manipulation into participation in cosmic processes—the alchemist works with nature's hidden correspondences to accomplish transmutation at multiple levels simultaneously. Renaissance magus figures (Dee, Agrippa, della Porta) developed elaborate systems mapping correspondences between herbs, minerals, celestial bodies, divine names, and human faculties. Spiritual alchemy inherited this framework: alchemical substances correspond to psychological states; chemical operations correspond to consciousness transformation; external work mirrors inner transformation. Zuber's scholarship recognizes that Hermetic Correspondence provides the conceptual infrastructure enabling alchemical practice—it explains how material engagement accomplishes spiritual transformation and how inner work produces material effects. The doctrine remains central to understanding alchemy's claims to efficacy.",
       "transmission_genealogy": "Transmission through Renaissance magic, Rosicrucian synthesis, and modern esotericism.",
-      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Agrippa_Hermetic_Correspondences.jpg"
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Agrippa_Hermetic_Correspondences.jpg",
+      "related_concepts": [
+        26,
+        30,
+        41,
+        46,
+        53
+      ]
     },
     {
       "id": 51,
@@ -5177,7 +5544,8 @@
         "Volatility",
         "Fixed Principle",
         "Elevation",
-        "Calcination"
+        "Calcination",
+        30
       ],
       "figures": [
         10,
@@ -5209,7 +5577,9 @@
         "Sympathy",
         "Analogy",
         "Microcosm-Macrocosm",
-        "Resonance"
+        "Resonance",
+        16,
+        46
       ],
       "figures": [
         2,
@@ -5242,7 +5612,11 @@
         "Mystical Practice",
         "Meditation",
         "Consciousness Transformation",
-        "Ethical Development"
+        "Ethical Development",
+        15,
+        30,
+        40,
+        48
       ],
       "figures": [
         5,
@@ -5268,7 +5642,8 @@
         "Hieros Gamos",
         "Coniunctio",
         "King and Queen",
-        "Masculine-Feminine Principles"
+        "Masculine-Feminine Principles",
+        55
       ],
       "figures": [
         40,
@@ -5291,7 +5666,12 @@
         "Albedo",
         "Rubedo",
         "Cauda Pavonis",
-        "Color Perception"
+        "Color Perception",
+        1,
+        2,
+        3,
+        12,
+        40
       ],
       "figures": [
         10,
@@ -5318,7 +5698,10 @@
         "Multiplication",
         "Eternal Return",
         "Cyclicity",
-        "Progressive Refinement"
+        "Progressive Refinement",
+        16,
+        37,
+        40
       ],
       "figures": [
         10,
@@ -5362,7 +5745,12 @@
         }
       ],
       "created_at": "2026-05-25T12:08:59.434693",
-      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Alchemical_Spagyria_/_Spagyric_Art.jpg"
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Alchemical_Spagyria_/_Spagyric_Art.jpg",
+      "related_concepts": [
+        14,
+        15,
+        66
+      ]
     },
     {
       "id": 62,
@@ -5384,7 +5772,10 @@
         }
       ],
       "created_at": "2026-05-25T12:08:59.434699",
-      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Paracelsian_Astral_Body.jpg"
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Paracelsian_Astral_Body.jpg",
+      "related_concepts": [
+        53
+      ]
     },
     {
       "id": 63,
@@ -5406,7 +5797,8 @@
         }
       ],
       "created_at": "2026-05-25T12:08:59.434704",
-      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Paracelsian_Archei_Formative.jpg"
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Paracelsian_Archei_Formative.jpg",
+      "related_concepts": []
     },
     {
       "id": 66,
@@ -5427,7 +5819,10 @@
         "A Christian Rosenkreutz Anthology"
       ],
       "source_citations_count": 34,
-      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Bruegel_Alchemist_1558.jpg"
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Bruegel_Alchemist_1558.jpg",
+      "related_concepts": [
+        40
+      ]
     },
     {
       "id": 67,
@@ -5441,7 +5836,10 @@
       "spiritual_meaning": "Spiritually, the quintessence symbolizes the divine spark within all creation, the point where matter and spirit meet.",
       "transmission_genealogy": "Medieval alchemy → Paracelsus → European pharmaceutical alchemy → homeopathy and modern vitalism.",
       "created_at": "2026-05-25T12:45:53.868560",
-      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Alchemical_Quintessence_/_Quinta_Essentia.jpg"
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Alchemical_Quintessence_/_Quinta_Essentia.jpg",
+      "related_concepts": [
+        18
+      ]
     },
     {
       "id": 68,
@@ -5463,7 +5861,13 @@
         }
       ],
       "created_at": "2026-05-25T12:45:53.868563",
-      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Alchemical_Iatrochemistry_/_Chemical_Medicine.jpg"
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Alchemical_Iatrochemistry_/_Chemical_Medicine.jpg",
+      "related_concepts": [
+        14,
+        15,
+        33,
+        66
+      ]
     },
     {
       "id": 70,
@@ -5477,7 +5881,12 @@
       "spiritual_meaning": "Spiritually, the magistery symbolizes the perfected self, the culmination of spiritual refinement.",
       "transmission_genealogy": "Medieval alchemy → Paracelsian pharmacy → homeopathy and potentized remedies.",
       "created_at": "2026-05-25T12:46:42.266845",
-      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Alchemical_Magistery_/_Magister.jpg"
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Alchemical_Magistery_/_Magister.jpg",
+      "related_concepts": [
+        14,
+        15,
+        66
+      ]
     },
     {
       "id": 71,
@@ -5494,7 +5903,11 @@
         66
       ],
       "created_at": "2026-05-25T12:46:42.266847",
-      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Alchemical_Liquor_Potassae_/_Potassium_Compounds.jpg"
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Alchemical_Liquor_Potassae_/_Potassium_Compounds.jpg",
+      "related_concepts": [
+        12,
+        66
+      ]
     },
     {
       "id": 72,
@@ -5509,7 +5922,8 @@
         8
       ],
       "created_at": "2026-05-25T12:46:42.266850",
-      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Alchemical_Mercurius_Duplicatus_/_Philosophical_Mercury.jpg"
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Alchemical_Mercurius_Duplicatus_/_Philosophical_Mercury.jpg",
+      "related_concepts": []
     },
     {
       "id": 73,
@@ -5524,7 +5938,8 @@
         8
       ],
       "created_at": "2026-05-25T12:46:42.266852",
-      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Alchemical_Sulphur_Principle_/_Philosophical_Sulphur.jpg"
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Alchemical_Sulphur_Principle_/_Philosophical_Sulphur.jpg",
+      "related_concepts": []
     },
     {
       "id": 74,
@@ -5539,7 +5954,8 @@
         8
       ],
       "created_at": "2026-05-25T12:46:42.266854",
-      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Alchemical_Salt_/_Philosophical_Salt.jpg"
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Alchemical_Salt_/_Philosophical_Salt.jpg",
+      "related_concepts": []
     }
   ],
   "texts": [
@@ -5894,7 +6310,8 @@
         26,
         34,
         37,
-        39
+        39,
+        53
       ],
       "historical_context": "Contextualize within broader intellectual movements of its era.",
       "scholarship": [
@@ -5988,7 +6405,8 @@
         3,
         5,
         6,
-        30
+        30,
+        40
       ],
       "historical_context": "Contextualize within broader intellectual movements of its era.",
       "scholarship": [
@@ -6337,7 +6755,8 @@
         4,
         30,
         34,
-        37
+        37,
+        41
       ],
       "historical_context": "Contextualize within broader intellectual movements of its era.",
       "scholarship": [
@@ -6744,7 +7163,9 @@
         42,
         44,
         47,
-        48
+        48,
+        30,
+        40
       ],
       "historical_context": "Contextualize within broader intellectual movements of its era.",
       "scholarship": [
@@ -6773,7 +7194,11 @@
         41,
         44,
         45,
-        46
+        46,
+        12,
+        13,
+        14,
+        30
       ],
       "historical_context": "Contextualize within broader intellectual movements of its era.",
       "scholarship": [
@@ -6803,7 +7228,9 @@
         42,
         47,
         48,
-        49
+        49,
+        30,
+        40
       ],
       "historical_context": "Contextualize within broader intellectual movements of its era.",
       "scholarship": [
@@ -6833,7 +7260,8 @@
         42,
         44,
         47,
-        50
+        50,
+        30
       ],
       "historical_context": "Contextualize within broader intellectual movements of its era.",
       "scholarship": [
@@ -6863,7 +7291,10 @@
         6,
         20,
         43,
-        44
+        44,
+        18,
+        19,
+        31
       ],
       "historical_context": "Contextualize within broader intellectual movements of its era.",
       "scholarship": [
@@ -6893,7 +7324,9 @@
         12,
         44,
         45,
-        49
+        49,
+        14,
+        30
       ],
       "historical_context": "Contextualize within broader intellectual movements of its era.",
       "scholarship": [
@@ -6926,7 +7359,8 @@
         46,
         48,
         49,
-        50
+        50,
+        30
       ],
       "historical_context": "Contextualize within broader intellectual movements of its era.",
       "scholarship": [
@@ -6985,7 +7419,8 @@
         25,
         26,
         46,
-        50
+        50,
+        40
       ],
       "historical_context": "Contextualize within broader intellectual movements of its era.",
       "scholarship": [
@@ -7015,7 +7450,8 @@
         42,
         44,
         47,
-        48
+        48,
+        30
       ],
       "historical_context": "Contextualize within broader intellectual movements of its era.",
       "scholarship": [
@@ -7075,7 +7511,8 @@
         25,
         26,
         42,
-        50
+        50,
+        46
       ],
       "historical_context": "Contextualize within broader intellectual movements of its era.",
       "scholarship": [
@@ -7105,7 +7542,10 @@
         42,
         44,
         45,
-        48
+        48,
+        12,
+        13,
+        53
       ],
       "historical_context": "Contextualize within broader intellectual movements of its era.",
       "scholarship": [
@@ -7140,7 +7580,10 @@
         }
       ],
       "transmission_history": "Transmitted through manuscript copies, printed editions, and scholarly translations.",
-      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Scholarly_text_Cramer_Emblem_15:_The_Alchemical_Wedding.jpg"
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Scholarly_text_Cramer_Emblem_15:_The_Alchemical_Wedding.jpg",
+      "concepts": [
+        12
+      ]
     },
     {
       "id": 64,
@@ -7163,7 +7606,10 @@
         }
       ],
       "transmission_history": "Transmitted through manuscript copies, printed editions, and scholarly translations.",
-      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Scholarly_text_Cramer_Emblem_20:_The_Crowned_Eagle.jpg"
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Scholarly_text_Cramer_Emblem_20:_The_Crowned_Eagle.jpg",
+      "concepts": [
+        40
+      ]
     },
     {
       "id": 65,
@@ -7186,7 +7632,8 @@
         }
       ],
       "transmission_history": "Transmitted through manuscript copies, printed editions, and scholarly translations.",
-      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Scholarly_text_Maier_Emblem_5:_The_Hermaphroditic_Being.jpg"
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Scholarly_text_Maier_Emblem_5:_The_Hermaphroditic_Being.jpg",
+      "concepts": []
     },
     {
       "id": 66,
@@ -7209,7 +7656,10 @@
         }
       ],
       "transmission_history": "Transmitted through manuscript copies, printed editions, and scholarly translations.",
-      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Scholarly_text_Maier_Emblem_20:_The_Lion_Subdued_by_the_Lamb.jpg"
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Scholarly_text_Maier_Emblem_20:_The_Lion_Subdued_by_the_Lamb.jpg",
+      "concepts": [
+        37
+      ]
     },
     {
       "id": 67,
@@ -7232,7 +7682,11 @@
         }
       ],
       "transmission_history": "Transmitted through manuscript copies, printed editions, and scholarly translations.",
-      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Scholarly_text_Maier_Emblem_35:_The_Rebis_in_Equilibrium.jpg"
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Scholarly_text_Maier_Emblem_35:_The_Rebis_in_Equilibrium.jpg",
+      "concepts": [
+        19,
+        40
+      ]
     },
     {
       "id": 68,
@@ -7250,7 +7704,9 @@
         25,
         27,
         37,
-        40
+        40,
+        16,
+        34
       ],
       "historical_context": "Contextualize within broader intellectual movements of its era.",
       "scholarship": [
@@ -7280,7 +7736,8 @@
         25,
         27,
         37,
-        40
+        40,
+        51
       ],
       "historical_context": "Contextualize within broader intellectual movements of its era.",
       "scholarship": [
@@ -7400,7 +7857,9 @@
         25,
         27,
         37,
-        40
+        40,
+        3,
+        66
       ],
       "historical_context": "Contextualize within broader intellectual movements of its era.",
       "scholarship": [
@@ -7520,7 +7979,8 @@
         25,
         27,
         37,
-        40
+        40,
+        19
       ],
       "historical_context": "Contextualize within broader intellectual movements of its era.",
       "scholarship": [
@@ -7550,7 +8010,8 @@
         25,
         27,
         37,
-        40
+        40,
+        15
       ],
       "historical_context": "Contextualize within broader intellectual movements of its era.",
       "scholarship": [
@@ -7670,7 +8131,8 @@
         25,
         27,
         37,
-        40
+        40,
+        6
       ],
       "historical_context": "Contextualize within broader intellectual movements of its era.",
       "scholarship": [
@@ -7705,7 +8167,8 @@
         }
       ],
       "transmission_history": "Transmitted through manuscript copies, printed editions, and scholarly translations.",
-      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Scholarly_text_Rosicrucian_Cross_with_Rose_Inscribed.jpg"
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Scholarly_text_Rosicrucian_Cross_with_Rose_Inscribed.jpg",
+      "concepts": []
     },
     {
       "id": 84,
@@ -7724,7 +8187,8 @@
         15,
         20,
         25,
-        37
+        37,
+        40
       ],
       "figures": [
         4,
@@ -7762,7 +8226,10 @@
         3,
         5,
         37,
-        40
+        40,
+        12,
+        30,
+        66
       ],
       "figures": [
         5
@@ -7797,7 +8264,8 @@
         5,
         8,
         10,
-        15
+        15,
+        40
       ],
       "figures": [
         19,
@@ -7834,7 +8302,8 @@
         27,
         25,
         5,
-        40
+        40,
+        53
       ],
       "figures": [
         19,
@@ -7870,7 +8339,8 @@
         15,
         20,
         25,
-        37
+        37,
+        40
       ],
       "figures": [
         1,
@@ -7907,7 +8377,12 @@
         3,
         5,
         25,
-        37
+        37,
+        12,
+        14,
+        15,
+        30,
+        66
       ],
       "figures": [
         5,
@@ -7979,7 +8454,8 @@
         3,
         5,
         37,
-        40
+        40,
+        30
       ],
       "figures": [
         9
