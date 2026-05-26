@@ -1,0 +1,107 @@
+---
+source: Anna M Vileno Robert J Wilkinson Messias Puer_ Christian Knorr von Rosenroths Lost Exegesis of Kabbalistic Christianity BRILL
+source_category: Western Esotericism
+author: Unknown
+total_pages: 630
+section: introduction 3
+section_number: 10
+date_processed: 2026-05-25T15:01:06.396014
+figures_mentioned: Éliphas Lévi, Henry More
+concepts_mentioned: Correspondence, Emanation
+---
+
+# Anna M Vileno Robert J Wilkinson Messias Puer_ Christian Knorr von Rosenroths Lost Exegesis of Kabbalistic Christianity BRILL
+
+## Section: introduction 3
+
+introduction 3
+hatersiezumTheilindaobbelobteWerckgebracht/welchesdieÜber-
+schrifthabensoll:messiaspuer.DarinnenwirddieHistorieChristivon
+derVerkündigungMariäanbißaufseineTauffe/wiesievondenenEvan-
+gelistenbeschriebenwirdsowohlausandern/alszuförderstausdenen
+CabbalistischenScribenten/überausschönudherrlicherkläret.5
+AletterfromKnorr’sfriendandcollaboratorFrancisMercuryvanHelmontto
+LeibnizwhowasworkingaslibrariantoDukeAnthonyUlrichof Brunswick,
+PrinceofWolfenbüttel(October1696)hasraisedthepossibilityinsomeminds
+thattheMessiasPuerwasamongstsomeoftheworksvanHelmontwasatthe
+timetryingtogetprintedinAmsterdam,butthereisnospecificmentionofthe
+MessiasPuer:
+Les escript de Mr. Knor de Rosenrot, qui sa. Serme. Monseigr. Le Ducq
+AntoineUlrichdeBronsvicdemandepurLefaireimprimer.Jeiugeapro-
+pos comme en peu de jours ispere daller a Amsterdam de Les prendre
+avecqmoypourvoirsiLaielespeumieuxfaireimprimerquoyfaisant
+Vousaurespartdemesmeiedoennereyasa.LeSermeJedemeureComme
+Voussaves,Monsieur.6
+HoweverwritinghisVitaeKnorrianaecurriculumin1718,29yearsafterKnorr’s
+death, Christian Theophil Unger considered the manuscript in tenebris deli-
+tescit,butnotnecessarilydestroyed:
+5 “Iwouldliketomentionsomethingfromanotherwriting”addsHerrFulgentius,“thathas
+broughtgreatamazementtomeandothers.TherenownedChancellorofSulzbach,whose
+nameisknowntothewholescholarlyworld,hasanincomparableknowledgeofrabbinic
+andparticularlymysticalkabbalisticmatters.HisKabbaladenudataandZoharprovethis
+clearly.Theworkhehasnowinhandandhasnearlyfinishedwillaloneprovidemuchmore
+evidenceofthis.ForhavingdiscoveredmanytestimoniestotheChristianReligioninKab-
+balisticbooks,hehasputsomeofthemintoapraiseworthyworkwhichistohavethetitle:
+MessiasPuer.InitthestoryofChristfromtheAnnunciationtoMaryupuntilhisBaptismas
+describedbytheEvangelistsisbeautifullyandmasterfullyexpoundedwiththeaidofother
+works,especiallythoseofthekabbalisticwriters.”(MonatlicheUnterredungenEinigerGuten
+FreundeVonAllerhandBüchernundandernannemlichenGeschichten(Leipzig,1690),p.482).
+VanHelmontalsoshowedacopytoEricBenzeliuswhorefersto“HistoriaEvangelica”inhis
+correspondence.Cf.J.Kunert,DerJudenKönigezwei(UnpublishedDoctoralThesis,Univer-
+sitätErfurt,2019),p.363,note1420.
+6 “Thewritingsof M.KnorrvonRosenroth,whichHisMostSereneHighnessMonseigneur
+DukeAnthonyUlrichofBrunswickaskstohaveprinted:Ishalldecideaboutitwheninafew
+daysIhopetogotoAmsterdamandtakethemwithmetoseeiftheycanbebetterprinted
+there.WhenIhavedonethatyouwillbeinformedequallywithHisMostSereneHighness.
+Iremain,asyouknow,Sir.”(NiedersächsischeLandesbibliothek,Hanover,mssHelmont389,
+f.49,TerBorg,October,1696),quotedbyCoudert,LeibnizandtheKabbalah,op.cit.,p.181.
+Anna M. Vileno and Robert J. Wilkinson - 978-90-04-44342-6
+
+[Page 27]
+4 chapter 1
+Idiomate Rabbinico concinnavit de veritate Christianæ Religionis librum,
+Messias Puer dictum, quo mysteria fidei nostræ testimoniis ex ipsis Cab-
+balisticismonumentiserutisprobaretentavit.Hucusquetamenintenebris
+delitesciteximiusingeniifœtus&lucempublicamvixunquamvidebit.7
+Unger’snoticeguidedlaterreports8.VanGemerthasdemonstratedthedirect
+andindirectdependenceuponhimonthepartofthetwoearliestDutchUni-
+versal Lexicons, A.G. Luïscius Algemeen historisch geographisch en genealo-
+gischwoordenboek(1724–1739)andtheGrootalgemeenhistorisch,geographisch,
+genealogisch en oordeelkundig woordenboek (7th ed. 1733) of David van
+HoogstratenandJanLodewijkSchuer,bothof whichcarryarticlesonKnorr.
+Itisofcautionaryvaluetoobservehowthedescriptionof MessiasPuergrows
+insuccessivepresentationsof Unger’smaterialintoavernaculartitle“Onthe
+TruthoftheChristianReligion”.VanHoogstratenandSchuerhave:
+Zyne eigene schriften zyn: Messias puer of van de waarheit des Chris-
+telyken Godsdiensts, welken hy door de getuigenissen der Kabbalisten
+zoekttebewyzen,endaaromookhetgehelewerk,nogongedruktzynde,
+inRabbynschetaleheeftvervaardigt.9
+LouisMoréri’sGrandDictionnaireHistorique(Basle1740)issimilarlydependent
+uponUnger,butalsocreatesanalternativetitle:
+Voicilalistedesesouvrages:Messiaspuer,oudelaVéritédelaReligion
+Chrétienne,qu’ilprétendprouverparlestémoinagesdelaScienceCab-
+7 “HecompiledintherabbinicdialectabookOntheTruthoftheChristianReligioncalledMes-
+siasPuerbywhichheattemptedtoprovethemysteriesofourFaithfromthewitnesstaken
+fromthekabbalisticmonumentsthemselves.However,upuntilnow,thisexceptionalprod-
+uctofhismindhasremainedhiddeninthedarkandhasscarclyeverseenthepubliclight
+ofday.”(C.T.Unger,“VitaeKnorrianaecurriculum,nepereatcumHistoriaeLitterariaeCul-
+toribuscommunicatC.T.V[ChristianTheophilUnger]”,inNovaLitterariaannimdccxviiin
+supplementumactorumeruditorumdivulgata[…]auctoreIo.GottleibKravsio,ed.byJ.G.Kraus,
+(Leipzig:1718),pp.191–200)TheVitae…curriculumismentionedinG.vanGemert,“Frühe
+niederländischeStimmenzuChristianKnorrvonRosenrothundihrKontext.Knorr-Artikel
+inLexikenausdererstenHälftedes18.Jahrhunderts”,Morgen-Glantz1(1991):pp.79–90,p.84.
+InthesamevolumeisaGermanannotatedtranslationofthetext:M.FinkeandE.Handschur,
+“ChristianKnorrsvonRosenrothLebenslaufausdemJahre1718”,Ibid.:pp.33–48.
+8 VanGemert,“Früheniederländischestimmen”,art.cit.,p.84.
+9 “Hisownwritingsare:MessiaspuerorConcerningtheTruthoftheChristianReligion,which
+heseekstoprovebythetestimoniesoftheKabbalistsandsoforthisreasonthewholework,
+whichisstillunprinted,iswritteninrabbinicdialect.”(QuotedbyvanGemert,Ibid.,p.83).
+Anna M. Vileno and Robert J. Wilkinson - 978-90-04-44342-6
+
+[Page 28]
+
+---
+
+*Extracted from: Anna M Vileno Robert J Wilkinson Messias Puer_ Christian Knorr von Rosenroths Lost Exegesis of Kabbalistic Christianity BRILL (630 pages)*
+*Figures mentioned: Éliphas Lévi, Henry More*
+*Concepts mentioned: Correspondence, Emanation*

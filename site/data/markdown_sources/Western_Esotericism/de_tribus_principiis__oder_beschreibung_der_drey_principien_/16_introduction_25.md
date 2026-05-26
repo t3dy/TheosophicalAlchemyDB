@@ -1,0 +1,108 @@
+---
+source: DE TRIBUS PRINCIPIIS, Oder Beschreibung Der Drey Principien Gttliches Wesens: Of the Three Principles of Divine Being, 1619, by Jacob Boehme
+source_category: Western Esotericism
+author: Weeks, Andrew;Penman, Leigh;
+total_pages: 876
+section: introduction 25
+section_number: 16
+date_processed: 2026-05-25T14:59:47.280235
+figures_mentioned: Jacob Böhme, Paracelsus
+concepts_mentioned: Tincture, Enlightenment, Regeneration
+---
+
+# DE TRIBUS PRINCIPIIS, Oder Beschreibung Der Drey Principien Gttliches Wesens: Of the Three Principles of Divine Being, 1619, by Jacob Boehme
+
+## Section: introduction 25
+
+introduction 25
+deninwaterbutcanbeintuitedinlightning”(5:20).Aboldstepistakenfrom
+thisobservationtoimagininghowandwhytheprimalwaterswereseparated
+inGod’screationof theearthandheavens:“Wheneverweobservethestarry
+heavens,theelements,thecreatures,aswellaswood,plants,orgrass,weseein
+thematerialworldalikenessoftheparadisiacal,incomprehensibleone”(5:18).
+Withimagesoftheprimalwatersandthefierylightningboltinmind,Boehme
+returnstohisparadigmof theeternalprocesstorecapitulateitandmakethe
+pointthattheregressionfromlighttodarknessgeneratesthebeingofthedevil,
+agenerationcloselylinkedtothecreationofourworldinthethirdprinciplein
+whichdarknessandlightabidetogether.
+ChapterSix.Thisbriefchaptertreatsofthecreatedworldasthethirdprin-
+ciple.Ittreatsofcosmologyorthestructureoftheheavensandcosmogonyor
+howthefiniteworldcameintobeing.Theauthorstatesthatif onlywewere
+notsoblind,wecouldrecognizesuchthingswithinourselves.Thiscanonlybe
+interpretedtorefertotheuniversalprocessthatoccursinGod,nature,andus.
+AsBoehmeadaptstheuniversalsequencetoexplainthecreation,itbecomes
+evident that his seemingly arcane exposition is a commentary on Genesis 1.
+Theseeminglyarbitraryemergenceof waterintheuniversalsequencegains
+authorityfromthewatersthatareseparatedinGenesis1:6.Theparadigmatic
+darknessandlightandtheemergenceoffireinthestellarfirmamentalsohave
+theirbiblicalcontext.OthersequentialdetailsareinterpolatedintotheGenesis
+account.Theyrepresenttheauthor’sfreespeculationsonnature:theragingbit-
+ternessthatintroducesevil,poison,anddeathintonature,orthecontraction
+thattransformstheprimalwaterintostonesandmetals,therigidityofwhich
+imprisonsthedevilwithinthecreatedworld.Thefemalematrixincorporates
+theprimalwatersintotheprocessofbirth,whilethe fiat(the“Lettherebe”of
+creation)eventuallyreifiesorpersonifiesthedivinewillalmostintheroleofa
+demiurge(cf.7:2).
+Chapter Seven. Before addressing the birth of the heavens, stars, and ele-
+ments,thechaptersurveysthehumanconditionandinvokestheinnersource
+thatenablesthehumanbeingtospeakwithauthorityaboutthecreation:“one
+isspeakingaboutthingsthattakeplaceinourbodyandsoul”(7:7).Theheav-
+ens,orheaven,arenotremotebutomnipresentandproximatetoeachhuman
+being.Thisispossiblebecausetherealmofheavenisidenticalwiththelightof
+thesecondprinciple.
+Thelightshinesintothereifieddarknessofthefirstprinciplewhichcannot
+graspit.TosaythisistoechotheprologoftheGospelofJohnwhichBoehme
+soonpraisesexultantly(8:17).Thedivinelightisthecauseofallthings.Itsshin-
+ingintoadarknessthatcannotgraspitcausesthedarknesstocontractupon
+itselfandmaterializeoutofnothing.ReferringtotheJohanninedarknessand
+
+[Page 37]
+26 introduction
+light,theauthorreformulatesthethreeprinciplesandtheTrinity,thetriadic
+structureofthemind,andtheprinciplesasconstituentsofthehumanconsti-
+tution(7:24–26).Asisoftenthecase,thebiblicalallusionisthekeytoesoteric
+coherence.ThemysteriouseternalsequenceilluminatesScripturefromwithin.
+Allof natureisanimatedbydesire.Theworldisbornfromthelongingin
+thedarkmatrixfortheunattainablelight.Thefierystellarheavensburnfrom
+theirfrustratedstrivingforthedivinelight.Inthestillundividedmatrix,the
+elementslongforoneanother.Thefemalematrixandthemalestarslustfor
+one another, thereby stimulating all manner of birth and procreation in the
+sexualizedcosmos.Eachdistinctrealmofnaturelongsforsomeother,yetcan-
+notattainit.Eachelementisinhabitedbyelementalspiritswhichareinvisible
+andungraspabletoanythingoutsidetheelement.
+Chapter Eight. Adapting the interactive spirit-qualities of the eternal
+sequence,Boehmeoffershiscommentaryonthefirstthroughfifthdaysofcre-
+ationinGenesis1:3–25.Againsttheacademicallytrainedclergy,heinsiststhat
+there was indeed more tothe material out of which all things and creatures
+weremadethanbaseearth.Inthisheisreactingagainstaqualificationcitedin
+theBibleinreferencetoman(Gen2:7).Atstakeistheobjectionablepropensity
+tomisrepresentGodastheall-predestiningCreatoroftheworldoutofnothing.
+Thefashionerofallcreaturesoutofalifeless,inferiormaterialisCalvin’sGod
+asunderstoodbyBoehme.Againstsuchaview,Boehmeassertsthatatevery
+levelofbeing,vitalforcesandennoblingqualitiesarelatentinthematerialof
+creation.Afterall,ashesooftenreiterates,Godcreatedtheworldoutof his
+ownbeing.
+Asiftosimplifyallsuchcomplexities,Boehmesubsumesspiritwithitsqual-
+ificationsofdesire,longing,fear,orsufferingunderthesingleheadingofwill:
+“Aspiritisnothingotherthananascendantwill”(8:21).Theheavensandstars
+were“mixedtogether”in“thefirstwill”(8:22).Previously,thetartnessordark-
+nessappearedastheprimalconditionof creation.Butnow,“Thewillconsti-
+tutesthetartness”(8:23).“Thewilliseternallywithoutorigin,sinceinGoditis
+thematrixthatgivesbirth”(8:26).Increasinglyinsubsequentworks,thedivine
+willisboththemakerandthematerialthatallowBoehmetosaythatGodcre-
+ateseverythingoutofhisownbeing.Thiselevationofthewillisalignedwith
+a key biblical locus: “The word [of John 1:1] is the power of the will, and the
+power makes the fiat, and it in turn the kingdom. All of that is coeternal in
+OneBeing.Frometernity,thewillhasgivenbirthtotheword”(8:27).Thefinal
+chapterreconfirmsthetheogonyandcosmogonyofwill(27:6–8).
+Theterminologycontinuestorangeacrossadiversespectrum,buttheele-
+vationof thewillasmakerandmaterialinoneiscoherentwiththeprevious
+expositionandwithevenmoreprogrammaticassertionstocome.Boehmehas
+
+[Page 38]
+
+---
+
+*Extracted from: DE TRIBUS PRINCIPIIS, Oder Beschreibung Der Drey Principien Gttliches Wesens: Of the Three Principles of Divine Being, 1619, by Jacob Boehme (876 pages)*
+*Figures mentioned: Jacob Böhme, Paracelsus*
+*Concepts mentioned: Tincture, Enlightenment, Regeneration*

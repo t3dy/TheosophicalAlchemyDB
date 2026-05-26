@@ -1,0 +1,2329 @@
+---
+source: Anna M Vileno Robert J Wilkinson Messias Puer_ Christian Knorr von Rosenroths Lost Exegesis of Kabbalistic Christianity BRILL
+source_category: Western Esotericism
+author: Unknown
+total_pages: 630
+section: introductionof LurianicKabbalahintoItalyinthelastyearsof theSixteenth
+section_number: 19
+date_processed: 2026-05-25T15:01:06.399413
+figures_mentioned: Éliphas Lévi, Henry More
+concepts_mentioned: Correspondence, Emanation
+---
+
+# Anna M Vileno Robert J Wilkinson Messias Puer_ Christian Knorr von Rosenroths Lost Exegesis of Kabbalistic Christianity BRILL
+
+## Section: introductionof LurianicKabbalahintoItalyinthelastyearsof theSixteenth
+
+introductionof LurianicKabbalahintoItalyinthelastyearsof theSixteenth
+Century.32But,problematically,piecesofworksofIsraelSarugwereattributed
+toHayyimVital.33
+If KnorrneverreferstoSarug’sname,HayyimVital,thebestknownpupil
+of Issac Luria, is mentioned twice explicitly as the author of manuscripts
+which served as the basis for the commentaries of Zohar published in the
+secondvolumeof KabbalaDenudata:“PartissecundaeTractatusquartus qui
+estinSiphradeZeniuthaSeuLibrummysteriicommentariusèmanuscriptoà
+29 “Loci communes kabbalistici”, in kd i, p. 31. The entry devoted to “Tsimtsum” (Ibid.,
+pp.665–666)referstothesametreatise.Twoothertreatisesarecitedasreferences:“Etz
+ChajimPart.OzarothChajimTract.OlamHannekudim”(“Kelipot”,pp.675–676);“Shevi-
+ratha-kelim”,pp.698–703;“Tikun”,pp.732–736andalso“EtzChajimPart.OzarothChajim
+Tract.OlamHaakudim”(“Kelim”,pp.478–480;“Reshimu”,pp.693–694).
+30 P.Giller,ReadingtheZohar:TheSacredTextoftheKabbalah(Oxford:UniversityPress,
+2000):p.23.ThislastversionofHayyimVital’swritingsshowsthetracesofeditorialwork
+byMeirPoppers,oneofVital’spupils,andseemstohavebeenthemainsourceofthe
+knowledgeofLurianicKabbalahinseventeenth-centuryGermany.(Cf.Giller,Readingthe
+Zohar,op.cit.,p.23andFine,PhysicianoftheSoul,op.cit.,pp.16–17).
+31 If the first version undertaken by Vital identified material attributable to Luria him-
+selffromothercollectionsofcommentaries,subsequentversions,dueinitallytohisson
+SamuelVitalandtootherdisciplesthereafter(JacobTzemakh,MeirPoppers)reorganised
+thedifferentworksbyathematicgrouping:“TheycombinedalloftheZoharcommen-
+taries,regardlessofthestageofLuria’sthoughtrepresentedorwhethertheirauthorwas
+Luria,Vital,orsomeoneelse.”(Giller,ReadingtheZohar,op.cit.,p.24).Onthesecompli-
+cations,seeNecker,EinfürungindielurianischeKabbala,op.cit.,pp.47–52.
+32 “Onthewhole,thespreadofLurianicKabbalismwasalmostentirelyduetotheactivityof
+anotherKabbalist,IsraelSarug,whobetween1592and1598carriedonalivelypropaganda
+intheinterestsofthenewschoolamongtheKabbalistsofItaly”(Scholem,MajorTrends,
+op.cit.,p.257).Although,tracesofLurianicKabbalahwerealreadyobservableinEurope
+inthe1620s,beforeSarug’spresenceinItaly:Cf.,J.Avivi,“TheWritingsofLuriainItaly
+before1620”(inHebrew),AleiSefer11(1984):pp.91–134.
+33 Giller,ReadingtheZohar,op.cit.,p.204,note99.
+Anna M. Vileno and Robert J. Wilkinson - 978-90-04-44342-6
+
+[Page 107]
+84 chapter 6
+R.ChajimVitaljuxtatraditaR.JezchakLorjaGermanieeditolatinitatedona-
+tus:InquoMagnaexparteetiamillustranturamboTractatus,quivocanturIdra,
+tamrabbasivemajor,quamsutasiveminor”34and“PartisSecundaeTractatus
+Quintus quicontinet Tres tractatus initiales libri Sohar qui in Editione Man-
+tuana referentur ad Praefationem; cum textu originario, pro majori exercitio
+Tyronum,nonpunctato,sedcumversionetamen,&commentariis,partimè
+LibroSohareChammah;partimèManuscriptisàR.ChajimVitaljuxtatradita
+R.JizchakLorjaGermanieditis.”35ItwouldappearherethatKnorrwasworking
+onthebasisof manuscriptswhichhadcomefromGermanyunderthename
+ofHayyimVital—butperhapstheseweretheworksofIsraelSarug.
+Otheraccountsof LurianicKabbalaharefoundinthe KabbalaDenudata,
+suchastheShaarha-shamayyimofAbrahamCohendeHerrera36.Thenthere
+istheEmeqha-melekh,atthetime“themostcomprehensivecompendiumof
+Lurianickabbalah”37and“thefirstprintedworktobringafull-lengthexposi-
+tionoftheLurianickabbalah(thatis,Sarug’sversionofit)”.38The“Valleyofthe
+King”wasprintedinAmsterdamin1648andaLatintranslationappearsinthe
+secondvolumeof KabbalaDenudata39.Althoughthistextisonlyrarelycited
+inMessiasPuer,theauthor’sinsistenceuponthemessianicandeschatological
+dimensionofLurianicKabbalahseemsthoroughlytohavepenetratedKnorr’s
+thoughtworld—whichwasprobablyalreadywell-disposedtoreceiveit.40
+34 “TheFourthTractateoftheSecondPartwhichisashortcommentaryuponSiphradeZeni-
+uthaortheBookoftheMysteryfromamanuscriptafterthetraditionofR.JezchakLorja
+inGermany,printedinLatinbyR.ChajimVital:inwhichthereisillustratedingreatpart
+thetwotractatesIdraRabba(theGreater)andIdraSuta(theLess)”.
+35 “TheFifthTractateoftheSecondPartwhichcontainsthethreeinitialtractatesoftheBook
+ZoharwhichintheMantuaneditionmakeupthePreface,withtheoriginaltext,forthe
+greaterexerciseofbeginnersunpointed,howeverwithatranslationandcommentaries,
+somefromtheBookSoharChammahandsomefrommanuscriptsprintedbyR.Chajim
+VitalafterthetraditionofR.JizchakLorjainGermany”.
+36 OnHerrera,seeG.Scholem,AvrahamCohendeHerrera’sShaarha-shamayyim.Hislife,his
+workandhisInfluence(inHebrew)(Jerusalem:MossadBialik,1978);A.Altmann,“Lurianic
+KabbalainaPlatonicKey:AbrahamCohenHerrera’sPuertadelCielo”,HebrewUnionCol-
+legeAnnualCincinnati53(1982):pp.317–355;“LePortaildescieux”,traduitetannotépar
+M.Attali,(Paris:Editionsdel’Éclat,2010);N.Yosha,MythandMetaphor.AvrahamCohen
+Herrera’sPhilosophicInterpretationofLurianicKabbalah(inHebrew)(Jerusalem:Magnes,
+1994);Necker,HumanistischeKabbala,op.cit.
+37 Scholem,SabbataiSevi,p.528.
+38 Ibid.,p.551.
+39 “PartisprimæTractatusSecundus,QuaeestIntroductioPromelioriintellectuLibriSohar.
+EScriptoR.NaphathaliHirtz,F.R.JaacobElchanan;QuodvocatVallemRegiam”,pp.151–
+346.
+40 OnNaphathalibenJacobBacharach,seeY.Liebes,“TowardaStudyoftheAuthorofEmeq
+Anna M. Vileno and Robert J. Wilkinson - 978-90-04-44342-6
+
+[Page 108]
+theological and exegetical innovation in messias puer 85
+Contrarytowhatoneobservesin Adumbratio,thetechnicaltermsof Luri-
+anicKabbalahareabsentfromMessiasPuer.Onnooccasiondothekeynotions
+of tsimtsum,sheviratha-kelimoreventikunappearexplicitlybynameinthe
+text.Moreover,althoughthedifferentmomentsintheLurianicdramaarewell
+andtrulypresentinMessiasPuer,theyareneverreferredtobytheusualkab-
+balisticvocabulary.Ontheotherhand,weknowthatKnorrhadfullymastered
+this technical repertoire, as is clear from the Loci which we have just been
+discussing, as well as from the numerous translations collected in Kabbala
+Denudata.
+Itisatthispointthattherearisesthequestionofthereadershipenvisaged
+by Knorr: the omission or concealment of technical terms could be seen as
+a literary strategy primarily intended to attract a Christian readers who one
+may well imagine might be put off by a strange terminology. One can also
+easilyseethatthiswouldendangerthewholeofKnorr’sexegeticalprojectby
+discreditinghis(alreadyextremelyaudacious)interpretationof theNewTes-
+tament.
+Ontheotherhand,ifoneimaginesthatMessiasPuerisaimedprimarilyata
+Jewishreadership,thentheabsenceoftheappropriatetermsmightwellappear
+asaninappropriateomission:itwouldhavetheconsequenceofdeprivingthe
+Jewishreaderofpotentiallyfamiliar,andthereforereassuring,referencesinthe
+polemicalcontextofthedialoguebetweentheKabbalistandtheChristian.Yet,
+anotherconsiderationreinforcestheimpressionthatthetextprimarilyseeksto
+addressaJewishreadership:theobservationthattheTetragrammatonandthe
+otherdivinenamesaresystematicallywrittenpiouslybrokenbyanapostrophe
+inimitationoftheusualHebrewpracticetopreventinadvertentarticulation.
+One can understand that such a practice might be prudently adopted if the
+authorwasaddressingaJewishreadership,butitmakesverylittlerealsensein
+aChristiancontext.
+Thathavingbeensaid—andthetworeadershipsarenotnecessarilymutu-
+allyexclusive—onecanalsoveryeasilyimaginethatKabbalah(andperhaps
+particularlyLurianicKabbalah)foundlittlefavouramongtheJewishcommu-
+ha-Melech:HisPersonality,WritingsandKabbalah”(inHebrew),MekhkareiYerushalaym
+11(1993):pp.101–137.MorespecificallyontherelationshipsbetweenEmekha-melekhand
+Knorr,seeJ.H.Chajes,“DurchlässigeGrenzen:DieVisualisierungGotteszwischenjüdis-
+cherundchristlicherKabbalabeiKnorrvonRosenrothundvanHelmont”,Morgen-Glantz
+27(2017):pp.99–147.SeealsoP.Theisohn,“ZurRezeptionvonNaphtaliHerzBacharachs
+SeferEmeqha-MelechinderKabbalaDenudata”, Morgen-Glantz16(2006):pp.221–241
+andE.Baumgarten,“CommentsonRavNaftaliBachrach’sUsageofPre-LurianicSources”,
+AssociationforJewishStudiesReview,37/2(2013):pp.1–23.
+Anna M. Vileno and Robert J. Wilkinson - 978-90-04-44342-6
+
+[Page 109]
+86 chapter 6
+nity,whichmayinitself havedeterminedKnorrtoadoptaprudentattitude
+andthussuppressexcessiveexplicitmentionofkabbalisticterms.41
+TheLurianicsysteminspiteofitsenormouselaboratedcomplexitymayyet
+beconsidered,atheart,ametaphysicalnarrativeormythwhichinobviousand
+salientrepectsisdifferentfromthefundamentalnarrativeoftheHebrewBible.
+Lurianicscholarsthereforewerefacedwithanexegeticalprojectofprovidinga
+midrashicreadingoftheTanakhwhichwouldconformtothedemandsoftheir
+doctrines.KnorrfacedasimilarchallengeinexpoundingtheNewTestament
+textinsuchawaythatitmightbeseentosupporttheLurianicnarrativeand
+becompatiblewiththeLurianicnotionsoftheoriginofsouls,thefallofsouls,
+thenatureofevil,itsdefeatandthefinal“restoration”.Noneofthesenarratives
+appearobviouslyonthesurfaceoftheNewTestamentandestablishedChris-
+tianityhadpowerfulandinfluentialaccountsofitsowntoofferintheseareas
+whichweremanifestlynotLurianic.If howeverthekabbalistictraditionwas
+indeed an ancient and authoritative revelatio (and not just a relatio)42, then
+suchanarrativemightjustifiablybepresupposedand,if theNewTestament
+wassusceptibletointerpretationinitslight,theresulting“goodnews”wouldbe
+salutaryforbothJewsandChristians—indeedofferedtheprospectofashared
+commonunderstandingofandparticipationinsalvation.
+TheLurianicaccountof CreationbeginsbeforetheCreationdescribedin
+Genesisandtakesplaceinasortof cosmologicaltimewiththeinitialactof
+Divinitywhichiscalledtsimtsum,“contraction”or“constriction”.Asinother
+traditions,thepurposeoftheLurianicmythistoofferanexplanationofhow
+the One became Many, by a sequence of emanations similar to that of Neo-
+Platonism.TheDivineretracteditsessencefromapointatitscentretowards
+itsextremitiesinacircularmovement.Thepurposeofthiswastoclearaspace
+whereDivinityandtheintensityofitslightwouldbeabsentandinwhichthe
+created world might find a place.43 According to other versions of the same
+myth,theDivinityisdescribedasbeingofamixednature,comprisingatonce
+withinitselfbothpositiveandnegativeforces(din,“judgment”andrachamim,
+“mercy”).Fromthisperspective,thepurposeofcreationwastopurgetheDivin-
+ityofthedemonicforceswhichitcontained.44
+41 ScholemmentionsseveralmovementsofoppositiontoLurianickabbalah,especiallyin
+theformtaughtbyIsraelSarug.Cf.SabbataiSevi,op.cit.,p.87,note134andp.210.
+42 Cf.supra,p.39.
+43 The Lurianic account perpetuates a midrashic exposition according to which several
+worldswerecreatedbytheDivinitybeforeourownandwhichwerealldestroyedbecause
+ofthedemandsofDivineomnipresence(GenesisRabbah3.9).
+44 Cf.Fine,PhysicianoftheSoul,op.cit.,p.127.
+Anna M. Vileno and Robert J. Wilkinson - 978-90-04-44342-6
+
+[Page 110]
+theological and exegetical innovation in messias puer 87
+Afterthecontraction,atinyquantityofdivinelightwasnonethelessrein-
+troduced into the space left void (called tehiru) because nothing can in fact
+exist within a total absence of the divine.The light was reintroduced in the
+formofalineandconcentriccirclesfromwhichAdamKadmonthe“Primordial
+Man”wasformedwhoactsasanintermediarybetweentheDivinityandthe
+createdworldandwhooccupiesacentralplaceintheLurianicsystem.From
+those residues of light which had remained present within the tehiru, there
+were formed the vases (kelim), destined to receive and hold the divine light.
+HeretheLurianicnarrativetakesadramaticturn,forthevases,underthepres-
+sureof theintensityof thereintroducedlight,smashed(anepisodewhichis
+knownassheviratha-kelim,the“shatteringofthevases”).
+Theshardsof thesevasesfelltowardsthecentreof thespacefromwhich
+initially Divinity had withdrawn, dragging with them sparks of light which
+remainedattachedtothem.FromageometricperspectivetheretreatofDivin-
+ityhadtakenplacefromthecentretowardsthecircumferenceanditwaspre-
+ciselythecentreofthisnowemptyspacewhichbecametheplaceofcreation.
+Thus the material world is a mixed world, the product of a combination of
+demonicmaterialandsparksofdivinelighthiddenandimprisonedwithinthe
+gangueofmaterial.Finally,theprocessofrehabilitation,thethirdpanelofthe
+Lurianictriptych,consistsintheliberationofthesparksoflightcaughtinthe
+material shells (kelipot) which retain them until they can make their ascent
+backtotheCreator.ThepassagefromtheOnetotheManyishere,then,con-
+ceivedassomethingtemporary,theobjectivebeingtorecovertheoriginalunity
+intheOnewithoutdifferentiation.
+WiththecreationofthematerialworldrelatedintheBible,duringthedays
+that preceded the birth of the First Man (AdamRishon), the divine compo-
+nents, that is, the sefirot and the partsufim, began their ascension and were
+closetoreachingthelevelofunitywiththedivinerealmthattheyhadenjoyed
+beforethebreakingof thevessels,risingonhighthroughthevariousworlds
+of Formation (Yestirah) and Creation (Briah), to reach the highest world of
+Emanation(Atsilut).ImmediatelyaftertheCreationoftheFirstMan,together
+with the occurence of the world’s first Shabbat, this process of restauration
+couldhavebeencompleted.However,thetransgressionoftheFirstMan(Adam
+Rishon)provokedadramaticfallwithinthematerialworld.Sincethen,thisuni-
+versalrestoration,theachievementoftikun,wasconstantlydeferred.Inconse-
+quenceofthecorrespondencebetweentheworldaboveandtheworldbelow,
+eachSabbathisconsideredasanoccasionpropitiousfortherestorationofthe
+world.45ButthetransgressionoftheFirstMan(AdamRishon)hadanotherfur-
+45 Ibid.,pp.141–144.
+Anna M. Vileno and Robert J. Wilkinson - 978-90-04-44342-6
+
+[Page 111]
+88 chapter 6
+therconsequence,importantinthecaseof MessiasPuer—itprovokedthefall
+intothematerialworld(kelipot)ofthesoulswhichwerecontainedwithinthe
+bodyofthePrimordialMan(AdamKadmon).
+Thisvastmythologicalnarrativeanditsuccessiveembellishmentsarenot
+presentedintheirentiretybutarealludedtoinpart.FurthermoreKnorralso
+wishestoharmonisethisgrandvisionwithverydifferentNewTestamentpas-
+sagesonsinandsalvationandthebroaderChristianunderstandingof these
+matters.ThefollowingpassageindicatesthedifficultyKnorrfacedinpresent-
+ingsuchanarrative,forherethereadermustbeintroducedtoreincarnation,
+Adam Kadmon and Adam Belial and the opposing fallen and impure army
+under Samael.To some extent Knorr has to rely (as we have seen) on famil-
+iaritywithhispreviouswork.Butthereadersthemselvesmustalsoacceptthe
+universalrestorationwherein(similartotheheresyofOrigen)eventheworst
+ofshardsmaybecorrectedandalsounderstandthe“forgivenessofsins”inthe
+contextofreincarnationas“freedomfromthe(appropriate)punishments”.In
+thislastrespectthelemmaofMt1.21issignificant.AccordingtoKnorr’strans-
+lation of the Syriac, Jeshuah frees his people “from their punishments”. The
+Vulgate,however,has“fromtheirsins”.Thepassageisfromfolio31v.
+Fromtheirpunishments
+ChristianJustastheHebrewwordʿwn,sinoriniquity,isoftenusedfor
+punishmentasin1Sam28.10;Gen4.13;19.15;Lev15.1;16.22etc,soalsois
+the Greek word harmartia as in Mt 9.2, 5, 6; Jn 1.29; 8.21, 24; 9.41; 15.22,
+24;16.8,9.Likewise,theSyriac[word]ḥṭhʾinalltheseplaces.Soherewe
+shouldunderstandthewholesavingworkof Messiah.Thusalltypesof
+ills,bywhichonaccountoftheirprimaevalfallthesoulsofmenarepun-
+ished,areimpliedhere.TheyareoverwhelmedbythefilthyShards;they
+lacktheprimallightandinflux;andaresubjecttotheYetserha-raorthe
+EvilImpulse;andtodeath,tobeingbornwithinvariousincarnationsand
+envelopments;andtothetormentsof Gehennahetc.fromallof which,
+butmainlyfromtheirpronenesstosin,Messiahbothwishesandisable
+tofreethem.
+KabbalistCatechumenIfwhatourwritersmeanbythePeopleofMes-
+siahistobecomeclearweneedheretoexplainmorefullytheirtheory
+oftheSoul.TheManofHoliness,thatisAdamtheProtoplast,theycon-
+sider as a single army of Souls; as if some Souls belonged to his head,
+evidentlysometohiseyes,sometohisnoseetc.andsoonthroughhis
+individuallimbs.Andtothis[Adam]theyopposeanother—AdamBelial,
+theManofPerversity,whohimselfisalsolikeabodyand[constitutes]a
+Anna M. Vileno and Robert J. Wilkinson - 978-90-04-44342-6
+
+[Page 112]
+theological and exegetical innovation in messias puer 89
+similararmyundertheleadershipof Samael.Thisalternateandimpure
+army,whichhadalreadypreviouslyfallen,prevailedintheTemptationin
+Paradisewiththeconsequencethatindividualmembers[of thisbody],
+byspecificsins,subjectedtothemselvesthecorrespondingmembersin
+[thebodyof]Holiness.Ourwriterssaythatitsoonhappenedthatthose
+SoulswhichhadbeenintheHolyManwhichfellunderpollution,then
+descended into the World of Generation to become the People of the
+CovenantandtheIsraelites.Butthosewhobeforethenhadalreadyfallen
+underSamael, thePrince of uncleanspirits and bythe time of the Fall
+weremixedintotheholybodyofAdam,astheydescendedto[theworld]
+ofGenerationwantedtoescapeintotheGentilepeoples(Tract.DeRevol.
+Animarum,1§2,14).Thisopinionissetforwardalittlemoreaccuratelyin
+Adumbratio,chap.10§6,7,whereitshouldbenotedthataccordingtothis
+theoryeventhewickednessoftheworseandthedevianceoftheshards
+canfinallybecorrected;sothatintheLastTimesofMessiah,thatpriva-
+tionandinclinationtoevilwhichScripturecallsDeath(trulytheabsence
+of thedivinernature)willbeutterlyborneaway,sothattherewillbea
+CompleteRestitutionIsa25.8;1Cor15.26,54,55,56.
+First, therefore, by the People of Messiah we should understand the
+Soulsof theOldCovenantreincarnatedmanytimes,untiltheyarefully
+subjecttoMessiah.Second:allremainingSoulswhosoonerorlaterwill
+beledtotheNewCovenant—untilafterreincarnatedbirthsandmany
+punishments,Godwillbe“allinall”1Cor15.28.
+Afewyearsearlier Adumbratiohadshownaninterestinthequestionoforig-
+inal sin, its origin and transmission.The text developed the notion that sin,
+rather than being innate, was in fact acquired, as a result of upbringing at
+thehandsofone’sparents.Originalsinwasnot,therefore,intrinsictohuman
+nature. To clarify the issue, the Christian Philosopher of Adumbratio estab-
+lishedthereadistinctionbetweentheterms“sin”and“punishment”.Theterm
+peccatum,fromtheLatinpeccaremeans“tocommitafault,tofail,todowrong”
+or even “to be faulty, to be defective”. By contrast poena “punishment” has a
+primarysenseof “aransomintendedtocompensateformurder”andthence
+“compensation, reparation, vengence punishment, chastisement”.The Greek
+wordποινή(poinē)hassimilarlyalegalmeaningofcompensationarisingfrom
+adelictcommitted.Thereisthereforeachronologicalrelationshipbetweenthe
+twotermssincethepunishment(poena)isthereparationdemandedasaresult
+of the sin (peccatum). What was the intention of the Christian Philosopher
+inestablishingthisdistinction?Wasittodeclarethatthe“penalty”indicates
+reparation for a fault committed and not for a weakness inherent in human
+Anna M. Vileno and Robert J. Wilkinson - 978-90-04-44342-6
+
+[Page 113]
+90 chapter 6
+nature?PerhapsonemayseeheretracesofPelagianism.Accordingtothisdoc-
+trinemaniscapableof assuringhisownsalvationbyhisownmeansandhis
+ownsolemerit,withouttheinterventionofGrace.Theexistenceofsinwithout
+personalresponsibilitywasquiteinconceiveableforPelagians.Inthatrespect
+onecouldsaythattheyarguedmoreasphilosophersthanasChristians.46This
+remarkcouldjustaswellhavebeenmadeoftheauthor(s)of Adumbratioand
+MessiasPuerespeciallyasFrancisMercuryvanHelmont’sattachmenttoPela-
+gianismhasbeenamplydemonstratedbytheworksofAlisonCoudert.47
+InshortAdumbratioappearstodenytherealityofpeccatumoriginalewhich,
+accordingtotheauthor(s)ismerelyaturnofphraseoratrope.Originalsinin
+factisonlythepenaltyandnotthefault.Thedistinctionwhichismadehere,
+togetherwiththedenialofthetransmissionoforiginalsinbyhumangenera-
+tion,constitutesamajorchallengetoAugustiniandoctrine.
+Morelargely,MessiasPuerinitsaccountofthemannerinwhichtheprocess
+of salvationunfoldsinsistsupontheperfectiblenatureof manwhichcanbe
+“taught”byMessiah.ThefollowingpassageincommentinguponZachariah’s
+song concentrates specifically upon what is meant by salvation and gives a
+fairlyfullaccountofitsvariousaspects:
+On “he might prepare his ways”: see below on Mt 3.3. So we grasp the
+methodofMessiahbywhichheintendsfirsttherestitutionofthesoulsof
+Israelitesandthenthesoulsofproselytestoo.AndthisMessianicmethod
+willbedescribedindetailbythefollowingverse77.ItrequiresthatMes-
+siahshouldgiveknowledgetoorinformhispeopleastheSupremeRector
+oftheDivineAssembly(seeTract.DeRevol.Animarum,chap.1,§1,p.244;
+Adumbratiochap.1,§5,6;2,§13;4,§7seq.;5,§2;6,§2;8,§2.Andcom-
+pare Jn 3.2; Mt 8.19; 12.38; 19.16; 22.16, 24, 36; 26.18 etc.). Also that: [the
+Greek]sōtēria[salvation]or[theAramaic]ḥyʾ [life]i.e.therestoration
+ofthesavedsouloritslife(doesnotconsistindeedsascarefullyaspossi-
+bleperformedaccordingtothenormofeitherLawsincethesearenatural
+andnotentirelyfreefromprimaevalsin,seeAdumbratio,chap.2,§12but)
+requires(1)theRemissionofSinswhichtoberightlyunderstoodrequires
+ustonotethat:
+46 A.Sage,“LepéchéorigineldanslapenséedesaintAugustin,de412à430”,RevuedesÉtudes
+Augustiniennes15,1(1969):pp.75–112,p.76.
+47 Coudert, LeibnizandtheKabbalah,op.cit.,pp.8–10;155;Ead.,“HenryMore,theKab-
+balah,andtheQuakers”,inPhilosophy,Science,andReligioninEngland1640–1700,edited
+byP.Zagorin,R.AshcraftandR.Kroll(Cambridge:UniversityPress,1992):pp.31–67,p.40;
+Ead.,TheImpactoftheKabbalahintheSeventeenthCentury,op.cit.,pp.128etpassim.
+Anna M. Vileno and Robert J. Wilkinson - 978-90-04-44342-6
+
+[Page 114]
+theological and exegetical innovation in messias puer 91
+(a) anygivensoulwhenfirstcreatedwasashiningglobe(whichcould
+takeonanyform,includingthehuman),butatthetimeofAdam’s
+fallwastakencaptivebyacertaindarkSpiritofImpurity(SeeTract.
+DeRevol.Animarum, p. 248, §11, 12, 14) whose blackness obscured
+thelightofthesoul.
+(b) that the soul being drawn down into generation,a large part of it
+wasliberatedfromthatdarkness—drawndown,thatis,intobright
+actionwhichitpreviouslylacked.Howeveritretainedmanystains
+or remnants and parts of its perverter (it has parts which are a
+mixture of both souls and shards and nitsutsot or various sparks)
+which are ideas which come into existence with various affects
+i.e. the origins of the natural movements and organisation of the
+soul.
+(c) thatalsovariousobfuscationsenterthesoulfromoutside.Theseare
+allconnectedwithaspiritoftheShardsandmaycauseusaninflux
+ofspiriteitherfromfoodordrinkortheincidenceofacertainfeel-
+ingfromwhichnotionsareformed.
+(d) thateveryactionofthesoularisesfromanideaandifitissinfulit
+onlymatchestheidea.Foralltheideasinasoul,thereareanequal
+numberof spiritswithinit.Andtheseareevilif theideasareevil.
+(SeeTract.DeAnimabyRabbiMosesCordovero,p.146seq.).These
+arethespecificpunishmentsforindividualsins.
+(e) thattheremissionof sinsconsistsnotsomuchintheforgettingof
+thoseacts,butalsotheremovalofthepunishmentsortheideasof
+theshardspirits.ThisiswhatMic7.19meanswhenitsaysthatsins
+“arethrownintothedepthsof thesea”i.e.thosespiritswhichare
+thepunishmentof sinsareshutintothedepthsof GreatAbyss.So
+forthesereasonsthewholebasisofthenewMessianicwayofpro-
+ceedingistheremissionofsinsi.e.theremovalofthepunishments,
+whichalsoremovesthosecorruptingideaswhichotherwisewould
+producemanysimilaracts.Thisisthefirstrequirementoflifeorthe
+restorationofthesoul.
+Butalsorequiredis(2)thatsavingrestoration,theuniqueinfluxof the
+Graceof amercifulGod,notmerelyfortheremissionof sinswhichwe
+havejustbeendiscussing,butalsotoinformallthesubsequentmoralacts
+ofthesoul.SobrieflythemeaningofZachariah’swordsisthis:thatMes-
+siahwillinformhispeople;thelifeof thesoulconsistsintheremission
+of sins(asif hesaid“TheLightof theSoulisrestoredbytheremovalof
+thedarknessof theShards”)andinthemercyof theGraceof God(asif
+hesaid“ThisLightoftheSoulcannotexistnorbeincreasedunlessborn
+Anna M. Vileno and Robert J. Wilkinson - 978-90-04-44342-6
+
+[Page 115]
+92 chapter 6
+fromtheinfluxofthedegreeTiferet[Glory]”)towhichislinkedthe[Ara-
+maic]wordrḥmʾ[mercy]andfromthedegreeChesedtowhichislinked
+the[Hebrew]wordḥnnh[Grace]andfromthedegreeBinahtowhichis
+linkedthe[Aramaic]wordʾlhn[God].(SeeLex.Cabb.,p.680&p.109,n.17;
+p.110,n.2,3,4;p.111,n.2.)
+V78,79Now,finally,followsthelastpartof thisprophecywhichcon-
+cernsthefinalcompletionoftheMessianickingdom.Themeaningisthat
+inalittlewhile,bythegraciousinfluxof themercyof God,weshallbe
+visitedbythatsameLightofMessiah,notmerelyinitsrisingasnow,but
+fromonhigh,asatmid-day,toilluminatenotonlythosewhosesoulhas
+uptonowbeenobscuredbythestainsof darkness,butalsothosewho
+sit in complete darkness (i.e. who have not yet recognised the Light of
+Messiahthathasarisensofar,orwhoarefromtheJewsof themodern
+dispersion;orarethedescendantsof theTenTribes)andintheshadow
+ofdeath(i.e.whohaveuptonowstilltobeconvertedfromtheGentiles).
+Butwewhoarealreadyexperiencingthebeginningsof illuminationhe
+willleadtothewayofcompleteprosperity.(SeeLex.Cabb.,pp.717seq.&
+Rev21.23;22.5;Isa60.19,20.)48
+Thedetailof themannerinwhichMessiahwillbringredemptionandgrant
+remissionof sinsfocusesupontheoriginof theshardsfromwhichthesouls,
+whichwerecreatedpureandwithoutsin(as“shiningglobes”),mustbefreed.
+Sinispresentedascomingfromoutside,asastrangertothesoul.Thisisthe
+reasonwhysinwhichhascomeandattacheditself tothesoul,cansimplybe
+eliminatedinthe“removalof thepunishments”.Evidentlyweareherefaced
+withanotionof OriginalSin,whichextendsandrefines,almostwithatech-
+nical precision, the reflections initiated in Adumbratio. But the “removal of
+punishments” is only one stage in a process which is envisaged in stages by
+Knorr.ForinfacttherefollowsaneducationalstagewhereinMessiah,notcon-
+tentmerelytohaveremovedpunishmentswillteachpeoplenottorecommit
+sinandwill“informallthesubsequentmoralactsofthesoul”,developinghere
+thefigureofChristasthemercifulteacherparexcellence.
+48 Atfolios35r–36r.
+Anna M. Vileno and Robert J. Wilkinson - 978-90-04-44342-6
+
+[Page 116]
+theological and exegetical innovation in messias puer 93
+3 Messiah
+MessiahiscentraltotheNewTestamenttextsunderexaminationinthecom-
+mentary and consequently to the focus of the exegetical investigation itself.
+AsadistinguishingdoctrinebetweenJewsandChristiansthetopicofMessiah
+wascrucialtothepolemicsbetweenthetwofaiths.Knorr’spresentationofthe
+subjectisnotthatoforthodoxChristianity.Withoutdenyingthecomplexityof
+ChristologicalandTheologicaldisputesoftheReformation,northeexistence
+ofdissidentconvictions,ChristianaccountsoftheMessiahwereforthemost
+partTrinitarianandclaimedallegiancetoNicaea.Thatistosay,JesusChrist,the
+Messiah,wasthethirdpersonoftheTrinityincarnateintheFlesh.HewasGod
+frometernityanduncreated.TheanathemasattheendoftheNicaeanCreed
+specificallytargetedtheArianswhosaid“Therewasatimewhenhe[theSon]
+wasnot”49,whichispreciselywhatKnorrinsistsupon.LikeArius,butinavery
+differentidiom,heconsideredtheSoulof Messiahwasthebeginningof Cre-
+ation.
+ThedoctrineofMessiahinMessiasPuerisquitecomplexandcomprisessev-
+eralparts.WeshallnotrepeatherewhathasjustbeensaidabouttheSoulof
+Messiahorof AdamKadmon,butbothareessentialtounderstandingMessiah
+asthe“first-bornof creation”,hiscorporatenature,andtheprospectof salva-
+tion,whichasweshallseeshortlyinvolvesaJewishMillennialKingdom.These
+themeswillbeincidentallyexpandedfurtherinseveralpassagesweshalldis-
+cussbelow.Suchistheinter-connectednatureofKnorr’sthoughtandexegesis.
+InMarythereoccurredthefinalreincarnationoftheNefesh(thelowestpart
+ofthesoul)ofDavidandtheNefeshof AdamKadmonfromwhichwasformed
+thevitalspiritofMessiah.Knorrseeksothercategoriestosatisfytheapparent
+demandsof theNewTestamenttextthatJesuswasinsomesense“divine”.In
+hisdiscussionoftheopeningversesofJohn’sGospel,initiallycommentingon
+Jn1.1(“The[First]PrincipleofCreationwastheWord,andtheWordItselfwaswith
+GodandGodwasthatWord”)Knorrwrites:
+KabbalistCatechumenSoitisnotsomuchthedivinenatureofMessiah
+whichthisnameasserts,ashiscreatednature:andcertainly,ifIwereto
+converttoyouropinion,Iwouldnotsaythisbeganin[thewombof]Mary.
+RelevanthereareAdumbratio,chap.3&chap.7,para.26.50
+49 Ēnpotehotioukēn[hohuios].
+50 Atfolio3v.
+Anna M. Vileno and Robert J. Wilkinson - 978-90-04-44342-6
+
+[Page 117]
+94 chapter 6
+The important point here is that the life of Messiah did not begin in the
+womb of Mary. If the existence of Messiah had, in conformity with Kab-
+balah but contrary to Christian doctrine, a beginning in time, Messias Puer,
+ontheotherhanddeniesthatthatbeginningwastheconceptionof Jesusby
+Mary.
+SimilarlyincommentonJn1.2,thequestionarisesof therelationof Mes-
+siahtodivinity.TheKabbalistCatechumenisequallyinsistentthatMessiah’s
+existencedidnotbegininMary’swomb,butgoesontospeakofMessiahbeing
+unitedwithDivinityfromthebeginning:
+OrdoesthewordbryšythereinVerse2reallyhaveanothermeaning:(…)
+thatrightfromthebeginningtheMessiahhadbeenunitedwithDivinity;
+andthatthatUniondidnotbeginwithhisstateoflowliness?
+Herethe“stateofhislowliness”isevidentlyhisbirthfromMary.
+Howthatmaybeimaginedisindicatedinapassagewealreadyexamined
+above(OnMt1.15“OutofEgypt”):
+Themysticalsenseof theprophet’swordsisthis:Aroundthosedegrees
+whereIsraeliscalled“Boy”(SeeCabb.Denud.,Part.2,p.8)i.e.thehigher
+partaroundthebeginningsof theSonwhichiscalledZeirAnpin,isthe
+placeof LoveorChesed(SeeCabb.Denud.,Part.1,p.43)and,although
+the surrounding Shards have there a narrow place (as the name Egypt
+implies),nonetheless“IcalloutmySonandBoy”andthroughhimpro-
+videaninfluxforlowercreatures.51
+Whichmaybecomparedwithapassage(atfolio29vonMt1.15)weshalldiscuss
+morefullybelow:
+And although others fell, the Soul of Messiah itself in its wholeness
+remainedalwaysunitedwiththedivinedegreecalledTheSonandwith
+whichfromthebeginningtheSoulofMessiahhadjoineditself(Heb13.8).
+Thus,fromthebeginningoftheEcclesia,thewholeeconomyoftheOld
+CovenantwasadministeredthroughtheSoulofMessiah(1Cor10.4).Until
+atlast,havingputonhumanflesh,itwastoappearandinitiatethemin-
+istryoftheNewConvenant.
+51 Atfolio49r.
+Anna M. Vileno and Robert J. Wilkinson - 978-90-04-44342-6
+
+[Page 118]
+theological and exegetical innovation in messias puer 95
+The“divinity”ofJesusisaccountedforbythesteadfastunityoftheSoulof
+Messiahwiththe“divinedegreecalledtheSon”.Thereaderwillfindthiscor-
+roboratedbythevariousspeculationsonthesignificanceofthenameofJesus
+inthecontextoftheotherdivinenamesandparticularlytheTetragrammaton
+inMessiasPuer.52
+TheindicationhereofhowLurianickabbalahdealswiththecentralChris-
+tianissueofthe“divinity”oftheSonisquitecrucial.Thethreepassageswehave
+justrevieweddonotsetoutthefullcontextinLurianicthought,thoughthere
+isanexplanatoryreferenceto KabbalaDenudata.Whatisinplayhereisthe
+doctrineofpartsufim(“faces”),freshstructuresoftheGodheadformedinthe
+newspheresofCreationafterthe“breakingofthevessels”(sheviratha-kelim).
+TwoofthefivepartsufimareAbaandIma(FatherandMother)towhichKnorr
+referselsewhereinMessiasPuer.Andalso“thehigherpartaroundthebegin-
+ningsof theSonwhichiscalledZeirAnpin”(anotherof thepartsufim).Itis
+perhapstheworkofanotheroccasiontoattemptafullyarticulatedaccountof
+Knorr’sviewofthiskeydoctrine.Ourpointhereisthecomparativediscretion
+of itspresentation.Thereislittlesystematicpreparationorpresentationand
+the vital issue passes without anything like the emphasis one might expect.
+Knorr has done the work and has seen how a Lurianic Christology might be
+constructed, but the reader of MessiasPuer (alas!) does not receive that full
+exposition.
+Several passages which we shall meet below speculate on how Messiah
+mightboth“upholdtheworlds”andyet(atthesametime)bepresenthereon
+earth.TheLurianictraditionhadalreadysolvedthatproblem(wearetold)in
+thecaseofMetatron.TheproblemoccursagainwhentheSoulofElijahattends
+hisowncircumcisionwhenreincarnatedasJohntheBaptist.Theansweristhat
+thetwosuperiorportionsofthesoul,ChayahandYechidah,remaininheaven
+fortheduration.TheYechidahofMessiah,however,hadappearedinSamson,
+aswelearnonMt2.19:
+For,amongsttheFormerProphetsisincludedthebookofJudges,towhich
+theevangelistseemstowishtopoint,andtodrawatypeofSamsonfrom
+Judg13.5.AsiftheAngeltherehadsaid:ThisacolyteoftheSun(whichthe
+name“SohamSchon”soundslike)willnotonlyperformthosefeats,but
+inhim,asYechidah,atthesametimewillbeapowerofMessiah,thetrue
+liberatorofhispeople,whichwasoriginallyunitedwiththedegreeTiferet
+52 A.M.Vileno,“Lesnomsdivinsdansl’œuvredeKnorrdeRosenroth:uneprésencevoilée”,
+Accademia.RevuedelasociétéMarsileFicin(forthcoming).
+Anna M. Vileno and Robert J. Wilkinson - 978-90-04-44342-6
+
+[Page 119]
+96 chapter 6
+(whichtheycalltheSun).Andjustlikethathero,hewillbeaNaziriteand
+thusMessiahwillbecalledbyasimilarname.Whichiswhathappened.53
+KnorriswellawareoftheJewishtraditionsoftwoMessiahs,indeedheanthol-
+ogisedtherelevantpassagesinthelostExcerpta,aswesawabove.Hedoesnot,
+however,seethemastwodifferentpersonae,butratherasaspectsof theone
+Messiah.54
+4 AJewishMessianicKingdom
+ItisevidentfromMessiasPuerthatforKnorrbothprophecyandchronography
+providethebasisforhisanticipationof aliteral,materialandpoliticalfuture
+JewishmessianickingdominPalestine.Thisinvolvesaninterpretationofsev-
+eralpassagesinawaynottraditionalandclearmomentsofdisagreementwith
+themorecommonreadingofpassagesbyLightfoot,whoseworkKnorrseems
+tohavekeptaneyeonashewrote.
+It is also evident that while Adumbratio addresses in several respects the
+“Final Restitution”, it does not explicitly mention this physical and political
+restorationof theKingdomof Israel.Wearethusintroducedin MessiasPuer
+to an aspect of Knorr’s eschatology perhaps only anticipated in the Apoca-
+lypseCommentarybutonethatintimatelyrelatestothefuturedestinyofJews,
+as well as Christians. It is not perhaps entirely fanciful to imagine that this
+morepositiveandlesssupersessionistprospectforcontemporaryJewswasnot
+entirelyunrelatedtothegrantofrightsofresidencetotheJewsofSulzbachby
+theDukein1685,withwhichKnorrwasmuchconcernedandtowhichwehave
+alludedabove.ThetraditionalAugustinianroleforcontemporaryJewswasfor
+themtobekeptdebased,desolateanddispersedasapunishmentandalsoasan
+objectlessonthatGodkeepshispromises(orperhapsbetter,fulfilshisthreats).
+ArecentaccountofAugustinehasprovidedamorepositiveevaluationofhis
+thoughtandhasarguedthatitmayevenhavehadsalutaryeffects.55Yetsucha
+perspectiveinitsconsequencesremainsverydifferentfromtheapproachto
+contemporary Jews found in Christian Augustus’ Sulzbach and to the rights
+53 Atfolio50v.
+54 ThisisdiscussedmorefullyinthenotestotheTranslationandinVileno,“Reincarnations
+ofMessiah(s):MessianicExpectationsinChristianKnorrvonRosenroth’sLastWork”,art.
+cit.
+55 P.Fredriksen,AugustineandtheJews.AChristianDefenseofJewsandJudaism,2nded.(Yale
+UniversityPress,2010).
+Anna M. Vileno and Robert J. Wilkinson - 978-90-04-44342-6
+
+[Page 120]
+theological and exegetical innovation in messias puer 97
+of settlement given to Jews there in 1666 followed by the liberal Charter of
+Privilegesof 1685.Knorrwasverymuchinvolvedinthesettlement.56Healso
+expressedhimself atlengthonwhatheconsideredtobepropertolerationof
+contemporaryJewsintheForwardLectoriphilebreosalutematthebeginningof
+thesecond1684volumeofKabbalaDenudata,inasectionDeTolerationeJudae-
+oruminterChristianoswhichcontains28argumentsfortheirtolerance.57There
+is a striking similarity between this text and similar arguments offered later
+byKnorr’scorrespondantWagenseil.58Thediscoveryof Knorr’sconvictionof
+an anticipated Jewish Messianic Kingdom in Palestine where Jews would be
+gathered and ultimately be converted, offers a forceful prophetic reason for
+thismoreliberaltreatmentof Jews:farfrombeingperpetualwanderers,they
+wereimaginedashavinganhonourablefutureroletoplayintheeschatological
+drama.
+InafirstwritingonLk1.55atfolio19v,KnorrallowedtheChristiantoexpress
+thesehopes.Onreflection,headjustedthemanuscripttohavethesecontrover-
+sialnotionsarticulatedbytheKabbalistCatechumenandpermitstheChristian
+himselfnoresponse,onewayortheother,tothesesingularanticipationsofa
+futureJewishkingdom.Thisisaveryclearexampleof theself-censorshiphe
+exerciseduponhisworkbutalsoafurtherindicationofhisownexpectations,
+asaChristian,ofafutureMessianicAge.
+In the late Sixteenth Century, English theologians began to find both a
+typologicalfulfilmentof theExodusandaliteralfulfilmentof theAbrahamic
+covenantpromises—and,indeed,theburdenofthepropheciesinDanieland
+Revelation—inarestorationof contemporaryJewstoPalestine.59Therethey
+56 Weber, “Jüdisches Leben in Sulzbach und Floß in 17. und 18. Jahrhundert”, art.cit., at
+pages119–120.
+57 §20-§48pp.20–38.ThesearediscussedbyZeller,“DieRollevonFranciscusMercurius
+VanHelmont”,art.cit.,pp.393–396.ThetextoftheforwardtranscribedbyErnaHand-
+schurmaybefoundinMorgen-Glantz16(2006):pp.17–54.
+58 J.C.Wagenseil,HoffnungderErlösungIsraels(Leipzig1705:NürnbergandAltdorf1707).
+59 ForbasicbiographyseeN.Matar,“TheIdeaoftheRestorationoftheJewsinEnglishProtes-
+tantThought:FromtheReformationuntil1660”, DurhamUniversityJournal77(1985):
+pp.23–36;Id.,“TheIdeaoftheRestorationoftheJewsinEnglishProtestantThought:From
+1661–1701”,HarvardTheologicalReview78(1985):pp.115–148;Id.,“TheControversyoverthe
+RestorationoftheJewsinEnglishProtestantThought:1701–1753”,DurhamUniversityJour-
+nal80(1988):pp.241–256;Id.,“TheControversyovertheRestorationoftheJewsinEnglish
+ProtestantThought:1754–1809”,DurhamUniversityJournal87(1990):pp.29–44;S.Snobe-
+len,“‘TheMysteryofthisRestorationofallThings’:IsaacNewtonontheReturnofthe
+Jews”inMillenarianismandMessianisminEarlyModernEuropeanCultureVoliii,ed.by
+J.E.ForceandR.H.Popkin(Dordrecht:Springer,2001):pp.95–118,esp.pp.111–112;R.W.Cog-
+ley,“TheFalloftheOttomanEmpireandtheRestorationofIsraelinthe‘Judeo-centric’
+Anna M. Vileno and Robert J. Wilkinson - 978-90-04-44342-6
+
+[Page 121]
+98 chapter 6
+wouldconverttoChristianity,establishamessianickingdomandmostusefully
+destroy theTurks. AndrewWillet (1562–1621) proposed such a restoration in
+hisworkDeUniversalietNovissimaIudaeorumvocatione.60Hewasimprisoned
+andhisbookburned.In1608ThomasDraxepublishedTheWorld’sRestoration
+orGenerallCallingof theJews, which again drew inspiration from the Apos-
+tlePaul’sexpressionof hopeinRomanschapters9–11.Draxeanticipatedthe
+restorationofJewstoPalestineandtheirconversion.Bypointedcontrast,the
+KingJamesVersionof1611initsrunningchapterheadingsglossedthepromises
+toAbrahamnotasapromiseof territorialpossessionbutof thefirstAdvent:
+“PromisetoAbramof Christ”.HenryFinch’sTheCallingoftheJewesAPresent
+toIudahandtheChildrenof Israel61, written under the influence of Thomas
+Brightman,firstconnectedthisrestorationwiththedestructionof theTurks
+orMuslims.FinchimaginedtheEuphrateswoulddryup(Rev16.12)toletthe
+returningJewscrossover,theJewswouldbeattackedbyGogandMagog(“the
+Turke”) and suffer discomfort but then win victory in their own land. They
+wouldbecomeapowerfulkingdomrulingoverothernations,thoughhetoo
+thoughttheywouldconverttoChristianity.SirHenryFinchwastheuncleof
+AnneConwayofRagleyHallwithwhomFrancisMercuryvanHelmontstayed
+(thoughitisuncertainwhethershemetKnorrduringhisscholarlywanderings
+in Britain). King James i took against this heresy, Finch was imprisoned and
+ArchbishopLaudrefutedhisviewsasanolderroroftheJewsinasubsequent
+sermonbeforetheKing.62In1639ThomasGoodwinurgedin AnExpositionof
+theRevelation63that“theTurke”wastobeoverthrowntomakewayfortheJews,
+theKingsof theEast,duringthesixthvial,andfinallytobedestroyedduring
+theseventh.GeorgeFoster,otherwiseJacobIsrael,preparedhimselftoleadthe
+restoration,prophesyingthedeathof thePopein1654andthedefeatof the
+greatTurkin1656.64
+OntheContinent,JohannPiscator(1546–1625)arguedforanentirelyfuture
+millenniuminhis InApocalypsinJohannisCommentarius65.JohannHeinrich
+StrandofPuritanMillenarianism”,ChurchHistory:StudiesinChristianityandCulture72,
+2(2003):pp.304–332;A.Crome,TheRestorationoftheJews:EarlyModernHermeneutics,
+EschatologyandNationalIdentityintheWorksofThomasBrightman(Dordrecht:Springer,
+2014):p.150forHenryFinch.
+60 (Cambridge:JohnLegat,1590).
+61 (London:EdwardGriffin,1621).
+62 SeeTheWorksof theMostReverandFatherinGodWilliamLaudD.D.,ed.byW.Scott
+(Oxford:J.H.Parker,1867),(Vol.1,Sermons),FirstSermon19.6.1621pp.1–31atp.17,with
+usefulnotes.
+63 InTheWorksofThomasGoodwin(Edinburgh:JamesNichols,1861),vol.3,p.62.
+64 SeehisThePouringForthoftheSeventhandlastVialluponallFleshandFleshlines([Lon-
+don],1650)pp.56,63,65.
+65 (Herborn,1613).
+Anna M. Vileno and Robert J. Wilkinson - 978-90-04-44342-6
+
+[Page 122]
+theological and exegetical innovation in messias puer 99
+Alsted (1588–1638) was particularly instrumental in introducing millenarian-
+ismintoReformationEurope,hisearlyoptimisticviewsbecomingmorepes-
+simisticafterthebeginningoftheThirtyYearsWar.HisDiatribedemilleannis
+apocalypticisdescribeshisviewof theMillenniumandtheConversionof the
+Jews.66
+PassagesinMessiasPuerwhichevokethisdoctrineincludecommentsonLk
+1.32&33(atfolio17r);Mary’sSongatLk1.38(atfolio20r);Zachariah’sSongatLk
+1.70(atfolio35r)andAnna’swordsatLk2.38(atfolio43v).Thereisalsorelevant
+materialinthespeculationsaboutChrist’sageof twelvewhenhedisputedin
+theTempleinLk2.42(atfolio52r).ItisperhapsasignofKnorr’sawarenessof
+thecontroversialnatureofthishopethatanexpositionofitarisingfromLk1.55
+istakenbyoneofhismanyadjustmentstothemanuscriptfromtheChristian
+andisgiventotheKabbalistCatechumen(atfolio19v).
+5 MaryandtheVirginBirth
+TheVirginMaryenjoysparticularattentioninMessiasPuer.67Thisisnotsur-
+prisinginasmuchastheNewTestamenttextsinquestionconcentratespecif-
+icallyonthebirthof Messiah,theAnnunciationandtheprecedingevents,as
+wellastheprincipalepisodesof hischildhood—eventsinwhichMarynatu-
+rally takes a significant part. A comparison of Adumbratio and MessiasPuer
+enablesusbettertoappreciatethespecificcharacteristicsof thelatter.Asfar
+asMaryisconcerned,if Adumbratiomakesverylittleof herroleinthecom-
+ingofMessiah,MessiasPuerconfrontsthereaderwithaninterpretationboth
+originalandaudacious.TheimportanceoftheVirginBirthisemphasised,and
+thedoctrineofMary’sperpetualvirginityisalsoasserted,thoughthatinitself
+issaidnottobeessentialforMessiah’sstatus.CommentingonMt1.24–25,we
+read:
+66 SumptibusConradiElfridi,FrankfurtamMain,1627.ForAlstedsee:Puritans,theMillenium
+andtheFutureofIsrael:PuritanEschatology1600–1660,ed.byP.Toon,2nded.(Cambridge:
+JamesClarke,2002):pp.42–56;TheThirdAppendixpp.137–153isstillhelpfulforexpecta-
+tionsoftheConversionoftheJewsentertainedintheseventeenth-centuryNetherlands;
+H.Hotson,JohannHeinrichAlsted(1588–1638):BetweenRenaissance,ReformationandUni-
+versalReform(Oxford:UniversityPress,2000);Id.,ParadisePostponed:JohannHeinrich
+AlstedandtheBirthofCalvinistMillenarianism(Dordrecht:Springer,2001).
+67 ForaninitialaccountseeWilkinson,“TheKabbalisticTreatmentoftheVirginMaryin
+ChristianKnorrvonRosenroth’sHistoriaeevangelicaeinitiumsecundumquatuorevange-
+listas.AProvisionalDescription”,art.cit.Thedistinctiveinterpretationplaceduponthe
+theophoricnameofMaryasamixtureofAramaicandHebrewhasbeenconsideredabove
+indiscussionofthePeshittatext.
+Anna M. Vileno and Robert J. Wilkinson - 978-90-04-44342-6
+
+[Page 123]
+100 chapter 6
+V24Andhetooketc.wdbrh
+ChristianAnexampleof thespiritualmarriageof anilluminatedIntel-
+lectwiththeWilloftheVirginfortheheavenlygenerationofthedivine
+lifeinus.
+KabbalistCatechumenThisisrather[amatterof]companyandassis-
+tance,involvingnoinfluxorcooperation,thanrealmarriage.
+V25Untilʿdmʾ
+KabbalistCatechumenTheHebrewconjunctionʿd[until]andtheSyriac
+ʿdmʾ[until]andtheGreekheōs[until]donotalwaysopposealatertime
+to an earlier one, as [can be seen in] in Gen 8.7; Gen 28.15; 1Sam 15.35;
+2Sam6.23;Job27.5;Ps12.3;Isa22.14;Mt12.20;14.22;Mt28attheend.
+ChristianJoseph’scontinencedoesnotlackamysteryforthehuman
+influxwouldceaseforeveratonce,whentherearosetheexcellenceofa
+divinernature.68 Butevenif the testimonyof Antiquity does not agree
+here,orifMarydidnotremainaperpetualvirgin,thiscausesnodiminu-
+tionintheauthorityofJesushimselfasMessiah.69
+ButalthoughKnorrassertstheVirginityof Mary,healsodeniesheranypart
+intheconceptionwhatsoeverandassertshertotal“passivity”.Thisisparticu-
+larly clear in his translation of Lk 1.42. Here he provides his own translation
+oftheSyriacPeshittatextwhichsignificantlydiffersfromtheVulgate.Instead
+of theVulgate “etexclamavitvocemagna,etdixit:benedictatuintermulieres,
+etbenedictusfructusventristui”70 Knorr gives us, “Etclamavitvoceelatâ,dix-
+itqueMarjamæ:Benedictatuintermulieres:&benedictusestfructus,quiinventre
+tuo”.71Thisisnotmerelyachancedifferenceof translation,asbecomesclear
+fromthesubsequentremarksofChristian:
+SowhenheaddedAndBlessedisthefruitetc.,hereferredtotheanointing
+ofMessiahfromwhichhadfloweddownMary’sblessing.Anddeliberately
+68 Weunderstandherethatthepresenceofa“divinernature”inthewombofMarytermi-
+nallyinhibitedthe“humaninflux”ofJoseph.
+69 Atfolio32v.
+70 “Andhecriedwithagreatvoiceandsaid:Blessedareyouamongstwomenandblessedis
+thefruitofyourwomb”.
+71 “HelifteduphisvoiceandsaidtoMariam:Blessedareyouamongstwomenandblessed
+isthefruitwhichisinyourwomb”.
+Anna M. Vileno and Robert J. Wilkinson - 978-90-04-44342-6
+
+[Page 124]
+theological and exegetical innovation in messias puer 101
+hesaid[thefruit]whichisinyourwombandnotthefruitofyourwombso
+thatMarywouldnotconsiderherself theoriginof somarvellousacon-
+ception,butratherasareceptacleandwet-nurse.72
+Amoretechnicalaccountinfolios14r–14vagainemphasisesMary’slackofany
+contributiontothebirth:
+Whensoulsaregeneratedintheordinaryway,firstofallfromtheirpar-
+ents,thereisseparatedortransferredfromthe parents’vitalspiritthat
+bright particle, which is the immediate vehicle of the soul of the child
+orhisvitalspiritandwhichtheycall[inGreek]archēgon“progenitor”or
+“firstborn”.Thenatureof thisissemi-materialsothatitisheldtogether
+bymaterialfoodanddrinkandcanbeseparatedfromthespiritofitspar-
+ents. Since however in the same act [of coition] by which this [bright]
+particle is transferred from the parents into the Archegos [“progenitor”
+or “firstborn”], the spirit of the parents is in the affect of Desire which
+isthegreatestmovementof love,sobyitsownnatureonaccountof its
+separationandtheobfuscationofthemindbornofthis,itisflawed.Con-
+sequentlytheideaofthisaffectremainseveninthetransferredpartand
+is the tinder of all ideas flaring up in the spirit from which [come] the
+otherconsequentaffectswhichproducesins.
+When therefore such an unmediated vehicle or vital spirit had been
+preparedforthesoulof Messiah,itclearlyhadtobeabsolutelyvoidof
+anysuchnotions.ConsequentlyhisArcheguswasnotseparatedbythe
+coming together of the spirits of his parents which the Yetser ha-ra or
+“libidinousdesire”alwaysaccompanies,norfromthesoulof hismother
+alone,althoughshewasavirgin,becausehervitalspiritdidnotlackthe
+notionsandthehumanmotivationswhicharebornfromthis[manner
+ofgeneration]73.Itwasforthisreasonthatshewascalledawayfromthe
+responsibility of teaching her son (Mt 12.47).Therefore in her case the
+HolySpirititselfsupplementedtheinnatespirit(inasfarasitisthespirit
+of Messiah)andsomixeditwiththeVirgin’sspiritthatshewasableto
+drawfromitthehighestspiritof theinfluxes,throughtheeversurpass-
+inglypowerfullightofhismoreholyArchegus,sothatnomaterialideas
+couldariseinhimwiththeinflux.
+72 Atfolio19r.OnthesamefoliothepassivityofMaryisoncemoreevokedasafeminine
+characteristic,matchedbyaparallelreflectionontheabsenceofanactivevirileinterven-
+tionintheconceptionofChrist.
+73 ThisappearstobeincompatiblewiththeImmaculateConceptionoftheVirgin.
+Anna M. Vileno and Robert J. Wilkinson - 978-90-04-44342-6
+
+[Page 125]
+102 chapter 6
+Sowhenthereiscallforcommentonthephrase“Sonof MaryandSonof
+God”,wefindonMt1.21,thatKnorriscarefulnottosaythatMessiahtookof
+Mary’sflesh:
+Forshewillbareasonetc.tʾldydynbrʾ
+Christian Messiah is called the Son of Mary, as we have already noted
+elsewhere,onaccountofthefactthathetookonfleshinherbytheinflux
+oftheHolySpirit.ButheiscalledSonofGodonaccountofbeingthefirst-
+bornamongstthenaturesof thespiritsandonaccountof hisconstant
+unionwiththedivinedegreewhichiscalledTheSon(See Adumbratio,
+chap.3,§2;8,§6).74
+ForthisreasonKnorrneedstoexplainawaytheattendanceofMotherandchild
+at“theirpurificationceremony”incommentonLk2.22:
+Thedayoftheirpurificationywmtʾdtdkythwn
+ChristianWehavewrittenoutapassageaboutthisinExcerptCent.iiLoc.
+19.Bypurificationliterallyisunderstoodadeclarationofpurity;fromthis
+itdoesnotfollowthatMessiahwaseveruncleannorhismother,butit
+neededtobedonenotforhissakebutforthesakeoftheothers,sothat
+theywouldnotbeconsideredunclean.75
+Knorrishappytomakeuseof thetraditionthatMaryhadapain-freedeliv-
+ery, but for the purpose of stressing the unique nature of this pregnancy in
+a way other than that in which the tradition had formerly served. In com-
+mentuponLk2.12“Andshebroughtforthherfirstbornandwrappedhimin
+swaddlingclothes”heremarksonthemiraculousnatureofthis:Marywasnot
+exhaustedlikeothermothers,butwithoutthehelpof amidwifewasableto
+proceedimmediatelyafterthebirthtoswaddlethechild.76
+TheChristian’scommentsonMt1.18atfolios29v–30rgivealongperspective
+onthesoulof MessiahbeforeitlodgedinMary’swomb.Hediscussesitsrole
+astheFirstofCreatedThingsbeforetheworldwasmade,thefallofthesouls,
+atwhichtimetheSoulofMessiahwascruciallylinked“withthedivinedegree
+called‘theSon’”:
+74 Atfolio31r.
+75 Atfolio43r.
+76 Cf.folio41v.
+Anna M. Vileno and Robert J. Wilkinson - 978-90-04-44342-6
+
+[Page 126]
+theological and exegetical innovation in messias puer 103
+FirstitshouldbepresupposedwithalltheAcademyofyourpeoplethat
+thesoulof MessiahwasnotfromMary,nordidithaveitsbeginningin
+her womb, but was the First of CreatedThings (Rev 3.14) and together
+with the whole race of spirits was created by God in a moment before
+thebeginningsofthematerialworld.Thatiswhy[thesoulofMessiah]is
+specificallyreckonedbyyourdoctorsamongstthosethingswhichwere
+createdbeforethefoundationoftheworld.Itiscertainthat[theSoulof
+Messiah]wastheinitialprinciplewithwhichMosesbeganhisaccountin
+Gen1.1andbywhicheverythingelsewascreated,asJohnexplains1.1,3
+(seealsoCol1.15,16;1Cor8.6;Eph3.9;Heb1.2).Andalthoughothersfell,
+theSoulof Messiahitself initswholenessremainedalwaysunitedwith
+thedivinedegreecalled“theSon”andwithwhichfromthebeginningthe
+Soul of Messiah had joined itself (Heb 13.8). Thus, from the beginning
+of the Ecclesia, the whole economy of the Old Covenant was adminis-
+teredthroughtheSoulofMessiah(1Cor10.4).Untilatlast,havingputon
+humanflesh,itwastoappearandinitiatetheministryof theNewCon-
+venant.
+Secondly,letusassumefrommoreaccurateSciencethatallgeneration
+[comes]fromaneggandthatbothinquadrupedsandinmanitistheir
+ovarieswhicharenecessaryforeffectinggeneration,[togetherwith]an
+excitement of the spirit which in the normal waycomes from the seed
+andentirelyoverwhelmsthemother’sbody.SeeHarveyOntheGenera-
+tionofAnimals.
+Thirdly,letustakeitthatwhentheHolySpiritstimulatedtheovariesof
+theBlessedVirgininthisway,inordertoformtheLord’sbody,itinserted
+into her the Archaeus (which elsewhere you noted on Mt 1.1 had been
+drawnfromthePsyche[Soul]ofAdamandDavid).Itisnecessarytoknow
+that the aforementioned Soul of Messiah constructed for itself its own
+temple and tabernacle by the benefit of an influx of Spirit drawn from
+theMother77andwithouttheconcurrenceorworkof anyhumanmale,
+whicheventheMoslemsbelieve.
+AlongsidethesepassageswhichprecludeanycontributionofMarytothecon-
+ception of Messiah, the text introduces a far more elevated account of the
+birthofMessiahexpressedintermsofacommoninterpretationofthesefirot
+and,inparticular,theassociationoftheninthsefirahYesod[Foundation]with
+77 TheLurianic“Mother”(oneofthe“faces”,seeabove)ismeanthereandnotMary.
+Anna M. Vileno and Robert J. Wilkinson - 978-90-04-44342-6
+
+[Page 127]
+104 chapter 6
+themembrumvirile.ThusthereplyoftheKabbalistCatechumentotheChris-
+tian’squestionof whichsefirahwasconnectedtothephrase“fullof grace”in
+Lk1.28strikesadistinctivenote:
+Christian:TowhatgradeoftheDivineNumerationsdoyouattributethis
+Grace?
+KabbalistCatechumen:ṭybwtʾ[theSyriacwordfor“grace”]isderived
+from ṭwb which means “good” and refers to various grades of divine
+influxes, particularly Kindness, Beauty, Foundation and Kingdom (See
+Lex.Cabb.,p.368seq.)withallof whichMarycannowbeconsideredto
+havebeenfilled,butespeciallywithFoundationfromwhichcomescon-
+ception.78
+Maryenjoystheinfluxofseveralsefirot,butmostparticularlythesefirahYesod
+isinvolvedintheconception.Thistakesplacenotashumanintercourse,but
+asasefiroticinflux.
+Thissefiroticglossisreinforcedbyaconnectionestablishedjustalittleear-
+lieraccordingtowhichJoseph,Mary’shusband,iscalledthe“nourisher”(nutri-
+tor)ofMary:
+[Cabb.Cat.](…)itisnoteworthythattherevelationsgiventoeachofthe
+two[Josephs]weremadethroughdreams(Mt1.20;2.13,19)and,justas
+thePatriarchJosephiscalledbyourKabbalists“NourisheroftheLandor
+of the Kingdom”, so the other Joseph was the “Nourisher of Mary” who
+equallyshouldbelinkedtothemeasureofKingdom.79
+Theunionoftheninthandtenthsefirot,thatis,ofYesodandofKingdomwhich
+representsequallythefeminineaspectof divinityandthedivinepresencein
+theworld,naturallyevokesasexualrelationship.Butthisstrikingevocationof
+sefiroticcongressisquiteremovedfromanyphysicalparticipationonthepart
+ofJoseph.
+This passage may be illuminated by a comparison with a passage on the
+meaningof thenameZachariahfoundatfolios6r/6vwhichlinksYesodwith
+ZachariahandKingdomwiththeinfertileElischebawhoisalsorelatedtoKing-
+dom(orEcclesia),butcontraststheircasewiththeBirthofMessiah:
+78 Folio15v.
+79 Folios14v/15r
+Anna M. Vileno and Robert J. Wilkinson - 978-90-04-44342-6
+
+[Page 128]
+theological and exegetical innovation in messias puer 105
+Thisname[Zachariah],whichisderivedfrom“Memory”,Iwouldrelate
+tothedegreeYesod[Foundation],accordingtothetraditionsofyourKab-
+balists(aboutwhich,seeApparat.inLib.Zohar,Part.1,pp.308,309).For
+inthatstatetherewasnoilluminationof yourChurchfromthisdegree
+of Foundation,muchlessfromthedegreesofthehigherlights.Eventhe
+degreeKingdom(whichissaidtohavenolightofitsown,likethemoon)
+wasonlyabletoilluminate[yourChurch]alittle.Ifyouwishtodiscovera
+secret[meaning]inthistext,[notice]thatZachariah(who[isrelated]to
+Foundation)andElischeba(whohastoberelatedtoKingdomaccording
+to[Locicommuneskabbalistici]116seq.Apparatsup.cit.)aresaidtolack
+offspring.Butwhen(nowprickupyourears!)Messiahcameintheflesh,
+theilluminationofFoundationhadtobemanifested,andthathappened
+bythemediationofZachariah.
+AcommentuponLk1.31(“Youwillconceiveinyourwomb”)atfolio16rfurther
+indicatesthatJosephhadnopartinthebirth:
+Fromthisveryphrasecomesastrikingconfirmationof ouroldestopin-
+ionaboutthepre-existenceof souls,forawoman’sconceptionwiththe
+assistance of a man can scarcely be understood here. Because what is
+conceived cannot be said to be due to motion, some substance is here
+necessarilyimplied.SoclearlynothingisleftthattheBlessedVirgincould
+have conceived in her womb [other] than the soul of Messiah come
+downfromamoresublimeworldtothisthelowestofworlds(SeeonMt
+1.18).
+AcommentonLk1.34“Howwillthisbe?”atfolio17rindicatesthatMaryprob-
+ablythoughtherconceptionwouldtakeplaceatthemomentoftheAnnunci-
+ation.Acommentatfolio15vonLk1.28“OurLordiswithyou”indicatesthat
+wasthecase:
+OurLordiswithyoumrnʿmky
+ChristianWhatLordismeanthereandwhatishispresencelike?
+KabbalistCatechumenThese words mean here:The Lord of Angels
+iswithyou.Thatis:Messiahhimselfispresenthavingdescendedtoyou,
+justashedescendedtoGideon(Judg6.12)butwithafargreaterintimacy,
+sothatnowyoucanbecalledthatcitywherethenamejhvhispresent
+(Ezek48.35).
+Anna M. Vileno and Robert J. Wilkinson - 978-90-04-44342-6
+
+[Page 129]
+106 chapter 6
+Knorr cannot have been unaware that many aspects of this account were
+vulnerable to charges of heterodoxy.Within the Roman Church the declara-
+tionoftheCouncilofEphesus(431)thatMarywastobeveneratedasTheotokos
+wasgenerallyobserved,thoughthequestionofherimmaculateness(whether
+shewaspreservedfromthetaintof originalsinatherbirth)continuedtobe
+debated—even after Sixtus iv had included it in the liturgical calendar and
+dedicated the Sistine Chapel to the Immaculate Conception in 1476—until
+immaculismwasdeclaredadogmain1854.Someoftheearlyreformersseem
+tohavemaintainedafairlytraditionalpietytowardsMary,andupheldthedoc-
+trineof theVirginBirthbutCalvinhaddoubtsabouttheproprietyof theuse
+ofTheotokosandmanyraisedquestionsoverintercession,theAssumptionof
+theVirginanddevotionalpracticestheyconsideredidolatrous.ThoughKnorr
+argueshardfortheVirginityof Maryandtheabsenceof anycontributionon
+thepartofJoseph,heneverthelessallowsMarynopartintheconceptionand
+christologicallythedivinepresenceinherwombisacreatedthing,theunionof
+theSoulofMessiahand“theSon”.Thisisperhaps“Arianism”andcertainlynot
+whatwasintendedbytheCouncilincallingMary,Theotokos.NorcanKnorrbe
+situatedconfortablyinthedebateoverimmaculism;because,aswehaveseen,
+hedoesnotsharethenecessarydoctrineofsinwithinwhichthatdebatewas
+contextualised,thoughhiscommentsonLk1.27wouldseemtoprecludeimma-
+culism.MarydoesnotappeartohaveanintercessoryroleinMessiasPuerand
+herpietyisanexampleofpassiveobedience,ratherthanofactiveintervention
+forthefaithful.Perhapsinsomeoftheselaterrespectsheshowstheinfluence
+ofhisreformedbackground,buthisdoctrinesarenotorthodoxProtestantism.
+Yetheisboldinhisassertionsandthereislittlechanceof missingwhatheis
+saying.
+Remarkablythenheseemstohavemadeonlyoneadjustmentinthemanu-
+scriptwhichhastodowiththesematters.Onpage89oftheprintedfragment
+inthebsbonefindsaexplanationbytheChristianoftheAngelswordstoMary
+attheAnnunciationthattheHolySpiritwouldcomeandovershadowher.
+TheSpiritofMessiahisconsideredeitheraccordingtoitscreatednature
+oraccordingtoitsuncreateddivinity.Tothefirstyoucaneasilyattribute
+all those, as it were, local, actions and motions, although these too are
+[better seen] rather as manifestations of something previously already
+present,andnotoccurringquiteas“coming”,properlysocalled.
+Aswehaveseentheprintedfragmentinthebsbincludesallthecorrections
+madetothemanuscript.Inthiscase,Knorr’sinitialuncorrectedcommentwas
+significantlydifferent:
+Anna M. Vileno and Robert J. Wilkinson - 978-90-04-44342-6
+
+[Page 130]
+theological and exegetical innovation in messias puer 107
+HenceMariareceivedthegiftofprophecy;andallherspiritwasmadefull
+oflight(Mt6.22)and[became]apurereceptacletoincarnatethesoulof
+theMessiah.AndtheHolySpiritestablishedinhertheArchegusorthe
+vitalspiritfor[welcoming]Jesus.Andtherethevitalspirit,implantedin
+her, formed small corpuscula for the benefit of the spirit to be infused
+fromMaria.
+Thecorrectionsof themanuscriptofferusprivilegedaccesstotheprocessof
+self-censorshiptowhichKnorrsubmittedhiswork.Yetthereasonfortheexci-
+sionisnotobvious.Thisisnotapparentlythemostcontentiousofhisremarks,
+nor, is it the only technical discussion we have (e.g. the Archegus was men-
+tionedpreviouslyinthepassageatfolio14v.).Perhaps,however,Knorrhaving
+soughttogiveanexplanationoftheVirginBirthwiththeaidofsmallcorpus-
+culaformedinMaryconsideredheherepresumedtoomuchinofferingsucha
+detailedaccountoftheoperationoftheHolySpirit.
+However it may be that Knorr is wrestling here with a problem not quite
+resolvedinhisaccountoftheconceptionatfolio30ronMt1.18.Cruciallythere
+heseemstoadvocateHarvey’sovism,whilstatthesametimedenyingMaryany
+partintheprocess.Hemayhavefeltthephysiologyoftheegg,whichheseems
+entirelytoaccept,narrowedtheproblemof femalecontributionstoconcep-
+tioneitherasmenstrualbloodorasfemalespermwhichhadbeensuggested
+byAristotleandGalenrespectively.80Butwheredoestheeggcomefrom?In
+normalconceptiontheovariesarestimulatedandinthiscasethiswasdoneby
+theHolySpirit.ButMarycannotproduceorcontributetotheegg!Inthiscase
+the Archegus (the Soul of Adam and David) or vital spirit was inserted into
+Maryforthepurposeof [welcoming]Jesus.AtthispointKnorrobservesthat
+theSoulofMessiah,ashenowcallsit,“constructedforitselfitsowntempleand
+tabernacle”byinfluencefromtheMother(Ima,notMary).Ifthis“templeand
+tabernacle”istakenasaneggtheproblemmaybesolved.Thesmallcorpus-
+culaimplantedintoMarybythevitalspirit,“forthebenefitofthespirittobe
+infusedfromMaria”maybetakenasprovidinga(non-human)sourceforthe
+egg,templeandtabernacleof theSoulof Messiah.If this(admittedlyconjec-
+tural)explanationhasanyvalidity,itwouldillustratearemarkablecongruence
+betweencontemporarymedicalexplanationandoccultistdescriptions:Knorr
+offeredhismetaphysicalaccountinfullacceptanceofHarvey.Onthisviewwe
+80 Forgeneralaccounts,P.Darmon,Lemythedelaprocréationàl’âgebaroque(Éditionsdu
+Seuil,Paris1981)andM.vanderLugt,Lever,ledémonetlaVierge.Lesthéoriesmédiévales
+delagénerationextraordinaire(Paris:L’Âned’Or,2004).
+Anna M. Vileno and Robert J. Wilkinson - 978-90-04-44342-6
+
+[Page 131]
+108 chapter 6
+mightexplaintheexcisionaseithertootechnical,orevenasraisingadifficult
+solutiontoaproblemwhichmightbebetterleftsuppressed.
+6 FindingtheSefirotintheTextoftheNewTestament
+Theuseof theSyriacPeshittaasthebasetextforthecommentaryinMessias
+Puer (itwasfirstcitedin Adumbratio)isimportantforawholedimensionof
+Knorr’sexegesis.Theversioncommendeditself toKnorrbecauseheconsid-
+ereditshareditsAramaicvocabularyandidiomwiththeZoharictexts.This
+enabled him to read several common New Testament nouns (e.g. kingdom,
+glory,wisdometc.)asif theywerethepropernamesof thesefirot(Malkuth,
+Tiferet,Chokhmahetc.)andsotodeployalltheresourcesofthesefiroticrela-
+tionshipsandconnotationsincommentupontheNewTestamenttext.
+But such explanations are not tied to specific vocabulary, although that
+oftenprovidesanopportunitytobeexploited.Oftenacommentisfollowedby
+anotherdetectingamysteryorsomemysticaltheologyintheverseinquestion
+andproptinganaccountofthingsinthelightofthesefirot.Thusatfolio2rthe
+connectionoftheoralLawwithKingdomandWifeisexploitedinthecaseof
+theGospelsand“secretteachings”arebroughtoutlikeachildfromitsmother’s
+womb:
+If the oral Law is connected in Kabbalah to the Grade of Kingdom or
+of Wife, then just as a child previously concealed [within its mother’s
+womb]isbroughtforthfromawife,inthesamewaythesecretsof the
+Lawarebroughtintothelightfromwithin[theoralLaw].[Butnow]bya
+fargreaterrightaretheWritingsoftheNewCovenantconnectedtothat
+samedegreeofKingdominwhicharemanifestedthesecretteachingsof
+theKingdomofGod,whichhadbeenhiddenfromthefoundationofthe
+world(Cf.Mt13.11,35;Rm16.25;Col1.26;Eph3.9).
+So if someone asks: “Why did Jesus write nothing, when Moses did
+write?”areasonablereplycanbe:theteachingofChristisoralLaw,which
+wasspreadbythegiftoftheSpiritratherthanbythatoftheletter(2Cor
+3.3,6,7).AndhenceitcanalsobelinkedtothegradeStrengthorMight,
+justliketheoralLawofMoses(conf.Cabbal.Denud.,Part.i,pp.730seq.).
+But,naturallythesefirotaresignificantlyevokedinmattersof loftytheologi-
+calimportance.IndiscussionofthebeginningofJohn’sGospel,itisaskedwhy
+thepersonaofMessiahorAdamKadmonasanexpressionofdivinityiscalled
+“Word”.Christianreplies:
+Anna M. Vileno and Robert J. Wilkinson - 978-90-04-44342-6
+
+[Page 132]
+theological and exegetical innovation in messias puer 109
+Bycallinghim“Word”thewholeofhisEmanationis,asitwere,brought
+toitscompletion.Forjustasin“word”therecombinearticulation,spirit,
+voiceandspeaker,so“diction”or“articulation”islinkedbyyoutoMalkhut
+(seeinLoc.Comm.dbwr,dbr,ʾmyrhetc.);“spirit”toTiferet(seerwḥ);“voice”
+toBinahand,initsownsense,toChokhmah(seeqwl);the“speaker”him-
+selfisconcealedasKeterandthe“breathing”inEinSof.81
+Inconsiderationofthestatementthat“theWordwasGod”wefurtherlearn(at
+folio3v):
+Kabbalistic Catechumen The [Syriac] word ʾlhʾ [God] to which [the
+Hebrew]ʾlhym[ʾelohim(plural):God]isequivalent,(1)isindeedgenerally
+takenforalltheLight,immanentin Atsilutfrominfinity,andcommuni-
+cateddownwardsfromthere;thusthisnameextendsthroughthewhole
+system,sothatMalkhutandTiferet(bycontemplatingGevurahandHod)
+and Binah[too]layclaimtoitforthemselves.Further,byreasonof my
+(whichispartofit)andalsobyreasonofthe32PathsofWisdom,which
+arethe32[occurrencesofthename]ʾelohimintheaccountofCreation,
+ChokhmahtooandKeterarebroughtbacktoit:butnonetheless(2)itis
+alsousedspeciallytosuggestseverityandjudgment.
+OnLk1.32atfolio16vJesusiscalled“TheSonoftheMostHigh”:
+KabbalistCatechumen How do you explain this according to the doc-
+trinesofourteachers?
+Christian Here the name of the Highest or Greatest seems to me to
+indicate the Infinite God himself in so far as he is considered to be
+eitheroutsidetheworldof AtsilutorEmanationorisnamedwithinitby
+the notion of the Highest Corona (See Lex.Cabb., pp. 223, 419, 683 and
+Cabb. Denud., Part. 2, p. 7) so that there is not so much a relationship
+betweenFatherandSonemergingbetweencharactersoftheKabbalists,
+asbetweenEinSof ortheInfiniteandAdamKadmonorMessiah.“Hewill
+becalled”isthesameas“hewillbedeclared”(asinMt3.17;17.5)and“he
+willbeconfirmed”(Rm1.4;Jn6.27;Heb1.3,4,5.)
+ItisamatterofwonderthattheboyJesus,thoughonlyalad,stillfilledtheFour
+Worlds(folio51ronLk2.40):
+81 Atfolio3v.DetailedcommentsarereservedtothenotestotheTranslation.
+Anna M. Vileno and Robert J. Wilkinson - 978-90-04-44342-6
+
+[Page 133]
+110 chapter 6
+KabbalistCatechumenAlthoughtheSupremeLordofallSpiritswasnow
+[only]aboy,hestillfilledtheFourWorlds.
+Christian He was in heaven, though existing on earth (Jn 3.13). And
+thatnotjustwithrespecttohisdivinity,butalsowithrespecttotheexten-
+sionofthegradesofhissoul.Andwhatpreventsusfromsayingthathere
+thereisanallusiontothesefourdegrees?Thewords“Theboygrew”refer
+totheCreativeWorld.Thefollowing“andwasstrengthenedbythespirit”
+refertotheFormativeorAngelicWorldasiftheHolySpirit(whichdoubt-
+lessisunderstoodhere,asin[thecaseof]John,sinceourMostHolyLord
+wasnolessfilled[withit]whilestillinthewomb,inasmuchashenever
+lackedit)nowshonewithalightinhimwhichbefittedthatAngelicWorld,
+or the souls living in those Palaces of Paradise.What follows: “and was
+filledwithWisdom”willbeareferencetotheCreativeWorld.Itisasif
+thesensewas:“examplesof suchwisdomshonefromhimasarefound
+onlyintheloftiestsouls”.Hereitwillbeusefultoexaminesomeexam-
+plesof boysconspicuousfortheirgreatwisdom(Cent.iiLoc.36,37,38,
+39,40,41).Andperhapsjustasbythelogicof theFormativeWorld,the
+Angelsdescendeduponhim,sofromtheCreativeWorld,fromthegreat-
+estschoolsofall,theredescendeduponhimmoreoftencertainsouls,as
+sucharequiteoftensaidtodescendintheZohar.
+Jesus’veryname(onMt1.21atfolio31r)isdescribedasa“SecondTetragram-
+maton”andisexpoundedintermsofitslettersandtheirrelationtothesefirot;
+andMessiah’skingdomwillbeestablishedandaninfluxwilldescendfromthe
+mostperfectunionoftheGradesTiferetandMalkhutandtherewillbearesti-
+tutionsimilartothebeginninginGen2.4.(folio17ronLk1.32).Thatrestoration
+maybedescribedas“Peaceonearth”.Atfolio42ronLk2.14thatisdescribed
+intermsof aspecialinfluxbetweentheFatherandtheSupernalMother(the
+“faces”)andbetweenMalkhutandYesod.Onceagainonemaybeallowedto
+point out that this analysis, prompted solely by the Gospel words, is Knorr’s
+owninnovation:
+Ishallhardlyerr,ifIsaythatthesewords[“GlorytoGodintheHighest”]
+present nothing other than an acclamation of praise to Messiah. They
+meantosay:“You,whohavejustbeenborn,are‘GlorytoGodinthehigh-
+estandovertheearthpeaceandgoodwilltomen’”:i.e.“Youarethecause
+of thesethings”andthustheycanproperlybesaidtohavepraised.The
+samemeaningoccursintheacclamationofLk19.38,“BlessedistheKing
+who comes in the name of the Lord (whois) peace in the heavens and
+gloryonhigh”.Cf.Eph2.14;1.5.Bythistheyimplythatadoubleconnection
+Anna M. Vileno and Robert J. Wilkinson - 978-90-04-44342-6
+
+[Page 134]
+theological and exegetical innovation in messias puer 111
+isestablishedtosendforthamostabundantinflux(seeLex.Cabb.,p.305
+and the passage from the Zohar adduced there), namely, that between
+theFatherandtheMother(forkbdorGloryisthetitleof thesupernal
+MotherwhenshereceivesaninfluxfromWisdom,ortheFather(seeLex.
+Cabb.,p.464)andalsobetweenMalkhut,whichiscalledEarth(seeLex.
+Cabb.,p.156)andYesodinasmuchasitiscalledšlwmorPeace(SeeLex.
+Cabb., p. 465 & p. 717)).This, it says, results in the goodwill or positive
+opinion of the Father towards men. Here in the Hebrew no doubt the
+wordrzwn(Benevolence)wasusedwhichgivesriseheretoastrikingres-
+onancewiththe[Hebrew]wordʾrz(Earth)(aboutwhichseeLex.Cabb.,
+p.157andespeciallyp.691seq.)andintroducesgreatilluminationfrom
+theFirstPrincipleofLight.
+OthercharactersintheGospelnarrativeandtheeventsinvolvingthemareseen
+inthelightofthesefirot.ThecarefuldisectionofMary’sMagnificatinLk1.46
+atfolio19vindicatesthecomplexitieswhichKnorrcandiscover.Thefirstpart
+ofthesongissaidtorelatetoMaryherselfandcomprisefourparts.Shebuilds
+itaroundthefourlettersof theTetragrammatonandthefourWorldSystems.
+Thesearecorrelatedwiththepartsofherownsoul,andthenallisabsorbedin
+acommentaryontheappropriatesefiroticinfluences.JohntheBaptistasthe
+“friendofthebridegroom”enjoysanilluminatinginfluxfromthe“Handofthe
+Lord”(onLk1.66atfolio34v):
+Kabbalist Catechumen We shall uncover a kabbalistic meaning at the
+sametime.Johnas“thefriendof thebridegroom”(asheiscalledinJn
+3.29)weplaceinthedegreeYesodwhereJosephisalsolocatedandthe
+otherrighteouswholedthebridetoherhusband.SeetheZoharinGen.
+Crem.c.43.1(towardstheend)&col.30(towardstheend),whichpas-
+sagesarefoundinExcerptCent.iiLoc.8&9.Sonowthe[fivefingersof
+the]handoftheLordwhichwaswithhimwillbethefivedegreesstanding
+overhimandilluminatinghimwiththeirinflux,namely:Gedulah,Gevu-
+rah,Tiferet,NetsachandHod(SeeLex.Cabb.,underyd[hand]p.275).
+Both the influxes of the sefirot and Knorr’s chronographical and prophetic
+schemaarecombinedtogiveaninterpretationofthestagesofAnna’slifebased
+onthewordsofLuke’stext(atfolio44vonLk2.36):
+Christian Mystically here Anna denotes the Ecclesia of the Israelites,
+whicharoundthetimeof itsfirstbeginningunderMoseshadaninflux
+of Graceaccordingtothemeaningof thename,[Anna].Annawasthe
+Anna M. Vileno and Robert J. Wilkinson - 978-90-04-44342-6
+
+[Page 135]
+112 chapter 6
+daughterofPhanuel(i.e.“ofthefacesofthenameʾl[El]”)meaningshe
+hadilluminationfromallthedegreesrangedunderthedegreeofEl(i.e.
+Chesed).ShewasofthetribeofAssher(i.e.Happiness)withBinahalso,
+the supernal Mother, indeed Corona [Crown] herself, contributing her
+own light (see Lex.Cabb., p. 166). “She then remained during the years
+of her virginity”, until David transferred the Tabernacle of the Lord to
+JerusalemwhentheLowerJerusalemseemstohavemarriedherhusband.
+Ifwecounttheyearsfromthenuntilthe[first]DestructionoftheTemple
+(andtheremovalof theShekhinahwhichwasthetimeherwidowhood
+began)weget467.(Thatis:33forDavid,4forSolomonbeforetheTem-
+pleand430uptotheDestructionof theTemple,accordingtothevery
+accurate Lydiat). From this needs to be subtracted the 125 years of the
+wickedkingsof Judah,leaving342years.Now342yearsconstitutesthe
+sevenjubileeyears[49years]of hermarriage.FromtheDestructionof
+theTempletotheBirthof ChristaccordingtoLydiat’sreckoningis590
+years,whichequalsasitwere82,the12jubileeyearsofherwidowhood,or
+theabsenceoftheShekhinah.SoAnnaissaidtohavebeenawidowfor12
+YearsofWeeks[i.e.12×7]or84years,butnowtheprophetess“wentout”
+againi.e.shehadaccesstotheShekhinah(Mal3.1).
+FinallywemayconsidertheMagitowhomKnorrcreditsfamiliaritywithlower
+degrees,commentingonMt2.11:
+KabbalistCatechumen. I think so. But the matter is not without some
+mystery,foraccordingtotheKabbalistsgoldusuallyreferstoBinah[or
+Intelligence], Frankincense to Chokhmah [or Wisdom] and myrrh to
+Keter[orCrown](seeLex.Cabb.,pp.298,493and517).WhatiftheMagi
+knew something of the ancient traditions (although perhaps they had
+notrisenabovethedegreesofimpurity)?Theyseemtohavegraspedthe
+sevenlowerdegreesinMessiah,withwhichtheywantedtounitethethree
+highestdegreesforaninfluxbyfarmostfavourable.83
+It was a new and bold undertaking on Knorr’s part to seek to find the Luri-
+anic sefirot, not only in certain terms of the New Testament which in their
+Syriac forms evoked the Aramaic names of the sefirot, but also within the
+widernarrativesof thePeshittaNewTestament.Thiswasanexercisealmost
+82 12×49=588.
+83 Atfolio48v.
+Anna M. Vileno and Robert J. Wilkinson - 978-90-04-44342-6
+
+[Page 136]
+theological and exegetical innovation in messias puer 113
+entirely without precedent. It required a deep familiarity with the kabbalis-
+ticcategoriesthemselvesandtheself-confidencetoundertakeaflexibleand
+creative manipulation of them in the face of the apparently quite alien text
+of theGospels.Italsorequiredsufficienttheologicalpenetrationtodiscover
+wheresuchaccountsmightnotonlyappearplausibletoinformed(Jewishor
+Christian)readers,butalsomightreasonablybeconsideredpreferableandto
+offeramoreprofoundilluminationof textswhichhadlongbeenexpounded
+inthelightofmoretraditionalChristiannotions.TherecoveryofMessiasPuer
+enables us to enlarge our appreciation of Knorr’s Christian apprehension of
+Judaisminseveralformerlyunappreciatedways,butitmaybeinhisattempt
+tofindthesefirotintheNewTestamentnarrativethathisworkisatitsmost
+creativelyoriginal.
+Anna M. Vileno and Robert J. Wilkinson - 978-90-04-44342-6
+
+[Page 137]
+chapter 7
+The Edition
+1 ThePrinciplesoftheEdition
+Wepresentherethetextof MessiasPuerasitappearsinthemanuscriptpre-
+servedinthehab.Theprincipaltexthasbeentranscribedwithallthecorrec-
+tions found in its margins or within the body of the text noted in the appa-
+ratus.Totheextentthattheprintedfragment(bsb)showsvariantsfromthe
+manuscript these are also noted in the apparatus. All the corrections to the
+manuscriptarecontainedintheprintedfragment,andconsequentlyvariants
+betweenthemanuscriptandtheprintedfragmentaregenerallyeitherortho-
+graphicorresultfromprinters’errors.Onoccasionerrorsaremadeinbiblical
+referencesinbsbandthesearereportedintheapparatus.
+The main difference between the printed fragment and the manuscript
+(apart from the greater length of the manuscript) is that the extracts of the
+SyriacPeshittatextarenotfoundintheprintedfragment.Onemaywonderat
+theabsenceoftheSyriacextractsfromtheprintedfragment.Itisquitepossible
+thatthefragmentwasprintedinSulzbachwherepreviouslythePeshittaNew
+Testament had been printed Ex Officina Johannis Holst. mdclxxxiv. Johann
+Holst(1648–1726)wasthenewlyindependentChristianprinteralsonamedin
+theforewordtotheSulzbachHebrewZoharof1684.1Onemighthavethought
+thattheprintersandexpertisetoprinttheSyriacinHebrewletterswereavail-
+ableinSulzbachin1689,butthequestionofwhyitwasevidentlynotattempted
+toproducethemorecomplicatedformatofthemanuscript,mustremainopen.
+Foreasierreadability,thenamesof thepersonsinthedialoguehavebeen
+printedinboldtype,althoughthisisafeatureofneitherthemanuscriptnorthe
+printedfragment.2Textwhichisunderlinedinthemanuscriptappearsinital-
+icsinouredition,asinthebsbfragment.Abbreviationsareusuallyexpanded.
+Thepunctuationisgenerallyrespectedandthesometimesinconsistentuseof
+capitallettersisreproducedasitoccurs.Letterswhichcannotbereadinthe
+manuscript,butwhichareobviouslytoberestored,appearinsquarebrackets.
+1 Before1683hehadbeenLichtenthaler’stypesetter.Cf.supra,chapter2,footnote19.
+2 InthebsbprintedfragmentthenameofChristianisprintedinitalicsandhiswordsinnor-
+maltype.ThereversewasadoptedbytheprinterfortheKabbalistKatechumen;hisname
+appearsinordinarytypeandhiswordsinitalics.
+© koninklijkebrillnv,leiden,2021 | doi:10.1163/9789004443426_008
+Anna M. Vileno and Robert J. Wilkinson - 978-90-04-44342-6
+
+[Page 138]
+the edition 115
+Thefolionumbersandthepaginationoftheprintedfragmentavailableforthe
+earlypartofthetextaregiveninthemargin.Linesofthemanuscripthavebeen
+numberedandaverticalbar[|]appearsinthetexteveryfivelines.
+Aswehavesaid,oureditionseekstogiveasaccurateadescriptionof the
+manuscriptaspossible.Inthisrespectanorthographicpeculiaritydeservesto
+behighlighted.TheinitialHebrewletteryodinthecaseoftheword“Israel”is
+renderedinLatinbyadoubled“ii”.Thus“Israel”bothinthemanuscriptand
+the printed version of Messias Puer appears as “Iisrael”. Rather being a sim-
+ple error, this seems a spelling long adopted by Knorr.This peculiar spelling
+appearsthroughouttheLocicommunesandnotablyalsoin Adumbratio.One
+mayreasonablyconjecturethatunusualorthographyrepresentsthepronunci-
+ationoftheHebrewwithwhichhewasinpracticeconfronted.Therearesome
+rareattestationsofthissameorthographicpeculiarityinwritersfromtheend
+oftheSeventeenthCenturyandthebeginningoftheEighteenth.3
+2 UsingtheApparatus
+The Apparatus is designedly full. It is intended to help the reader become
+acquainted with Knorr’s manuscript and the transformations it underwent,
+butalsotoprovidesomeindicationof thesignificanceof Knorr’ssometimes
+rathersuccinctremarksandcitationsbydisplayingtherelevantquotationsin
+full.Knorr’scorpusisnothingif notallusive,andcumulativelyso.Thusmuch
+of thesignificanceof MessiasPuer willnotbegraspedif thereaderdoesnot
+appreciatethegatheringforceofthereferenceto,andthentheapplicationof,
+hispreviouslyassembledtexts;or,indeed,totheprefatoryargumentsinprevi-
+ouslyworks,mostparticularlyAdumbratio,butalsoalltheotherZoharictexts
+gathered,inanticipation,inKabbalaDenudata.4
+The Apparatus seeks fully to furnish a description of the manuscript. In
+particular,itseekstoexhibitthechangesmadetothemanuscriptbyKnorr’s
+owneditorialintervention.Inaddition,theapparatusseekstoshowtheevi-
+dencefortheassertionthatbsbisaprintingofthecorrectedmanuscript5and
+alsotoexplainminorverbalorgrammaticalchangesbetweenthemanuscript
+3 ForexampleinJ.Marckius,ScripturariaeExercitationesadQuinque&VigintiSelectaLoca
+VeterisTestamenti(Amsterdam:Borstius,1709).Severalexamplesmaybefoundintheunpag-
+inatedprefaceBenevoloLectoriSal[utem].
+4 Knorrhimselfdrawsattentiontotheimportanceoftheseinternalreferencesinhisforeword
+tothe1684Zoharwhereheencouragesthereadertohaveathiselbowacopyof Kabbala
+Denudata.Cf.supra,Preface,note24.
+5 Twoexceptionsaretobenoticed:onfolio5r,nempeislacking,asisanadditioninmargin(ut
+antehac),probablyduetotheprinter’soversight.
+Anna M. Vileno and Robert J. Wilkinson - 978-90-04-44342-6
+
+[Page 139]
+116 chapter 7
+andtheprintedversion.Thedetailof theApparatusalsoseekstodisplaythe
+developmentof themanuscriptinfullandtoaccountwherepossibleforthe
+major deletions, corrections and changes in the manuscript. In addition to
+being purely descriptive, the Apparatus also seeks to assist in the reading of
+themanuscriptbyprovidingintratextualdepthbyfullquotationof citations
+fromKnorr’spreviousKabbalisticworks.Ratherthanprovidemerelysummary
+statementsofKnorr’sdoctrinesatappropriatepointsinthenotestothetrans-
+lation, we have attempted to display the internal coherence of his thought
+and the felicity of its exegetical application by setting out extensively in the
+apparatus throughout the edition the texts to which Knorr himself chose to
+guide his learned reader.The aim is to display the connected argument and
+thecumulativeevidencewhichisbroughttoplayinexposition.Thereaderof
+thetranslation,therefore,whomaywishforfurtherenlightenmentfromthe
+Authoronatopic,isencouragedtoconsulttherelevantpartoftheapparatus
+totheeditionwherethepassagesKnorrcitesaresetoutinextenso.Finally,the
+differencebetweenthemanuscript’sbiblicaltextandtheVulgatearereported
+inthefootnotes.TheVulgatetextusedisthetraditionalClementineedition,
+considered authoritative by the post-Trentine Catholic Church and in use in
+theGermanlandsatthetime.
+Anna M. Vileno and Robert J. Wilkinson - 978-90-04-44342-6
+
+[Page 140]
+TextandTranslation
+∵
+Anna M. Vileno and Robert J. Wilkinson - 978-90-04-44342-6
+
+[Page 141]
+fol.1r 1EvangeliumSanctumPrædicationis2 5
+LucæEvangelistæ,
+quodlocutusestetprædicavitGræcèin
+Alexandriamagna.3
+Cap.i.
+1.4Quoniammultivolueruntscriberenarrationesearumrerumgestarum,de 10
+quibusnoscertòpersuasisumus.5
+2.Prouttradideruntnobisii,quiâprincipiofueruntspectatores&|ministrirei 15
+ipsius.6,7
+3.Visumestetiammihi,propterea,quodproximèsectatussumcumsollicitu-
+dineomnesillos,utomniaordinesuoscribamtibi,excellensTheophile.8,9
+4.Utagnoscasveritatemillarumdoctrinarum,quarumfactusesdiscipulus.10 20
+1 Addedatthetopofthepage,centredasifforatitle:HistoriæEvangelicæinitium,secun-
+dumquatuorEvangelistas.Sectioi.Aredpencilsquarebracketinsertedintothetext
+([Historiæ)referstoanannotationintherightmargin:3.A/1.bsbhasaninitialanno-
+tation:VitringassObservat138.ThisisareferencetotheSacrarumObservationumLibri
+Sex(Franeker1659–1708andoftenafterwards)of CampegiusVitringa(1659–1722),the
+DutchProtestantProfessorofOrientalLanguagesatFranekerafter1680.Thereference
+isapparentlytoBook1p.128(not138)whereinhisDissertatioSecundadeSephirothKab-
+balistarum,favourablementionismadeoftheKabbaladenudataandKnorr:“[Kd]Cuius
+AuctorisOpera,licetnomensuumquacunquetandemdecausapresserit,aliundesatisintel-
+leximusesseIllustremVirumChristianumKnorriumB.L.aRosenroth,cuiitaqueobhuius
+laboremgratiaspublicesolvimusdebitas.”
+2 Intherightmargin,aninitialSectioi.isdeleted,probablyafterKnorrhadindicatedthe
+generaltitle,followedbythesectionnumber,atthetopofthepage(cf.previousnote).
+3 Handwrittennoteintherightmargin,inGerman(presumablybecauseaddressedtothe
+printer):nb.Alleswasunterstrichenist,sollmitkleinererSchriftgesetztwerd(en).(“Eve-
+rythingthathasbeenunderlinedmustbeprintedinsmallercharacters”).
+4 Ontheleft-handsideofthepageispastedinaprintedfragmentcutoutfromanexemplar
+ofthePeshittaNewTestamenteditedbyKnorrinSulzbachin1684.Thefragmentiscros-
+sedoutanddoesnotappearintheprintedversionofthebsb.Theattachedfragmentis
+notwellpreserved,thebottompartislacking,presumablyduetothecreaseofthepage,
+whichpassedthroughthefragmentapproximatelyinthemiddle.
+5 Vulgate:“Quoniamquidemmulticonatisuntordinarenarrationem,quæinnobiscompletæ
+sunt,rerum.”VulgatetextscitedforcomparisonaretakenfromtheofficialRomanedition
+publishedundertheauthorityofPopeClementviiiin1592.AsatextoftheVulgatethis
+mayleavemuchtobedesired,butitismoreappropriatetocompareKnorrwithacom-
+moncontemporarytext,than(anachronistically)tociteamorecriticalmodernone.
+Anna M. Vileno and Robert J. Wilkinson - 978-90-04-44342-6
+
+[Page 142]
+5 TheBeginningoftheGospelHistoryaccordingtotheFourEvangelists fol.1r
+Sectioni
+TheHolyGospelofthePreachingofLuketheEvangelistwhichhespoke
+andpreachedinGreekinAlexandriatheGreat11
+Chapter1
+10 1Sincemanywanted12towriteaccountsof thosethingsof whichwearecer-
+tainlypersuaded13,
+15 2inasmuchasthosewhowerefromthebeginningwitnesses|andministersof
+thisverymatterhanded[it14]downtous,
+3Itoodecidedonthataccount,ExcellentTheophilus,towriteeverythinginits
+properorderforyou,sinceIhavefollowedthemallmostcloselywithcare,
+20 4sothatyoumightknowthetruthofthosedoctrines15ofwhichyouhavebeen
+taught[Greek:katēchēthēs].16
+6 Textintherightmargin,deleted:v.2Hebr.2,3;1Joh.1,1.
+7 Vulgate:Sicuttradideruntnobis,quiabinitioipsividerunt,etministrifueruntsermo-
+nis.
+8 Textintherightmargin,deleted:v.3Act.1,1.
+9 Vulgate:Visumestetmihi,assecutoomniaaprincipiodiligenter,exordinetibiscri-
+bere,optimeTheophile.
+10 Vulgate:Utcognoscaseorumverborum,dequibuserudituses,veritatem.
+11 ThisisthetraditionalheadingofLuke’sGospelinthePeshitta.
+12 Vugate:“attempted”.
+13 Vulgate:“whichweredoneamongus”.
+14 Squarebrackets[…]indicateanadditionofthetranslator.TheVulgateherehas“the
+word”.
+15 ItisprobablynotbychancethatKnorruses“doctrine”insteadoftheusualVulgate
+“words”here.ItpossiblyreflectshisperceptionofKabbalahasbeingabodyofdoc-
+trines,morerelatedtoaphilosophicalsystemratherthantoaspecificreligiousteach-
+ing.
+16 Knorr’sLatintextdiffersconsiderablyfromtheVulgate.Thisishisowntranslation
+fromtheSyriac.Heemphasisesbelowtheelementoforaltradition(i.ethetransmis-
+sionofteachingfromateachertopupilsratherthanindividualstudyofmaterial)to
+showthattheGospelislikeKabbalah.Knorr’s“Englishtranslation”inhisHarmonia
+Evangeliorum,OderZusamenfügungdervierH.Evangelisten,op.cit.,p.2hasexplicitly
+“mundlich”here.Theuseoftheword“catechumen”hereisprobablydeliberatelycho-
+sentoevoketheoraltransmissionofKabbalah.Suchaconnectionislatermadeby
+JacobRhenferd(1654–1712),ProfessorofOrientalLanguagesinFraneker,inhisDisser-
+tatiodeStyloApocalypseosCabbalisticainId.,OperaPhilologica…(Utrecht:Guiliemus
+van derWater, 1722), pp. 1–33, at p. 1: “Cabbala […] acceptionemnotat,siveoralem
+autvivavocetraditam,auribusqueperceptamdoctrinam,seuillaminstitutionemquam
+Graecikatēchēsisappellant…”.
+Anna M. Vileno and Robert J. Wilkinson - 978-90-04-44342-6
+
+[Page 143]
+120 text and translation
+17Evangelium.ןוילגנוא
+Cabbalista Catechumenus. Iste scriptorum vestrorum characteristicorum | 25
+titulustalemneinsecontinetsplendorem,qualempræsefertLiberSohar?
+Christianus.Novi,quôdigitumintendas,dequeilliuslibritituloquædam
+excerpsi,infraExcerptorumilliusCenturiaii.,loco42.Sednechuictitulo
+p.2 nostrosuadeestgloria,cum&angelis18tribuaturtalequid,Luc.1,19‖19c.2,
+20&| EliæLuc.3,18& MessiæMatth.4,23;c.9,35.nec20infrequenshæc 30
+phrasisfueritInterpretibusGræcisveterisTestamenti,utPsal.40,10;Jes.52,
+7;c.40,9;Psal.68,9.12&c.Unde&PaulushancEvangeliiGloriammeritò
+deprædicat2Cor.3,7.8.9.10.11.18;c.4,6.Necestquodaudiascalumniasquo-
+rundamèvestratibus,quihacvocedenotaridicuntvanitatisveliniquitatis
+revelationem;|velvanitatemscriptaminlibrosivecharta;utrefertBuxtorffius 35
+Lexic.Chaldaic.hâcvoce.RectiùsenimEliasvesterinTisbiinvoceןוילגhâc
+17 Deletion:Annotatio1.
+18 bsb:Angelis
+19 Aredpencilsquarebracketinsertedintothetext([c.2,20)referstoanannotationin
+therightmargin:4.A/2.
+20 bsb:Nec
+21 TheinterlocutorinAdumbratiokabbalæchristianæisaKabbalist.Inthisworkhehas
+becomeaKabbalistCatechumenandinthisrolesharescollaborativelyintheexposi-
+tionoftheNewTestamentwiththeChristian.Hisshareofthecontributionismuch
+reducedbythesubsequentallocationofmanyofhisspeachestotheChristianinthe
+finalformofthemanuscript.“Christian”isprobablynotintendedtorecallthename
+ofChristianKnorrdeRosenrothbutrathertodenotemerelyageneric“Christian”like
+theequallygeneric“ChristianPhilosopher”inAdumbratio.ButperhapsKnorrenjoyed
+thepossibledoublemeaming.
+22 Knorr’sKabbalaDenudataisananthologyofZoharictextsputintoLatin.Hepubli-
+shedaHebrewtextoftheZoharin1684onwhichseeBoazHuss,“TextundContext
+derSulzbacherZohar”,Morgen-Glantz16(2002):pp.135–159,alsoappearingas“The
+TextandContextofthe1684SulzbachEditionoftheZohar”inTradition,Heterodoxy
+andReligiousCulture:JudaismandChristianityintheEarlyModernPeriod,editedby
+C.GoodblatandH.Kreisel(Beer-Sheva:Ben-GurionUniversityPress,2007),pp.117–
+138.TheclassictreatmentofpreviousChristianinterestintheZoharisFrançoisSecret,
+LeZoharchezleskabbalisteschrétiensdelaRenaissance(Paris:Durlacher,1958;Paris:
+Mouton,1964).ForabriefnarrativeaccountofPostel’stranslationoftheZohar,which
+heconsideredwritteninChaldaicasivevulgarisSyriaca,seeWilkinson,Orientalism,
+op.cit.,p.118,note80.ForathoroughinvestiagationofPostel’stranslation,seeWeiss,
+OntheConciliationofNatureandGrace.ALatinTranslationandCommentaryonthe
+ZoharbyGuillaumePostel,op.cit.
+23 GloryisapparentlyattributedtothegospelherebecauseitisannouncedbyGabriel
+whostandsinthepresenceofGod(Lk1.19)andbecausetheshepherds“glorifyGodfor
+thethingtheyhadseen”(Lk2.20).
+Anna M. Vileno and Robert J. Wilkinson - 978-90-04-44342-6
+
+[Page 144]
+section i 121
+Gospelʾwnglywn
+KabbalistCatechumen21Doesthistitleofyourcharacteristic[Gospel]writ-
+25 ings|containinitsuchsplendourastheBook Zohar [whichitself means
+“Splendour”]displays?22
+ChristianIknowthebooktowhichyoureferandIhaveexcerptedmate-
+rialconcerningitstitle(see:Centuriaii,Locus42).Butthistitleofoursisnot
+withoutitsownglory,forthisis‖attributedtoitbyangels(Lk1.19;2.20)23; p.2
+30 by|Elijah(Lk3.18)24;andbyMessiah(Mt4.23;9.35).Frequentlytheword
+[euangelizomai] was used by the translators of the Greek Old Testament:
+e.g.Ps40.1025;Isa52.7;40.9;Ps68.9,1226etc.27Paulthus[rightly]proclaims
+theglory[doxa]oftheGospel(2Cor3.7,8,9,10,11,18;4.6).Norshouldyou
+dare[torepeat]theinsultsofcertainofyourownteacherswhosaythatthe
+35 word meansTheVainorEvilRevelation | orVanityWritteninaBookoron
+aSheet(asBuxtorff mentionsinhisLexiconChaldaicumsubvoce28).More
+24 TheverserefersonlytothepreachingofJohntheBaptist.Heisconsideredtypologi-
+callyasElijahinMt11.14,butforourauthorJohnisthereincarnationofthespiritof
+Elijah,asexplainedatlengthinfolio9v.
+25 lxx39.10.
+26 lxx67.9,12.
+27 KnorrfollowsthenumberingoftheHebrewPsalter,thoughheisquotingfromthelxx
+whichisnumbereddifferently.
+28 JohannBuxtorfP.LexiconChaldaicumTalmudicumetRabbinicumi,ed.byBernardFis-
+cher(London:Asher,1875),p.25s.v.ʾwnglywnisthesourceofalltheinformationhere,
+includingthereferencetoEliasLevita’slexiconTishbi.Butthechargeismucholder:
+AmuloofLyon(fl.840),EpistulaseuLibercontraJudaeosadCarolumRegem,Patrologia
+Latina,vol.116(Paris:Migne,1852),170a§.10has:“Evangelium,quodnosGraecoelo-
+quiointelligimusbonumnuncium,ipsiproprialinguamalitiosissimeimmutantesvocant
+Havongalion,quodinterpretaturLatineiniquitatisrevelatio,asserentesvidelicet,quod
+nonineomysteriumsalutishumanae,sediniquitas,quatotusmundusinerroremmit-
+teretur,fueritrelevata,nescientes(insani)quodetiamistudabeisconfictumvocabulum
+apertissimuminiquitatiseorumsittestimonium.”ThepassageiscitedasfromRaban
+MaurinJ.C.Wagenseil,TelaigneaSatanae(Altdorf:J.H.Schönnerstaedt,1681),p.52.
+SebastianMünster,EvangeliumsecundumMattheuminLinguaHebraica(Basel:Hen-
+ricusPetrus,1537),p.47has:“EsteuangelionvoxGraecafaustumsignificansnuncium
+etfaustinunciopraemiumusurpaturqueabevangelistisproiliafeliciannuntione,qua
+DeideChristopromissiopraedicaturimpleta,salusanimarummortalibusoblata,pec-
+catahominumcredentiuminChristumilliussanguineetmorteexpiataetc.Hebraeipro
+hacvoceusurpantbswrh[besorah],etiamsiillaprobonaeetmalaereinuncioinScrip-
+turausurpetur.[…]CeterumIudaeinostrates,Christietmembrorumeiusapertihostes,
+hancsaluberrimamEvangeliivocempervertentesvocantʾwnglywnidquepermodum
+contemptus,perindequasiiniquitatesChristianorumsintrevelataeineolibro.Aliivocant
+ʾwnglywn—idestrevelationemvanitatis.Quodsihocanimoidfacerentlibenterferre-
+Anna M. Vileno and Robert J. Wilkinson - 978-90-04-44342-6
+
+[Page 145]
+122 text and translation
+appellationedenotaridicitNunciumbonum.AliàsinSyriacodiciturאתרבס,
+annunciatio, prædicatio ut Mat. 4, 23; c. 9, 35; c. 24, 1529; c. 26, 13. In spe-
+fol.1v cieautem|||denotatnunciumdeadventuMessiæincarnem,&pactoNovi
+Fœderis pro sanctificatione credentium: sive id fiat prædicatione & orali
+annunciatione,utRom.1,1.9;c.10,16.sivescripto&Historia,Mar.1,1.sive
+quodnostangit,professione&vita.2Tim.1,8.Conf.Mar.10,29ubihabetur
+אתרבס.|HoclocoidemestachistoriadeJesuNazareno,quiestMessias. 5
+30Lucæסוקולד
+Cabb.Cat.31CurLucampræmittis,ignotumhominem?
+Christianus. Prolegomena hæc præmitto, ut cætera Evangeliorum con-
+tentajuxtatemporumserieminunamcoadunarepossimharmoniam,unâ-
+queannotatione|aliquando,siDeus32concesserit,pluribussatisfaciamtex- 10
+tibus.Quamclarusautem,velquamobscurusfueritLucas,nihiladremfacit;
+p.3 sufficitquodincanonemsitreceptus‖àprimisEcclesiætemporibus.Neque
+enim & vos tam scrupulosi estis circa Doctores vestros; quorum verba in
+Mischnah&Gemarâhallegatavobisomninòsuntauthentica,quamvisde
+personisillorumplurimadisputentur|inlibroJuchasin.Nihiltamenetiam 15
+abjectiestinhocnostro;EtNomenquidemestlatinæoriginis,anâPatrono
+assumtum,analiunde,quisedisserat?Proeo,Col.4,14;2Tim.4,11;Phil.24
+habetur אקול & Act. 13, 1; Rom. 16, 21. סויקול: unum enim esse eundemque
+quidobstat?Ipseautem33PâtriafuitCyrenæus,Act.13,1.professionemedi-
+mus,nempequicupitrecedereamalo,discateumlibrumetisliberdocebiteumvanitatem
+quamfugiatatquebonumquodfaciat.Nuncautemhostilianimonostrasacraturpibus
+conspurcarenitunturnominibus.”
+29 Theauthorprobablymeantverse14whichhastheappropriatevocabulary.
+30 Deletion:Annotatio2.
+31 Inthemanuscript,thenameofthecharacter“CabbalistaCatechumenus”hasbeen
+systematicallyabbreviatedin“Cabb.Cat.”fromnowon.
+32 bsb:DEus
+33 bsb:autem.Intheprintedversion,theabbreviationsaresystematicallydeveloped.
+34 Levita.
+35 Knorr’sHarmoniaEvangelorumwasprintedanonymouslybyJohannAndreasinFrank-
+furtin1672.TheworkisofrelevanceherebecausetheorderofthepassagesofScripture
+foundinMessiasPuerfollowstheorderoftheHarmonia.TheorderoftheHarmonia
+isitselfbaseduponthatofJohnLightfoot,Theharmony,chronicleandorderoftheNew
+Testamentthetextofthefourevangelistsmethodized,storyoftheactsoftheapostlesana-
+lyzed,orderoftheepistlesmanifested,timesoftherevelationobserved:allillustrated,with
+varietyofobservationsuponthechiefestdifficultiestextuall&talmudicall,forclearingof
+theirsenseandlanguage:withanadditionaldiscourseconcerningthefallofJerusalem
+andtheconditionoftheJewsinthatlandafterward(London,printedbyA.M.forSimon
+Anna M. Vileno and Robert J. Wilkinson - 978-90-04-44342-6
+
+[Page 146]
+section i 123
+correctlyyourElias34inhis[Lexicon]Tishbisubvoce“glywn”saysthisword
+denotesGoodNews.ElsewhereintheSyriacNewTestamentitiscalledsbrtʾ,
+“Announcement”,“Proclamation”asinMt4.23;9.35;24.15;26.13.Butspecif-
+ically ||| [the term] denotes the announcement of the Coming of Messiah fol.1v
+inthefleshandtheCovenantoftheNewTestamentforthesanctificationof
+believers;whetherthatwasbypreachingandoralproclamation(asinRm1.1,
+9;10.16)orbywritingandnarrative(Mk1.1);or,whichisrelevantinourcase,
+5 by“confession”and“wayoflife”(2Tim1.8.Cf.Mk10.29wheresbrtʾoccurs).|
+Herealsoitmeans:the“AccountofJesusofNazarethwhoisMessiah”.
+OfLukedlwqws
+KabbalistCatechumenWhydoyoustart[ourdiscussion]withLuke,some-
+oneunknown?
+ChristianIdealwiththisintroduction[inLuke]firstsothatIcanhar-
+monisetheotherGospelmaterialinonetemporalsequenceandthenwith
+10 asinglecomment,|Godwilling,Icandealadequatelywithseveraltextsat
+once.35Buthowfamous—orhowobscure—Lukewashasnorelevance.Itis
+enoughthat[hisGospel]wasreceivedintothecanon[ofScripture]‖from p.3
+thefirstdaysof theChurch.Norareyousofussyaboutyourownteachers
+whosewordsintheMishnahandGemarahyouclaimaretotallyauthentic,
+15 although there is a lot of dispute about just who they were in | the book
+Juchasin.36Howeverthereisnothingdespicableaboutour[man]:hisname
+is of Latin origin, whether he took it from his patron or from somewhere
+else,whocansay?Heiscalledlwq’ [Luke]inCol4.14;2Tim4.11;Philem24
+andlwqyws[Lucius]inActs13.1;Rm16.21.Whyshouldboththesenamesnot
+refertooneandthesameman?HishomewasCyrene(Acts13.1);hisprofes-
+Miller,1655)andlaterinJohnLightfootErubin;orMiscellaniesandtheHarmonyofthe
+GospelsPartsi&ii,ed.byJ.R.Pitman(London:J.F.Dove,1822).JohnLightfootwas
+MasterofStCatharine’sCollege(thenCatharineHall)Cambridgebetween1650and
+1675.DanielM.WeltonproducedaLeipzigdissertationonhimin1878, JohnLightfoot.
+TheEnglishHebraist(Leipzig:AckermannandGlazer,1878).Heestablishedhisreputa-
+tiononcommentariesontheNewTestamentwhichdrewuponhisownconsiderable
+andalmostentirelyself-taughtknowledgeoftheMishnahandTalmud.Knorrhadhis
+workopeninfrontofhimashewroteandhiscommentaryengagesinarunning“con-
+versation”withit,aswehavetriedtoindicatebelowwithselectedquotationsfrom
+Pitman’sedition.FormoreonKnorr’sHarmonia,seetheIntroduction.
+36 SeferJuchasinbyR.AbrahambenSamuelZacuto,thePortugueseRoyalAstronomer
+andMathematician(1452–1515?),waspublishedinTunisiain1504,Cracowin1581and
+withafullHebreweditionbyFilipowski(London,1857).ItisahistoryfromCreation
+to1500ad.
+Anna M. Vileno and Robert J. Wilkinson - 978-90-04-44342-6
+
+[Page 147]
+124 text and translation
+cusCol.4,14.nationeHebræus,quodHebraismi|seuTargumismitestantur 20
+plurimi,inscriptisejusoccurentes.PorròquodèlxxDiscipulisfuerittitulus
+tradithujusEvangelii37Arabici;necapparet,quidopponiqueat.QuodAnti-
+ochiæscholamhabueritcolligiturexAct.13,1quodquePaulifueritcomes,
+liberActorumtestatur&lausPauli2Cor.8,18;c.13.fin.quodautem38Ale-
+xandriæ isthæc scripserit, titulus Evangelii hujus Syriaci edocet; qui | an 25
+postponendussitopinioniHieronymi,quiinAchaia39illumscripsisseEvan-
+geliumsuumasserit,aliividerint.NobishicAutoripsonominissuietymo
+amplissimumaperitcampumadAllegoriamdeLucelatiùspertractandam,
+quodunosaltemverboinsinuassesufficiat;&cumdoctrinâvestrâminimè
+estdissonum.
+40Volueruntscribereןובתכנדובצ 30
+Cabb.Cat.ErgonecæteraEvangeliatunctemporisnondumabsolutaerant?
+Christianus.Omninò,juxtadictamenantiquissimæhujusversionisSyr-
+p.4 iacæ,velnondumabso-‖41-lutaerant;veladmanusLucænondumpervene-
+rant,itaut|hocEvangeliuminterprimaNoviFœderisscriptareferendum 35
+sit.
+Cabb.Cat. Jam de Autoritate scriptorum istorum agendum; cumque nec
+adscripturæhujusnecadEcclesiævestrætestimoniaacquiescere,sedlegem
+37 Correction:asignisplacedabovethelinewhichindicatesthatthetermsshouldbe
+inverted.bsb:Evangeliihujus
+38 bsb:autem
+39 bsb:Achaja
+40 Deletion:Annotatio3
+41 Aredpencilsquarebracketinsertedintothetext(abso[luta)referstoanannotation
+intheleftmargin:6.A/4.
+42 TheArabictextof theGospelswasfirstprintedbytheMediceanPressinRomein
+1590:GiovanniBattistaRaimondi,EvangeliumsanctusDominiNostriIesuChristicon-
+scriptumaquatuorEvangelissanctisidestMattheo,Marco,LucaetIohanne.Thomas
+ErpeniusprintedacompleteArabicNewTestament(madefromtheSyriac)NovumD.
+N.J.ChristiTestamentumArabiceexbibliothecaLeidensi,edenteThomaErpenio(Leiden:
+TypographiaLinguorumOrientalium,1616).TheArabicNewTestamentalsoappeared
+inboththeParisandtheLondonPolyglotBible.Fortheversionsthemselves:Hikmat
+Kashouh,TheArabicVersionsoftheGospels.TheManuscriptsandTheirFamilies(Ber-
+lin:DeGruyter,2011).
+43 All possible New Testament verses relevant to Luke are being reviewed here. The
+verse in 2Cor is generally taken as Paul praising Luke (though he does not men-
+tionhisname).Thereference“c13adfin.”istothetraditionalsubscriptioninGreek
+manuscriptsofthestandardByzantineeditionwhichhastheepistlewrittenbyTitus
+Anna M. Vileno and Robert J. Wilkinson - 978-90-04-44342-6
+
+[Page 148]
+section i 125
+sion,adoctor(Col4.14);andhispeopletheHebrews—evidenceofwhichare
+20 themanyHebraisms|andlocutionsfromtheTargumsfoundinhiswritings.
+Additionally,thetitleoftheArabicversionofthisGospelhandsdownthat
+hewasoneoftheSeventyDisciples[Lk10.1],andIcannotseewhatobjection
+canberaisedtothis42.ThathehadaschoolatAntiochisgatheredfromActs
+13.1.ThathewasPaul’scompanion,theBookofActstellsusalongwiththe
+praiseofPaul(2Cor8.18;13adfin.)43.ThetitleofthisGospelinSyriacteaches
+25 usthathewrotethispresentworkinAlexandria.|Whetherweshouldprefer
+theopinionofJerome,whoassertedthatLukewrotehisGospelinAchaea,
+letothersdecide44.Forus,this[Gospel]writerbytheverymeaningof his
+[own]nameopensthefieldrightupforabroadertreatmentoftheallegory
+of Light[deLuce:asif from“lux”]whichthissinglewordalonesufficesto
+suggestandwhichscarcelydiffersfromyourownteaching45.
+30 Theywantedtowriteçbwdnktbwn
+KabbalistCatechumenDoesthatmeantheotherGospelsdidnotyetexist?
+ChristianWell,accordingtothestatementofthisveryancientSyriacver-
+sion,either‖theyhadnotyetbeenwrittenatall,ortheyhadnotyetcome p.4
+35 intothehandsof Luke.|Consequentlyhisgospelisconsideredamongthe
+earliestwritingsoftheNewTestament46.
+Kabbalist Catechumen Now we must deal with the authority of these
+ScripturessinceourteachersacquiesceneithertoLuke’stestimony,norto
+thatofyourChurch,butratheradmittheLawaloneastheruleofsalvation.
+andLucasfromPhilippi.ThesesubscriptionsappearintheGenevaBible(1560)and
+manyeditionsofthekjvafter1611butthoughinfluentialareconjectural.Theirasser-
+tionthat1CorwaswrittenfromPhillipiisalmostcertainlywrong(1Cor16.8–9was
+probablywrittenfromEphesus)andthereisnoevidenceinGalatianstosupporttheir
+assertionthatitwaswritteninRome.
+44 ThereferenceistoJerome’sProloguetotheGospelofLukefromtheso-calledAnti-
+Marcionite Prologues: “Sancto instigatus Spiritu, in Achaiae partibus hoc descripsit
+evangelium” [“Moved by the Holy Spirit, Luke wrote down this Gospel in parts of
+Achaia”].ForJeromegenerallyinthisperiod,seeEugeneF.RiceJr,SaintJeromeinthe
+Renaissance(Baltimore:JohnsHopkinsUniversityPress,1985).
+45 TheimportanceoflightbecomesapparentfromAdumbratio,chap.2,§8–11,p.4(Spec-
+tor,FrancisMercuryvanHelmont’sSketchofChristianKabbalah,op.cit.,p.33)andthe
+extensivesubsequentdevelopmentofthemattersthereanticipatedinsummary.
+46 TheverycontentofLuke’sprologuewithitsmentionofprevioustextsdiscouraged
+earlyspeculationonwhatwemightcall(insynopticterms)LucanPriorityandthat
+shouldnotbereadintothetexthere.
+Anna M. Vileno and Robert J. Wilkinson - 978-90-04-44342-6
+
+[Page 149]
+126 text and translation
+solam pro salutis normâ admittere queamus47, nunc quæro, quomodo hæc
+scriptaadlegemreferas?Legemenimantiquam|hîcproponinondices,quia 40
+sexcenta & tria48præcepta Mosis sublata esse asseritis: Legem Novam non
+admittimus49;cumtalemdatumiri,nequidemProphetaasserat,quidenovo
+fœderevaticinatur.Jer.31,33?
+Christianus.Quidsidicerem,&hîcLegemproponi,sedoralem;&cuisal-
+temminoressenequeatautoritas,quamillisvestrisLibris,quibusLexMosis
+oralisconscripta|dicitur,utsuntscriptalibriSohar&Talmudica.Sienim 45
+fol.2r (1.)LexoralisMosaica|||primitùsscriptononfuitcomprehensa,sedorete-
+nussaltemtradita;donecurgentenecessitatepropterdispersionemDocto-
+rum&Discipulorumscriptisconsignaretur:HaudalitersaneDoctrinaNovi
+Fœderis,primitùsnecàChristo,necabApostolisscribendo,sedoraliinfor-
+mationetraditaest,undeilludκατηχήτης|oretenusedoctus;siveתדמלתתא 5
+p.5 discipulusfactuses,Luc.1,4.Conf.Act.18,25;1Cor.14,19;Gal.6,6.cum‖50
+Rom.2,18.AtquesicipsequoqueChristusmandabatdiscipulissuisMatth.
+28,19,μαθητεύσατεודמלתdiscipulosfacite,conf.Matth.13,52;c.27,57;Act.
+14, 21. Donec propter διασπορὰν sive dispersionem, de qua Act. 8, 14; c. 11,
+19tandemscriptaemanarentEvangelica;partimsuâsponte|scribentibus 10
+ipsisApostolis&Discipulis;partimtradentibusillis,quiâ51principiospec-
+tatores&ministrifuerantipsiusreiLuc.1,2partimetiamjubenteDomino
+Ap. 1, 19; c. 2, 1.8.12.18; c. 3, 1.7.14; c. 19, 9. Sicut in Idra Suta sub initium
+R.SchimeonF.Jochaidisponit:R.Abbascribet:R.EleazarFiliusmeus,pro-
+fitebitur:reliquiautemsociimussitandomeditabunturincordesuo.Sohar
+inDeut.|Cremon.col.557.Mant.fol.287.(2.)SiLexoralisproponitLegis 15
+Mosaicæsensuminternumoccultum,mysticum,quodtotiesinLibroSohar
+inculcatur, & in specie in festiva illa parabola, quam exhibui Centur. ia
+Loc.1.Excerpt.certèsimiliaLegisMosaicæmysteria,præsertimdeChristo
+47 Correction:queamusreplacedbysoleantnostrates.
+48 Correction:triareplacedbytredecim.
+49 Correction:admittimusreplacedbyadmittuntHebræi.Thecorrectionindicatesthat
+theCabbalist,nowbeingaCatechumen,isconsideredtobenowsetapartfromthe
+Jewishpeople.Cf.alsoinfra,Sectioiii,note211(perpenderetisreplacedbyperpende-
+rentvestrates).
+50 Aredpencilsquarebracketinsertedintothetext([Rom.2,18)referstoanannotation
+intherightmargin:7.A/5.
+51 bsb:à
+52 TraditionallyTorahisconsideredtocomprise613commandments.
+53 KnorrpublishedaHebrewtextoftheZoharinSulzbachin1684.HoweverinMessias
+PuerwheneverhecitestheZoharoutsidehiscollectionofpassagesinExcerpta,he
+neverreferstohisownversion,onlytotheMantuanorCremonaeditions.Hisown
+Anna M. Vileno and Robert J. Wilkinson - 978-90-04-44342-6
+
+[Page 150]
+section i 127
+SoInowask,howdoyourelatethesewritingstotheLaw?Foryouarenotsay-
+40 ingthattheancient[written]|Lawisinquestionhere,becauseyouclaimthe
+613preceptsofMoseshavebeendoneawaywith52;theJews,[ontheother
+hand],donotadmitanewLaw,sincenoteventheProphet[Jeremiah]who
+prophesiedof aNewCovenantassertedthat[anewLaw]wasgoingtobe
+given(Jer31.33).
+ChristianWhatifIweretosaythatheretheLawisinquestion—butoral
+45 Law,|theauthorityofwhich[here]cannotbelessthanthosebooksofyours
+inwhichMoses’oralLawissaidtobewritten,suchasthewritingsof the
+BookZoharandtheTalmudicwritings?
+For(1)theoralMosaicLaw|||wasnotoriginallyreducedtowriting,but fol.2r
+ratherhandeddownbywordof mouthuntilunderthepressureof neces-
+sity,orbecauseofthedispersionofteachersandpupils,itwasentrustedto
+writing.Inquitethesameway,theteachingoftheNewCovenant,wasorig-
+inally written down neither by Christ or by the Apostles, but was handed
+5 downorally.So[theGreek]katēchēthēs[inLk1.4]|[means]“taughtorally”
+[andtheSyriac]ʾttlmdt“youbecameadisciple”(Lk1.4.Cf.Acts18.25;1Cor
+14.19;Gal6.6;withRm2.18).‖ThusChristhimselfalsocommandedhisdis- p.5
+ciplesinMt28.19[inGreek]mathēteusate[andinSyriac]tlmdwto“make
+disciples”Cf.Mt13.52;27.57;Acts14.21.Until(becauseofthe[Greek]diaspo-
+ranorDispersion,concerningwhichseeActs8.14;11.19),finallythewritten
+Gospelsemerged:somewrittenbytheApostlesthemselvesandtheDisciples
+10 oftheirownaccord|;otherswrittendownfromthetraditionofthosewho
+“fromthebeginninghadbeenwitnessesof theeventitself”(Lk1.2);some
+evenatdivinecommand(Rev1.19;2.1,8,12,18;3.1,7,14;19.9).Justas[itsays]
+atthebeginningof IdraSuta:“R.SimeonbenYochaitaught;R.Abbawrote
+down;andR.Eleasar,myson,proclaimed:buttheothercompanionsmedi-
+15 tatedwhisperingtothemselvesintheirhearts”.(ZoharinDeut.|Cremona
+Col.557;Mant.fol.287)53.
+(2) If the oral Law teaches the inner hidden and mystical sense of the
+LawofMoses(whichiswhatistaughtsomanytimesintheBookZoharand
+specifically in that cheerful parable which I presented in Cent. i. Loc. 1 of
+theExcerpts54),thencertainlysecretteachings,similar[tothoseintheLaw]
+editionhasbothversions.ThemainoneisthelongeroneofCremonaandreferences
+totheMantuanversionaremarkedbypaginationinsertedbetweenthetwocolumns
+ofthetext.ItmaypossiblybethatwhenKnorrdoescitebotheditions,heisinfact
+referringtothecrossreferencesinhisownedition.Wearenotawareofanywhereelse
+atthetimewherethetwoeditionsweresoconvenientlysetsidebyside.
+54 ExtensivereferenceismadethroughoutMessiasPuertothislostwork,onwhichsee
+theIntroduction.
+Anna M. Vileno and Robert J. Wilkinson - 978-90-04-44342-6
+
+[Page 151]
+128 text and translation
+&satisEcclesiaejusinscriptisNoviFœderisoccurruntplurima,conf.Joh.
+5, 39; Luc. 24, 27.44.45; Gal. 4, 24. sqq.; | Hebr. 4, 9.14; c. 7, 1; c. 8, 5; c. 9, 8; 20
+c.9,1.&c.&c.(3.)SiLexoralistraditafuitMosiinmonte55Sinai;profecto
+eidem etiam tradita fuerunt mysteria de Christo, unde & in monte appa-
+rens Domino nostro, cum ipso collocutus est de morte ejus Luc. 9, 31 (4.)
+SiLexoralissepemLegistatuit,adelongandumhominemâ56peccatis;idem
+certè Christus præstitit Matth. 5, 22.28.32.34.39.44. &c. (5.) Si Lex oralis in
+p.6 Cabbala|referturadgradumRegni,siveUxoris,itautsicutab‖57Uxorein 25
+lucem editur infans antehac58 occultatus, eodem59 modo ab illa in lucem
+emittanturArcanaLegis60:certèmajorijureadeundemRegnigradumper-
+tinent Novi Fœderis scripta, in quibus manifestantur mysteria Regni Dei,
+quæ ab orbe condito fuerunt occultata, conf. Matth. 13, 11.35; Rom. 16, 25;
+Col.1,26;Eph.3,9.Undesiquisquærat:|quareipseJesusnihilscripseritsicut 30
+Moses? Haud immeritò responderi posset, doctrinam Christi esse Legem
+oralem,quæspiritusbeneficiopropagandapotiùsfueritquamliteræ.2.Cor.
+3, 3.6.7. Unde non immeritò ad gradum Gebhuræ sive vehementiæ etiam
+referri potest, sicut Lex oralis Mosaica. Videatur Cabbal. denudat. Part. 1,
+p.730.sq.
+Cabb.Cat.CumautemtotasitPractica,&præterProlegomena61adsalu- 35
+temhominismoraliterinstruendinecessaria,paruminsecontineatPhiloso-
+phiæTheoreticæ;UndepetendaestparsresiduaLegisoralisTheoretica?Philo-
+sophiaenimâGræcisgentilibusprofectaobtrudinobisnonpotest:Definitiones
+patrum62&decretaConciliorumparemcumscripturaautoritatem63habere| 40
+intervosnondumconvenit?
+55 bsb:Monte
+56 bsb:à
+57 Aredpencilsquarebracketinsertedintothetext([Uxore)referstoanannotationin
+therightmargin:8.A/6.
+58 bsb:antehâc
+59 bsb:eôdem
+60 bsb:legis
+61 bsb:Prelegomena.ThecorrecttranscriptionfromGreekisindeedpro-.
+62 bsb:Patrum
+63 bsb:authoritatem
+64 PirkeAvot1.1.“Mosesreceivedthe[oral]LawfromSinaiandcommittedittoJoshua,
+andJoshuatotheelders,andtheelderstotheProphets,andtheProphetscommitted
+ittothemenoftheGreatSynagogue”.
+65 PirkeAvot1.1.“[ThemenoftheGreatSynagogue]saidthreethings:Bedeliberatein
+judgement,raiseupmanydisciples,andmakeafencearoundtheLaw”.(TheMishnah
+Anna M. Vileno and Robert J. Wilkinson - 978-90-04-44342-6
+
+[Page 152]
+section i 129
+of Moses, also occur many times in the writings of the NewTestament—
+particularlyconcerningChristandoftenhisChurch(Cf.Jn5.39;Lk24.27,44,
+20 45;Gal4.24etseq.|;Heb4.9,14;7.1;8.5;9.8;9.1etc.).
+(3)If theoralLawwashandeddowntoMosesonMountSinai64,then,
+besure,tohimalsowashandeddownthesecretteachingsaboutChrist—
+whichiswhy[Moses]appearedtoourLordintheMountain[ofTransfigu-
+ration]andspokewithhimabouthisdeath(Lk9.31).
+(4)If theoralLawestablishedaFencetotheLawtoguardamanfrom
+sin65,soChristdidthesame(Mt5.22,28,32,34,39,44etc.).
+25 (5)If theoralLawisconnectedinKabbalah|totheGradeof Kingdom
+orof Wife,thenjust‖asachildpreviouslyconcealed[withinitsmother’s p.6
+womb]isbroughtforthfromawife,inthesamewaythesecretsoftheLaw
+are brought into the light from within [the oral Law]. [But now] by a far
+greaterrightaretheWritingsoftheNewCovenantconnectedtothatsame
+degreeofKingdominwhicharemanifestedthesecretteachingsoftheKing-
+domofGod,whichhadbeenhiddenfromthefoundationoftheworld(Cf.
+Mt13.11,35;Rm16.25;Col1.26;Eph3.9).
+30 Soifsomeoneasks:“WhydidJesuswritenothing,whenMosesdidwrite?”
+a reasonable reply can be: the teaching of Christ is oral Law, which was
+spread by the gift of the Spirit rather than by that of the letter (2Cor 3.3,
+6,7).AndhenceitcanalsobelinkedtothegradeStrengthorMight,justlike
+theoralLawofMoses(conf.Cabb.Denud.Part.1,p.730seq.)66.
+35 KabbalistCatechumenButsincethewhole[of Jesus’teaching]isprac-
+ticaland,withtheexceptionof suchintroductionnecessaryforthemoral
+instruction of a man for salvation, contains little Theoretical Philosophy,
+where should one look [within Christianity] for the theoretical material
+[whichisfoundin]theoralLaw?67Youcannotimposethephilosophytaught
+bytheGreeksuponus:andyouhavenotyetagreedamongstyourselvesthat
+the definitions of the Fathers and the decrees of the Councils have equal
+40 authority|withScripture.68
+TranslatedfromtheHebrewwithIntroductionandBriefExplanatoryNotes,translated
+byHerbertDanby(London:OxfordUniversityPress,1933),p.446).
+66 Note that the anthology Kabbala Denudata is referred to as “Cabbala Denudata”
+thoughouttheMessiasPuer.
+67 TheobjectionisthatthereislittleintheNewTestamentaccountsofJesus’teaching
+whichisnotethicalandnothingwhichlookslikeextendedkabbalisticspeculation.
+68 There is an echo here of contemporary confessional debates on the comparative
+authorityofScriptureandConciliardecisions.
+Anna M. Vileno and Robert J. Wilkinson - 978-90-04-44342-6
+
+[Page 153]
+130 text and translation
+Christianus.Ergòdumconversionemvestramintendimus,adhominem
+vobiscumagemus&principiahæctheoreticaassumemusexantiquisVestris
+p.7 Libris,deLegeoralitemporibusApo-‖69-stolorum&ApostolicorumViro-
+rumscriptis,quatenusillacumphrasiNoviFœderisconsonasunt.
+70[Certòpersuasisumus&c.]ןניספמ 45
+fol.2v Cabb.Cat.Qualemnobispromittitiscertitudinem?
+Christianus.Siquoadresgestasnihilvobisproponitur,quàmquodproba-
+bilitatislimitesnonexcedit;&qualiainvestrisquoqueproponunturscriptis:
+quoaddoctrinamautem,nihiletiamquodnonutriqueLegivestræsitcon-
+forme; nonne rectè | facitis, si certè de his sitis persuasi? Atqui talia olim 5
+propositasuntâ71scriptoribusEvangelicis.Undehæcvoxןניספמ,quæaccu-
+ratè exprimit vim phraseos Chaldaicæ, Pr. 6, 35; c. 1, 10. cujus sensus est
+acquiescere,contentumesse:itemsensumvocisGræcæhocintextuπεπλη-
+ροφορημένονconf.Rom.4,21;c.14,5;2Tim.4,17.&inspecieCol.2,2;1Thess.
+1, 5. ut sic ab initio statim insinuetur | prima Fidei pars, assensus scilicet, 10
+indubitatus,cumfiduciaindissolubilitercohærens;quæestcharacterChri-
+stianismiprimarius.
+V.ii.72Tradideruntומלשאד
+Cabb. Cat. Ergonè & vos traditiones admittitis, quas tamen rejicit Jesus73
+Matth.15,9?
+Christianus.Genuinas,originarias,necintentioniLegislatorisoppositas 15
+admittimus.Necparvahîcnobisestcumvestratibusconformitas.Sicutenim
+p.8 traditionesapudvestratesvelerant‖74Mischnicæ,quæinscholisHieroso-
+lymitanis erant traditæ atque decisæ; vel Barajethicæ quæ extra illas. Sic
+distinctiosimiliseruipotestcircatraditaChristianæfidei.Eratenim|Hie- 20
+69 Aredpencilsquarebracketinsertedintothetext(Apo[stolorum)referstoanannota-
+tionintherightmargin:9.A/7.
+70 Deletion:Annotat.4.Added:Certopersuasisumus&c.
+71 bsb:à
+72 Deletion:Annotatio1
+73 bsb:jesus
+74 Aredpencilsquarebracketinsertedintothetext([Mischnicæ)referstoanannotation
+intheleftmargin:10.A/8.
+75 Animportantprincipleofthedebateisestablishedhere.Theywillassumeallkabba-
+listicteachingaslongastheexpressionoftheNewTestamentallowsit.
+Anna M. Vileno and Robert J. Wilkinson - 978-90-04-44342-6
+
+[Page 154]
+section i 131
+ChristianInthatcase,sinceitisyourconversionweseek,weshallspeak
+then ad hominem and assume the theoretical principles of your ancient
+books about the oral Law written down at the ‖ time of the Apostles and p.7
+of theirsuccessorsinasfarastheseagreewiththeexpressionsof theNew
+Testament75.
+45 Wearecertainlypersuadedmpsynn||| fol.2v
+KabbalistCatchecumenWhatsortofcertaintycanyoupromiseus?
+ChristianIf,asfarasfactsgo,nothingisproposedtoyouotherthanwhat
+doesnot exceedthe limits of probability;and is the same sort of thing as
+thatwhichisalsofoundinyourownwritings;andasfarasdoctrinegoes,
+nothing [is proposed] which does not conform to each of your two Laws,
+5 thensurelyyoudoright|ifindeedyouarepersuadedinthesematters.And
+infactjustsuch[circumstances]havebeendescribedbytheGospelWriters.
+Whencethis[Syriac]wordmpsynnwhichaccuratelyexpressestheforceof
+theAramaicphrase[foundintheTargumto]Prov6.35;1.10andwhichmeans
+“toacquiesce”or“tobecontentwith”.TheGreekwordpeplērophorēmenōn
+hasthesamemeaning(Cf.Rm4.21;14.5;2Tim4.17andparticularlyCol2.2;
+1Thess1.5.).Sothat,rightfromthestart[of theGospels]theprincipalpart
+10 ofFaithisinsinuated|—assentedto,ofcourse,undoubtedandinseparably
+joinedwithtrust—thisisthefundamentalcharacteristicofChristianity.
+Verse2
+Theyhandedoverdʾšlmw
+KabbalistCatechumenSodoyouadmittraditionswhichJesusrejected(Mt
+15.9)?76
+15 ChristianWe admit genuine original traditions which are not opposed
+totheintentionoftheLawgiver.Weareverymuchlikeyourteachersinthis.
+Foryourtraditionsareeither‖thoseoftheMishnahwhichhadbeenhanded p.8
+downanddecidedintheschoolsofJerusalemorBaraithaswhichareaddi-
+tionaltothem.77Asimilardistinctioncanbefoundwithinthetraditionsof
+20 theChristianFaith.TheApostolicSchoolinJerusalem|enjoyedthehigh-
+76 JesushererejectssomeJewishteachingswhichhesays(citingIsaiahinMt15.8and
+makingthepointmoresharply)theyhavemadeupandwhich“transgressthecom-
+mandment”.
+77 ThoughtheMishnahwasnotwrittendownuntiltheThirdCenturyad,itreportsthe
+decisionsofearlierscholars.
+Anna M. Vileno and Robert J. Wilkinson - 978-90-04-44342-6
+
+[Page 155]
+132 text and translation
+rosolymisScholaApostolicasummæAutoritatis,Act.11,30;c.15,2.4.6.22.23;
+c.16,4.Sed&scholæerantextraneæ,utAct.13,1.adquasspectabatvocatio
+gentium.EtsiDoctorestraditionumdictiםיאנתpermetathesindictifuêre
+םינתא fortes: quanto magis hi Nostrates.Vide Excerpt. Libri Sohar Cent. i.
+loc.89.n.1.&ibid.loc.2.78
+V.iii79ןוהלכלתיאפיציתיוהבירק 25
+Proximèsectatussumcumsollicitudineomnesillos.
+Cabb.Cat.Antiquusestmosistesectandieruditos;nihilnetibioccurritsimile
+inscriptisnostris?
+Christianus.Detalibus,quisectatiessedicunturVirosstudioLegiscla-
+ros,|omninòhistoriæetiaminSoharoccurrunt,vid.Excerpt.Cent.i.Loc. 30
+54.n.7.
+80Theophileאליפואת
+Cabb.Cat.Quisnamfuitille;&quænam81estsignificationominishujus?
+Christianus. Lateat persona. Nominis duplex esse potest sensus, qui
+p.9 Deum|amat,&quem‖82Deusamat.InSoharhocingeneredeprædicatur 35
+Abraham.Vid.Excerpt.Cent.i.Loc.2.n.5.conf.Jac.2.23.
+78 Added:Conf.Matth.11,12;Luc.16,16;Rom.1,16;c.15,19;1Cor.1,18.24;c.2,4.5;c.4,20;
+c.12,10.28.29;Gal.3,5;Eph.3,16.20;Col.1,11.29.&c.
+79 Deletion:Annotatio1
+80 Deletion:Annotatio2
+81 bsb:quænam
+82 Aredpencilsquarebracketinsertedintothetext([Deus)referstoanannotationin
+theleftmargin:11.A/9.
+Anna M. Vileno and Robert J. Wilkinson - 978-90-04-44342-6
+
+[Page 156]
+section i 133
+estauthority(Acts11.30;15.2,4,6,22,23;16.4),buttherewerealsoschools
+elsewhere (so Acts 13.1) to which the called of the Gentiles looked. And if
+theteachersof[your]traditioncalledtnʾym[Tannaim83]wererenamedby
+metathesisʾtnym“theMighty”,howmuchmoremaytheseofoursbesodes-
+ignated!SeeExcerpt.LibriSoharCent.iLoc.89n.1&ibid.Loc.2.Cf.Mt11.12;
+Lk16.16;Rm1.16;15.19;1Cor1.18,24;2.4,5;4.20;12.10,28,29;Gal3.5;Eph3.16,
+20;Col1.11,29etc.
+Verse3
+25 Ihavefollowedthemallmostcloselywithcareqrybhwytyçypʾytlklhwn
+Kabbalist Catchecumen This duty of following scholars is ancient. Does
+anythinglikeitinourwritingsoccurtoyou?
+ChristianThestoriesaboutsuch[people],whoaresaidtofollowthemen
+30 distinguishedinthestudyoftheLaw|alloccurintheZohar(ExcerptsCent.
+1Loc.54n.7).
+Theophilustʾwpylʾ
+KabbalistCatechumenWhowashe?Andwhatisthemeaningofhisname?
+ChristianHisidentityisunknown.Hisnamehastwopossiblemeanings:
+35 “HewholovesGod”and‖“HewhomGodloves”.|84IntheZohar,Abraham p.9
+isdescribedinthisway(SeeExcerptCent.iLoc.2n.5Cf.Jam2.23).85
+83 ThefirstgenerationofteacherswhoseoraldecisionsnowappearwrittenintheMish-
+nah.
+84 Lightfoot,MiscellaniesandtheHarmonyoftheGospels,op.cit.,p.115:“‘Theophilus,’in
+Greek,isthesameinsignificationwith‘Jedidiah,’inHebrew,thenameofSolomon,
+‘theLord’sbeloved’;orwiththeglorioustitleofAbraham,‘thefriendofGod’.”
+85 Itisevidentthattheextractsinthiswork,theExcerpts,werearrangedgenerallyaccord-
+ingtotheorderoftopicsdiscussedinMessiasPuer.SeeIntroduction.
+Anna M. Vileno and Robert J. Wilkinson - 978-90-04-44342-6
+
+[Page 157]
+1EvangeliumSanctum
+PræconiumJochananPræconis,
+Quodprotulit&prædicavitGræcèinEpheso.
+Cap.i. 40
+fol.3r 21.PrincipiumCreationiseratverbum,&ipsumverbumeratapudDeum3;&
+Deuseratipsumverbum.4,5
+2.Hoceratcreationisprincipium6apud|Deum. 5
+3.Omniapermanumejusfactasunt,&sineeoneunumquidemfuit,quicquid
+factumest.7
+4.Inipsoeratvita,&vitaeratLuxfiliorum|hominis.8,9 10
+5.EtipsaLuxintenebrislucet,&tenebrænoncomprehenderunteam.10,11
+V.i.12PrincipiumCreationisתישירב
+Cabb.Cat.SicutChaldæisvoxתישארבnonidemsonat |acinPrincipio,sive 15
+per Principium, prout in Hebræo: quod docent exempla Jes. 41, 413; c. 40, 21;
+c.66,9;c.28,29;1Sam23,5;Job.41,2.14 ubi תישארבמ estâ15principiocrea-
+tionis;תישארבירדסordinesprincipiicreationis;תישארב16ידבועoperaprincipii
+Creationis.AtquesicetiaminSohar&alibisæpiùsתישארבימי|Diesprincipii 20
+p.10 creationis;itemתישארבהשעמopusprin-‖-cipii17Creationis.ItaetiamSyrus
+1 Addedinthemargin,ontheleft:Sectioii.
+2 Ontheleft-handhalfofthepage,afragmentcutfromKnorr’seditionofthePeshittta
+NewTestamentcontainingtheSyriacversionofthequotedpassageintheGospelof
+Johnispastedinandcrossedout.
+3 bsb:DEum
+4 Addedintherightmarginandsubsequentlycrossedout:v.1.1.Joh.1,1.2;Apoc.19,13.
+Infr[a]10,33.36.
+5 Vulgate:InprincipioeratVerbum,etVerbumeratapudDeum,etDeuseratVerbum.
+6 Correction:creationisprincipiumreplacedbyinprincipio.Knorr’scorrectionaimsat
+mitigatingtheboldnessofthefirstformulation,whichwasveryfarfromtheVulgate
+(HoceratinprincipioapudDeum).Knorrunderstandsthecreationisprincipiumas
+AdamKadmonorthepre-existentChrist.
+7 Vulgate:Omniaperipsumfactasunt;etsineipsofactumestnihilquodfactumest.
+8 Addedintherightmarginandsubsequentlycrossedout:v.3.Eph.3,9;Col1,17;Hebr.
+1,2.Infr[a]5,26&8,12&9,5&12,46;1Joh.5,11.
+9 Vulgate:Inipsovitaerat,etvitaeratluxhominum.
+10 Addedintherightmarginandsubsequentlycrossedout:v.5.Infr[a]3,19.
+11 Vulgate:Etluxintenebrislucet,ettenebræeamnoncomprehenderunt.
+12 Deletion:Annotatio1
+13 TheHebrewhashereשארמ,andtheVulgateabexordio.
+Anna M. Vileno and Robert J. Wilkinson - 978-90-04-44342-6
+
+[Page 158]
+Sectionii
+TheHolyGospel
+TheProclamationoftheHeraldJohn
+WhichheadvancedandpreachedinGreekinEphesus18
+40 Chapter1||| fol.3r
+1The[First]PrincipleofCreationwastheWord19,andtheWordItselfwaswith
+GodandGodwasthatWord20.
+5 2This[First]PrincipleofCreationwas|withGod.
+3Everythingwasmadebyhishand,andwithouthimtherewasnotonething21
+whichwasmade.
+10 4InhimwasLifeandtheLifewastheLightofthesons|ofman22.
+5AndtheLightitself shinesindarknessandthedarknessdoesnotovercome
+it23.
+Verse1
+The[First]PrincipleofCreationbryšyt
+KabbalistCatechumenAswithAramaicspeakers,soinHebrew,theword
+15 brʾšytdoesnotmean|“intheBeginning”rather“The[First]PrincipleofCre-
+ation”,astheseexamplesindicate:Isa41.4;40.21;66.9;28.29;1Sam23.5;Job
+41.2,where[respectively]mbrʾšytmeans“fromthe[First]Principleof Cre-
+ation”,sdrybrʾšyt“theordersofthe[First]PrincipleofCreation”,ʿwbdybrʾšyt
+“theworksof the[First]Principleof Creation”.AndintheZoharandelse-
+20 where,quitefrequentlyymybrʾšyt|[means]“thedaysofthe[First]Principle
+14 Withtheexceptionofthefirsttworeferences,theothersdonotrelatetothequestion
+oftheoriginoftheprincipleorofthebeginning.
+15 bsb:à
+16 Deletionoffourwords,nowunreadable.
+17 Aredpencilsquarebracketinsertedintothetext([Creationis)referstoanannotation
+intherightmargin:12.A/10.
+18 ThisisthetraditionalheadingtoJohn’sGospelinthePeshittaNewTestament.
+19 Vulgate:“InthebeginningwastheWord”.ThetranslationoftheSyriacgivenhereis
+coherentwiththeexpositionwhichfollows.
+20 SoVulgate“EtDeuseratVerbum”.TheGreekkaitheosēnhologoswhichappearstouse
+theospredicativelywithoutthearticlemaybemorenuanced.
+21 Vulgateadds“whichwasmad”here.
+22 Vulgate:“lightofmen”.
+23 ThetextherefollowstheVulgate“ettenebraeeamnoncomprehenderunt”incontrast
+tothelemmagivenbelow.
+Anna M. Vileno and Robert J. Wilkinson - 978-90-04-44342-6
+
+[Page 159]
+136 text and translation
+Interpresantiquissimusvoceתישירבsemper24utitureodemmodo,utMatth.
+19,4.8;Marc.10,6;Joh.8,44;Hebr.1,10;1Joh.1,1;c.2,7.13.14.ubiתישירבןמestâ
+principioCreationis.Quidhincconcludis?
+Christianus.Licebitneconcludere;quodnontantùmantiquissimusiste 25
+interpresnosterEvangeliiJohannitici(siveApostolusfuerit,siveèDiscipu-
+lis Domini, prout quidam Marcum fuisse statuunt; sive alius quidam Vir
+Apostolicus, quod universalis omnium Ecclesiarum orientalium consen-
+susapprobat;)eodemsensuhancvocemacceperit,quototatuncEcclesia
+Judaicautebatur;sed&ipseJohannes|Apostolusexlinguæpotiuspatriæ 30
+sensuEvangeliumsuumsitexorsus,quamGræcanicæ,cujussanè,utètota
+illiusphrasiapparetnonadmodumfuitstudiosus?Sanèaccedit,quodipse
+ChristusApoc.3,14.seappelletPrincipiumcreationisDei.
+Cabb.Cat.Hocpræsupposito,confirmareturnostrahypothesis25,|quodhîc 35
+intelligaturistudprincipiatumprimumunicum,âcausâprimâunicânecessa-
+riòproductum;quoddeindefuitprincipiumomniumproductorumreliquorum;
+videatur Philosophiæ Cabbalisticæ Dissertatio 2. per totum. Cabbalæ Denu-
+p.11 datæscilicet.Part.3.p.31.seqq.26‖
+27Christianus.ModòsubintelligaturMessias,inillophilosophandigenere
+faciles|essepossemus. 40
+Cabb. Cat. Quid autem super voce תישארב annotant veteres in Libro
+Sohar?
+Christianus. Quamvis pleraque illorum parum faciant ad propositum
+nostrum;exercitiitamenphilologicigratia,quædamcollegimusinExcerpt.
+fol.3v Cent.i.Loc.3.4.5.6.7.8.9.10.11.|||
+24 Correction:semperreplacedbyplerumque.Thecorrectionsoftenstheclaim.
+25 Thesameexpression,“ourhypothesis”,appearsinKabbaladenudata,ii,1684“Adum-
+bratiokabbalæchristianæ”,p.26.
+26 ForthiscommentoftheCabbalist,cf.“Adumbratiokabbalæchristianæ”,op.cit.,p.8.
+The“DissertationofKabbalisticPhilosophy”heisreferringtoistheLatintranslation
+ofthePuertadelCielobyAbrahamCohendeHerrera:“LiberPortaCœloruminquo
+dogmataCabbalisticaPhilosophicèproponuntur&cumPhilosophiaplatonicacon-
+feruntur”,publishedintheKabbaladenudata,i,Parstertia:“Probaturtredecimargu-
+mentisfortißimis(sic),quodàPrincipioprimoimmediatèemanaveritPrincipiatum
+Unumtantùm&perfectum.”(“Dissertatiosecunda”,Cap.1,p.31).
+27 Aredpencilsquarebracketinsertedintothetext([Christianus)referstoanannotation
+intherightmargin:13.A/11.
+28 Withthisimportantexpositiononeshouldcomparethematerialin“Adumbratiokab-
+balæ christianæ”, chap. 3, §13, p. 9 (Spector, FrancisMercuryvanHelmont’sSketch
+ofChristianKabbalah,op.cit.,p.42)andthecommentsuponthatpassageinAnna
+Anna M. Vileno and Robert J. Wilkinson - 978-90-04-44342-6
+
+[Page 160]
+section ii 137
+ofCreation”andmʿšhbrʾšyt“theworkofthe‖[First]PrincipleofCreation”. p.10
+SoalsotheveryancientSyriactranslatorusesbryšytfrequentlyinthesame
+wayatMt19.4,8;Mk10.6;Jn8.44;Heb1.10;1Jn1.1;2.7,13,14wheremnbryšyt
+means“fromthe[First]PrincipleofCreation”.28Whatdoyouconcludefrom
+this?
+ChristianMayonenotconclude:thatnotonlythisourveryancient[Syr-
+30 iac]translatorof theGospelof John(whetherhewastheApostle[John]|,
+oroneof theDisciplesof theLord(justasindeedMarkisthoughttohave
+been)orsomeotheroneoftheApostles—whichtheuniversalconsensusof
+theEasternChurchesconsiderstobethecase)understoodthisword[brʾšyt
+inHebrew,bršytinSyriac]inthesamesenseasthewholeoftheJewishEccle-
+siadidatthattime,and[secondly]thattheApostleJohnhimselfwrotehis
+ownGospelintheidiomofhisnativelanguageratherthaninthatofGreek,
+inwhichclearly,asisapparentfromallhisusage,hewasnotgreatlylearned.
+Clearly,too,[John]assentstothatwhichChristcallshimself(Rev3.14),“the
+PrincipiumoftheCreationofGod”.29
+35 Kabbalist Catechumen This presupposition [of yours] | confirms our
+hypothesisthathereistobeunderstoodthatUniqueFirstOneofthePrin-
+cipia,producednecessarilyfromthesoleFirstCause,whichthenwasthe
+Principiumof everythingelsewhichwasproduced.See PhilosophiaeCab-
+balisticaeDissertatio2passim;Cabb.Denud.,Part.3,p.31etseq.30‖ p.11
+ChristianWecaneasilyseehowMessiahisimpliedinthattypeofphilo-
+40 sophising.|
+KabbalistCatechumenButwhatdidtheancientshavetosayaboutthe
+wordbrʾšytintheBookZohar?
+ChristianAlthoughmanyoftheirremarkstherehavelittletodowithour
+proposition,asaphilologicalexercise,wecollectedsomeoftheminExcerpt.
+Cent.iLoc.3,4,5,6,7,8,9,10,11.||| fol.3v
+M.VilenoandRobertJ.Wilkinson,“DiePeshittavon1684”,art.cit.,p.219.ThereGene-
+sis1.1iscitedandboththeHebrewbrʾšyt(“inthebeginning”)andtheSyriacbryšyt
+aregiven,buttranslated“perprincipium(i.e.Messiam)creavitDeuscoelum&terram”.
+ThepointhereisthatGodcreatedthroughthePrinciple(Bereshit)whichisMes-
+siah.CopiousNewTestamentcitationsthereindicatehowseveralassertionsofChrist’s
+cosmicroleincreationarenowtobeunderstoodascongruentwith,if notsimply
+expressing,thisunderstanding.
+29 TheGreekarchētēsktiseōstoutheouandtheVulgate“quiestprincipiumcreaturae”can
+perhapstoleratethissense.TheSyriac(Harklean)texthoweverhaswršytʾdbrythdʾlhʾ
+whichseemsundoubtedlytemporal.
+30 Referenceismadebackheretothemorephilosophicdiscussionsofultimatecausality
+in“Adumbratiokabbalæchristianæ”.
+Anna M. Vileno and Robert J. Wilkinson - 978-90-04-44342-6
+
+[Page 161]
+138 text and translation
+31Eratverbumאתלמיהותיא
+Cabb. Cat. Si Johannes per verbum intelligit Messiam seu personam illam,
+interomniaproductaprimam,quæâNostratibusdiciturAdamKadmon,cur
+Verbiappellationeutitur?
+Christianus.Utadvestrumpotissimummeaccomodemcaptum,ratio- 5
+nesmihiinteraliasoccurruntsequentes:
+1.Quiasicutverbumestexpressioreiignotæ;itaMessiasestexpressioDei
+infiniti,incomprehensibilis(Joh.1,18)&hocsensuCabbalistisvestrisvox
+Breschith dicitur verbum, inter decem creationis verba numerandum: i.e.
+expressioquædam|objectorumsublimiumincognitorum:itainEpistolaad 10
+Hebræosc.1,3.Messiasdiciturcharacter.EtsicutMessiasperappellationem
+Verbidiciturexpressiodivinitatis;itadeeodemdicitur,quodomniaportet
+verbo,i.e.expressionevirtutissuæ,Heb.1,3.
+2.VerbiappellationetotaquasiexhaurituripsiusEmanatio:sicutenimin
+p.12 verboconcurruntelocutio,spiritus,vox&loquens:itadictioseu‖32elocutio
+àVobisrefertur|adMalchuth;videinLoc.Comm.33רובד,34רבד,35הרימא&c. 15
+SpiritusadThiphereth;vid.36חור;voxadBinah&suosensuadChochmah,
+vid.37לוק:ipseautemloquensoccultusestKether;Etinspirans,Ensoph.
+3.InspecieMessiascommuniterâVestratibusolimreferebaturadRegni
+gradumquicommunissimèvocaturSchechinah,&ordinarièverbum;vide
+inרבדlococitato|&TargumGen.28,20.21;Ex.19,17;Jes.1,14.16;c.45,2;c.48, 20
+11;c.49,5.15;c.51.5;Jer.24,6;c.27,5.18;c.29,14.23;Hos.1,7.9;Zach.2,5.
+31 Deletion:Annotatio2
+32 Aredpencilsquarebracketinsertedintothetext([elocutio)referstoanannotationin
+theleftmargin:14.A/12.
+33 “רובדLoquela.ItavocaturSchechinahMalchuth.Ratioest,quiaTipherethvocaturVox:
+ergòMalchuthloquelavelelocutio.Sicutenimlocutiodiscriminatvoces,&sonossyl-
+labæ,itaMalchuthestmanifestatioTiphereth,&conspectussonorumejus.Itaautem
+vocaturexparteGebhurah:quialocutiosemperduritiemrefert,quamvisnonexclu-
+danturcæterigradus.[…]”(KabbalaDenudata,i,“ApparatusinLibrumSohar,Pars
+prima,nempeLocicommuneskabbalisticisecundumordinemAlphabeticumconcin-
+nati,quiLexiciinstaressepossunt”,p.243).
+34 “רבדVerbum.EstMalchuth.EthucpertinetilludPsal.103,20.Fortesrobore,facientes
+verbumejus.dequovid.Sohar&Tikkunim.SicquoquelocusillePsal.110,4.Secundum
+verbummeumMalchizedek;quæestSchechinah;quævocaturVerbummeum,quiaerat
+mensuraDavidis.[…]”(Ibid.,pp.245–246).
+35 “10.SubeodemtituloהרימאinPardesreperiuntursequentiahisverbis:Hocinloco
+variantInterpretes.QuidamhancvocemreferuntadMalchuth,adductolocoPsal.68,
+12.AdonaidabitSermonem:SicutphrasinרובידloquendireferuntadGebhurah,exhac
+ratione,quodExod.6,2.dicatur:EtlocutusestElohimadMosen.Ubiphrasisloquendi
+Anna M. Vileno and Robert J. Wilkinson - 978-90-04-44342-6
+
+[Page 162]
+section ii 139
+WastheWordythwymltʾ
+KabbalistCatechumenIf by“Word”JohnunderstoodMessiahorhis“per-
+sona”,thefirstamongallthingsproduced,whomoursagescall AdamKad-
+mon,whydoesheusetheterm“Word”?
+5 ChristianTobetteradaptmyself toyourcapacity[Ishalloffer]thefol-
+lowingreasonswhichamongstothersoccurtome:
+(1)Because,justasawordisanexpressionofsomethingunknown,sois
+10 Messiahanexpression|oftheInfiniteandIncomprehensibleGod(Jn1.18).
+In this sense your Kabbalists consider the word Breschith (called “Word”)
+should be counted amongst the Ten Words of Creation i. e. as an expres-
+sionof certainsublime[but]unknownobjects38:soinHeb1.3,Messiahis
+designatedasa“character”[or“expressimage”].JustasMessiahbytheterm
+“Word”issaidtobeanexpressionofdivinity,soalsoitissaidthat“heupholds
+everythingbythewordi.e.bytheexpressionofhispower”(Heb1.3).
+(2) By calling him “Word” the whole of his Emanation is, as it were,
+broughttoitscompletion.Forjustasin“word”therecombinearticulation,
+15 spirit,voiceandspeaker,so“diction”or‖“articulation”islinkedbyyou|to p.12
+Malkhut(seeinLocComm.dbwr,dbr,ʾmyrhetc.);“spirit”toTiferet(seerwḥ);
+“voice”toBinahand,initsownsense,toChokhmah(seeqwl);the“speaker”
+himselfisconcealedasKeterandthe“breathing”inEinSof.
+(3)Specifically,Messiahwascommonlyconnectedbyyour[teachers]to
+theGradeKingdom[Malkhut]whichismostcommonlycalledShekhinah,
+20 andordinarily“Word”.Seeondbrloc.cit.|andtheTargumonGen28.20,21;
+Ex19.17;Isa1.14,16;45.2;48.11;49.5,15;51.5;Jer24.6;27.5,18;29.14,23;Hos1.7,
+9;Zech2.539.
+combinaturcumElohim,quodestinPrædicamentoGebhurah.[…]11.Aliialiomodo;
+DibburreferuntadMalchuth,&AmirahadTiphereth.”(Ibid.,p.128).
+36 “חורSpiritus.HæcvoxnudèpositareferturadTiphereth,quiinterelementanomen
+Aërishabet;cummediumteneatlocuminterGedulah&Gebhurah,Aquam&Ignem.
+[…]”(Ibid.,p.682).
+37 “לוקVox;nullibinonadTipherethpertinet.SeddaturVoxinterna,quænonauditur,
+nempeinBinah;&nihilominustamensubintelligiturDaathinIstâlatens.לוקergòVox,
+absolutèpositu(sic),estTiphereth:sed&omnesseptemSephirothvocanturVoces,
+quæsuntseptemVocesillæ,quarummentiositPs.29,3.4.5.7.8.9.Omnestamenrespec-
+tuminvolventesadTiphereth:sicut&inpromulgationeLegisEædemvocesappellan-
+tureodemrespectu,itautIllæsintsexVoces,&Ipseseptima,quiomnescomplectitur,
+submysterioascensusejusinBinah.”(Ibid.,p.673).
+38 TheTenUtterances(ʿšrhmʾmrwt)bywhichtheworldwascreatedarelinkedtotheTen
+Commandments(ʿšrthdbrwt)ofEx20inZohar,iii,11b.
+39 Therelevanceof thesequotationsisnotnecessarilyevidentfromthebiblicaltext.
+Anna M. Vileno and Robert J. Wilkinson - 978-90-04-44342-6
+
+[Page 163]
+140 text and translation
+Et4.hacipsa40appellationetotaserieshistoriæcreationisexplicatur,ut
+sensussit,quotiescunqueinGenesidicitur, Etdixit;totiesinvolvimentio-
+nemSchechinæ&Messiæ;neexclusâquidemvoceתישארב.Etproculdubio
+hucrespexitipseDominus|Joh.5,46&EvangelistaLuc.24,27.Conferantur 25
+initiaMosis(Hebr.10,7)&initiaomniumProphetarum.
+Cabb.Cat.NonigiturtantoperèdivinaNaturaMessiæhocnomineinnuitur,
+quamnaturailliusproducta,quamprofectòinMariainitiumsumsisseminimè
+diceremsiadvestraspartestransirem41.EthucpertinentlocaAdumbration.| 30
+Cabbal.Christianæc.3.&c.7.§.26.42
+43EratapudDeumאהלאתולאוהיהותיא
+Cabb.Cat. Fallor?Anhîcinnuiturintimà&quamvosdicitispersonalisilla
+unioAnimæsivenaturæproductæMessianæcumcommunicatasibinatura
+p.13 divina? ‖44particulaenim תול Chaldæis&Syrisdenotatconjunctionem | & 35
+consociationemintimiorem.
+Christianus. Sanè particula πρός respectum potiùs externum denotat;
+qualisinChristoneutiquamsufficit.SeddeNomineאהלאquædamsuggere.
+Cabb.Cat.Voxאהלא,cuiæquipolletםיהלא(i.)generaliterquidemsumitur
+prototaLuce,abinfinitoinAziluthimmanante,&abhinculteriuscommuni-
+cata;|undehocnomenextensionemquandamhabetpertotumilludsystema, 40
+HowevertheTargum’sinsertionof“word”givesthempointe.g.TargumIsa1.14.“Your
+newmoonsandyourappointedfeastsmyWordhates”;TargumIsa1.16“Putawaythe
+evilof yourdoingsfrombeforethepresenceof myWord”.Theuseof theAramaic
+wordmmrʾ[word]appearsoftentobejustanotherwayofsaying“God”or“theLord”.
+Therehasnonethelessbeenmuchdebateaboutwhetheritisalikelyinfluenceupon
+John’stheologyoftheWord,thoughmanyscholarshaveconsideredthisablindalley.
+ItsrelevancehasbeenarguedforbyMartinMcNamara,TargumandTestamentRevised
+(GrandRapids:Eerdmanns,2010),pp.155–166;Id.,“TheLogosoftheFourthGospeland
+theMemraofthePalestinianTargum(Ex12.42)”nowcollectedinhisTargumandTesta-
+mentCollectedEssays(Tübingen:MohrSiebeck,2011),pp.439–443.JohnRonning,The
+JewishTargumsandJohn’sLogosTheology(Peabody,Mass.:Hendrickson,2010)offers
+supporttothisview.
+40 bsb:hâcipsâ
+41 Deletion:siadvestraspartestransirem.
+42 Thethirdchapterofthe“Adumbratio”isdevotedtoasystematiccomparisonofthe
+characteristicsattributedbytheLurianictraditiontoAdamKadmonandthoseattri-
+butedtoChristbyChristiantraditions.Chapterviidealswiththepreexistenceofsouls,
+butalargepartofitconsidersthenatureofChrist,inordertodemonstratethatitis
+bothhumananddivine.
+Anna M. Vileno and Robert J. Wilkinson - 978-90-04-44342-6
+
+[Page 164]
+section ii 141
+(4)Bythisterm[“Word”]thewholesequenceofthehistoryofCreationis
+explained,aswheneverinGenesisitissaid“AndHesaid”thereisinvolveda
+mentionofShekhinahandMessiah—nottoforgetthewordbrʾšyt.Andno
+25 doubttheLordhimself |lookedbacktothis(Jn5.46)andalsotheEvange-
+list(Lk24.27).The“beginningsinMoses(Heb10.7)andinalltheProphets”
+[mentionedinLk24.27]areherebroughttogether.
+KabbalistCatechumenSoitisnotsomuchthedivinenatureofMessiah
+whichthisnameasserts,ashiscreatednature:andcertainly,ifIweretocon-
+verttoyouropinion,Iwouldnotsaythisbeganin[thewombof]Mary45.
+30 Relevant here are Adumbratio | Kabbalae Christianae, chap. 3, & chap. 7,
+
+---
+
+*Extracted from: Anna M Vileno Robert J Wilkinson Messias Puer_ Christian Knorr von Rosenroths Lost Exegesis of Kabbalistic Christianity BRILL (630 pages)*
+*Figures mentioned: Éliphas Lévi, Henry More*
+*Concepts mentioned: Correspondence, Emanation*

@@ -28,7 +28,7 @@ const modalStack = [];
 
 document.addEventListener('DOMContentLoaded', async () => {
     try {
-        const response = await fetch('../data/prototype_data.json');
+        const response = await fetch('./data/prototype_data.json');
         allData = await response.json();
         allData.emblems = allData.emblems || [];
 

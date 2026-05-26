@@ -1,0 +1,109 @@
+---
+source: Anna M Vileno Robert J Wilkinson Messias Puer_ Christian Knorr von Rosenroths Lost Exegesis of Kabbalistic Christianity BRILL
+source_category: Western Esotericism
+author: Unknown
+total_pages: 630
+section: introduction 5
+section_number: 11
+date_processed: 2026-05-25T15:01:06.396363
+figures_mentioned: Éliphas Lévi, Henry More
+concepts_mentioned: Correspondence, Emanation
+---
+
+# Anna M Vileno Robert J Wilkinson Messias Puer_ Christian Knorr von Rosenroths Lost Exegesis of Kabbalistic Christianity BRILL
+
+## Section: introduction 5
+
+introduction 5
+balistique. (Tout l’ouvrage est écrit en langage rabbinique & se trouve
+encoreenmanuscrit.)10
+The article on Knorr in the fifteenth volume of Zedler’s UniversalLexicon of
+1737issimilarlydependentandpersistswithUnger’sunhelpfulremarkabout
+theworkbeinginIdiomateRabbinico,whichoneassumeswassimplyamisun-
+derstandingofthepresenceoftheSyriac,butnow(aswithMoréri)theentire
+workiswrittenenlangagerabbiniqueratherthanLatin.Butofinterestishow
+Zedlercontrivestocreateyetanotherformofthetitlefromadescriptionofthe
+text,thistimeinLatin,tosupplementthevernacularexpansion.Thistitlemay
+havecomefromthedescriptionin MonatlichenUnterredungennotedabove,
+whichinturnissimilartoLeibniz’sdescription:
+SeineeigeneSchriftensind:Messiaspuer,abadnunciationeMariaeusque
+adBaptismus,odervonderWahrheitderChristlichenReligion,dieersich
+durchdieZeugnissederercabbalistenzuerweisenbemühetunddeßwe-
+gen auch das ganzeWerck in Rabbinischer Sprache verfertiget, so aber
+nochnichtgedrucktist.11
+Evidentlythesenoticeshavenoindependentvaluewhatsoever.
+AtthispointitmaybehelpfultoconsidertheattestationofHistoriaeEvan-
+gelicae initium, secundum quatuor Evangelistas which we consider to be no
+morethanaphantomwork.Theevidenceforthisworkisprimarilytheprinted
+fragment found in the Bayerischen Staatsbibliothek in Munich. It is without
+title-page, printer or place and has evidently been named in the catalogue
+in the absence of a title page in the conventional way by its first words, the
+headingonthefirstpage12.Onthefirstpageappearsahandwrittennotegiv-
+ingtheshelfmark:“Exeg.567mKnorr”andastampunderneathindicatingthe
+10 “Hereisthelistofhisworks:Messiaspuer,orTheTruthoftheChristianReligion,whichhe
+claimstoprovebythetestimoniesofKabbbalisticknowledge.(Thewholebookiswritten
+inrabbiniclanguageandisstillinmanuscript.)”(L.Moréri,GrandDictionnaireHistorique,
+vol.5(Basle,1740):p.833).
+11 “Hisownwritingsare:MessiasPuer,FromtheAnnunciationtoMaryuptohisBaptism,or
+ConcerningtheTruthoftheChristianReligion,whichheendeavorstoprovebythetes-
+timoniesof theirKabbalistsandforthatreasonalsothewholeworkiswritteninthe
+rabbiniclanguage.Butthisisstillnotprinted.”(QuotedbyvanGemert,“Frühenieder-
+ländischeStimmenzuChristianKnorrvonRosenrothundihrKontext”,art.cit.,p.86).
+12 Onthefirstprintedpage,aninitialautographannotation“VitringassObservat138”refers
+totheSacrarumObservationumLibriSexi(Franeker,1712)ofCampegiusVitringa(1659–
+1722),page128(notpage138asstatedintheannotation)whereinhis“DissertatioSecunda
+deSephirothKabbalistarum”(pp.125–174,p.128)favourablementionismadeoftheKab-
+Anna M. Vileno and Robert J. Wilkinson - 978-90-04-44342-6
+
+[Page 29]
+6 chapter 1
+provenienceof thebook:“ExdonatMolliana”.Theexemplarcomesfromthe
+collectionof KarlMariaEhrenbertFreiherrvonMoll13.Weknowof noother
+remainingcopies,butJ.Fabriciusin1724reportedone:
+Christiani cnorrii a Rosenroth Historia evangelica. Sine capite et calce:
+libellusenimcaretrubro,&fine,quoniamauctoreiestimmortuus.Intro-
+duciturautemCabbalistacatechumenus,quiquæstionesexiv.evangeliis
+proponit,&Christianusadeasrespondet.Multahiccabbalisticainfarciri,
+nemodubitabit,quiauctoremnoverit.14
+AcompletemanuscriptintheHerzogAugustBibliothekinWolfenbüttelupon
+which our edition here is based15, which is undoubtedly the same work16, is
+similarlywithouttitlepageandisnamedfromitsopeningwordswhichwere
+addedbyKnorr’shand,theheadingonthefirstpage.Butotherwisethetitle
+Historiæevangelicæinitiumseemssignificantlyunattested.
+balaDenudataandofKnorr.Evidentlytheannotationwasaddedbyonewhobelievedthe
+booktobebyKnorr.
+13 HistorischeKatalogederBayerischenStaatsbibliothekMünchen.MünchnerHofbibliothek
+undandereProvenienzen,ed.byS.KellnerandA.Spethmann(Wiesbaden:Harrassowitz
+Verlag,1996):pp.539–541.
+14 “ChristianKnorrvonRosenroth,HistoriaEvangelica.Withoutfrontorbackmaterial.With-
+outatitle,oranendingfortheauthordied.AKabbalistCatechumenisintroducedwho
+asksquestionsupontheFourGospelsandaChristianrepliestothem.Thebookisstuffed
+withalotofkabbalisticmaterial—atwhichnoonewhoknowstheauthorwillbesur-
+prised.”J.Fabricius,HistoriabibliothecaeFabricianaequasingulieiuslibrieorumquecon-
+tenta,vi(Wolfenbüttel&Helmstadt,1724),p.526.Theusehereofalmosttheexactwords
+auctorestimmortuus(“Thewriterdied”)whichappearintheanonymoushandwritten
+noteattheendofthebsbfragment[auctoroperiimmortusest](“Thewriterofthework
+died”),makesonewonderwhetherthisisnotinfactthesamevolume.Thisisprobablythe
+casesinceFabricius’Historiaisakindofbibliographyofhisownlibraryanditseemsquite
+possiblethatthereforethesoleexemplarhadpassedthroughhishands.Fabriciuswas
+ProfessorinAltdorf,theregionalUniversityofNuremberg,andmayhaveknownKnorr
+well.KnorralsoenjoyedcloserelationshipswithWagenknecht,anotherProfessorinAlt-
+dorf.Lateron,FabriciuswaspresentinWolfenbüttel,whichisanadditionallinkwiththe
+CourtofSulzbach.OurgratitudegoesheretoRosmarieZellerforthisvaluableinforma-
+tionaboutthescholarlynetworksurroundingKnorr.
+15 Cod.Guelf.126Extrav.
+16 PossiblythepreservedprintedversionoftheBayerischeStaatsbibliothekistheprinter’s
+proofcopymadefromthehabmanuscript.(Thiswouldperhapsaccountfortheuncor-
+rectederrorsintheHebrewletters.)IfweimaginetheprintingtookplaceinSulzbach,the
+mostlikelyplace,thenwemayconjecturethattheproofswerefirstkeptinthelibraryof
+Sulzbachandsubsequentlyboundtogether.OnceagainwearegratefultoRosmarieZeller
+forthisobservation.
+Anna M. Vileno and Robert J. Wilkinson - 978-90-04-44342-6
+
+[Page 30]
+
+---
+
+*Extracted from: Anna M Vileno Robert J Wilkinson Messias Puer_ Christian Knorr von Rosenroths Lost Exegesis of Kabbalistic Christianity BRILL (630 pages)*
+*Figures mentioned: Éliphas Lévi, Henry More*
+*Concepts mentioned: Correspondence, Emanation*

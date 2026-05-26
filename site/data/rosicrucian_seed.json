@@ -1,0 +1,246 @@
+{
+  "concepts": [
+    {
+      "id": 1,
+      "name": "Nigredo",
+      "slug": "nigredo",
+      "category": "alchemical_stage",
+      "description": "The blackening stage in alchemical transformation, representing putrefaction, dissolution, and the death of the old self. Central to Rosicrucian and theosophical alchemy as the necessary precursor to spiritual rebirth.",
+      "source_method": "HUMAN_CURATED",
+      "confidence": "HIGH",
+      "review_status": "VERIFIED"
+    },
+    {
+      "id": 2,
+      "name": "Albedo",
+      "slug": "albedo",
+      "category": "alchemical_stage",
+      "description": "The whitening or purification stage in alchemy, following nigredo. Symbolizes clarification, washing away impurities, and the ascent toward perfection.",
+      "source_method": "HUMAN_CURATED",
+      "confidence": "HIGH",
+      "review_status": "VERIFIED"
+    },
+    {
+      "id": 3,
+      "name": "Rubedo",
+      "slug": "rubedo",
+      "category": "alchemical_stage",
+      "description": "The reddening or final stage of alchemical transformation, representing perfection, completion, and the creation of the Philosopher's Stone or elixir. The goal of the Great Work.",
+      "source_method": "HUMAN_CURATED",
+      "confidence": "HIGH",
+      "review_status": "VERIFIED"
+    },
+    {
+      "id": 4,
+      "name": "Theosis",
+      "slug": "theosis",
+      "category": "spiritual_principle",
+      "description": "Divine union or deification; the process of human transformation toward unity with the Divine. Rosicrucian alchemy reinterprets this Neoplatonic concept as the alchemical union of matter and spirit.",
+      "source_method": "HUMAN_CURATED",
+      "confidence": "MEDIUM",
+      "review_status": "REVIEWED"
+    },
+    {
+      "id": 5,
+      "name": "Hieros Gamos",
+      "slug": "hieros-gamos",
+      "category": "symbolic_union",
+      "description": "Sacred marriage or the conjunction of opposites; the union of masculine and feminine principles, sun and moon, sulfur and mercury. Central to alchemical symbolism and Rosicrucian cosmology.",
+      "source_method": "HUMAN_CURATED",
+      "confidence": "HIGH",
+      "review_status": "VERIFIED"
+    },
+    {
+      "id": 6,
+      "name": "Lapis Philosophorum",
+      "slug": "lapis-philosophorum",
+      "category": "alchemical_product",
+      "description": "The Philosopher's Stone; the ultimate goal of the Great Work in alchemy. Symbolizes spiritual perfection, universal knowledge, and the transmutation of base metals into gold (understood as metaphorical and spiritual, as well as material).",
+      "source_method": "HUMAN_CURATED",
+      "confidence": "HIGH",
+      "review_status": "VERIFIED"
+    },
+    {
+      "id": 7,
+      "name": "Rosy Cross",
+      "slug": "rosy-cross",
+      "category": "rosicrucian_symbol",
+      "description": "The central symbol of Rosicrucianism, combining the rose (feminine, regeneration, love) with the cross (masculine, sacrifice, redemption). Represents the union of opposites and spiritual initiation.",
+      "source_method": "HUMAN_CURATED",
+      "confidence": "MEDIUM",
+      "review_status": "REVIEWED"
+    },
+    {
+      "id": 8,
+      "name": "Correspondentia",
+      "slug": "correspondentia",
+      "category": "hermetic_principle",
+      "description": "The doctrine of correspondences (as above, so below); the belief that all levels of reality (divine, celestial, terrestrial) are interconnected and reflected in one another. Foundation of Hermetic and alchemical thinking.",
+      "source_method": "HUMAN_CURATED",
+      "confidence": "HIGH",
+      "review_status": "VERIFIED"
+    },
+    {
+      "id": 9,
+      "name": "Putrefactio",
+      "slug": "putrefactio",
+      "category": "alchemical_process",
+      "description": "Putrefaction; the decomposition and fermentation phase in alchemy, essential to transformation. Marks the transition from nigredo to other stages, symbolizing the necessary destruction before renewal.",
+      "source_method": "HUMAN_CURATED",
+      "confidence": "HIGH",
+      "review_status": "VERIFIED"
+    },
+    {
+      "id": 10,
+      "name": "Quaternio",
+      "slug": "quaternio",
+      "category": "symbolic_structure",
+      "description": "The sacred four; a fundamental pattern in alchemical and Rosicrucian cosmology representing completeness and balance. Appears in four elements, four directions, four stages of the Work.",
+      "source_method": "HUMAN_CURATED",
+      "confidence": "MEDIUM",
+      "review_status": "REVIEWED"
+    }
+  ],
+  "figures": [
+    {
+      "id": 1,
+      "name": "Johann Valentin Andreae",
+      "slug": "johann-valentin-andreae",
+      "birth_year": 1586,
+      "death_year": 1654,
+      "nationality": "German",
+      "primary_discipline": "Theologian, Rosicrucian",
+      "biography": "[To be written in Phase 2]",
+      "key_concepts": [1, 7],
+      "source_method": "DETERMINISTIC",
+      "confidence": "HIGH",
+      "review_status": "DRAFT"
+    },
+    {
+      "id": 2,
+      "name": "John Dee",
+      "slug": "john-dee",
+      "birth_year": 1527,
+      "death_year": 1608,
+      "nationality": "English",
+      "primary_discipline": "Mathematician, Occultist, Rosicrucian",
+      "biography": "[To be written in Phase 2]",
+      "key_concepts": [8],
+      "source_method": "DETERMINISTIC",
+      "confidence": "HIGH",
+      "review_status": "DRAFT"
+    },
+    {
+      "id": 3,
+      "name": "Robert Fludd",
+      "slug": "robert-fludd",
+      "birth_year": 1574,
+      "death_year": 1637,
+      "nationality": "English",
+      "primary_discipline": "Physician, Rosicrucian Apologist",
+      "biography": "[To be written in Phase 2]",
+      "key_concepts": [8, 1, 3],
+      "source_method": "DETERMINISTIC",
+      "confidence": "HIGH",
+      "review_status": "DRAFT"
+    },
+    {
+      "id": 4,
+      "name": "Paracelsus",
+      "slug": "paracelsus",
+      "birth_year": 1493,
+      "death_year": 1541,
+      "nationality": "Swiss",
+      "primary_discipline": "Physician, Alchemist, Philosopher",
+      "biography": "[To be written in Phase 2]",
+      "key_concepts": [1, 2, 3, 4, 6],
+      "source_method": "DETERMINISTIC",
+      "confidence": "HIGH",
+      "review_status": "DRAFT"
+    },
+    {
+      "id": 5,
+      "name": "Jacob Böhme",
+      "slug": "jacob-bohme",
+      "birth_year": 1575,
+      "death_year": 1624,
+      "nationality": "German",
+      "primary_discipline": "Mystic, Theosophist, Alchemist",
+      "biography": "[To be written in Phase 2]",
+      "key_concepts": [4, 5, 8],
+      "source_method": "DETERMINISTIC",
+      "confidence": "HIGH",
+      "review_status": "DRAFT"
+    }
+  ],
+  "texts": [
+    {
+      "id": 1,
+      "title": "Fama Fraternitatis",
+      "slug": "fama-fraternitatis",
+      "author_id": 1,
+      "year_published": 1614,
+      "language": "German",
+      "subject": "Rosicrucian Manifesto",
+      "description": "[To be written in Phase 2]",
+      "key_concepts": [7, 8],
+      "source_method": "DETERMINISTIC",
+      "confidence": "HIGH",
+      "review_status": "DRAFT"
+    },
+    {
+      "id": 2,
+      "title": "Atalanta Fugiens",
+      "slug": "atalanta-fugiens",
+      "author_id": null,
+      "year_published": 1618,
+      "language": "Latin",
+      "subject": "Alchemical Emblem Book",
+      "description": "[To be written in Phase 2]",
+      "key_concepts": [1, 2, 3, 5, 6],
+      "source_method": "DETERMINISTIC",
+      "confidence": "HIGH",
+      "review_status": "DRAFT"
+    },
+    {
+      "id": 3,
+      "title": "Confessio Fraternitatis",
+      "slug": "confessio-fraternitatis",
+      "author_id": 1,
+      "year_published": 1615,
+      "language": "German",
+      "subject": "Rosicrucian Manifesto",
+      "description": "[To be written in Phase 2]",
+      "key_concepts": [7, 8],
+      "source_method": "DETERMINISTIC",
+      "confidence": "HIGH",
+      "review_status": "DRAFT"
+    }
+  ],
+  "emblem_books": [
+    {
+      "id": 1,
+      "title": "Atalanta Fugiens",
+      "slug": "atalanta-fugiens",
+      "author_id": null,
+      "year_published": 1618,
+      "total_emblems": 51,
+      "subject": "Alchemical Emblem Book",
+      "description": "Michael Maier's masterwork of alchemical emblems with attached epigrams and musical notation. Central to emblem scholarship and alchemical iconography.",
+      "source_method": "HUMAN_CURATED",
+      "review_status": "VERIFIED"
+    },
+    {
+      "id": 2,
+      "title": "Mutus Liber",
+      "slug": "mutus-liber",
+      "author_id": null,
+      "year_published": 1677,
+      "total_emblems": 15,
+      "subject": "Alchemical Emblem Book",
+      "description": "A wordless book of alchemical emblems and engravings, representing the silent or secret nature of the Great Work.",
+      "source_method": "HUMAN_CURATED",
+      "review_status": "VERIFIED"
+    }
+  ]
+}

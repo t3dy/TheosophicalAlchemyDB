@@ -1,0 +1,102 @@
+---
+source: DE TRIBUS PRINCIPIIS, Oder Beschreibung Der Drey Principien Gttliches Wesens: Of the Three Principles of Divine Being, 1619, by Jacob Boehme
+source_category: Western Esotericism
+author: Weeks, Andrew;Penman, Leigh;
+total_pages: 876
+section: introduction 15
+section_number: 10
+date_processed: 2026-05-25T14:59:47.276419
+figures_mentioned: Jacob Böhme, Paracelsus
+concepts_mentioned: Tincture, Enlightenment, Regeneration
+---
+
+# DE TRIBUS PRINCIPIIS, Oder Beschreibung Der Drey Principien Gttliches Wesens: Of the Three Principles of Divine Being, 1619, by Jacob Boehme
+
+## Section: introduction 15
+
+introduction 15
+ThepresenceoftheGermanparalleltextalsomakesitpossibleforthetrans-
+latortointerpretmoreliberallyandformulatemoreplasticallywithoutrisking
+unintendedobfuscationshiddenbehindthelanguageoftranslation.Aboveall,
+theparalleltextenablesthereadertopursuenuances,drawoutconnotations,
+andproposealternativetranslations.Ifliterarystudiesandliteraryinterpreta-
+tionaspiretoempiricalscience,noapproachtointerpretationrivalsinpoint
+of evidencethesynoptictranslationof acriticallyeditedsource.Thereader’s
+optiontoformulatealternativetranslationsfromanadjacentsourceequatesto
+thereplicabilityofexperimentalresultsinthenaturalsciences.13
+8 CriticalApparatusandManuscriptTradition(LeighT.I.Penman)
+Aselectionofsignificantvariantreadingsfromthreeearlymanuscriptcopies
+andtheprintededitionof1682havebeennotedinthecriticalapparatusatthe
+bottomoftheleft-handpages.Onaccountofitssimilaritytothe1730edition,
+thelessconscientiouseffortsoftheeditorsoftheeditionof1715,whodrewon
+thesamemanuscriptsourcesasthe1730successor,havenotbeenincluded.By
+consultingalternativereadingsfromthemostreliablemanuscriptsourcesused
+bytheeditorsof the1730edition,thereadercanformaneducatedandoften
+conclusiveopinionoftheoriginofthematerialinparentheses,rulingout,for
+example,Boehme’searlyuseinThreePrinciplesoftheterms“MysteriumMag-
+num”or“Sophia.”
+ThemanuscripttraditionofThreePrinciplesisdiverseandsomewhatdiffi-
+cult;notalloftheearlymanuscriptsarereliableoraccurate,noristheprove-
+nanceofaparticularmanuscriptaguaranteeofitsreliability.Forthisreason,
+it is important to provide an overview of the tradition which goes beyond
+13 Inundertakingthepresenttranslation,Ihavestudiedbutnotmadesystematicuseof
+theSparrowtranslationofTheSecondBooke.ConcerningtheThreePrinciplesoftheDivine
+Essenceof theEternall,Dark,Light,andTemporaryWorld.ShewingWhattheSoule,the
+ImageandtheSpiritoftheSouleAre;asalsoWhatAngels,Heaven,andParadiseAre.How
+AdamWasbeforetheFall,intheFall,andaftertheFall.AndWhattheWrathofGod,Sinne,
+Death,theDevilsandHellAre;HowAllThingsHaveBeen,NowAre,andHowTheyShallBe
+attheLast.WrittenintheGermanlanguagebyJacobBehmen,aliasTeutonicusPhilosophus,
+trans.JohnSparrow(London:Blunden,1648).Thiswasthesourceofmostofthework’s
+previousreceptioninEnglish.Sparrow’stranslationswerearemarkableachievementfor
+theircenturyandatestimonytoBoehme’sprofoundappealintheEnglish-speakingworld
+(seeArielHessayon,“JacobBoehme’sforemostseventeenth-centuryEnglishtranslator:
+JohnSparrow[1615–1670]ofEssex,”inJacobBöhmeandhisWorld,ed.Anderssonetal.(Lei-
+den:Brill,2018),329–357.Closertotheirsourceinhistory,Sparrow’schoicesandemphases
+areofcultural-historicalinterest.
+
+[Page 27]
+16 introduction
+the foundational survey given in JacobBöhme.VerzeichnisderHandschriften
+und frühen Abschriften, edited by Werner Buddecke in 1934 and revised by
+MatthiasWenzelincollaborationwithDanielaFrieseandKarinStichel(Gör-
+litz: Schriftenreihe der Städtischen Sammlungen für Geschichte und Kultur
+Görlitz,N.F.32,2000).Thethreemostaccurateoftheextantwitnesses,referred
+tothroughouttheworkasB,P,andS,havebeenincludedinthecriticalappa-
+ratus.
+B“Beschreibungder3PrincipiorumGöttlicheßWesens…Anno1617”
+Sagan(Żagań),ca.1620.InthehandofChristianBernhard(d.1649).
+Wrocław,BU,Akc.1975/255.Quarto,367fols.Buddecke57.
+Thisistheearliestandprobablymostreliableextantcopy,likelypreparedfrom
+Böhme’sautographoranearlyintermediary.Thedateonthetitlepage(1617)
+mayindicatetheyearinwhichBöhmebeganhiscompositionofthetext;orit
+mightbeinerror.Bernhard,whowasotherwiseanimperialrevenuecollector
+inSagan,wasamongBöhme’smostskilledanddiligentearlycopyists,devoted
+toBoehme’swork,yetnoteducatedoropinionatedenoughtoundertakearbi-
+trary“improvements”or“corrections.”HemadecontactwithBöhmelatein1619
+through BalthasarWalther, and this manuscript was likely prepared early in
+1620.14
+P“Vonderohnevhrsprungewigengeburthderh.DreyfaltigkeitGotteß…”
+Hirschberg(JeleniaGóra)ca.1624.InthehandofMichaelEndervonSercha
+(1590–1637),withadditionsbyHeinrichPrunius(ca.1602–1644).
+Wrocław,BU,Akc.1975/254,pp.10–888.Quarto.Buddecke56.
+ThisisanearlycopypreparedbyMichaelEndervonSerchaduringhistime
+inHirschberg,whoalongwithBernhardwasoneof Böhme’smostassiduous
+scribal publishers, and a key node in Böhme’s networks in Lower Silesia. In
+additiontoitsaccuracy,thismanuscriptisnoteworthyforfeaturingnumerous
+marginalnotationsaddedbyHeinrichPrunius,aHessianmedicalstudentand
+14 Cf.JacobBöhme,SämtlicheSchriften.ed.byWill-ErichPeuckert.11vols.(Stuttgart–Bad
+Cannstatt:Fr.FrommannsVerlag[GüntherHolzboog],1956–1961),vol.10,128,whichstates
+thatBöhmemetBernhardin1617.YetBernhard,inanundatedlettertoMichelleBlon
+(1587–1656),preservedinWolfenbüttel,HAB,67noviss.4o,12v,statesonlythathemet
+Waltherin1617,andthereafterlearnedofBoehme.AcloseexaminationofBoehme’scor-
+respondencedemonstratesthattheearliestdateonwhichBoehmecouldhavewrittento
+Bernhardwasonorafter25December1619,thusmanuscriptBmusthavebeenprepared
+afterthisdate.
+
+[Page 28]
+
+---
+
+*Extracted from: DE TRIBUS PRINCIPIIS, Oder Beschreibung Der Drey Principien Gttliches Wesens: Of the Three Principles of Divine Being, 1619, by Jacob Boehme (876 pages)*
+*Figures mentioned: Jacob Böhme, Paracelsus*
+*Concepts mentioned: Tincture, Enlightenment, Regeneration*

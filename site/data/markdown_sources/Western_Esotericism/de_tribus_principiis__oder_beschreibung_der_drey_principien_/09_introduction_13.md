@@ -1,0 +1,104 @@
+---
+source: DE TRIBUS PRINCIPIIS, Oder Beschreibung Der Drey Principien Gttliches Wesens: Of the Three Principles of Divine Being, 1619, by Jacob Boehme
+source_category: Western Esotericism
+author: Weeks, Andrew;Penman, Leigh;
+total_pages: 876
+section: introduction 13
+section_number: 9
+date_processed: 2026-05-25T14:59:47.276123
+figures_mentioned: Jacob Böhme, Paracelsus
+concepts_mentioned: Tincture, Enlightenment, Regeneration
+---
+
+# DE TRIBUS PRINCIPIIS, Oder Beschreibung Der Drey Principien Gttliches Wesens: Of the Three Principles of Divine Being, 1619, by Jacob Boehme
+
+## Section: introduction 13
+
+introduction 13
+PrinciplesofDivineBeing,onecreatureinparticularisexhortedtolookinward
+foritsdeepestsource:thehumanbeing.Humanvolitionallife,bornebythe
+soul,extendsbackintoitseternalsource:theGodwhogaverisetoallthatis
+outof hisownbeing,whichwasnotathingbutaspiritandwill.Thehuman
+imageinitslonginganddesirediscoversasitseternalsourcetheambivalent
+divinewillwhichisthegroundof allbeing,presentinallof nature.Thevoli-
+tionalmodesorqualitiesofthesource-spiritsinAuroraarethusconsolidated
+intheworld-generatingdivinewillofTheThreePrinciples.
+ThereaderfamiliarwithSchopenhauer’svisionoftheagonyofthewilland
+thesufferingandstrifeinnaturewillrecognizehisprecursor’sphilosophical
+relevance.InordertounderstandTheThreePrinciplesonitsownterms,how-
+ever,wemustalwaysbearinmindthatBoehme’smetaphysicsservedhisdoc-
+trinalanddevotionalobjectives.Humanbeingsareatrootmanifestationsof
+the divine will, configured like theTrinity as a conjunction of impulses and
+animatedbyaneternalprocessofstrivingeitherforlightandharmonyorfor
+dominationandself-satisfaction.ThisoriginexplainsforBoehmehowwecan
+bethecreationofanomnipotentwill,yetfree;andhowwecanapproachthe
+hiddenGodthroughself-knowledge.TheeternalwillisthehiddenGodpresent
+inallthingsandrevealedattheveryrootofthesoul.Theomnipresenceofthe
+divinebeing,withitscraving,heart,andself-revelation,supportstheLutheran
+doctrineofubiquitywhichBoehmecharacteristicallyinterpretstosustainthe
+realcorporealpresenceofChristintheAbendmahlorCommunion.
+In The Three Principles of Divine Being, self-knowledge leads to a deeper
+knowledgeofGod.Theattendantrevelationinducesaninexhaustiblewonder
+andcontemplationintheauthor,aswellasananticlericalhostilitytowardthe
+arrogant,war-mongeringclergywhichwouldforbidhimhisprofound,strife-
+reconcilingknowledge.Althoughhisconflationofdevotionwithspeculation,
+piousorthodoxywithanticlericalheterodoxy,andaboveallhismanyrepeti-
+tionsandvariations,frustratethereaderandseemtocallforaneditorialselec-
+tionofpassages,hisbookmustbetranslatedandunderstoodinitsmany-sided
+entiretyifitistofinditsplaceinintellectualhistory.Toservethereader’smore
+focusedinterests,chaptersummariesandanindexorganizedbysymbols,con-
+cepts,anddoctrinesareprovided.
+7 TheSourceText,Commentary,andTranslation
+Translation invariably inserts an alien medium of language between the
+scholar and the source. This is why the work of the translator is not fully
+acceptedasscholarship.Noself-respectingscholarreliesontranslationwhen
+
+[Page 25]
+14 introduction
+theoriginalsourceisaccessible.Giventheincommensurabilityof languages
+andthecertaintyofhumanerror,itisimpossibletodenyvaliditytothedictum
+“Traduttore,traditore.”Totranslateistobetray.Complexorambiguouspoetic
+orsacredtextscannotbetranslatedwithoutincurringloss.
+However,thetranslatorwhoworkswithanadjacentcriticaleditionoratext
+treated with the methods of critical edition reverses this relationship to the
+source.Underthesecircumstances,thetranslationdoesnotobstructaccessto
+thesourcebutdeepensitinawaythatsurpassesthecapacityofmostconven-
+tionalscholars.Atranslationplacedalongsideanoptimalsourcepursuesthe
+scholarlyobjectiveofinterpretationwiththecompleteandaccuratesourceas
+itscriterionofvalidity.Comparedtothisroleofthetranslatorcumeditor,the
+conventional scholar whose interpretation cites sources only selectively is a
+dilettante.Thesourcetextreproducedherehasbeentreatedwiththemethods
+ofcriticaledition.Unfortunately,theintentionofprovidingacriticaleditionin
+thestrictestsensehadtobeabandonedbecauseoflackoffunding.
+Thesourcetextinthiscaseisthe1730editionofBoehme’scompleteworks.
+Itistheproductofseveralstagesofcorrectionandimprovementthatinvolved
+obtainingandcomparingtheavailablemanuscriptcopiesofthework.Günther
+Bonheimisrighttoassertthat,if oneweretoreplacethismuchrevisedand
+improvedtextwithanyofthemanuscriptsources,theappearanceofprogress
+would be misleading.12 However, there is one aspect of the 1730 text which
+impedesitsusebyscholars.Intheprocessofrevisingsuccessiveeditions,the
+editorsplacedinparentheseslanguagedrawneitherfrompreviouseditionsor
+fromoneormoreofthemanuscriptcopies.Sometimestheparentheticallan-
+guage is an editorial insertion. Unfortunately, there is no rule of thumb that
+allowsthereaderorscholartodeterminethestatusoftheparentheticalmate-
+rial. This means that in reading or citing the edition, one cannot be certain
+whosewordsarebeingreadorcited.Onecannotknow,forexample,whether
+theauthorusedsuchtermsas“MysteriumMagnum”or“Sophia”inTheThree
+Principles or whether they entered his vocabulary only later; whether a par-
+entheticalaspersioncastonJewsisfromhishandorthatof hiseditors.The
+comparisonofparentheticalpassagesandproblematicwordchoiceswiththe
+manuscriptsourcesandthe1682printing,anearlyprintstageleadingtothe
+now standard 1730 version, resolves many of these issues, rendering the text
+transparentandguaranteeingthatthetranslationderivesfromoptimalinput.
+12 GüntherBonheim,“DieBöhme-Abschriften.VoraussetzungenundProblemeeinerkritis-
+chenEdition,”inErkenntnisundWissenschaft.JacobBöhme(1575–1624)(NeuesLausitzis-
+chesMagazin,Beiheft2),ed.byOberlausitzischeGesellschaftderWissenschaftene.V.
+(Görlitz,Zittau:Oettel,2001),84–114.
+
+[Page 26]
+
+---
+
+*Extracted from: DE TRIBUS PRINCIPIIS, Oder Beschreibung Der Drey Principien Gttliches Wesens: Of the Three Principles of Divine Being, 1619, by Jacob Boehme (876 pages)*
+*Figures mentioned: Jacob Böhme, Paracelsus*
+*Concepts mentioned: Tincture, Enlightenment, Regeneration*
