@@ -467,7 +467,83 @@
 
 ---
 
+### Session 8 (2026-05-25, Phase 2 Paracelsus Scholarship Integration)
+
+**Duration:** ~3 hours (PDF extraction, scholar profiles, text entries)  
+**Tasks:** Integrate Paracelsus scholarship corpus (10+ PDFs); create scholar profiles; add detailed text summaries  
+**Completed:**
+- ✓ Extracted 11 Paracelsus PDFs from Downloads folder:
+  - Andrew Weeks: Paracelsus_ Speculative Theory (1997), Theophrastus Bombastus (2007), Cosmological Writings editor (2024)
+  - Charles Webster: Paracelsus_ Medicine, Magic and Mission
+  - Andrew Sparling: Paracelsus, a Transmutational Alchemist (Ambix 2020)
+  - Journal articles, reviews, comparative essays
+- ✓ Used Agent to systematically extract and synthesize 11 PDF sources
+- ✓ Created `docs/paracelsus_sources/` with 7 extraction files + SYNTHESIS.md (21 KB)
+- ✓ Created `PARACELSUS_INTEGRATION_PLAN.md` (21 KB) with JSON templates
+- ✓ Enhanced Paracelsus figure entry:
+  - New 3,000+ word essay with historiographical rigor
+  - Structured around Weeks framework: "Paracelsus as response to Reformation crisis of authority"
+  - Incorporated Webster's medicine-magic-eschatology synthesis
+  - Added Sparling's transmutational alchemy emphasis
+  - Key sections: Life, Crisis Years, Speculative Theory, Medical Reform, Alchemy, Legacy
+  - Updated scholars array (6 scholars: Weeks, Webster, Sparling, Goldammer, Pagel, Sudhoff)
+  - Added scholarship entries with page citations
+- ✓ Created 5 scholar profiles (all with 250+ word summaries):
+  - Andrew Weeks (text-centered historicism, theory framework)
+  - Charles Webster (medicine-magic-eschatology integration)
+  - Didier Kahn (cosmology, textual editing)
+  - Kurt Goldammer (theological approach, medieval spiritualism)
+  - Andrew Sparling (transmutational alchemy, core philosophy)
+- ✓ Added 4 major Paracelsus works to texts database:
+  - Opus Paramirum (foundational medical-philosophical system)
+  - Opus Paragranum (systematic organization of principles)
+  - Labyrinthus Medicorum (critique of medical establishment)
+  - Astronomia Magna (cosmology and natural magic)
+  - Each with 500-800 word essay, key concepts, related figures, significance
+- ✓ Established relational structure:
+  - Connected Paracelsus to related figures (Andreae, Böhme, Khunrath, Maier, Trithemius, Agrippa)
+  - Added 10 key concepts to Paracelsus profile (Iatrochemistry, Speculative Theory, Medical Reform, Alchemy, etc.)
+  - Text entries linked to concepts and scholars
+- ✓ Created `scripts/integrate_paracelsus_scholarship.py` to automate database integration
+- ✓ Ran integration script: 5 scholars added, 4 works added, Paracelsus figure enriched
+- ✓ Rebuilt site with `python scripts/build_site.py`
+- ✓ Verified database integration: all entries present and properly formatted
+- ✓ Committed changes to git with detailed message
+
+**Database Status:**
+- Figures: 65 (added Paracelsus enrichment)
+- Scholars: 25+ (added 5 Paracelsus specialists)
+- Texts: 88+ (added 4 Paracelsus works)
+- Concepts: 60 (referenced in Paracelsus profile)
+- Frontend: Rebuilt and functional
+- GitHub Pages: Ready for deployment
+
+**Scholarly Framework Integrated:**
+- **Weeks model**: Text-centered historicism; Reformation crisis of authority; "theory" (theorica) framework bypassing science/religion dichotomy
+- **Webster model**: Medicine-magic-eschatology integration; Paracelsus as natural philosopher, not mere occultist
+- **Sparling model**: Alchemy as central philosophical practice, not peripheral; transmutational theory
+- **Historiographical rigor**: Multiple scholarly positions presented; debates documented; no false certainty
+
+**Key Insights Captured:**
+- Paracelsus as autonomous reformer independent of Luther (contemporary, not disciple)
+- Medical reform paralleling religious reform (Monarcha medicorum concept)
+- Integration of empirical practice with philosophical speculation
+- Alchemy as unified framework (practical operations + philosophical meaning)
+- Gender-aware: openness to women's healing knowledge, though no institutional recognition
+- Wandering pedagogy: producing works in heat of controversy, not scholarly study
+
+**Blockers:** None  
+**Notes:**
+- Paracelsus integration complete with comprehensive scholarly apparatus
+- 20+ scholarly references processed and documented
+- Concept links and relational structure ready for further expansion (emblem mapping, concept essays)
+- Foundation set for Phase 2 expansion (emblems, concept-emblem mapping)
+- All writing meets STYLEGUIDE_UPDATED.md standards (historiographical rigor, embodied knowledge, gender awareness)
+- Next: Continue emblem sourcing (30→100+) with concept-emblem mapping; integrate remaining PDF corpus (131 sources)
+
+---
+
 **Maintainer:** t3dy  
-**Last Updated:** 2026-05-25  
-**Current Phase:** Phase 2 IN PROGRESS (Emblem Expansion & Scholarly Enrichment + Portrait Integration)  
-**Next Phase:** Phase 3 (SQLite Backend, Full-Text Search, Portrait Batch Completion)
+**Last Updated:** 2026-05-25 (Session 8)  
+**Current Phase:** Phase 2 IN PROGRESS (Paracelsus Scholarship Integration Complete; Emblem Expansion & Concept Mapping Next)  
+**Next Phase:** Phase 2 Continuation (Emblem 30→100+, concept-emblem mappings, scholarly apparatus enrichment)
