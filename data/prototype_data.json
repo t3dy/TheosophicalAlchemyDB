@@ -16415,6 +16415,1483 @@
       "review_status": "DRAFT",
       "confidence": "HIGH",
       "source_method": "De Jong scholarly extraction + metadata synthesis"
+    },
+    {
+      "id": "maier-atalanta-frontispiece",
+      "emblem_number": "Frontispiece",
+      "title": "The Fleeing Atalanta",
+      "motto_latin": null,
+      "motto_english": null,
+      "source_book": "Atalanta Fugiens",
+      "author": "Michael Maier",
+      "date_published": 1617,
+      "edition": "Johann Theodor de Bry, Oppenheim",
+      "image_description": "Frame around title showing fleeing Atalanta. Right: Venus gives Hippomenes golden apples. Lower left: race between Hippomenes and Atalanta. Lower right: round temple of Cybele.",
+      "visual_symbols": [
+        "golden apples",
+        "race",
+        "Venus",
+        "temple of Cybele",
+        "lion",
+        "lioness"
+      ],
+      "alchemical_processes": [
+        "pursuit of the volatile by the fixed",
+        "catalysis",
+        "transformation of opposites"
+      ],
+      "mythological_figures": [
+        "Atalanta",
+        "Hippomenes",
+        "Venus",
+        "Cybele",
+        "Hercules"
+      ],
+      "alchemical_stage": "",
+      "nigredo": false,
+      "albedo": false,
+      "citrinitas": false,
+      "rubedo": false,
+      "key_concepts": [],
+      "scholarly_sources": [
+        {
+          "scholar": "H.M.E. de Jong",
+          "reference": "Michael Maier's Atalanta fugiens: Sources of an Alchemical Book of Emblems (1969)",
+          "relevance": "PRIMARY",
+          "type": "monograph"
+        },
+        {
+          "scholar": "Michael Maier",
+          "reference": "Atalanta fugiens (1617)",
+          "relevance": "PRIMARY",
+          "type": "primary_source"
+        }
+      ],
+      "source_authorities": [
+        {
+          "authority": "Ovid, Metamorphoses X.560-704",
+          "type": "CLASSICAL",
+          "relationship": "Narrative source for Atalanta-Hippomenes frame story",
+          "description": "Ovid's Metamorphoses, composed in the first century CE, provides the mythological narrative of Atalanta and Hippomenes that Maier adopts as the overarching frame story for his entire emblem book. De Jong (1969) demonstrates that Maier reads the footrace allegorically: Hippomenes represents the fixed Sulphur pursuing the volatile Mercury (Atalanta), while Venus's golden apples serve as the catalytic agent enabling their union. The frontispiece engraving by Merian depicts this race alongside the couple's transformation into lions by Cybele, signaling that the mythological narrative encodes the complete alchemical process from pursuit to transmutation."
+        },
+        {
+          "authority": "Robertus Vallensis, De Veritate et Antiquitate Artis Chemicae",
+          "type": "ALCHEMICAL",
+          "relationship": "Source for frontispiece commentary",
+          "description": "Robertus Vallensis's De Veritate et Antiquitate Artis Chemicae is a sixteenth-century treatise defending the antiquity and legitimacy of alchemy, which includes an allegorical interpretation of the Atalanta myth as an alchemical parable. De Jong (1969) identifies this text as a direct source for Maier's frontispiece commentary, where the race between Atalanta and Hippomenes is read as the pursuit of the volatile by the fixed principle. The frontispiece engraving thus draws its interpretive framework in part from Vallensis's defense of alchemical hermeneutics applied to classical mythology."
+        },
+        {
+          "authority": "Jodocus Greverus, Secretum Nobilissimorum",
+          "type": "ALCHEMICAL",
+          "relationship": "Source for frontispiece commentary",
+          "description": "Jodocus Greverus's Secretum Nobilissimorum is a sixteenth-century alchemical text that includes allegorical readings of classical myths as encoded alchemical teachings, contributing to the tradition of mythological alchemy that Maier inherits. De Jong (1969) identifies Greverus alongside Robertus Vallensis as a source for the frontispiece commentary of Atalanta Fugiens, where the Ovidian race narrative receives its alchemical interpretation. Together these two authorities establish the hermeneutic precedent for Maier's central conceit of reading the Atalanta-Hippomenes myth as an allegory of the volatile-fixed dynamic in the Great Work."
+        }
+      ],
+      "related_emblems": [],
+      "discourse_themes": [],
+      "image_source": {
+        "type": "text_description_pending",
+        "basis": "Claudiens project / De Jong scholarship",
+        "sourcing": "Claudiens atalanta_fugiens_seed.json"
+      },
+      "source_method": "Claudiens integration - adapted from atalanta_fugiens_seed.json",
+      "review_status": "DRAFT",
+      "confidence": "HIGH",
+      "attribution": "Data compiled from Claudiens project (https://github.com/t3dy/Claudiens)"
+    },
+    {
+      "id": "maier-atalanta-i",
+      "emblem_number": "I",
+      "title": "His nurse is the Earth",
+      "motto_latin": "Nutrix ejus terra est",
+      "motto_english": "His nurse is the Earth",
+      "source_book": "Atalanta Fugiens",
+      "author": "Michael Maier",
+      "date_published": 1617,
+      "edition": "Johann Theodor de Bry, Oppenheim",
+      "image_description": "Earth nourishing the philosophical child; wolf nursing Romulus and goat nursing Jupiter referenced in epigram.",
+      "visual_symbols": [
+        "nursing",
+        "earth",
+        "wolf",
+        "goat",
+        "philosophical child"
+      ],
+      "alchemical_processes": [
+        "nourishment",
+        "assimilation of philosophical matter"
+      ],
+      "mythological_figures": [
+        "Romulus",
+        "Jupiter"
+      ],
+      "alchemical_stage": "",
+      "nigredo": false,
+      "albedo": false,
+      "citrinitas": false,
+      "rubedo": false,
+      "key_concepts": [],
+      "scholarly_sources": [
+        {
+          "scholar": "H.M.E. de Jong",
+          "reference": "Michael Maier's Atalanta fugiens: Sources of an Alchemical Book of Emblems (1969)",
+          "relevance": "PRIMARY",
+          "type": "monograph"
+        },
+        {
+          "scholar": "Michael Maier",
+          "reference": "Atalanta fugiens (1617)",
+          "relevance": "PRIMARY",
+          "type": "primary_source"
+        }
+      ],
+      "source_authorities": [
+        {
+          "authority": "Tabula Smaragdina (Emerald Tablet)",
+          "type": "HERMETIC",
+          "relationship": "Cosmological foundation; motto source for early emblems",
+          "description": "The Tabula Smaragdina, or Emerald Tablet, is a brief Hermetic text attributed to Hermes Trismegistus that circulated widely in Latin translation from the twelfth century onward, encoding the foundational principle that operations in the macrocosm mirror those in the microcosm. De Jong (1969) demonstrates that Maier deliberately derives the mottos of Emblems I and II from the Tabula's dictum that the earth is the nurse of the philosophical child, establishing the Hermetic cosmological framework as the opening gesture of Atalanta Fugiens. These two emblems anchor the entire work in the tradition of Hermetic correspondence between celestial and terrestrial processes."
+        }
+      ],
+      "related_emblems": [],
+      "discourse_themes": [],
+      "image_source": {
+        "type": "text_description_pending",
+        "basis": "Claudiens project / De Jong scholarship",
+        "sourcing": "Claudiens atalanta_fugiens_seed.json"
+      },
+      "source_method": "Claudiens integration - adapted from atalanta_fugiens_seed.json",
+      "review_status": "DRAFT",
+      "confidence": "HIGH",
+      "attribution": "Data compiled from Claudiens project (https://github.com/t3dy/Claudiens)"
+    },
+    {
+      "id": "maier-atalanta-ii",
+      "emblem_number": "II",
+      "title": "Its nurse is the Earth",
+      "motto_latin": null,
+      "motto_english": "Its nurse is the Earth",
+      "source_book": "Atalanta Fugiens",
+      "author": "Michael Maier",
+      "date_published": 1617,
+      "edition": "Johann Theodor de Bry, Oppenheim",
+      "image_description": "Pregnant female with terrestrial globe imagery; retort with moderate warmth.",
+      "visual_symbols": [
+        "retort",
+        "earth",
+        "warmth",
+        "nursing"
+      ],
+      "alchemical_processes": [
+        "combination in retort",
+        "moderate heating",
+        "nourishment"
+      ],
+      "mythological_figures": [],
+      "alchemical_stage": "",
+      "nigredo": false,
+      "albedo": false,
+      "citrinitas": false,
+      "rubedo": false,
+      "key_concepts": [],
+      "scholarly_sources": [
+        {
+          "scholar": "H.M.E. de Jong",
+          "reference": "Michael Maier's Atalanta fugiens: Sources of an Alchemical Book of Emblems (1969)",
+          "relevance": "PRIMARY",
+          "type": "monograph"
+        },
+        {
+          "scholar": "Michael Maier",
+          "reference": "Atalanta fugiens (1617)",
+          "relevance": "PRIMARY",
+          "type": "primary_source"
+        }
+      ],
+      "source_authorities": [
+        {
+          "authority": "Tabula Smaragdina (Emerald Tablet)",
+          "type": "HERMETIC",
+          "relationship": "Cosmological foundation; motto source for early emblems",
+          "description": "The Tabula Smaragdina, or Emerald Tablet, is a brief Hermetic text attributed to Hermes Trismegistus that circulated widely in Latin translation from the twelfth century onward, encoding the foundational principle that operations in the macrocosm mirror those in the microcosm. De Jong (1969) demonstrates that Maier deliberately derives the mottos of Emblems I and II from the Tabula's dictum that the earth is the nurse of the philosophical child, establishing the Hermetic cosmological framework as the opening gesture of Atalanta Fugiens. These two emblems anchor the entire work in the tradition of Hermetic correspondence between celestial and terrestrial processes."
+        }
+      ],
+      "related_emblems": [],
+      "discourse_themes": [],
+      "image_source": {
+        "type": "text_description_pending",
+        "basis": "Claudiens project / De Jong scholarship",
+        "sourcing": "Claudiens atalanta_fugiens_seed.json"
+      },
+      "source_method": "Claudiens integration - adapted from atalanta_fugiens_seed.json",
+      "review_status": "DRAFT",
+      "confidence": "HIGH",
+      "attribution": "Data compiled from Claudiens project (https://github.com/t3dy/Claudiens)"
+    },
+    {
+      "id": "maier-atalanta-iii",
+      "emblem_number": "III",
+      "title": "Go to the woman who washes the sheets",
+      "motto_latin": null,
+      "motto_english": "Go to the woman who washes the sheets and do as she does",
+      "source_book": "Atalanta Fugiens",
+      "author": "Michael Maier",
+      "date_published": 1617,
+      "edition": "Johann Theodor de Bry, Oppenheim",
+      "image_description": "Woman washing/bleaching sheets; washing as calcination metaphor.",
+      "visual_symbols": [
+        "washing",
+        "sheets",
+        "bleaching",
+        "water"
+      ],
+      "alchemical_processes": [
+        "calcination",
+        "purification",
+        "washing",
+        "dissolving",
+        "distillation",
+        "precipitation",
+        "coagulation"
+      ],
+      "mythological_figures": [],
+      "alchemical_stage": "",
+      "nigredo": false,
+      "albedo": false,
+      "citrinitas": false,
+      "rubedo": false,
+      "key_concepts": [],
+      "scholarly_sources": [
+        {
+          "scholar": "H.M.E. de Jong",
+          "reference": "Michael Maier's Atalanta fugiens: Sources of an Alchemical Book of Emblems (1969)",
+          "relevance": "PRIMARY",
+          "type": "monograph"
+        },
+        {
+          "scholar": "Michael Maier",
+          "reference": "Atalanta fugiens (1617)",
+          "relevance": "PRIMARY",
+          "type": "primary_source"
+        }
+      ],
+      "source_authorities": [
+        {
+          "authority": "Turba Philosophorum",
+          "type": "ALCHEMICAL",
+          "relationship": "Major direct source; 9 mottos derive from Turba per De Jong",
+          "description": "The Turba Philosophorum (Assembly of Philosophers) is a Latin translation of an Arabic alchemical compilation dating to approximately the ninth century, presenting alchemical doctrine as a series of speeches by ancient sages. De Jong (1969) identifies it as the single most prolific source for Atalanta Fugiens, attributing nine emblem mottos directly to the Turba's teachings on dissolution, washing, and the union of opposites. Its influence is most prominent in Emblem III (the washing woman), Emblem XXXIII (the hermaphrodite needing fire), and Emblem L (the dragon and woman in mutual destruction), where Theophilus's speech provides the concluding image of the entire work."
+        }
+      ],
+      "related_emblems": [],
+      "discourse_themes": [],
+      "image_source": {
+        "type": "text_description_pending",
+        "basis": "Claudiens project / De Jong scholarship",
+        "sourcing": "Claudiens atalanta_fugiens_seed.json"
+      },
+      "source_method": "Claudiens integration - adapted from atalanta_fugiens_seed.json",
+      "review_status": "DRAFT",
+      "confidence": "HIGH",
+      "attribution": "Data compiled from Claudiens project (https://github.com/t3dy/Claudiens)"
+    },
+    {
+      "id": "maier-atalanta-iv",
+      "emblem_number": "IV",
+      "title": "Join brother and sister",
+      "motto_latin": null,
+      "motto_english": "Join brother and sister, and hand them the cup with the love potion",
+      "source_book": "Atalanta Fugiens",
+      "author": "Michael Maier",
+      "date_published": 1617,
+      "edition": "Johann Theodor de Bry, Oppenheim",
+      "image_description": "Brother and sister joined; cup with love potion. Incestuous union symbolizing union of like with like.",
+      "visual_symbols": [
+        "brother",
+        "sister",
+        "cup",
+        "love potion",
+        "union"
+      ],
+      "alchemical_processes": [
+        "conjunction",
+        "union of opposites"
+      ],
+      "mythological_figures": [],
+      "alchemical_stage": "",
+      "nigredo": false,
+      "albedo": false,
+      "citrinitas": false,
+      "rubedo": false,
+      "key_concepts": [],
+      "scholarly_sources": [
+        {
+          "scholar": "H.M.E. de Jong",
+          "reference": "Michael Maier's Atalanta fugiens: Sources of an Alchemical Book of Emblems (1969)",
+          "relevance": "PRIMARY",
+          "type": "monograph"
+        },
+        {
+          "scholar": "Michael Maier",
+          "reference": "Atalanta fugiens (1617)",
+          "relevance": "PRIMARY",
+          "type": "primary_source"
+        }
+      ],
+      "source_authorities": [
+        {
+          "authority": "Pseudo-Aristotle, Tractatulus de Practica Lapidis",
+          "type": "ALCHEMICAL",
+          "relationship": "Direct motto source for union of elements and toad/woman",
+          "description": "The Tractatulus de Practica Lapidis Philosophici is a short Latin alchemical treatise falsely attributed to Aristotle, transmitted through the Artis Auriferae compilation and widely known in early modern alchemical circles. De Jong (1969) identifies it as the direct motto source for Emblems IV and V, providing both the brother-sister marriage imagery (the union of hot/dry and cold/moist principles) and the striking image of the toad suckling at the woman's breast. These two emblems draw their central conceit of elemental union through mutual transformation directly from the Pseudo-Aristotelian text."
+        }
+      ],
+      "related_emblems": [],
+      "discourse_themes": [],
+      "image_source": {
+        "type": "text_description_pending",
+        "basis": "Claudiens project / De Jong scholarship",
+        "sourcing": "Claudiens atalanta_fugiens_seed.json"
+      },
+      "source_method": "Claudiens integration - adapted from atalanta_fugiens_seed.json",
+      "review_status": "DRAFT",
+      "confidence": "HIGH",
+      "attribution": "Data compiled from Claudiens project (https://github.com/t3dy/Claudiens)"
+    },
+    {
+      "id": "maier-atalanta-v",
+      "emblem_number": "V",
+      "title": "Woman suckling the toad",
+      "motto_latin": null,
+      "motto_english": "Put a toad to the breasts of a woman, that she may feed it, and the woman may die, and the toad grows big from the milk",
+      "source_book": "Atalanta Fugiens",
+      "author": "Michael Maier",
+      "date_published": 1617,
+      "edition": "Johann Theodor de Bry, Oppenheim",
+      "image_description": "Nursing woman feeds a toad at her breasts. Transformation through feeding and depletion.",
+      "visual_symbols": [
+        "toad",
+        "woman",
+        "breasts",
+        "milk",
+        "death",
+        "growth"
+      ],
+      "alchemical_processes": [
+        "coagulation",
+        "dissolution",
+        "decomposition",
+        "purification",
+        "formation",
+        "hardening"
+      ],
+      "mythological_figures": [],
+      "alchemical_stage": "",
+      "nigredo": false,
+      "albedo": false,
+      "citrinitas": false,
+      "rubedo": false,
+      "key_concepts": [],
+      "scholarly_sources": [
+        {
+          "scholar": "H.M.E. de Jong",
+          "reference": "Michael Maier's Atalanta fugiens: Sources of an Alchemical Book of Emblems (1969)",
+          "relevance": "PRIMARY",
+          "type": "monograph"
+        },
+        {
+          "scholar": "Michael Maier",
+          "reference": "Atalanta fugiens (1617)",
+          "relevance": "PRIMARY",
+          "type": "primary_source"
+        }
+      ],
+      "source_authorities": [
+        {
+          "authority": "Pseudo-Aristotle, Tractatulus de Practica Lapidis",
+          "type": "ALCHEMICAL",
+          "relationship": "Direct motto source for union of elements and toad/woman",
+          "description": "The Tractatulus de Practica Lapidis Philosophici is a short Latin alchemical treatise falsely attributed to Aristotle, transmitted through the Artis Auriferae compilation and widely known in early modern alchemical circles. De Jong (1969) identifies it as the direct motto source for Emblems IV and V, providing both the brother-sister marriage imagery (the union of hot/dry and cold/moist principles) and the striking image of the toad suckling at the woman's breast. These two emblems draw their central conceit of elemental union through mutual transformation directly from the Pseudo-Aristotelian text."
+        },
+        {
+          "authority": "Lullius tradition (via Harmonica Chemica)",
+          "type": "ALCHEMICAL",
+          "relationship": "Parallel for suckling/dissolution/coagulation",
+          "description": "The Pseudo-Lullian alchemical tradition, transmitted through compilations such as the Harmonica Chemica, attributes a body of practical and theoretical alchemical writings to the Catalan philosopher Ramon Llull, though most are late medieval pseudepigrapha. De Jong (1969) identifies a thematic parallel between Emblem V's image of the toad suckling at the woman's breast and the Lullian teaching on dissolution and coagulation as reciprocal operations. This connection reinforces Maier's point that one nature can only coagulate through the dissolution of another, a principle central to the logic of Atalanta Fugiens."
+        }
+      ],
+      "related_emblems": [],
+      "discourse_themes": [],
+      "image_source": {
+        "type": "text_description_pending",
+        "basis": "Claudiens project / De Jong scholarship",
+        "sourcing": "Claudiens atalanta_fugiens_seed.json"
+      },
+      "source_method": "Claudiens integration - adapted from atalanta_fugiens_seed.json",
+      "review_status": "DRAFT",
+      "confidence": "HIGH",
+      "attribution": "Data compiled from Claudiens project (https://github.com/t3dy/Claudiens)"
+    },
+    {
+      "id": "maier-atalanta-vi",
+      "emblem_number": "VI",
+      "title": "Sow your gold in the white foliated earth",
+      "motto_latin": null,
+      "motto_english": "Sow your gold in the white foliated earth",
+      "source_book": "Atalanta Fugiens",
+      "author": "Michael Maier",
+      "date_published": 1617,
+      "edition": "Johann Theodor de Bry, Oppenheim",
+      "image_description": "Agricultural scene; sowing, ploughing. Gold scattered over white fields.",
+      "visual_symbols": [
+        "gold",
+        "white earth",
+        "sowing",
+        "ploughing",
+        "farming"
+      ],
+      "alchemical_processes": [
+        "sowing",
+        "cultivation of the Work"
+      ],
+      "mythological_figures": [],
+      "alchemical_stage": "",
+      "nigredo": false,
+      "albedo": false,
+      "citrinitas": false,
+      "rubedo": false,
+      "key_concepts": [],
+      "scholarly_sources": [
+        {
+          "scholar": "H.M.E. de Jong",
+          "reference": "Michael Maier's Atalanta fugiens: Sources of an Alchemical Book of Emblems (1969)",
+          "relevance": "PRIMARY",
+          "type": "monograph"
+        },
+        {
+          "scholar": "Michael Maier",
+          "reference": "Atalanta fugiens (1617)",
+          "relevance": "PRIMARY",
+          "type": "primary_source"
+        }
+      ],
+      "source_authorities": [],
+      "related_emblems": [],
+      "discourse_themes": [],
+      "image_source": {
+        "type": "text_description_pending",
+        "basis": "Claudiens project / De Jong scholarship",
+        "sourcing": "Claudiens atalanta_fugiens_seed.json"
+      },
+      "source_method": "Claudiens integration - adapted from atalanta_fugiens_seed.json",
+      "review_status": "DRAFT",
+      "confidence": "HIGH",
+      "attribution": "Data compiled from Claudiens project (https://github.com/t3dy/Claudiens)"
+    },
+    {
+      "id": "maier-atalanta-vii",
+      "emblem_number": "VII",
+      "title": "Young bird flying from nest and falling back",
+      "motto_latin": null,
+      "motto_english": "A young bird came into being, flying up from the nest, and fell back into the nest again",
+      "source_book": "Atalanta Fugiens",
+      "author": "Michael Maier",
+      "date_published": 1617,
+      "edition": "Johann Theodor de Bry, Oppenheim",
+      "image_description": "Winged and wingless bird; falcon and heron in struggle. Phoenix symbolism.",
+      "visual_symbols": [
+        "bird",
+        "nest",
+        "wings",
+        "falcon",
+        "heron",
+        "phoenix"
+      ],
+      "alchemical_processes": [
+        "volatilization",
+        "fixation",
+        "dissolution",
+        "resurrection"
+      ],
+      "mythological_figures": [
+        "Phoenix"
+      ],
+      "alchemical_stage": "",
+      "nigredo": false,
+      "albedo": false,
+      "citrinitas": false,
+      "rubedo": false,
+      "key_concepts": [],
+      "scholarly_sources": [
+        {
+          "scholar": "H.M.E. de Jong",
+          "reference": "Michael Maier's Atalanta fugiens: Sources of an Alchemical Book of Emblems (1969)",
+          "relevance": "PRIMARY",
+          "type": "monograph"
+        },
+        {
+          "scholar": "Michael Maier",
+          "reference": "Atalanta fugiens (1617)",
+          "relevance": "PRIMARY",
+          "type": "primary_source"
+        }
+      ],
+      "source_authorities": [
+        {
+          "authority": "Senior Zadith (Muhammad ibn Umail), Tabula Chimica",
+          "type": "ALCHEMICAL",
+          "relationship": "Source for winged/wingless bird symbolism",
+          "description": "The Tabula Chimica is a Latin translation of an alchemical work by the tenth-century Arabic author Muhammad ibn Umail, known in the Latin West as Senior Zadith, whose visionary imagery profoundly influenced medieval and early modern alchemical symbolism. De Jong (1969) traces the winged and wingless bird motif of Emblem VII directly to Senior's text, where the two birds represent the volatile (Mercury) and fixed (Sulphur) principles that must be bonded despite their contrasting natures. Emblem VII's depiction of the young bird flying from the nest and falling back encodes this teaching in Maier's characteristic fusion of natural observation and alchemical allegory."
+        },
+        {
+          "authority": "Lambsprinck, De Lapide Philosophico",
+          "type": "ALCHEMICAL",
+          "relationship": "Visual emblem tradition prototype",
+          "description": "Lambsprinck's De Lapide Philosophico is a late sixteenth-century alchemical emblem book that pairs symbolic engravings with verse explanations, establishing a visual tradition of alchemical emblems upon which Maier builds. De Jong (1969) and Pagel (1973) both identify Lambsprinck as a prototype for Maier's method of encoding alchemical doctrine in pictorial form, with Emblem VII's winged and wingless bird imagery drawing on a shared symbolic vocabulary. Lambsprinck's work thus represents a key link in the genealogy of the alchemical emblem tradition that culminates in Atalanta Fugiens."
+        }
+      ],
+      "related_emblems": [],
+      "discourse_themes": [],
+      "image_source": {
+        "type": "text_description_pending",
+        "basis": "Claudiens project / De Jong scholarship",
+        "sourcing": "Claudiens atalanta_fugiens_seed.json"
+      },
+      "source_method": "Claudiens integration - adapted from atalanta_fugiens_seed.json",
+      "review_status": "DRAFT",
+      "confidence": "HIGH",
+      "attribution": "Data compiled from Claudiens project (https://github.com/t3dy/Claudiens)"
+    },
+    {
+      "id": "maier-atalanta-xiii",
+      "emblem_number": "XIII",
+      "title": "Dropsical ore washed in Jordan",
+      "motto_latin": null,
+      "motto_english": null,
+      "source_book": "Atalanta Fugiens",
+      "author": "Michael Maier",
+      "date_published": 1617,
+      "edition": "Johann Theodor de Bry, Oppenheim",
+      "image_description": "Ore afflicted with dropsy; purifying water; Jordan healing Naaman.",
+      "visual_symbols": [
+        "dropsy",
+        "Jordan",
+        "healing water",
+        "Naaman"
+      ],
+      "alchemical_processes": [
+        "purification",
+        "baptism",
+        "washing"
+      ],
+      "mythological_figures": [
+        "Naaman"
+      ],
+      "alchemical_stage": "",
+      "nigredo": false,
+      "albedo": false,
+      "citrinitas": false,
+      "rubedo": false,
+      "key_concepts": [],
+      "scholarly_sources": [
+        {
+          "scholar": "H.M.E. de Jong",
+          "reference": "Michael Maier's Atalanta fugiens: Sources of an Alchemical Book of Emblems (1969)",
+          "relevance": "PRIMARY",
+          "type": "monograph"
+        },
+        {
+          "scholar": "Michael Maier",
+          "reference": "Atalanta fugiens (1617)",
+          "relevance": "PRIMARY",
+          "type": "primary_source"
+        }
+      ],
+      "source_authorities": [],
+      "related_emblems": [],
+      "discourse_themes": [],
+      "image_source": {
+        "type": "text_description_pending",
+        "basis": "Claudiens project / De Jong scholarship",
+        "sourcing": "Claudiens atalanta_fugiens_seed.json"
+      },
+      "source_method": "Claudiens integration - adapted from atalanta_fugiens_seed.json",
+      "review_status": "DRAFT",
+      "confidence": "HIGH",
+      "attribution": "Data compiled from Claudiens project (https://github.com/t3dy/Claudiens)"
+    },
+    {
+      "id": "maier-atalanta-xvi",
+      "emblem_number": "XVI",
+      "title": "Winged and wingless lion",
+      "motto_latin": null,
+      "motto_english": null,
+      "source_book": "Atalanta Fugiens",
+      "author": "Michael Maier",
+      "date_published": 1617,
+      "edition": "Johann Theodor de Bry, Oppenheim",
+      "image_description": "Winged lion and wingless lion joined. Mercury and Sulphur union.",
+      "visual_symbols": [
+        "winged lion",
+        "wingless lion",
+        "Mercury",
+        "Sulphur"
+      ],
+      "alchemical_processes": [
+        "union of volatile and fixed"
+      ],
+      "mythological_figures": [],
+      "alchemical_stage": "",
+      "nigredo": false,
+      "albedo": false,
+      "citrinitas": false,
+      "rubedo": false,
+      "key_concepts": [],
+      "scholarly_sources": [
+        {
+          "scholar": "H.M.E. de Jong",
+          "reference": "Michael Maier's Atalanta fugiens: Sources of an Alchemical Book of Emblems (1969)",
+          "relevance": "PRIMARY",
+          "type": "monograph"
+        },
+        {
+          "scholar": "Michael Maier",
+          "reference": "Atalanta fugiens (1617)",
+          "relevance": "PRIMARY",
+          "type": "primary_source"
+        }
+      ],
+      "source_authorities": [],
+      "related_emblems": [],
+      "discourse_themes": [],
+      "image_source": {
+        "type": "text_description_pending",
+        "basis": "Claudiens project / De Jong scholarship",
+        "sourcing": "Claudiens atalanta_fugiens_seed.json"
+      },
+      "source_method": "Claudiens integration - adapted from atalanta_fugiens_seed.json",
+      "review_status": "DRAFT",
+      "confidence": "HIGH",
+      "attribution": "Data compiled from Claudiens project (https://github.com/t3dy/Claudiens)"
+    },
+    {
+      "id": "maier-atalanta-xvii",
+      "emblem_number": "XVII",
+      "title": "Fourfold fire-ball",
+      "motto_latin": null,
+      "motto_english": "A fourfold fire-ball controls this work.",
+      "source_book": "Atalanta Fugiens",
+      "author": "Michael Maier",
+      "date_published": 1617,
+      "edition": "Johann Theodor de Bry, Oppenheim",
+      "image_description": "Four fire-balls representing the four grades of fire in the alchemical work.",
+      "visual_symbols": [
+        "fire-ball",
+        "Vulcan",
+        "Mercury",
+        "fourfold fire"
+      ],
+      "alchemical_processes": [
+        "fire regulation",
+        "calcination",
+        "sublimation"
+      ],
+      "mythological_figures": [
+        "Vulcan",
+        "Mercury"
+      ],
+      "alchemical_stage": "",
+      "nigredo": false,
+      "albedo": false,
+      "citrinitas": false,
+      "rubedo": false,
+      "key_concepts": [],
+      "scholarly_sources": [
+        {
+          "scholar": "H.M.E. de Jong",
+          "reference": "Michael Maier's Atalanta fugiens: Sources of an Alchemical Book of Emblems (1969)",
+          "relevance": "PRIMARY",
+          "type": "monograph"
+        },
+        {
+          "scholar": "Michael Maier",
+          "reference": "Atalanta fugiens (1617)",
+          "relevance": "PRIMARY",
+          "type": "primary_source"
+        }
+      ],
+      "source_authorities": [],
+      "related_emblems": [],
+      "discourse_themes": [],
+      "image_source": {
+        "type": "text_description_pending",
+        "basis": "Claudiens project / De Jong scholarship",
+        "sourcing": "Claudiens atalanta_fugiens_seed.json"
+      },
+      "source_method": "Claudiens integration - adapted from atalanta_fugiens_seed.json",
+      "review_status": "DRAFT",
+      "confidence": "HIGH",
+      "attribution": "Data compiled from Claudiens project (https://github.com/t3dy/Claudiens)"
+    },
+    {
+      "id": "maier-atalanta-xxi",
+      "emblem_number": "XXI",
+      "title": "Circle-square-triangle-circle formula",
+      "motto_latin": null,
+      "motto_english": null,
+      "source_book": "Atalanta Fugiens",
+      "author": "Michael Maier",
+      "date_published": 1617,
+      "edition": "Johann Theodor de Bry, Oppenheim",
+      "image_description": "Geometric emblem: man and woman transformed through circle, square, triangle, restored to circle.",
+      "visual_symbols": [
+        "circle",
+        "square",
+        "triangle",
+        "man",
+        "woman",
+        "geometric shapes"
+      ],
+      "alchemical_processes": [
+        "conjunction",
+        "elemental transmutation",
+        "return to monad"
+      ],
+      "mythological_figures": [],
+      "alchemical_stage": "",
+      "nigredo": false,
+      "albedo": false,
+      "citrinitas": false,
+      "rubedo": false,
+      "key_concepts": [],
+      "scholarly_sources": [
+        {
+          "scholar": "H.M.E. de Jong",
+          "reference": "Michael Maier's Atalanta fugiens: Sources of an Alchemical Book of Emblems (1969)",
+          "relevance": "PRIMARY",
+          "type": "monograph"
+        },
+        {
+          "scholar": "Michael Maier",
+          "reference": "Atalanta fugiens (1617)",
+          "relevance": "PRIMARY",
+          "type": "primary_source"
+        }
+      ],
+      "source_authorities": [
+        {
+          "authority": "Rosarium Philosophorum",
+          "type": "ALCHEMICAL",
+          "relationship": "Source for geometric formula, sapiential framing, washing themes",
+          "description": "The Rosarium Philosophorum (Rose Garden of Philosophers) is a major fourteenth-century alchemical compilation attributed to Pseudo-Arnald of Villanova, widely circulated in manuscript and print as a compendium of practical and symbolic alchemical wisdom. De Jong (1969) shows that Maier draws from the Rosarium the geometric circle-square-triangle formula central to Emblem XXI and the sapiential-biblical framework of Emblems XXVI and XXVII, where Proverbs is accessed not directly but through the Rosarium's mediation. Tilton (2003) further argues that the Rosarium's Aristotelian elemental transmutation scheme, rather than a Paracelsian reading, best explains Maier's use of these emblems."
+        }
+      ],
+      "related_emblems": [],
+      "discourse_themes": [],
+      "image_source": {
+        "type": "text_description_pending",
+        "basis": "Claudiens project / De Jong scholarship",
+        "sourcing": "Claudiens atalanta_fugiens_seed.json"
+      },
+      "source_method": "Claudiens integration - adapted from atalanta_fugiens_seed.json",
+      "review_status": "DRAFT",
+      "confidence": "HIGH",
+      "attribution": "Data compiled from Claudiens project (https://github.com/t3dy/Claudiens)"
+    },
+    {
+      "id": "maier-atalanta-xxiv",
+      "emblem_number": "XXIV",
+      "title": "Alchemical King (garbed)",
+      "motto_latin": null,
+      "motto_english": null,
+      "source_book": "Atalanta Fugiens",
+      "author": "Michael Maier",
+      "date_published": 1617,
+      "edition": "Johann Theodor de Bry, Oppenheim",
+      "image_description": "King in garb; beginning of alchemical king transformation sequence.",
+      "visual_symbols": [
+        "king",
+        "garments",
+        "crown"
+      ],
+      "alchemical_processes": [
+        "putrefaction",
+        "beginning of transformation"
+      ],
+      "mythological_figures": [],
+      "alchemical_stage": "",
+      "nigredo": false,
+      "albedo": false,
+      "citrinitas": false,
+      "rubedo": false,
+      "key_concepts": [],
+      "scholarly_sources": [
+        {
+          "scholar": "H.M.E. de Jong",
+          "reference": "Michael Maier's Atalanta fugiens: Sources of an Alchemical Book of Emblems (1969)",
+          "relevance": "PRIMARY",
+          "type": "monograph"
+        },
+        {
+          "scholar": "Michael Maier",
+          "reference": "Atalanta fugiens (1617)",
+          "relevance": "PRIMARY",
+          "type": "primary_source"
+        }
+      ],
+      "source_authorities": [],
+      "related_emblems": [],
+      "discourse_themes": [],
+      "image_source": {
+        "type": "text_description_pending",
+        "basis": "Claudiens project / De Jong scholarship",
+        "sourcing": "Claudiens atalanta_fugiens_seed.json"
+      },
+      "source_method": "Claudiens integration - adapted from atalanta_fugiens_seed.json",
+      "review_status": "DRAFT",
+      "confidence": "HIGH",
+      "attribution": "Data compiled from Claudiens project (https://github.com/t3dy/Claudiens)"
+    },
+    {
+      "id": "maier-atalanta-xxvi",
+      "emblem_number": "XXVI",
+      "title": "Lady Sapientia / Tree of Life",
+      "motto_latin": null,
+      "motto_english": null,
+      "source_book": "Atalanta Fugiens",
+      "author": "Michael Maier",
+      "date_published": 1617,
+      "edition": "Johann Theodor de Bry, Oppenheim",
+      "image_description": "Wisdom-centered emblem at the book's midpoint. Dense scriptural marginalia. Sapientia as personification of alchemical knowledge joined with practice.",
+      "visual_symbols": [
+        "wisdom",
+        "tree of life",
+        "Sapientia",
+        "Proverbs",
+        "scriptural references"
+      ],
+      "alchemical_processes": [
+        "alchemy as cognitionem chymiae cum praxi",
+        "reason joined to experience"
+      ],
+      "mythological_figures": [
+        "Lady Wisdom / Sapientia"
+      ],
+      "alchemical_stage": "",
+      "nigredo": false,
+      "albedo": false,
+      "citrinitas": false,
+      "rubedo": false,
+      "key_concepts": [],
+      "scholarly_sources": [
+        {
+          "scholar": "H.M.E. de Jong",
+          "reference": "Michael Maier's Atalanta fugiens: Sources of an Alchemical Book of Emblems (1969)",
+          "relevance": "PRIMARY",
+          "type": "monograph"
+        },
+        {
+          "scholar": "Michael Maier",
+          "reference": "Atalanta fugiens (1617)",
+          "relevance": "PRIMARY",
+          "type": "primary_source"
+        }
+      ],
+      "source_authorities": [
+        {
+          "authority": "Rosarium Philosophorum",
+          "type": "ALCHEMICAL",
+          "relationship": "Source for geometric formula, sapiential framing, washing themes",
+          "description": "The Rosarium Philosophorum (Rose Garden of Philosophers) is a major fourteenth-century alchemical compilation attributed to Pseudo-Arnald of Villanova, widely circulated in manuscript and print as a compendium of practical and symbolic alchemical wisdom. De Jong (1969) shows that Maier draws from the Rosarium the geometric circle-square-triangle formula central to Emblem XXI and the sapiential-biblical framework of Emblems XXVI and XXVII, where Proverbs is accessed not directly but through the Rosarium's mediation. Tilton (2003) further argues that the Rosarium's Aristotelian elemental transmutation scheme, rather than a Paracelsian reading, best explains Maier's use of these emblems."
+        },
+        {
+          "authority": "Aurora Consurgens",
+          "type": "ALCHEMICAL",
+          "relationship": "Sapiential-Christological reading via Rosarium",
+          "description": "The Aurora Consurgens is a late medieval alchemical text attributed (probably falsely) to Thomas Aquinas, remarkable for its systematic fusion of Solomonic wisdom literature with alchemical symbolism through a Christological lens. De Jong (1969) shows that Maier accesses this text indirectly through the Rosarium Philosophorum, which transmits its sapiential-Christological reading of alchemy into the dense scriptural apparatus of Emblems XXVI and XXVII. These emblems, positioned at the structural midpoint of Atalanta Fugiens, draw on the Aurora's identification of alchemical Wisdom with the biblical Sapientia of Proverbs."
+        },
+        {
+          "authority": "Solomonic / Biblical Wisdom Tradition (Proverbs)",
+          "type": "BIBLICAL",
+          "relationship": "Religious foundation for sapiential alchemy",
+          "description": "The Solomonic wisdom tradition, centered on the Book of Proverbs and its personification of Wisdom as a tree of life, provides the religious-philosophical foundation for the sapiential dimension of Atalanta Fugiens. De Jong (1969) demonstrates that the motto of Emblem XXVI derives from Proverbs 3:18, though Maier receives this biblical text not through direct exegesis but through the mediating tradition of the Rosarium Philosophorum. The unusually dense scriptural marginalia of Emblems XXVI and XXVII signals that Maier intends these central emblems as a theological grounding for the entire alchemical enterprise."
+        },
+        {
+          "authority": "Lactantius",
+          "type": "PATRISTIC",
+          "relationship": "Wisdom as food of the soul",
+          "description": "Lactantius is a fourth-century Christian apologist whose writings on divine wisdom and the nourishment of the soul provided patristic authority for the identification of alchemical knowledge with spiritual sustenance. De Jong (1969) identifies Lactantius as one of the sources feeding into the dense scriptural apparatus of Emblem XXVI, where the concept of wisdom as the food of the soul bridges the gap between Christian theology and alchemical practice. This patristic strand reinforces Maier's presentation of alchemy as a legitimate form of religious knowledge at the structural midpoint of Atalanta Fugiens."
+        }
+      ],
+      "related_emblems": [],
+      "discourse_themes": [],
+      "image_source": {
+        "type": "text_description_pending",
+        "basis": "Claudiens project / De Jong scholarship",
+        "sourcing": "Claudiens atalanta_fugiens_seed.json"
+      },
+      "source_method": "Claudiens integration - adapted from atalanta_fugiens_seed.json",
+      "review_status": "DRAFT",
+      "confidence": "HIGH",
+      "attribution": "Data compiled from Claudiens project (https://github.com/t3dy/Claudiens)"
+    },
+    {
+      "id": "maier-atalanta-xxvii",
+      "emblem_number": "XXVII",
+      "title": "Companion to Sapientia sequence",
+      "motto_latin": null,
+      "motto_english": null,
+      "source_book": "Atalanta Fugiens",
+      "author": "Michael Maier",
+      "date_published": 1617,
+      "edition": "Johann Theodor de Bry, Oppenheim",
+      "image_description": "Companion to Emblem XXVI in the wisdom-salvation complex.",
+      "visual_symbols": [
+        "wisdom",
+        "Old Testament"
+      ],
+      "alchemical_processes": [
+        "continuation of sapiential opus",
+        "doctrine of salvation"
+      ],
+      "mythological_figures": [],
+      "alchemical_stage": "",
+      "nigredo": false,
+      "albedo": false,
+      "citrinitas": false,
+      "rubedo": false,
+      "key_concepts": [],
+      "scholarly_sources": [
+        {
+          "scholar": "H.M.E. de Jong",
+          "reference": "Michael Maier's Atalanta fugiens: Sources of an Alchemical Book of Emblems (1969)",
+          "relevance": "PRIMARY",
+          "type": "monograph"
+        },
+        {
+          "scholar": "Michael Maier",
+          "reference": "Atalanta fugiens (1617)",
+          "relevance": "PRIMARY",
+          "type": "primary_source"
+        }
+      ],
+      "source_authorities": [
+        {
+          "authority": "Rosarium Philosophorum",
+          "type": "ALCHEMICAL",
+          "relationship": "Source for geometric formula, sapiential framing, washing themes",
+          "description": "The Rosarium Philosophorum (Rose Garden of Philosophers) is a major fourteenth-century alchemical compilation attributed to Pseudo-Arnald of Villanova, widely circulated in manuscript and print as a compendium of practical and symbolic alchemical wisdom. De Jong (1969) shows that Maier draws from the Rosarium the geometric circle-square-triangle formula central to Emblem XXI and the sapiential-biblical framework of Emblems XXVI and XXVII, where Proverbs is accessed not directly but through the Rosarium's mediation. Tilton (2003) further argues that the Rosarium's Aristotelian elemental transmutation scheme, rather than a Paracelsian reading, best explains Maier's use of these emblems."
+        },
+        {
+          "authority": "Aurora Consurgens",
+          "type": "ALCHEMICAL",
+          "relationship": "Sapiential-Christological reading via Rosarium",
+          "description": "The Aurora Consurgens is a late medieval alchemical text attributed (probably falsely) to Thomas Aquinas, remarkable for its systematic fusion of Solomonic wisdom literature with alchemical symbolism through a Christological lens. De Jong (1969) shows that Maier accesses this text indirectly through the Rosarium Philosophorum, which transmits its sapiential-Christological reading of alchemy into the dense scriptural apparatus of Emblems XXVI and XXVII. These emblems, positioned at the structural midpoint of Atalanta Fugiens, draw on the Aurora's identification of alchemical Wisdom with the biblical Sapientia of Proverbs."
+        },
+        {
+          "authority": "Solomonic / Biblical Wisdom Tradition (Proverbs)",
+          "type": "BIBLICAL",
+          "relationship": "Religious foundation for sapiential alchemy",
+          "description": "The Solomonic wisdom tradition, centered on the Book of Proverbs and its personification of Wisdom as a tree of life, provides the religious-philosophical foundation for the sapiential dimension of Atalanta Fugiens. De Jong (1969) demonstrates that the motto of Emblem XXVI derives from Proverbs 3:18, though Maier receives this biblical text not through direct exegesis but through the mediating tradition of the Rosarium Philosophorum. The unusually dense scriptural marginalia of Emblems XXVI and XXVII signals that Maier intends these central emblems as a theological grounding for the entire alchemical enterprise."
+        }
+      ],
+      "related_emblems": [],
+      "discourse_themes": [],
+      "image_source": {
+        "type": "text_description_pending",
+        "basis": "Claudiens project / De Jong scholarship",
+        "sourcing": "Claudiens atalanta_fugiens_seed.json"
+      },
+      "source_method": "Claudiens integration - adapted from atalanta_fugiens_seed.json",
+      "review_status": "DRAFT",
+      "confidence": "HIGH",
+      "attribution": "Data compiled from Claudiens project (https://github.com/t3dy/Claudiens)"
+    },
+    {
+      "id": "maier-atalanta-xxviii",
+      "emblem_number": "XXVIII",
+      "title": "King Duenech in steam bath",
+      "motto_latin": null,
+      "motto_english": null,
+      "source_book": "Atalanta Fugiens",
+      "author": "Michael Maier",
+      "date_published": 1617,
+      "edition": "Johann Theodor de Bry, Oppenheim",
+      "image_description": "King in Turkish bath or canopied bed. Purging black bile. Steam rising.",
+      "visual_symbols": [
+        "king",
+        "bath",
+        "steam",
+        "black bile",
+        "melancholy"
+      ],
+      "alchemical_processes": [
+        "purification",
+        "purging melancholy",
+        "color progression from black to red"
+      ],
+      "mythological_figures": [
+        "King Duenech"
+      ],
+      "alchemical_stage": "",
+      "nigredo": false,
+      "albedo": false,
+      "citrinitas": false,
+      "rubedo": false,
+      "key_concepts": [],
+      "scholarly_sources": [
+        {
+          "scholar": "H.M.E. de Jong",
+          "reference": "Michael Maier's Atalanta fugiens: Sources of an Alchemical Book of Emblems (1969)",
+          "relevance": "PRIMARY",
+          "type": "monograph"
+        },
+        {
+          "scholar": "Michael Maier",
+          "reference": "Atalanta fugiens (1617)",
+          "relevance": "PRIMARY",
+          "type": "primary_source"
+        }
+      ],
+      "source_authorities": [],
+      "related_emblems": [],
+      "discourse_themes": [],
+      "image_source": {
+        "type": "text_description_pending",
+        "basis": "Claudiens project / De Jong scholarship",
+        "sourcing": "Claudiens atalanta_fugiens_seed.json"
+      },
+      "source_method": "Claudiens integration - adapted from atalanta_fugiens_seed.json",
+      "review_status": "DRAFT",
+      "confidence": "HIGH",
+      "attribution": "Data compiled from Claudiens project (https://github.com/t3dy/Claudiens)"
+    },
+    {
+      "id": "maier-atalanta-xxxi",
+      "emblem_number": "XXXI",
+      "title": "King transformation continued",
+      "motto_latin": null,
+      "motto_english": null,
+      "source_book": "Atalanta Fugiens",
+      "author": "Michael Maier",
+      "date_published": 1617,
+      "edition": "Johann Theodor de Bry, Oppenheim",
+      "image_description": "Continuation of King transformation sequence.",
+      "visual_symbols": [
+        "king",
+        "transformation"
+      ],
+      "alchemical_processes": [
+        "albification",
+        "continuation of purification"
+      ],
+      "mythological_figures": [],
+      "alchemical_stage": "",
+      "nigredo": false,
+      "albedo": false,
+      "citrinitas": false,
+      "rubedo": false,
+      "key_concepts": [],
+      "scholarly_sources": [
+        {
+          "scholar": "H.M.E. de Jong",
+          "reference": "Michael Maier's Atalanta fugiens: Sources of an Alchemical Book of Emblems (1969)",
+          "relevance": "PRIMARY",
+          "type": "monograph"
+        },
+        {
+          "scholar": "Michael Maier",
+          "reference": "Atalanta fugiens (1617)",
+          "relevance": "PRIMARY",
+          "type": "primary_source"
+        }
+      ],
+      "source_authorities": [],
+      "related_emblems": [],
+      "discourse_themes": [],
+      "image_source": {
+        "type": "text_description_pending",
+        "basis": "Claudiens project / De Jong scholarship",
+        "sourcing": "Claudiens atalanta_fugiens_seed.json"
+      },
+      "source_method": "Claudiens integration - adapted from atalanta_fugiens_seed.json",
+      "review_status": "DRAFT",
+      "confidence": "HIGH",
+      "attribution": "Data compiled from Claudiens project (https://github.com/t3dy/Claudiens)"
+    },
+    {
+      "id": "maier-atalanta-xxxiii",
+      "emblem_number": "XXXIII",
+      "title": "Hermaphrodite lying in darkness needs fire",
+      "motto_latin": null,
+      "motto_english": "The Hermaphrodite lying in the dark needs fire",
+      "source_book": "Atalanta Fugiens",
+      "author": "Michael Maier",
+      "date_published": 1617,
+      "edition": "Johann Theodor de Bry, Oppenheim",
+      "image_description": "Blackened hermaphrodite under waxing moon, engulfed in flames. Double-sexed figure with closed eyes.",
+      "visual_symbols": [
+        "hermaphrodite",
+        "moon",
+        "flames",
+        "darkness",
+        "fire"
+      ],
+      "alchemical_processes": [
+        "conjunction of opposites",
+        "fire as transformation agent",
+        "rebalancing of solar dryness and lunar moisture",
+        "metallic transmutation"
+      ],
+      "mythological_figures": [
+        "Hermaphrodite"
+      ],
+      "alchemical_stage": "",
+      "nigredo": false,
+      "albedo": false,
+      "citrinitas": false,
+      "rubedo": false,
+      "key_concepts": [],
+      "scholarly_sources": [
+        {
+          "scholar": "H.M.E. de Jong",
+          "reference": "Michael Maier's Atalanta fugiens: Sources of an Alchemical Book of Emblems (1969)",
+          "relevance": "PRIMARY",
+          "type": "monograph"
+        },
+        {
+          "scholar": "Michael Maier",
+          "reference": "Atalanta fugiens (1617)",
+          "relevance": "PRIMARY",
+          "type": "primary_source"
+        }
+      ],
+      "source_authorities": [
+        {
+          "authority": "Turba Philosophorum",
+          "type": "ALCHEMICAL",
+          "relationship": "Major direct source; 9 mottos derive from Turba per De Jong",
+          "description": "The Turba Philosophorum (Assembly of Philosophers) is a Latin translation of an Arabic alchemical compilation dating to approximately the ninth century, presenting alchemical doctrine as a series of speeches by ancient sages. De Jong (1969) identifies it as the single most prolific source for Atalanta Fugiens, attributing nine emblem mottos directly to the Turba's teachings on dissolution, washing, and the union of opposites. Its influence is most prominent in Emblem III (the washing woman), Emblem XXXIII (the hermaphrodite needing fire), and Emblem L (the dragon and woman in mutual destruction), where Theophilus's speech provides the concluding image of the entire work."
+        }
+      ],
+      "related_emblems": [],
+      "discourse_themes": [],
+      "image_source": {
+        "type": "text_description_pending",
+        "basis": "Claudiens project / De Jong scholarship",
+        "sourcing": "Claudiens atalanta_fugiens_seed.json"
+      },
+      "source_method": "Claudiens integration - adapted from atalanta_fugiens_seed.json",
+      "review_status": "DRAFT",
+      "confidence": "HIGH",
+      "attribution": "Data compiled from Claudiens project (https://github.com/t3dy/Claudiens)"
+    },
+    {
+      "id": "maier-atalanta-xxxiv",
+      "emblem_number": "XXXIV",
+      "title": "Celestial conception / hierogamy",
+      "motto_latin": null,
+      "motto_english": null,
+      "source_book": "Atalanta Fugiens",
+      "author": "Michael Maier",
+      "date_published": 1617,
+      "edition": "Johann Theodor de Bry, Oppenheim",
+      "image_description": "Foetus emerging head-first from womb of supine nude female among clouds. Lower scene: erotic union of sun and moon figures kissing and embracing.",
+      "visual_symbols": [
+        "foetus",
+        "birth",
+        "clouds",
+        "sun figure",
+        "moon figure",
+        "embrace"
+      ],
+      "alchemical_processes": [
+        "conception",
+        "generation of philosophical product",
+        "solar-lunar conjunction",
+        "hierogamic union"
+      ],
+      "mythological_figures": [],
+      "alchemical_stage": "",
+      "nigredo": false,
+      "albedo": false,
+      "citrinitas": false,
+      "rubedo": false,
+      "key_concepts": [],
+      "scholarly_sources": [
+        {
+          "scholar": "H.M.E. de Jong",
+          "reference": "Michael Maier's Atalanta fugiens: Sources of an Alchemical Book of Emblems (1969)",
+          "relevance": "PRIMARY",
+          "type": "monograph"
+        },
+        {
+          "scholar": "Michael Maier",
+          "reference": "Atalanta fugiens (1617)",
+          "relevance": "PRIMARY",
+          "type": "primary_source"
+        }
+      ],
+      "source_authorities": [],
+      "related_emblems": [],
+      "discourse_themes": [],
+      "image_source": {
+        "type": "text_description_pending",
+        "basis": "Claudiens project / De Jong scholarship",
+        "sourcing": "Claudiens atalanta_fugiens_seed.json"
+      },
+      "source_method": "Claudiens integration - adapted from atalanta_fugiens_seed.json",
+      "review_status": "DRAFT",
+      "confidence": "HIGH",
+      "attribution": "Data compiled from Claudiens project (https://github.com/t3dy/Claudiens)"
+    },
+    {
+      "id": "maier-atalanta-xxxviii",
+      "emblem_number": "XXXVIII",
+      "title": "Standing hermaphrodite",
+      "motto_latin": null,
+      "motto_english": null,
+      "source_book": "Atalanta Fugiens",
+      "author": "Michael Maier",
+      "date_published": 1617,
+      "edition": "Johann Theodor de Bry, Oppenheim",
+      "image_description": "Standing nude hermaphrodite figure.",
+      "visual_symbols": [
+        "hermaphrodite",
+        "standing figure"
+      ],
+      "alchemical_processes": [
+        "stable conjunction of opposites",
+        "embodied union of principles"
+      ],
+      "mythological_figures": [
+        "Hermaphrodite"
+      ],
+      "alchemical_stage": "",
+      "nigredo": false,
+      "albedo": false,
+      "citrinitas": false,
+      "rubedo": false,
+      "key_concepts": [],
+      "scholarly_sources": [
+        {
+          "scholar": "H.M.E. de Jong",
+          "reference": "Michael Maier's Atalanta fugiens: Sources of an Alchemical Book of Emblems (1969)",
+          "relevance": "PRIMARY",
+          "type": "monograph"
+        },
+        {
+          "scholar": "Michael Maier",
+          "reference": "Atalanta fugiens (1617)",
+          "relevance": "PRIMARY",
+          "type": "primary_source"
+        }
+      ],
+      "source_authorities": [],
+      "related_emblems": [],
+      "discourse_themes": [],
+      "image_source": {
+        "type": "text_description_pending",
+        "basis": "Claudiens project / De Jong scholarship",
+        "sourcing": "Claudiens atalanta_fugiens_seed.json"
+      },
+      "source_method": "Claudiens integration - adapted from atalanta_fugiens_seed.json",
+      "review_status": "DRAFT",
+      "confidence": "HIGH",
+      "attribution": "Data compiled from Claudiens project (https://github.com/t3dy/Claudiens)"
+    },
+    {
+      "id": "maier-atalanta-xliv",
+      "emblem_number": "XLIV",
+      "title": "Osiris killed and resurrected",
+      "motto_latin": null,
+      "motto_english": null,
+      "source_book": "Atalanta Fugiens",
+      "author": "Michael Maier",
+      "date_published": 1617,
+      "edition": "Johann Theodor de Bry, Oppenheim",
+      "image_description": "Osiris killed by Typhon and resurrected by Isis.",
+      "visual_symbols": [
+        "Osiris",
+        "Typhon",
+        "Isis",
+        "death",
+        "resurrection",
+        "dismemberment"
+      ],
+      "alchemical_processes": [
+        "dissolution",
+        "death and resurrection",
+        "reconstitution"
+      ],
+      "mythological_figures": [
+        "Osiris",
+        "Typhon",
+        "Isis"
+      ],
+      "alchemical_stage": "",
+      "nigredo": false,
+      "albedo": false,
+      "citrinitas": false,
+      "rubedo": false,
+      "key_concepts": [],
+      "scholarly_sources": [
+        {
+          "scholar": "H.M.E. de Jong",
+          "reference": "Michael Maier's Atalanta fugiens: Sources of an Alchemical Book of Emblems (1969)",
+          "relevance": "PRIMARY",
+          "type": "monograph"
+        },
+        {
+          "scholar": "Michael Maier",
+          "reference": "Atalanta fugiens (1617)",
+          "relevance": "PRIMARY",
+          "type": "primary_source"
+        }
+      ],
+      "source_authorities": [],
+      "related_emblems": [],
+      "discourse_themes": [],
+      "image_source": {
+        "type": "text_description_pending",
+        "basis": "Claudiens project / De Jong scholarship",
+        "sourcing": "Claudiens atalanta_fugiens_seed.json"
+      },
+      "source_method": "Claudiens integration - adapted from atalanta_fugiens_seed.json",
+      "review_status": "DRAFT",
+      "confidence": "HIGH",
+      "attribution": "Data compiled from Claudiens project (https://github.com/t3dy/Claudiens)"
+    },
+    {
+      "id": "maier-atalanta-xlviii",
+      "emblem_number": "XLVIII",
+      "title": "King Duenech receives potion",
+      "motto_latin": null,
+      "motto_english": null,
+      "source_book": "Atalanta Fugiens",
+      "author": "Michael Maier",
+      "date_published": 1617,
+      "edition": "Johann Theodor de Bry, Oppenheim",
+      "image_description": "King Duenech suffering from melancholic illness (dropsy, discoloration). Accepts potion for purification.",
+      "visual_symbols": [
+        "king",
+        "potion",
+        "melancholy",
+        "dropsy",
+        "purification"
+      ],
+      "alchemical_processes": [
+        "purification",
+        "humoral cure",
+        "metal disease cured through purification"
+      ],
+      "mythological_figures": [
+        "King Duenech"
+      ],
+      "alchemical_stage": "",
+      "nigredo": false,
+      "albedo": false,
+      "citrinitas": false,
+      "rubedo": false,
+      "key_concepts": [],
+      "scholarly_sources": [
+        {
+          "scholar": "H.M.E. de Jong",
+          "reference": "Michael Maier's Atalanta fugiens: Sources of an Alchemical Book of Emblems (1969)",
+          "relevance": "PRIMARY",
+          "type": "monograph"
+        },
+        {
+          "scholar": "Michael Maier",
+          "reference": "Atalanta fugiens (1617)",
+          "relevance": "PRIMARY",
+          "type": "primary_source"
+        }
+      ],
+      "source_authorities": [
+        {
+          "authority": "Merlini Allegory",
+          "type": "ALCHEMICAL",
+          "relationship": "Narrative source for King Duenech",
+          "description": "The Merlini Allegory is a medieval alchemical narrative in which a king suffering from a wasting disease is cured through a sequence of purgative and transformative operations, serving as an extended parable for the purification of base metal. De Jong first analyzed this source in his 1964 article on Emblem XLVIII and expanded the treatment in his 1969 monograph, demonstrating that Maier draws the entire King Duenech narrative from this tradition. Emblem XLVIII depicts the king accepting a curative potion, with the medical-humoral allegory encoding the alchemical process of purging impurities from the philosophical matter."
+        }
+      ],
+      "related_emblems": [],
+      "discourse_themes": [],
+      "image_source": {
+        "type": "text_description_pending",
+        "basis": "Claudiens project / De Jong scholarship",
+        "sourcing": "Claudiens atalanta_fugiens_seed.json"
+      },
+      "source_method": "Claudiens integration - adapted from atalanta_fugiens_seed.json",
+      "review_status": "DRAFT",
+      "confidence": "HIGH",
+      "attribution": "Data compiled from Claudiens project (https://github.com/t3dy/Claudiens)"
+    },
+    {
+      "id": "maier-atalanta-l",
+      "emblem_number": "L",
+      "title": "The Dragon kills the woman",
+      "motto_latin": null,
+      "motto_english": "The Dragon kills the woman, and she kills it, and together they bathe in the blood",
+      "source_book": "Atalanta Fugiens",
+      "author": "Michael Maier",
+      "date_published": 1617,
+      "edition": "Johann Theodor de Bry, Oppenheim",
+      "image_description": "Dragon and woman in mutual destruction. Bathing in blood. Final union of earth/fire and air/water.",
+      "visual_symbols": [
+        "dragon",
+        "woman",
+        "blood",
+        "mutual destruction",
+        "bath"
+      ],
+      "alchemical_processes": [
+        "final dissolution",
+        "mutual destruction and reconstitution",
+        "return to primary matter",
+        "completion of the Work"
+      ],
+      "mythological_figures": [],
+      "alchemical_stage": "",
+      "nigredo": false,
+      "albedo": false,
+      "citrinitas": false,
+      "rubedo": false,
+      "key_concepts": [],
+      "scholarly_sources": [
+        {
+          "scholar": "H.M.E. de Jong",
+          "reference": "Michael Maier's Atalanta fugiens: Sources of an Alchemical Book of Emblems (1969)",
+          "relevance": "PRIMARY",
+          "type": "monograph"
+        },
+        {
+          "scholar": "Michael Maier",
+          "reference": "Atalanta fugiens (1617)",
+          "relevance": "PRIMARY",
+          "type": "primary_source"
+        }
+      ],
+      "source_authorities": [
+        {
+          "authority": "Turba Philosophorum",
+          "type": "ALCHEMICAL",
+          "relationship": "Major direct source; 9 mottos derive from Turba per De Jong",
+          "description": "The Turba Philosophorum (Assembly of Philosophers) is a Latin translation of an Arabic alchemical compilation dating to approximately the ninth century, presenting alchemical doctrine as a series of speeches by ancient sages. De Jong (1969) identifies it as the single most prolific source for Atalanta Fugiens, attributing nine emblem mottos directly to the Turba's teachings on dissolution, washing, and the union of opposites. Its influence is most prominent in Emblem III (the washing woman), Emblem XXXIII (the hermaphrodite needing fire), and Emblem L (the dragon and woman in mutual destruction), where Theophilus's speech provides the concluding image of the entire work."
+        }
+      ],
+      "related_emblems": [],
+      "discourse_themes": [],
+      "image_source": {
+        "type": "text_description_pending",
+        "basis": "Claudiens project / De Jong scholarship",
+        "sourcing": "Claudiens atalanta_fugiens_seed.json"
+      },
+      "source_method": "Claudiens integration - adapted from atalanta_fugiens_seed.json",
+      "review_status": "DRAFT",
+      "confidence": "HIGH",
+      "attribution": "Data compiled from Claudiens project (https://github.com/t3dy/Claudiens)"
     }
   ],
   "essays": [
@@ -16580,6 +18057,27 @@
         "Paracelsus"
       ],
       "summary": "Andrew Sparling is a contemporary scholar of alchemy whose work on Paracelsus emphasizes the central role of alchemical thinking in his entire philosophical system. Sparling's research demonstrates that transmutation—the transformation of matter and spirit—is not peripheral to Paracelsus but fundamental to his understanding of medicine, nature, and divine knowledge."
+    },
+    {
+      "id": "claudiens-project",
+      "name": "Claudiens Project Atalanta Fugiens Compilation",
+      "discipline": "Digital Humanities / Alchemical Studies",
+      "focus": "Comprehensive scholarship compilation on Maier's Atalanta Fugiens",
+      "major_works": [
+        "atalanta_fugiens_seed.json - Complete emblem corpus with De Jong analysis",
+        "EMBLEMGUIDE.md - Reference guide for all 51 emblems",
+        "SCHOLARSHIPREPORT.md - Comprehensive scholarship coverage map"
+      ],
+      "key_contributions": [
+        "Systematized De Jong's emblem-by-emblem source criticism",
+        "Mapped source authorities across all emblems (Tabula Smaragdina, Turba, Rosarium, etc.)",
+        "Documented alchemical stages (nigredo, albedo, citrinitas, rubedo) for each emblem",
+        "Created emblem guide with thematic analysis and coverage map"
+      ],
+      "summary": "The Claudiens project provides a comprehensive digital compilation of Maier scholarship, integrating Helena Maria Elisabeth De Jong's foundational monograph with secondary scholarship by Tilton, Pagel, Smith, and others. The atalanta_fugiens_seed.json represents the culmination of extensive source-critical work mapping the complete Atalanta Fugiens emblem sequence to its intellectual traditions.",
+      "source_url": "https://github.com/t3dy/Claudiens",
+      "review_status": "VERIFIED",
+      "confidence": "HIGH"
     }
   ]
 }
