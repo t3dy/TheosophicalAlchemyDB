@@ -46,7 +46,54 @@
         "%5B9789004466005%20-%20Fictional%20Practice%3A%20Magic%2C%20Narration%2C%20and%20the%20Power%20of%20Imagination%5D%20Fictional%20Practice%3A%20Magic%2C%20Narration%2C%20and%20the%20Power%20of%20Imagination.pdf"
       ],
       "source_citations_count": 47,
-      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Johann_Valentin_Andreae.jpg"
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Johann_Valentin_Andreae.jpg",
+      "genealogical_position": "Rosicrucian theorist whose texts provided narrative frameworks for emblem interpretation; primary legitimizer of Rosicrucian claims",
+      "influenced_by_figures": [
+        {
+          "figure_id": null,
+          "figure_name": "Paracelsus",
+          "influence_type": "alchemical framework",
+          "how": "Andreae adopted Paracelsus's alchemical philosophy and medical-spiritual framework"
+        },
+        {
+          "figure_id": null,
+          "figure_name": "Renaissance Hermeticists",
+          "influence_type": "philosophical tradition",
+          "how": "Andreae synthesized Renaissance hermetic philosophy with Protestant theology"
+        },
+        {
+          "figure_id": null,
+          "figure_name": "Christian mysticism",
+          "influence_type": "theological tradition",
+          "how": "Andreae integrated Christian salvation history with alchemical symbolism"
+        },
+        {
+          "figure_id": null,
+          "figure_name": "Social reformism",
+          "influence_type": "political philosophy",
+          "how": "Andreae's Chymische Hochzeit represents an utopian reformed society"
+        }
+      ],
+      "influenced_figures": [
+        {
+          "figure_id": null,
+          "figure_name": "Daniel Cramer",
+          "influence_type": "direct source material",
+          "how": "Cramer's Rosicrucian Emblems are based directly on Andreae's narrative frameworks"
+        },
+        {
+          "figure_id": null,
+          "figure_name": "Rosicrucian emblem traditions",
+          "influence_type": "legitimization framework",
+          "how": "All later Rosicrucian emblems interpret Andreae's texts"
+        },
+        {
+          "figure_id": null,
+          "figure_name": "Mystical interpretation of alchemy",
+          "influence_type": "hermeneutical framework",
+          "how": "Andreae's emphasis on spiritual transformation influenced how emblems are read"
+        }
+      ]
     },
     {
       "id": 2,
@@ -125,7 +172,60 @@
         "Constructing Tradition",
         "README.md"
       ],
-      "source_citations_count": 106
+      "source_citations_count": 106,
+      "genealogical_position": "Cosmological diagrammatist creating elaborate visionary maps influenced by Khunrath; English synthesizer of Continental esotericism",
+      "influenced_by_figures": [
+        {
+          "figure_id": null,
+          "figure_name": "Heinrich Khunrath",
+          "influence_type": "direct structural imitation",
+          "how": "Fludd's diagrams directly imitate and elaborate Khunrath's cosmological theater"
+        },
+        {
+          "figure_id": 10,
+          "figure_name": "Michael Maier",
+          "influence_type": "harmonic philosophy",
+          "how": "Fludd adopted Maier's harmonic cosmology and integrated it with cosmological diagrams"
+        },
+        {
+          "figure_id": null,
+          "figure_name": "Paracelsus",
+          "influence_type": "medical-alchemical framework",
+          "how": "Fludd developed Paracelsus's iatrochemistry within cosmological context"
+        },
+        {
+          "figure_id": 2,
+          "figure_name": "John Dee",
+          "influence_type": "mathematical mysticism",
+          "how": "Fludd inherited Dee's Monas Hieroglyphica and extended its cosmological implications"
+        },
+        {
+          "figure_id": null,
+          "figure_name": "Jewish Kabbalah",
+          "influence_type": "mystical theology",
+          "how": "Fludd incorporated Kabbalistic emanation and cosmological hierarchy"
+        }
+      ],
+      "influenced_figures": [
+        {
+          "figure_id": null,
+          "figure_name": "Later cosmological emblems",
+          "influence_type": "visual template",
+          "how": "Fludd's diagrams became the model for all subsequent cosmological emblem traditions"
+        },
+        {
+          "figure_id": null,
+          "figure_name": "Swedenborgianism",
+          "influence_type": "cosmological system",
+          "how": "Swedenborg inherited Fludd's cosmological framework"
+        },
+        {
+          "figure_id": null,
+          "figure_name": "Romanticism and Naturphilosophie",
+          "influence_type": "cosmological imagery",
+          "how": "Fludd's cosmological diagrams influenced Romantic nature philosophy"
+        }
+      ]
     },
     {
       "id": 4,
@@ -443,7 +543,80 @@
         "Arguing with Angels",
         "Alchemy, Jung, and Remedios Varo; Cultural Complexes and the Redemptive Power of the"
       ],
-      "source_citations_count": 88
+      "source_citations_count": 88,
+      "genealogical_position": "Primary emblem-book creator; foundational figure in systematized emblem tradition",
+      "emblem_books_created": [
+        {
+          "title": "Atalanta Fugiens",
+          "year": 1617,
+          "location": "Frankfurt",
+          "total_emblems": 50,
+          "description": "50 emblems + 50 epigrams + 50 fugues; the most comprehensive integration of visual, textual, and musical symbolism",
+          "innovation": "Integration of music (fugues) with alchemical operations; harmonic cosmology"
+        },
+        {
+          "title": "Symbola Aureae Mensae",
+          "year": 1617,
+          "location": "Frankfurt",
+          "total_emblems": 40,
+          "description": "40+ emblems on philosophers and the golden table of wisdom",
+          "innovation": "Philosophical hierarchy; integration of classical and hermetic traditions"
+        },
+        {
+          "title": "Arcana Arcanissima",
+          "year": 1623,
+          "location": "Frankfurt (posthumous)",
+          "total_emblems": null,
+          "description": "Further hermetic emblematic work",
+          "innovation": "Advanced hermetic systematics"
+        }
+      ],
+      "influenced_by_figures": [
+        {
+          "figure_id": null,
+          "figure_name": "Paracelsus",
+          "influence_type": "medical-alchemical framework",
+          "how": "Maier adopted Paracelsus's iatrochemistry and three-principles doctrine (salt-sulfur-mercury)"
+        },
+        {
+          "figure_id": null,
+          "figure_name": "Heinrich Cornelius Agrippa",
+          "influence_type": "correspondence theory",
+          "how": "Maier systematized Agrippa's correspondences into harmonic proportions"
+        },
+        {
+          "figure_id": 2,
+          "figure_name": "John Dee",
+          "influence_type": "harmonic philosophy",
+          "how": "Maier adapted Dee's mathematical mysticism into musical cosmology"
+        }
+      ],
+      "influenced_figures": [
+        {
+          "figure_id": null,
+          "figure_name": "Daniel Cramer",
+          "influence_type": "direct structural imitation",
+          "how": "Cramer's Rosicrucian Emblems borrows Maier's emblem-book structure and many motifs"
+        },
+        {
+          "figure_id": null,
+          "figure_name": "Daniel Stolcius",
+          "influence_type": "comprehensive systematization",
+          "how": "Stolcius synthesized Maier's approach in Hermetic Garden (160 emblems)"
+        },
+        {
+          "figure_id": null,
+          "figure_name": "Thomas Vaughan",
+          "influence_type": "direct transmission",
+          "how": "Vaughan studied and reinterpreted Maier's harmonic alchemy for English audiences"
+        },
+        {
+          "figure_id": null,
+          "figure_name": "Emanuel Swedenborg",
+          "influence_type": "cosmological model",
+          "how": "Swedenborg's correspondence system derives from Maier's harmonic framework"
+        }
+      ]
     },
     {
       "id": 11,
@@ -827,7 +1000,75 @@
         "README.md"
       ],
       "source_citations_count": 120,
-      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Hermes_Trismegistus.jpg"
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Hermes_Trismegistus.jpg",
+      "genealogical_position": "Foundational genius; originating figure of early modern alchemy; did not create emblems but provided the framework for all emblematists",
+      "influenced_by_figures": [
+        {
+          "figure_id": null,
+          "figure_name": "Medieval alchemy",
+          "influence_type": "operational tradition",
+          "how": "Paracelsus inherited medieval laboratory traditions (Roger Bacon, Jabir)"
+        },
+        {
+          "figure_id": null,
+          "figure_name": "Renaissance Neoplatonism",
+          "influence_type": "cosmological framework",
+          "how": "Paracelsus incorporated Neoplatonic emanation and cosmic hierarchy"
+        },
+        {
+          "figure_id": null,
+          "figure_name": "Christian theology",
+          "influence_type": "theological integration",
+          "how": "Paracelsus reinterpreted hermetic tradition through Christian salvation history"
+        },
+        {
+          "figure_id": null,
+          "figure_name": "Ancient medicine",
+          "influence_type": "medical tradition",
+          "how": "Paracelsus reformed Galenic and Hippocratic medicine through alchemy"
+        }
+      ],
+      "influenced_figures": [
+        {
+          "figure_id": 10,
+          "figure_name": "Michael Maier",
+          "influence_type": "foundational philosophy",
+          "how": "Maier adopted Paracelsus's medical-alchemical framework and three-principles doctrine"
+        },
+        {
+          "figure_id": null,
+          "figure_name": "Heinrich Khunrath",
+          "influence_type": "foundational philosophy",
+          "how": "Khunrath adopted Paracelsus's operative alchemy and three-principles doctrine"
+        },
+        {
+          "figure_id": null,
+          "figure_name": "Jacob Böhme",
+          "influence_type": "mystical theology",
+          "how": "Böhme synthesized Paracelsian alchemy with mystical theology"
+        },
+        {
+          "figure_id": 3,
+          "figure_name": "Robert Fludd",
+          "influence_type": "medical-alchemical framework",
+          "how": "Fludd developed Paracelsus's iatrochemistry in cosmological context"
+        },
+        {
+          "figure_id": null,
+          "figure_name": "Thomas Vaughan",
+          "influence_type": "foundational philosophy",
+          "how": "Vaughan studied and reinterpreted Paracelsus through English esotericism"
+        },
+        {
+          "figure_id": null,
+          "figure_name": "Emanuel Swedenborg",
+          "influence_type": "foundational philosophy",
+          "how": "Swedenborg incorporated Paracelsian alchemy into mystical theology"
+        },
+        {
+          "description": "All later emblematists derived their foundational framework from Paracelsus"
+        }
+      ]
     },
     {
       "id": 21,
@@ -3712,7 +3953,24 @@
           "reference": "Lexicon Alchemiae sive Dictionarium Alchemistarum. Frankfurt, 1612. Repr. Hildesheim: Olms, 1964, s.v. 'Nigredo.'"
         }
       ],
-      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Splendor_Solis_01_Nigredo.jpg"
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Splendor_Solis_01_Nigredo.jpg",
+      "emblem_links": [
+        {
+          "emblem_id": "maier-atalanta-iii",
+          "link_type": "exemplifies",
+          "explanation": "The washwoman represents putrefactive dissolution; washing removes old stains (old forms), leaving blank matter for new inscription."
+        },
+        {
+          "emblem_id": "maier-atalanta-xi",
+          "link_type": "exemplifies",
+          "explanation": "An explicit declaration of nigredo's necessity: decay is the precondition for new growth; death precedes resurrection."
+        },
+        {
+          "emblem_id": "103",
+          "link_type": "illustrates",
+          "explanation": "The phoenix must burn (nigredo) before rebirth (albedo); shows nigredo as creative, not merely destructive."
+        }
+      ]
     },
     {
       "id": 2,
@@ -3774,7 +4032,24 @@
           "reference": "Spiritual Alchemy: Interpreting Representative Works. Cambridge: Cambridge University Press, 2021, pp. 62–85."
         }
       ],
-      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Splendor_Solis_02_Albedo.jpg"
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Splendor_Solis_02_Albedo.jpg",
+      "emblem_links": [
+        {
+          "emblem_id": "maier-atalanta-vi",
+          "link_type": "exemplifies",
+          "explanation": "The white earth (albedo stage) receives the transformed gold, representing the purified, whitened matter."
+        },
+        {
+          "emblem_id": "maier-atalanta-xii",
+          "link_type": "exemplifies",
+          "explanation": "The whitening occurs in darkness (albedo paradox); the hermaphrodite achieves luminous potential through withdrawal from external light."
+        },
+        {
+          "emblem_id": "105",
+          "link_type": "illustrates",
+          "explanation": "The cross shining white represents albedo's clarity; the crown indicates incipient royal status (approach to rubedo)."
+        }
+      ]
     },
     {
       "id": 3,
@@ -3836,7 +4111,24 @@
           "reference": "A Dictionary of Alchemical Imagery. Cambridge: Cambridge University Press, 1998, s.v. 'Rubedo,' 'Phoenix.'"
         }
       ],
-      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Splendor_Solis_07_Rubedo.jpg"
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Splendor_Solis_07_Rubedo.jpg",
+      "emblem_links": [
+        {
+          "emblem_id": "maier-atalanta-xix",
+          "link_type": "exemplifies",
+          "explanation": "An explicit rubedo image: the king (the stone) achieves final coronation in red, the color of blood and completion."
+        },
+        {
+          "emblem_id": "maier-atalanta-xx",
+          "link_type": "exemplifies",
+          "explanation": "The iridescent tail fades to blood-red at the tip, signifying the rubedo's appearance within the final stages."
+        },
+        {
+          "emblem_id": "114",
+          "link_type": "illustrates",
+          "explanation": "The crown glowing red signifies kingship achieved; the celestial context indicates spiritual rather than merely material gold."
+        }
+      ]
     },
     {
       "id": 4,
@@ -4294,7 +4586,24 @@
           "reference": "A Dictionary of Alchemical Imagery. Cambridge: Cambridge University Press, 1998, s.v. 'Dissolution,' 'Solve et coagula.'"
         }
       ],
-      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Dissolution_alchemical_symbol.jpg"
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Dissolution_alchemical_symbol.jpg",
+      "emblem_links": [
+        {
+          "emblem_id": "maier-atalanta-iii",
+          "link_type": "demonstrates",
+          "explanation": "Dissolution through washing; the woman's practical action symbolizes the chemical dissolution of the stone back into solution."
+        },
+        {
+          "emblem_id": "104",
+          "link_type": "illustrates",
+          "explanation": "The enclosed garden represents the contained vessel where solutio occurs; the garden's inward-turning emphasizes dissolution as interiorization."
+        },
+        {
+          "emblem_id": "145",
+          "link_type": "demonstrates",
+          "explanation": "Dissolution and coagulation cycle through the rebis; the perfect equilibrium suggests the harmonious oscillation between dissolution and fixation."
+        }
+      ]
     },
     {
       "id": 13,
@@ -4397,7 +4706,24 @@
         "Alchemy, Jung, and Remedios Varo; Cultural Complexes and the Redemptive Power of the"
       ],
       "source_citations_count": 41,
-      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Fermentation_alchemical.jpg"
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Fermentation_alchemical.jpg",
+      "emblem_links": [
+        {
+          "emblem_id": "maier-atalanta-iv",
+          "link_type": "demonstrates",
+          "explanation": "The love potion initiates fermentation; the sister (mercury) and brother (sulfur) generate living heat through their copulation."
+        },
+        {
+          "emblem_id": "102",
+          "link_type": "illustrates",
+          "explanation": "The royal union produces fermentation; the generative act between opposites creates living warmth, initiating transformation."
+        },
+        {
+          "emblem_id": "134",
+          "link_type": "illustrates",
+          "explanation": "The feast celebrates the fermentation's fruitfulness; nourishment is distributed, indicating that fermentation has produced abundance."
+        }
+      ]
     },
     {
       "id": 15,
@@ -4437,7 +4763,24 @@
         "A Christian Rosenkreutz Anthology"
       ],
       "source_citations_count": 95,
-      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Alchemical_Distillation_apparatus.jpg"
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Alchemical_Distillation_apparatus.jpg",
+      "emblem_links": [
+        {
+          "emblem_id": "101",
+          "link_type": "exemplifies",
+          "explanation": "Distillation's essential image: the five elements are separated and refined into the fifth essence, the quintessence rising above the four."
+        },
+        {
+          "emblem_id": "117",
+          "link_type": "illustrates",
+          "explanation": "Explicitly shows spirits (vapors) rising from the base material through the distillation apparatus, emphasizing the vertical ascent of the subtle."
+        },
+        {
+          "emblem_id": "maier-atalanta-vii",
+          "link_type": "demonstrates",
+          "explanation": "A cautionary emblem: premature distillation destroys the work; distillation must occur at the proper time when the conjunction is ready."
+        }
+      ]
     },
     {
       "id": 16,
@@ -4701,7 +5044,24 @@
         "Alchemy, Jung, and Remedios Varo; Cultural Complexes and the Redemptive Power of the"
       ],
       "source_citations_count": 7,
-      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Citrinitas_yellow_stage_alchemy.jpg"
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Citrinitas_yellow_stage_alchemy.jpg",
+      "emblem_links": [
+        {
+          "emblem_id": "maier-atalanta-x",
+          "link_type": "exemplifies",
+          "explanation": "The bride's final costume includes white and red; citrinitas is the liminal yellowing between albedo and rubedo."
+        },
+        {
+          "emblem_id": "143",
+          "link_type": "illustrates",
+          "explanation": "The golden dragon with metallic sheen represents citrinitas; its wings signify the volatility of the mercurial consciousness in that stage."
+        },
+        {
+          "emblem_id": "109",
+          "link_type": "illustrates",
+          "explanation": "The gold-hued flames among roses suggest citrinitas's solar, generative character between purification and perfection."
+        }
+      ]
     },
     {
       "id": 22,
@@ -5078,7 +5438,24 @@
         "Szulakowska"
       ],
       "source_citations_count": 4,
-      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Alchemical_Inner_Transformation.jpg"
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Alchemical_Inner_Transformation.jpg",
+      "emblem_links": [
+        {
+          "emblem_id": "maier-atalanta-xxxiii",
+          "link_type": "exemplifies",
+          "explanation": "The hermaphrodite's development in darkness represents the interiorized work; inner transformation requires withdrawal from external light and submission to internal fire."
+        },
+        {
+          "emblem_id": "maier-atalanta-xi",
+          "link_type": "illustrates",
+          "explanation": "Inner transformation begins with the nigredo: ego dissolution, confrontation with the shadow, the annihilation of false self."
+        },
+        {
+          "emblem_id": "129",
+          "link_type": "illustrates",
+          "explanation": "The culmination of inner transformation; the individual achieves illumination, unified with divine light rather than separated from it."
+        }
+      ]
     },
     {
       "id": 42,
@@ -5236,7 +5613,24 @@
         "Alchemy, Jung, and Remedios Varo; Cultural Complexes and the Redemptive Power of the"
       ],
       "source_citations_count": 49,
-      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Alchemical_Sublimation.jpg"
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Alchemical_Sublimation.jpg",
+      "emblem_links": [
+        {
+          "emblem_id": "maier-atalanta-vii",
+          "link_type": "demonstrates",
+          "explanation": "Sublimation preserves both subtle and gross while elevating both; separation is necessary later, but sublimation maintains wholeness."
+        },
+        {
+          "emblem_id": "117",
+          "link_type": "illustrates",
+          "explanation": "The spirits' ascent in sublime vaporization, rising without losing their essential nature, demonstrates sublimation's preservation of wholeness."
+        },
+        {
+          "emblem_id": "maier-atalanta-xix",
+          "link_type": "exemplifies",
+          "explanation": "The king's ascension to crown through reddening is a sublimation: the base king is elevated without being destroyed, becoming the exalted crowned king."
+        }
+      ]
     },
     {
       "id": 53,
@@ -5269,7 +5663,34 @@
         "README.md"
       ],
       "source_citations_count": 153,
-      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Paracelsian_Correspondence.jpg"
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Paracelsian_Correspondence.jpg",
+      "emblem_links": [
+        {
+          "emblem_id": "maier-atalanta-xxxiv",
+          "link_type": "exemplifies",
+          "explanation": "The celestial marriage mirrors terrestrial coniunctio; the cosmic union (sun-moon above) creates the terrestrial union below."
+        },
+        {
+          "emblem_id": "110",
+          "link_type": "illustrates",
+          "explanation": "Geometry as the bridge between macrocosm (eternal forms) and microcosm (human embodied measurement); the tools draw the correspondence."
+        },
+        {
+          "emblem_id": "120",
+          "link_type": "illustrates",
+          "explanation": "Sacred geometry demonstrates correspondence; the same proportions govern celestial bodies, elements, organs, and operations."
+        },
+        {
+          "emblem_id": "106",
+          "link_type": "illustrates",
+          "explanation": "Two stars related by sympathy, showing that distant things are bound by invisible bonds, a fundamental principle of correspondence magic."
+        },
+        {
+          "emblem_id": "maier-atalanta-xvii",
+          "link_type": "demonstrates",
+          "explanation": "Correspondence operates in the four fires: elemental fire, philosophical fire, divine fire, and the fire of nature—all related by proportion."
+        }
+      ]
     },
     {
       "id": 55,
@@ -5466,7 +5887,24 @@
         "A Christian Rosenkreutz Anthology"
       ],
       "source_citations_count": 34,
-      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Bruegel_Alchemist_1558.jpg"
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Bruegel_Alchemist_1558.jpg",
+      "emblem_links": [
+        {
+          "emblem_id": "maier-atalanta-xviii",
+          "link_type": "demonstrates",
+          "explanation": "Calcination through fire; the stone's survival of burning represents its essential nature, purified by annihilation of all accidental forms."
+        },
+        {
+          "emblem_id": "130",
+          "link_type": "illustrates",
+          "explanation": "Calcination's active principle; the sacred flame purifies through total consumption, leaving only the white ash (salt) of the calcined matter."
+        },
+        {
+          "emblem_id": "maier-atalanta-xvii",
+          "link_type": "demonstrates",
+          "explanation": "Calcination appears as one of four fires; this emblem contextualizes calcination within the hierarchy of heats applied during the opus."
+        }
+      ]
     },
     {
       "id": 67,
@@ -16693,7 +17131,19 @@
       "source_method": "Claudiens integration - adapted from atalanta_fugiens_seed.json",
       "review_status": "DRAFT",
       "confidence": "HIGH",
-      "attribution": "Data compiled from Claudiens project (https://github.com/t3dy/Claudiens)"
+      "attribution": "Data compiled from Claudiens project (https://github.com/t3dy/Claudiens)",
+      "concept_links": [
+        {
+          "concept_id": 1,
+          "concept_name": "Nigredo",
+          "link_type": "exemplifies"
+        },
+        {
+          "concept_id": 12,
+          "concept_name": "Dissolution",
+          "link_type": "demonstrates"
+        }
+      ]
     },
     {
       "id": "maier-atalanta-iv",
@@ -16756,7 +17206,14 @@
       "source_method": "Claudiens integration - adapted from atalanta_fugiens_seed.json",
       "review_status": "DRAFT",
       "confidence": "HIGH",
-      "attribution": "Data compiled from Claudiens project (https://github.com/t3dy/Claudiens)"
+      "attribution": "Data compiled from Claudiens project (https://github.com/t3dy/Claudiens)",
+      "concept_links": [
+        {
+          "concept_id": 14,
+          "concept_name": "Fermentation",
+          "link_type": "demonstrates"
+        }
+      ]
     },
     {
       "id": "maier-atalanta-v",
@@ -16886,7 +17343,14 @@
       "source_method": "Claudiens integration - adapted from atalanta_fugiens_seed.json",
       "review_status": "DRAFT",
       "confidence": "HIGH",
-      "attribution": "Data compiled from Claudiens project (https://github.com/t3dy/Claudiens)"
+      "attribution": "Data compiled from Claudiens project (https://github.com/t3dy/Claudiens)",
+      "concept_links": [
+        {
+          "concept_id": 2,
+          "concept_name": "Albedo",
+          "link_type": "exemplifies"
+        }
+      ]
     },
     {
       "id": "maier-atalanta-vii",
@@ -16960,7 +17424,19 @@
       "source_method": "Claudiens integration - adapted from atalanta_fugiens_seed.json",
       "review_status": "DRAFT",
       "confidence": "HIGH",
-      "attribution": "Data compiled from Claudiens project (https://github.com/t3dy/Claudiens)"
+      "attribution": "Data compiled from Claudiens project (https://github.com/t3dy/Claudiens)",
+      "concept_links": [
+        {
+          "concept_id": 15,
+          "concept_name": "Distillation",
+          "link_type": "demonstrates"
+        },
+        {
+          "concept_id": 51,
+          "concept_name": "Sublimation",
+          "link_type": "demonstrates"
+        }
+      ]
     },
     {
       "id": "maier-atalanta-xiii",
@@ -17131,7 +17607,19 @@
       "source_method": "Claudiens integration - adapted from atalanta_fugiens_seed.json",
       "review_status": "DRAFT",
       "confidence": "HIGH",
-      "attribution": "Data compiled from Claudiens project (https://github.com/t3dy/Claudiens)"
+      "attribution": "Data compiled from Claudiens project (https://github.com/t3dy/Claudiens)",
+      "concept_links": [
+        {
+          "concept_id": 53,
+          "concept_name": "Correspondence",
+          "link_type": "demonstrates"
+        },
+        {
+          "concept_id": 66,
+          "concept_name": "Calcination",
+          "link_type": "demonstrates"
+        }
+      ]
     },
     {
       "id": "maier-atalanta-xxi",
@@ -17584,7 +18072,14 @@
       "source_method": "Claudiens integration - adapted from atalanta_fugiens_seed.json",
       "review_status": "DRAFT",
       "confidence": "HIGH",
-      "attribution": "Data compiled from Claudiens project (https://github.com/t3dy/Claudiens)"
+      "attribution": "Data compiled from Claudiens project (https://github.com/t3dy/Claudiens)",
+      "concept_links": [
+        {
+          "concept_id": 41,
+          "concept_name": "Inner Transformation",
+          "link_type": "exemplifies"
+        }
+      ]
     },
     {
       "id": "maier-atalanta-xxxiv",
@@ -17643,7 +18138,14 @@
       "source_method": "Claudiens integration - adapted from atalanta_fugiens_seed.json",
       "review_status": "DRAFT",
       "confidence": "HIGH",
-      "attribution": "Data compiled from Claudiens project (https://github.com/t3dy/Claudiens)"
+      "attribution": "Data compiled from Claudiens project (https://github.com/t3dy/Claudiens)",
+      "concept_links": [
+        {
+          "concept_id": 53,
+          "concept_name": "Correspondence",
+          "link_type": "exemplifies"
+        }
+      ]
     },
     {
       "id": "maier-atalanta-xxxviii",
