@@ -14,20 +14,24 @@
             <p class="subtitle">Interactive Knowledge Portal: Rosicrucian & Spiritual Alchemy Traditions (16th–19th c.)</p>
             <div class="portal-stats">
                 <span class="stat-box">
-                    <span class="stat-number">100</span>
+                    <span class="stat-number" id="stat-figures">100</span>
                     <span class="stat-label">Historical Figures</span>
                 </span>
                 <span class="stat-box">
-                    <span class="stat-number">67</span>
+                    <span class="stat-number" id="stat-concepts">67</span>
                     <span class="stat-label">Concepts & Principles</span>
                 </span>
                 <span class="stat-box">
-                    <span class="stat-number">87</span>
+                    <span class="stat-number" id="stat-texts">87</span>
                     <span class="stat-label">Scholarly Texts</span>
                 </span>
                 <span class="stat-box">
-                    <span class="stat-number">0</span>
-                    <span class="stat-label">Research Sources</span>
+                    <span class="stat-number" id="stat-emblems">135</span>
+                    <span class="stat-label">Emblems</span>
+                </span>
+                <span class="stat-box">
+                    <span class="stat-number">21</span>
+                    <span class="stat-label">Thematic Essays</span>
                 </span>
             </div>
         </div>
@@ -37,6 +41,8 @@
         <button class="nav-btn active" data-section="figures">Figures</button>
         <button class="nav-btn" data-section="concepts">Concepts</button>
         <button class="nav-btn" data-section="texts">Texts</button>
+        <button class="nav-btn" data-section="emblems">Emblems</button>
+        <button class="nav-btn" data-section="essays">Essays</button>
         <button class="nav-btn" data-section="map">Map</button>
         <button class="nav-btn" data-section="about">About</button>
     </nav>
@@ -67,6 +73,24 @@
                 <p>Study 87 foundational and contemporary texts</p>
             </div>
             <div id="texts-gallery" class="gallery"></div>
+        </section>
+
+        <!-- Emblems Section -->
+        <section id="emblems" class="section">
+            <div class="section-header">
+                <h2>Alchemical Emblems</h2>
+                <p>Explore 135 emblems from Rosicrucian and alchemical emblem books</p>
+            </div>
+            <div id="emblems-gallery" class="gallery"></div>
+        </section>
+
+        <!-- Essays Section -->
+        <section id="essays" class="section">
+            <div class="section-header">
+                <h2>Thematic Essays</h2>
+                <p>21 scholarly essays on Rosicrucian alchemy, spiritual transformation, and the new historiography — each illustrated by a Rosicrucian emblem</p>
+            </div>
+            <div id="essays-gallery" class="gallery gallery-essays"></div>
         </section>
 
         <!-- Map Section -->
@@ -102,10 +126,30 @@
         </section>
     </main>
 
-    <!-- Modal for full essays -->
+    <!-- Global search bar -->
+    <div class="search-bar-container" id="search-bar-container">
+        <input type="text" id="global-search" placeholder="Search figures, concepts, texts, emblems, essays…" autocomplete="off">
+        <button id="search-clear" class="search-clear-btn" aria-label="Clear search">&times;</button>
+        <div id="search-results-panel" hidden></div>
+    </div>
+
+    <!-- Map side panel -->
+    <div id="map-side-panel" class="map-side-panel">
+        <div class="map-side-header">
+            <span id="map-side-title"></span>
+            <button id="map-side-close" class="map-side-close">&times;</button>
+        </div>
+        <div id="map-side-content"></div>
+    </div>
+
+    <!-- Modal for full entries -->
     <div id="modal" class="modal">
         <div class="modal-content">
-            <button class="modal-close">&times;</button>
+            <div class="modal-nav-bar">
+                <span id="modal-breadcrumb" class="modal-breadcrumb"></span>
+                <button id="modal-back" class="modal-back-btn">&#8592; Back</button>
+                <button id="modal-close" class="modal-close">&times;</button>
+            </div>
             <div id="modal-body"></div>
         </div>
     </div>

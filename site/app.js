@@ -292,6 +292,7 @@ function buildBadge(section, item) {
 
 function renderEmblemBooks() {
     const container = document.getElementById('emblem-books-container');
+    if (!container) return;
     const state = filterState['emblem-books'];
 
     // Filter and sort emblems
@@ -643,7 +644,13 @@ function buildEssayModal(essay) {
 
     if (essay.scholarly_debates) {
         h += `<h3>Historiographical Debate: ${essay.scholarly_debates.topic}</h3><ul>`;
-        essay.scholarly_debates.positions.forEach(p => { h += `<li>${p}</li>`; });
+        essay.scholarly_debates.positions.forEach(p => {
+            if (typeof p === 'object' && p.scholar) {
+                h += `<li><strong>${p.scholar}:</strong> ${p.position}</li>`;
+            } else {
+                h += `<li>${p}</li>`;
+            }
+        });
         h += '</ul>';
     }
 
