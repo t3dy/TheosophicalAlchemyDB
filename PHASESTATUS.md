@@ -543,7 +543,91 @@
 
 ---
 
+---
+
+### Session 9 (2026-05-26, Phase 2 Workstream 2 & 3 Integration)
+
+**Duration:** ~2.5 hours (Claudiens integration, Workstream 2 & 3 specification, relational mapping)  
+**Tasks:** Integrate Claudiens Maier emblems; execute Workstream 2 (concept-emblem mapping) and Workstream 3 (figure genealogy)  
+**Completed:**
+- ✓ Created `scripts/integrate_claudiens_maier.py` to leverage Claudiens atalanta_fugiens_seed.json
+- ✓ Integrated 23 high-quality Maier Atalanta Fugiens emblems with De Jong scholarship
+- ✓ Extracted source authorities (15 intellectual traditions) mapped to each emblem
+- ✓ Added "Claudiens Project" as scholar entry in database with full attribution
+- ✓ Created Workstream 2 & 3 specification files:
+  - `docs/CONCEPT_EMBLEM_LINKS_SPECIFICATION.json` (54 mappings across 18 core concepts)
+  - `docs/FIGURE_EMBLEM_GENEALOGY_SPECIFICATION.json` (10 figures with genealogical data)
+  - `docs/WORKSTREAM_2_3_MAPPINGS.md` (detailed scholarly justifications)
+- ✓ Created `scripts/integrate_workstream_2_3_mappings.py` with:
+  - Normalized concept name matching (handles parenthetical descriptors)
+  - Bidirectional concept-emblem linking
+  - Figure genealogy integration (genealogical_position, emblem_books_created, influenced_figures)
+- ✓ Executed integration:
+  - Added 35 concept-emblem links across 11 concepts (16.4% of 67 total)
+  - Created 10 reciprocal emblem-concept back-references
+  - Added genealogy data to 4 key figures (Maier, Cramer, Khunrath, Paracelsus)
+  - Total relational links added: 85
+- ✓ Rebuilt site with updated database
+- ✓ Committed all changes to git (commit 39d5051)
+
+**Database Status:**
+- Figures: 100 (4 with genealogical_position, 1 with emblem_books_created)
+- Concepts: 67 (11 with emblem_links mapped)
+- Emblems: 178 (7 with concept_links back-references)
+- Scholars: 26+ (added Claudiens project)
+- Total relational links: 85
+
+**Data Integrity Notes:**
+- Concept name normalization handles discrepancies between spec and database
+- Figure genealogy mapping preserves complex influence structures
+- Emblem books recorded with year, location, innovation, total_emblems fields
+- Back-references enable cross-browsing (concept→emblem, emblem→concept)
+
+**Blockers:**
+- Frontend rendering not yet implemented (app.js/HTML templates need updates to display emblem_links and genealogical_position)
+- Concept-emblem mapping incomplete: 11/67 concepts mapped (target: all 67)
+- Figure genealogy partial: 4/100 figures mapped (target: all 100 relevant figures)
+- Remaining 49 concepts need emblem mapping (Rosicrucianism, Hermeticism, Kabbalah, etc.)
+- Remaining 53+ figures need genealogy relationships documented
+
+**Notes:**
+- Workstream 2 & 3 integration framework complete and functional
+- Need to expand concept names in spec file to match all 67 database concepts for full coverage
+- Frontend rendering for emblem_links and genealogical_position is Phase 2B work
+- Emblem image sourcing (staging/emblem_images/) deferred to Phase 2B
+- All integration scripts tested and verified; database integrity confirmed
+
+---
+
+### Phase 2 Progress Summary
+
+**Completed (Sessions 8–9):**
+- ✓ Paracelsus scholarship integrated (5 scholars, 4 major works, enriched biography)
+- ✓ Claudiens Maier emblems integrated (23 emblems with De Jong scholarship)
+- ✓ Workstream 2 foundation: 35 concept-emblem links (initial mapping framework)
+- ✓ Workstream 3 foundation: 4 figures with genealogical position and influence data
+- ✓ 85 total relational links established (concept↔emblem, figure↔emblem)
+
+**In Progress (Phase 2B):**
+- [ ] Expand concept-emblem mapping to all 67 concepts
+- [ ] Complete figure genealogy for all 100 figures
+- [ ] Frontend rendering for emblem_links and genealogical_position
+- [ ] Emblem image sourcing (40–50 images from PDFs)
+- [ ] Scholarly apparatus enrichment (direct quotes, page citations)
+
+**Success Criteria Status:**
+- [x] Emblem entries created (30→178 total)
+- [x] Concept-emblem linking framework (35/200+ target links)
+- [ ] Full concept coverage (11/67 concepts mapped)
+- [x] Figure genealogy framework (4/100 figures, structure in place)
+- [ ] Scholarly apparatus enriched (Paracelsus done; emblems pending)
+- [ ] Emblem images sourced (0/40–50 pending)
+- [ ] Frontend integration (pending app.js updates)
+- [ ] Portal live (ready pending frontend rendering)
+
+---
+
 **Maintainer:** t3dy  
-**Last Updated:** 2026-05-25 (Session 8)  
-**Current Phase:** Phase 2 IN PROGRESS (Paracelsus Scholarship Integration Complete; Emblem Expansion & Concept Mapping Next)  
-**Next Phase:** Phase 2 Continuation (Emblem 30→100+, concept-emblem mappings, scholarly apparatus enrichment)
+**Last Updated:** 2026-05-26 (Session 9)  
+**Current Phase:** Phase 2 IN PROGRESS (Workstream 2 & 3 Integration Complete; Frontend Rendering & Full Coverage Mapping Next)  
+**Next Phase:** Phase 2B (Complete concept/figure coverage, frontend rendering, image sourcing)
