@@ -7,7 +7,7 @@
 
 // ─── State ────────────────────────────────────────────────────────────────────
 
-let allData = { figures: [], concepts: [], texts: [], emblems: [] };
+let allData = { figures: [], concepts: [], texts: [], essays: [], emblems: [] };
 
 // Track active section for context-aware UI
 let activeSection = 'figures';
@@ -17,6 +17,7 @@ const filterState = {
     figures:      { sort: 'default', nationality: '', scholar: '', century: '' },
     concepts:     { sort: 'default', category: '' },
     texts:        { sort: 'default', language: '', century: '' },
+    essays:       { sort: 'default' },
     emblems:      { sort: 'default', source_book: '', type: '' },
     'emblem-books': { sort: 'default', source_book: '', theme: '' }
 };
@@ -35,7 +36,7 @@ document.addEventListener('DOMContentLoaded', async () => {
         updateStats();
         populateFilterDropdowns();
 
-        ['figures', 'concepts', 'texts', 'emblems'].forEach(s => renderGallery(s));
+        ['figures', 'concepts', 'texts', 'essays', 'emblems'].forEach(s => renderGallery(s));
         renderEmblemBooks();
 
         initializeMap();
@@ -57,6 +58,7 @@ function updateStats() {
     document.getElementById('stat-concepts').textContent = allData.concepts.length;
     document.getElementById('stat-texts').textContent    = allData.texts.length;
     document.getElementById('stat-emblems').textContent  = allData.emblems.length;
+    // Note: essays not shown in header stats but displayed in Essays section
 }
 
 // ─── Filter dropdown population ───────────────────────────────────────────────
@@ -227,7 +229,7 @@ function buildCard(section, item, currentContext = activeSection) {
     const name  = item.name || item.title || '—';
     const meta  = buildCardMeta(section, item);
     const badge = buildBadgeInline(section, currentContext);
-    const imageHtml = (section === 'figures' || section === 'emblems') && item.image_url
+    const imageHtml = (section === 'figures' || section === 'emblems' || section === 'essays') && item.image_url
         ? `<img src="${item.image_url}" alt="${name}" class="card-image">`
         : '';
 
@@ -264,6 +266,11 @@ function buildCardMeta(section, item) {
     if (section === 'emblems') {
         return `<div class="card-meta">${[item.source_book, item.year].filter(Boolean).join(' · ')}</div>`;
     }
+    if (section === 'essays') {
+        return item.period
+            ? `<div class="card-meta">${item.period}</div>`
+            : '';
+    }
     return '';
 }
 
@@ -277,7 +284,7 @@ function buildBadgeInline(section, currentContext = activeSection) {
 }
 
 function buildBadge(section, item) {
-    const labels = { figures: 'Figure', concepts: 'Concept', texts: 'Text', emblems: 'Emblem' };
+    const labels = { figures: 'Figure', concepts: 'Concept', texts: 'Text', essays: 'Essay', emblems: 'Emblem' };
     return `<span class="card-badge badge-${section}">${labels[section]}</span>`;
 }
 
@@ -466,6 +473,7 @@ function buildModalContent(section, item) {
         case 'figures':  return buildFigureModal(item);
         case 'concepts': return buildConceptModal(item);
         case 'texts':    return buildTextModal(item);
+        case 'essays':   return buildEssayModal(item);
         case 'emblems':  return buildEmblemModal(item);
         default: return '';
     }
@@ -597,6 +605,47 @@ function buildTextModal(t) {
     }
 
     if (t.scholarship?.length) h += buildScholarshipSection(t.scholarship);
+
+    return h;
+}
+
+function buildEssayModal(essay) {
+    let h = `<h2>${essay.title}</h2>`;
+
+    h += `<div class="modal-meta-row">
+        ${essay.author ? `<span class="meta-pill">${essay.author}</span>` : ''}
+        ${essay.period ? `<span class="meta-pill">${essay.period}</span>` : ''}
+    </div>`;
+
+    if (essay.essay) {
+        h += `<div class="modal-essay">${paragraphify(essay.essay)}</div>`;
+    }
+
+    if (essay.related_figures?.length) {
+        const links = essay.related_figures.map(fname => {
+            const fig = allData.figures.find(f => f.name === fname);
+            return fig ? relLink('figures', fig.id, fname) : fname;
+        });
+        h += `<h3>Related Figures</h3><div class="rel-links">${links.join('')}</div>`;
+    }
+
+    if (essay.related_concepts?.length) {
+        const links = essay.related_concepts.map(cname => {
+            const c = allData.concepts.find(x => x.name === cname);
+            return c ? relLink('concepts', c.id, cname) : cname;
+        });
+        h += `<h3>Related Concepts</h3><div class="rel-links">${links.join('')}</div>`;
+    }
+
+    if (essay.scholarship?.length) {
+        h += buildScholarshipSection(essay.scholarship);
+    }
+
+    if (essay.scholarly_debates) {
+        h += `<h3>Historiographical Debate: ${essay.scholarly_debates.topic}</h3><ul>`;
+        essay.scholarly_debates.positions.forEach(p => { h += `<li>${p}</li>`; });
+        h += '</ul>';
+    }
 
     return h;
 }
@@ -747,7 +796,7 @@ function renderSearchResults(results, query, panel) {
         <div class="search-result-header">${results.length} result${results.length !== 1 ? 's' : ''} for "<em>${escHtml(query)}</em>"</div>
         ${shown.map(r => {
             const name = r.item.name || r.item.title || '—';
-            const labels = { figures: 'Figure', concepts: 'Concept', texts: 'Text', emblems: 'Emblem' };
+            const labels = { figures: 'Figure', concepts: 'Concept', texts: 'Text', essays: 'Essay', emblems: 'Emblem' };
             const snippet = highlight(truncate(r.item.summary || '', 120), query);
             return `<div class="search-result-item" data-section="${r.section}" data-id="${r.item.id}">
                 <span class="card-badge badge-${r.section}">${labels[r.section]}</span>

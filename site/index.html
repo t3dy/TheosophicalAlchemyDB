@@ -39,6 +39,7 @@
         <button class="nav-btn active" data-section="figures">Figures</button>
         <button class="nav-btn" data-section="concepts">Dictionary</button>
         <button class="nav-btn" data-section="texts">Texts</button>
+        <button class="nav-btn" data-section="essays">Essays</button>
         <button class="nav-btn" data-section="emblems">Emblems</button>
         <button class="nav-btn" data-section="emblem-books">Emblem Books</button>
         <button class="nav-btn" data-section="map">Map</button>
@@ -148,6 +149,26 @@
             </div>
             <div class="results-count" id="texts-count"></div>
             <div id="texts-gallery" class="gallery"></div>
+        </section>
+
+        <!-- Essays Section -->
+        <section id="essays" class="section">
+            <div class="section-header">
+                <h2>Thematic Essays</h2>
+                <p>Read <span class="count-label">1</span> comprehensive scholarly essay on major topics in Rosicrucian and alchemical thought</p>
+            </div>
+            <div class="filter-bar" data-section="essays">
+                <div class="filter-group">
+                    <label>Sort</label>
+                    <select class="filter-select" data-filter="sort" data-section="essays">
+                        <option value="default">Default</option>
+                        <option value="alpha">A → Z</option>
+                    </select>
+                </div>
+                <button class="filter-reset" data-section="essays">Reset</button>
+            </div>
+            <div class="results-count" id="essays-count"></div>
+            <div id="essays-gallery" class="gallery"></div>
         </section>
 
         <!-- Emblems Section -->
