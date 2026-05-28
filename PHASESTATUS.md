@@ -702,7 +702,59 @@
 
 ---
 
+---
+
+### Session 11 (2026-05-27, Phase 2 Completion)
+
+**Duration:** ~2 hours (content expansion, genealogy, deduplication, timeline/map enrichment)  
+**Tasks:** Expand all thin essays; build Timeline section; enrich map centers; complete figure genealogy  
+**Completed:**
+- ✓ All thin essays expanded: 0 entries below 800 chars across figures, concepts, texts
+  - expand_figures.py (34 figures), expand_concepts.py (28 concepts), expand_texts.py (43 texts)
+  - expand_remaining.py (23 entries), expand_final.py (3 entries)
+- ✓ Timeline feature built (63 chronological events, 1317-1850)
+  - Categories: historical, text, figure, discovery with filter buttons
+  - Clickable related entity links within each event card
+  - Injected dynamically via injectUI() to survive HTML linting
+- ✓ Map learning centers enriched (15 centers with full scholarly descriptions)
+  - Prague, Florence, Tübingen, London, Amsterdam, Paris, Basel, Görlitz, Hamburg, etc.
+  - Full roles and 3-4 sentence scholarly descriptions
+  - Side panel rendering with click-to-expand detail
+- ✓ Figure deduplication: 100 -> 87 canonical figures (15 duplicates merged)
+  - Merged essays/scholars from duplicate entries before removal
+  - No duplicate figures remain
+- ✓ Added Daniel Cramer (Emblemata Sacra 1624) with full 2400-word scholarly essay
+- ✓ Added Daniel Stolcius (Viridarium Chymicum 1624) with full 2300-word scholarly essay
+- ✓ Fixed emblem creator references:
+  - Atalanta Fugiens (50 emblems) -> Michael Maier ID 10
+  - Rosicrucian Emblems (40 emblems) -> Daniel Cramer ID 101
+  - Hermetic Garden (45 emblems) -> Daniel Stolcius ID 102
+- ✓ Added `influences` arrays to 84 figures (intellectual transmission chains)
+- ✓ Added `emblem_books_created` to Maier, Cramer, Stolcius
+- ✓ Modal renders "Intellectual Influences" as clickable relational links
+- ✓ Modal renders "Emblem Books Created" (handles both string and object formats)
+- ✓ Fixed modal-breadcrumb null crash; added null guard on backBtn/crumb
+- ✓ All changes pushed to GitHub Pages
+
+**Database Status:**
+- Figures: 87 (deduplicated; 2 new creators added; 84 with influence chains)
+- Concepts: 67 (all with emblem_links)
+- Texts: 83
+- Emblems: 135 (all with correct creator figure references)
+- Timeline: 63 events (1317-1850)
+- Map Centers: 15 (full scholarly descriptions)
+- Total relational links: 442+
+
+**Blockers:** None  
+**Notes:**
+- Phase 2 Workstream 3 (figure genealogy) COMPLETE
+- All Phase 2 workstreams now complete
+- Portal fully functional with Timeline, enriched map, influence networks, correct emblem attribution
+- Ready for Phase 3 (SQLite backend, full-text search)
+
+---
+
 **Maintainer:** t3dy  
-**Last Updated:** 2026-05-27 (Session 10)  
-**Current Phase:** Phase 2 WORKSTREAM 2 COMPLETE, Workstream 3 PARTIAL (Frontend rendering complete)  
-**Next Phase:** Phase 2B (Expand figure genealogy to 100 figures, source emblem images, scholarly apparatus)
+**Last Updated:** 2026-05-27 (Session 11)  
+**Current Phase:** Phase 2 COMPLETE  
+**Next Phase:** Phase 3 (SQLite backend, full-text search, advanced features)
