@@ -8318,7 +8318,14 @@
       ],
       "related_emblems": [],
       "authenticity": "confirmed",
-      "image_source": "Wellcome Collection - Cramer Rosicrucian Emblems (1617)",
+      "image_source": {
+        "type": "iiif_internet_archive",
+        "provider": "Internet Archive",
+        "identifier": "b22424548",
+        "page_estimate": 8,
+        "note": "Daniel Cramer, Emblemata Sacra (Frankfurt: Lucas Jennis, 1617). Digitized copy at Internet Archive (id: b22424548). Page number is estimated; image may show adjacent page.",
+        "review_status": "DRAFT"
+      },
       "scholarship": [
         {
           "scholar": "Szulakowska",
@@ -8339,7 +8346,7 @@
           "relevance": "secondary"
         }
       ],
-      "image_url": ""
+      "image_url": "https://iiif.archive.org/iiif/2/b22424548$8/full/800,/0/default.jpg"
     },
     {
       "id": 102,
@@ -8369,7 +8376,14 @@
       ],
       "related_emblems": [],
       "authenticity": "confirmed",
-      "image_source": "Wellcome Collection - Cramer Rosicrucian Emblems (1617)",
+      "image_source": {
+        "type": "iiif_internet_archive",
+        "provider": "Internet Archive",
+        "identifier": "b22424548",
+        "page_estimate": 10,
+        "note": "Daniel Cramer, Emblemata Sacra (Frankfurt: Lucas Jennis, 1617). Digitized copy at Internet Archive (id: b22424548). Page number is estimated; image may show adjacent page.",
+        "review_status": "DRAFT"
+      },
       "scholarship": [
         {
           "scholar": "Szulakowska",
@@ -8390,7 +8404,7 @@
           "relevance": "secondary"
         }
       ],
-      "image_url": ""
+      "image_url": "https://iiif.archive.org/iiif/2/b22424548$10/full/800,/0/default.jpg"
     },
     {
       "id": 103,
@@ -8420,7 +8434,14 @@
       ],
       "related_emblems": [],
       "authenticity": "confirmed",
-      "image_source": "Wellcome Collection - Cramer Rosicrucian Emblems (1617)",
+      "image_source": {
+        "type": "iiif_internet_archive",
+        "provider": "Internet Archive",
+        "identifier": "b22424548",
+        "page_estimate": 12,
+        "note": "Daniel Cramer, Emblemata Sacra (Frankfurt: Lucas Jennis, 1617). Digitized copy at Internet Archive (id: b22424548). Page number is estimated; image may show adjacent page.",
+        "review_status": "DRAFT"
+      },
       "scholarship": [
         {
           "scholar": "Szulakowska",
@@ -8441,7 +8462,7 @@
           "relevance": "secondary"
         }
       ],
-      "image_url": ""
+      "image_url": "https://iiif.archive.org/iiif/2/b22424548$12/full/800,/0/default.jpg"
     },
     {
       "id": 104,
@@ -8471,7 +8492,14 @@
       ],
       "related_emblems": [],
       "authenticity": "confirmed",
-      "image_source": "Wellcome Collection - Cramer Rosicrucian Emblems (1617)",
+      "image_source": {
+        "type": "iiif_internet_archive",
+        "provider": "Internet Archive",
+        "identifier": "b22424548",
+        "page_estimate": 14,
+        "note": "Daniel Cramer, Emblemata Sacra (Frankfurt: Lucas Jennis, 1617). Digitized copy at Internet Archive (id: b22424548). Page number is estimated; image may show adjacent page.",
+        "review_status": "DRAFT"
+      },
       "scholarship": [
         {
           "scholar": "Szulakowska",
@@ -8492,7 +8520,7 @@
           "relevance": "secondary"
         }
       ],
-      "image_url": ""
+      "image_url": "https://iiif.archive.org/iiif/2/b22424548$14/full/800,/0/default.jpg"
     },
     {
       "id": 105,
@@ -8522,7 +8550,14 @@
       ],
       "related_emblems": [],
       "authenticity": "confirmed",
-      "image_source": "Wellcome Collection - Cramer Rosicrucian Emblems (1617)",
+      "image_source": {
+        "type": "iiif_internet_archive",
+        "provider": "Internet Archive",
+        "identifier": "b22424548",
+        "page_estimate": 16,
+        "note": "Daniel Cramer, Emblemata Sacra (Frankfurt: Lucas Jennis, 1617). Digitized copy at Internet Archive (id: b22424548). Page number is estimated; image may show adjacent page.",
+        "review_status": "DRAFT"
+      },
       "scholarship": [
         {
           "scholar": "Szulakowska",
@@ -8543,7 +8578,7 @@
           "relevance": "secondary"
         }
       ],
-      "image_url": ""
+      "image_url": "https://iiif.archive.org/iiif/2/b22424548$16/full/800,/0/default.jpg"
     },
     {
       "id": 106,
@@ -8573,7 +8608,14 @@
       ],
       "related_emblems": [],
       "authenticity": "confirmed",
-      "image_source": "Wellcome Collection - Cramer Rosicrucian Emblems (1617)",
+      "image_source": {
+        "type": "iiif_internet_archive",
+        "provider": "Internet Archive",
+        "identifier": "b22424548",
+        "page_estimate": 18,
+        "note": "Daniel Cramer, Emblemata Sacra (Frankfurt: Lucas Jennis, 1617). Digitized copy at Internet Archive (id: b22424548). Page number is estimated; image may show adjacent page.",
+        "review_status": "DRAFT"
+      },
       "scholarship": [
         {
           "scholar": "Szulakowska",
@@ -8594,7 +8636,7 @@
           "relevance": "secondary"
         }
       ],
-      "image_url": ""
+      "image_url": "https://iiif.archive.org/iiif/2/b22424548$18/full/800,/0/default.jpg"
     },
     {
       "id": 107,
@@ -8624,7 +8666,14 @@
       ],
       "related_emblems": [],
       "authenticity": "confirmed",
-      "image_source": "Wellcome Collection - Cramer Rosicrucian Emblems (1617)",
+      "image_source": {
+        "type": "iiif_internet_archive",
+        "provider": "Internet Archive",
+        "identifier": "b22424548",
+        "page_estimate": 20,
+        "note": "Daniel Cramer, Emblemata Sacra (Frankfurt: Lucas Jennis, 1617). Digitized copy at Internet Archive (id: b22424548). Page number is estimated; image may show adjacent page.",
+        "review_status": "DRAFT"
+      },
       "scholarship": [
         {
           "scholar": "Szulakowska",
@@ -8645,7 +8694,7 @@
           "relevance": "secondary"
         }
       ],
-      "image_url": ""
+      "image_url": "https://iiif.archive.org/iiif/2/b22424548$20/full/800,/0/default.jpg"
     },
     {
       "id": 108,
@@ -8675,7 +8724,14 @@
       ],
       "related_emblems": [],
       "authenticity": "confirmed",
-      "image_source": "Wellcome Collection - Cramer Rosicrucian Emblems (1617)",
+      "image_source": {
+        "type": "iiif_internet_archive",
+        "provider": "Internet Archive",
+        "identifier": "b22424548",
+        "page_estimate": 22,
+        "note": "Daniel Cramer, Emblemata Sacra (Frankfurt: Lucas Jennis, 1617). Digitized copy at Internet Archive (id: b22424548). Page number is estimated; image may show adjacent page.",
+        "review_status": "DRAFT"
+      },
       "scholarship": [
         {
           "scholar": "Szulakowska",
@@ -8696,7 +8752,7 @@
           "relevance": "secondary"
         }
       ],
-      "image_url": ""
+      "image_url": "https://iiif.archive.org/iiif/2/b22424548$22/full/800,/0/default.jpg"
     },
     {
       "id": 109,
@@ -8726,7 +8782,14 @@
       ],
       "related_emblems": [],
       "authenticity": "confirmed",
-      "image_source": "Wellcome Collection - Cramer Rosicrucian Emblems (1617)",
+      "image_source": {
+        "type": "iiif_internet_archive",
+        "provider": "Internet Archive",
+        "identifier": "b22424548",
+        "page_estimate": 24,
+        "note": "Daniel Cramer, Emblemata Sacra (Frankfurt: Lucas Jennis, 1617). Digitized copy at Internet Archive (id: b22424548). Page number is estimated; image may show adjacent page.",
+        "review_status": "DRAFT"
+      },
       "scholarship": [
         {
           "scholar": "Szulakowska",
@@ -8747,7 +8810,7 @@
           "relevance": "secondary"
         }
       ],
-      "image_url": ""
+      "image_url": "https://iiif.archive.org/iiif/2/b22424548$24/full/800,/0/default.jpg"
     },
     {
       "id": 110,
@@ -8777,7 +8840,14 @@
       ],
       "related_emblems": [],
       "authenticity": "confirmed",
-      "image_source": "Wellcome Collection - Cramer Rosicrucian Emblems (1617)",
+      "image_source": {
+        "type": "iiif_internet_archive",
+        "provider": "Internet Archive",
+        "identifier": "b22424548",
+        "page_estimate": 26,
+        "note": "Daniel Cramer, Emblemata Sacra (Frankfurt: Lucas Jennis, 1617). Digitized copy at Internet Archive (id: b22424548). Page number is estimated; image may show adjacent page.",
+        "review_status": "DRAFT"
+      },
       "scholarship": [
         {
           "scholar": "Szulakowska",
@@ -8798,7 +8868,7 @@
           "relevance": "secondary"
         }
       ],
-      "image_url": ""
+      "image_url": "https://iiif.archive.org/iiif/2/b22424548$26/full/800,/0/default.jpg"
     },
     {
       "id": 111,
@@ -8828,7 +8898,14 @@
       ],
       "related_emblems": [],
       "authenticity": "confirmed",
-      "image_source": "Wellcome Collection - Cramer Rosicrucian Emblems (1617)",
+      "image_source": {
+        "type": "iiif_internet_archive",
+        "provider": "Internet Archive",
+        "identifier": "b22424548",
+        "page_estimate": 28,
+        "note": "Daniel Cramer, Emblemata Sacra (Frankfurt: Lucas Jennis, 1617). Digitized copy at Internet Archive (id: b22424548). Page number is estimated; image may show adjacent page.",
+        "review_status": "DRAFT"
+      },
       "scholarship": [
         {
           "scholar": "Szulakowska",
@@ -8849,7 +8926,7 @@
           "relevance": "secondary"
         }
       ],
-      "image_url": ""
+      "image_url": "https://iiif.archive.org/iiif/2/b22424548$28/full/800,/0/default.jpg"
     },
     {
       "id": 112,
@@ -8879,7 +8956,14 @@
       ],
       "related_emblems": [],
       "authenticity": "confirmed",
-      "image_source": "Wellcome Collection - Cramer Rosicrucian Emblems (1617)",
+      "image_source": {
+        "type": "iiif_internet_archive",
+        "provider": "Internet Archive",
+        "identifier": "b22424548",
+        "page_estimate": 30,
+        "note": "Daniel Cramer, Emblemata Sacra (Frankfurt: Lucas Jennis, 1617). Digitized copy at Internet Archive (id: b22424548). Page number is estimated; image may show adjacent page.",
+        "review_status": "DRAFT"
+      },
       "scholarship": [
         {
           "scholar": "Szulakowska",
@@ -8900,7 +8984,7 @@
           "relevance": "secondary"
         }
       ],
-      "image_url": ""
+      "image_url": "https://iiif.archive.org/iiif/2/b22424548$30/full/800,/0/default.jpg"
     },
     {
       "id": 113,
@@ -8930,7 +9014,14 @@
       ],
       "related_emblems": [],
       "authenticity": "confirmed",
-      "image_source": "Wellcome Collection - Cramer Rosicrucian Emblems (1617)",
+      "image_source": {
+        "type": "iiif_internet_archive",
+        "provider": "Internet Archive",
+        "identifier": "b22424548",
+        "page_estimate": 32,
+        "note": "Daniel Cramer, Emblemata Sacra (Frankfurt: Lucas Jennis, 1617). Digitized copy at Internet Archive (id: b22424548). Page number is estimated; image may show adjacent page.",
+        "review_status": "DRAFT"
+      },
       "scholarship": [
         {
           "scholar": "Szulakowska",
@@ -8951,7 +9042,7 @@
           "relevance": "secondary"
         }
       ],
-      "image_url": ""
+      "image_url": "https://iiif.archive.org/iiif/2/b22424548$32/full/800,/0/default.jpg"
     },
     {
       "id": 114,
@@ -8981,7 +9072,14 @@
       ],
       "related_emblems": [],
       "authenticity": "confirmed",
-      "image_source": "Wellcome Collection - Cramer Rosicrucian Emblems (1617)",
+      "image_source": {
+        "type": "iiif_internet_archive",
+        "provider": "Internet Archive",
+        "identifier": "b22424548",
+        "page_estimate": 34,
+        "note": "Daniel Cramer, Emblemata Sacra (Frankfurt: Lucas Jennis, 1617). Digitized copy at Internet Archive (id: b22424548). Page number is estimated; image may show adjacent page.",
+        "review_status": "DRAFT"
+      },
       "scholarship": [
         {
           "scholar": "Szulakowska",
@@ -9002,7 +9100,7 @@
           "relevance": "secondary"
         }
       ],
-      "image_url": ""
+      "image_url": "https://iiif.archive.org/iiif/2/b22424548$34/full/800,/0/default.jpg"
     },
     {
       "id": 115,
@@ -9032,7 +9130,14 @@
       ],
       "related_emblems": [],
       "authenticity": "confirmed",
-      "image_source": "Wellcome Collection - Cramer Rosicrucian Emblems (1617)",
+      "image_source": {
+        "type": "iiif_internet_archive",
+        "provider": "Internet Archive",
+        "identifier": "b22424548",
+        "page_estimate": 36,
+        "note": "Daniel Cramer, Emblemata Sacra (Frankfurt: Lucas Jennis, 1617). Digitized copy at Internet Archive (id: b22424548). Page number is estimated; image may show adjacent page.",
+        "review_status": "DRAFT"
+      },
       "scholarship": [
         {
           "scholar": "Szulakowska",
@@ -9053,7 +9158,7 @@
           "relevance": "secondary"
         }
       ],
-      "image_url": ""
+      "image_url": "https://iiif.archive.org/iiif/2/b22424548$36/full/800,/0/default.jpg"
     },
     {
       "id": 116,
@@ -9083,7 +9188,14 @@
       ],
       "related_emblems": [],
       "authenticity": "confirmed",
-      "image_source": "Wellcome Collection - Cramer Rosicrucian Emblems (1617)",
+      "image_source": {
+        "type": "iiif_internet_archive",
+        "provider": "Internet Archive",
+        "identifier": "b22424548",
+        "page_estimate": 38,
+        "note": "Daniel Cramer, Emblemata Sacra (Frankfurt: Lucas Jennis, 1617). Digitized copy at Internet Archive (id: b22424548). Page number is estimated; image may show adjacent page.",
+        "review_status": "DRAFT"
+      },
       "scholarship": [
         {
           "scholar": "Szulakowska",
@@ -9104,7 +9216,7 @@
           "relevance": "secondary"
         }
       ],
-      "image_url": ""
+      "image_url": "https://iiif.archive.org/iiif/2/b22424548$38/full/800,/0/default.jpg"
     },
     {
       "id": 117,
@@ -9134,7 +9246,14 @@
       ],
       "related_emblems": [],
       "authenticity": "confirmed",
-      "image_source": "Wellcome Collection - Cramer Rosicrucian Emblems (1617)",
+      "image_source": {
+        "type": "iiif_internet_archive",
+        "provider": "Internet Archive",
+        "identifier": "b22424548",
+        "page_estimate": 40,
+        "note": "Daniel Cramer, Emblemata Sacra (Frankfurt: Lucas Jennis, 1617). Digitized copy at Internet Archive (id: b22424548). Page number is estimated; image may show adjacent page.",
+        "review_status": "DRAFT"
+      },
       "scholarship": [
         {
           "scholar": "Szulakowska",
@@ -9155,7 +9274,7 @@
           "relevance": "secondary"
         }
       ],
-      "image_url": ""
+      "image_url": "https://iiif.archive.org/iiif/2/b22424548$40/full/800,/0/default.jpg"
     },
     {
       "id": 118,
@@ -9185,7 +9304,14 @@
       ],
       "related_emblems": [],
       "authenticity": "confirmed",
-      "image_source": "Wellcome Collection - Cramer Rosicrucian Emblems (1617)",
+      "image_source": {
+        "type": "iiif_internet_archive",
+        "provider": "Internet Archive",
+        "identifier": "b22424548",
+        "page_estimate": 42,
+        "note": "Daniel Cramer, Emblemata Sacra (Frankfurt: Lucas Jennis, 1617). Digitized copy at Internet Archive (id: b22424548). Page number is estimated; image may show adjacent page.",
+        "review_status": "DRAFT"
+      },
       "scholarship": [
         {
           "scholar": "Szulakowska",
@@ -9206,7 +9332,7 @@
           "relevance": "secondary"
         }
       ],
-      "image_url": ""
+      "image_url": "https://iiif.archive.org/iiif/2/b22424548$42/full/800,/0/default.jpg"
     },
     {
       "id": 119,
@@ -9236,7 +9362,14 @@
       ],
       "related_emblems": [],
       "authenticity": "confirmed",
-      "image_source": "Wellcome Collection - Cramer Rosicrucian Emblems (1617)",
+      "image_source": {
+        "type": "iiif_internet_archive",
+        "provider": "Internet Archive",
+        "identifier": "b22424548",
+        "page_estimate": 44,
+        "note": "Daniel Cramer, Emblemata Sacra (Frankfurt: Lucas Jennis, 1617). Digitized copy at Internet Archive (id: b22424548). Page number is estimated; image may show adjacent page.",
+        "review_status": "DRAFT"
+      },
       "scholarship": [
         {
           "scholar": "Szulakowska",
@@ -9257,7 +9390,7 @@
           "relevance": "secondary"
         }
       ],
-      "image_url": ""
+      "image_url": "https://iiif.archive.org/iiif/2/b22424548$44/full/800,/0/default.jpg"
     },
     {
       "id": 120,
@@ -9287,7 +9420,14 @@
       ],
       "related_emblems": [],
       "authenticity": "confirmed",
-      "image_source": "Wellcome Collection - Cramer Rosicrucian Emblems (1617)",
+      "image_source": {
+        "type": "iiif_internet_archive",
+        "provider": "Internet Archive",
+        "identifier": "b22424548",
+        "page_estimate": 46,
+        "note": "Daniel Cramer, Emblemata Sacra (Frankfurt: Lucas Jennis, 1617). Digitized copy at Internet Archive (id: b22424548). Page number is estimated; image may show adjacent page.",
+        "review_status": "DRAFT"
+      },
       "scholarship": [
         {
           "scholar": "Szulakowska",
@@ -9308,7 +9448,7 @@
           "relevance": "secondary"
         }
       ],
-      "image_url": ""
+      "image_url": "https://iiif.archive.org/iiif/2/b22424548$46/full/800,/0/default.jpg"
     },
     {
       "id": 121,
@@ -9338,7 +9478,14 @@
       ],
       "related_emblems": [],
       "authenticity": "confirmed",
-      "image_source": "Wellcome Collection - Cramer Rosicrucian Emblems (1617)",
+      "image_source": {
+        "type": "iiif_internet_archive",
+        "provider": "Internet Archive",
+        "identifier": "b22424548",
+        "page_estimate": 48,
+        "note": "Daniel Cramer, Emblemata Sacra (Frankfurt: Lucas Jennis, 1617). Digitized copy at Internet Archive (id: b22424548). Page number is estimated; image may show adjacent page.",
+        "review_status": "DRAFT"
+      },
       "scholarship": [
         {
           "scholar": "Szulakowska",
@@ -9359,7 +9506,7 @@
           "relevance": "secondary"
         }
       ],
-      "image_url": ""
+      "image_url": "https://iiif.archive.org/iiif/2/b22424548$48/full/800,/0/default.jpg"
     },
     {
       "id": 122,
@@ -9389,7 +9536,14 @@
       ],
       "related_emblems": [],
       "authenticity": "confirmed",
-      "image_source": "Wellcome Collection - Cramer Rosicrucian Emblems (1617)",
+      "image_source": {
+        "type": "iiif_internet_archive",
+        "provider": "Internet Archive",
+        "identifier": "b22424548",
+        "page_estimate": 50,
+        "note": "Daniel Cramer, Emblemata Sacra (Frankfurt: Lucas Jennis, 1617). Digitized copy at Internet Archive (id: b22424548). Page number is estimated; image may show adjacent page.",
+        "review_status": "DRAFT"
+      },
       "scholarship": [
         {
           "scholar": "Szulakowska",
@@ -9410,7 +9564,7 @@
           "relevance": "secondary"
         }
       ],
-      "image_url": ""
+      "image_url": "https://iiif.archive.org/iiif/2/b22424548$50/full/800,/0/default.jpg"
     },
     {
       "id": 123,
@@ -9440,7 +9594,14 @@
       ],
       "related_emblems": [],
       "authenticity": "confirmed",
-      "image_source": "Wellcome Collection - Cramer Rosicrucian Emblems (1617)",
+      "image_source": {
+        "type": "iiif_internet_archive",
+        "provider": "Internet Archive",
+        "identifier": "b22424548",
+        "page_estimate": 52,
+        "note": "Daniel Cramer, Emblemata Sacra (Frankfurt: Lucas Jennis, 1617). Digitized copy at Internet Archive (id: b22424548). Page number is estimated; image may show adjacent page.",
+        "review_status": "DRAFT"
+      },
       "scholarship": [
         {
           "scholar": "Szulakowska",
@@ -9461,7 +9622,7 @@
           "relevance": "secondary"
         }
       ],
-      "image_url": ""
+      "image_url": "https://iiif.archive.org/iiif/2/b22424548$52/full/800,/0/default.jpg"
     },
     {
       "id": 124,
@@ -9491,7 +9652,14 @@
       ],
       "related_emblems": [],
       "authenticity": "confirmed",
-      "image_source": "Wellcome Collection - Cramer Rosicrucian Emblems (1617)",
+      "image_source": {
+        "type": "iiif_internet_archive",
+        "provider": "Internet Archive",
+        "identifier": "b22424548",
+        "page_estimate": 54,
+        "note": "Daniel Cramer, Emblemata Sacra (Frankfurt: Lucas Jennis, 1617). Digitized copy at Internet Archive (id: b22424548). Page number is estimated; image may show adjacent page.",
+        "review_status": "DRAFT"
+      },
       "scholarship": [
         {
           "scholar": "Szulakowska",
@@ -9512,7 +9680,7 @@
           "relevance": "secondary"
         }
       ],
-      "image_url": ""
+      "image_url": "https://iiif.archive.org/iiif/2/b22424548$54/full/800,/0/default.jpg"
     },
     {
       "id": 125,
@@ -9542,7 +9710,14 @@
       ],
       "related_emblems": [],
       "authenticity": "confirmed",
-      "image_source": "Wellcome Collection - Cramer Rosicrucian Emblems (1617)",
+      "image_source": {
+        "type": "iiif_internet_archive",
+        "provider": "Internet Archive",
+        "identifier": "b22424548",
+        "page_estimate": 56,
+        "note": "Daniel Cramer, Emblemata Sacra (Frankfurt: Lucas Jennis, 1617). Digitized copy at Internet Archive (id: b22424548). Page number is estimated; image may show adjacent page.",
+        "review_status": "DRAFT"
+      },
       "scholarship": [
         {
           "scholar": "Szulakowska",
@@ -9563,7 +9738,7 @@
           "relevance": "secondary"
         }
       ],
-      "image_url": ""
+      "image_url": "https://iiif.archive.org/iiif/2/b22424548$56/full/800,/0/default.jpg"
     },
     {
       "id": 126,
@@ -9593,7 +9768,14 @@
       ],
       "related_emblems": [],
       "authenticity": "confirmed",
-      "image_source": "Wellcome Collection - Cramer Rosicrucian Emblems (1617)",
+      "image_source": {
+        "type": "iiif_internet_archive",
+        "provider": "Internet Archive",
+        "identifier": "b22424548",
+        "page_estimate": 58,
+        "note": "Daniel Cramer, Emblemata Sacra (Frankfurt: Lucas Jennis, 1617). Digitized copy at Internet Archive (id: b22424548). Page number is estimated; image may show adjacent page.",
+        "review_status": "DRAFT"
+      },
       "scholarship": [
         {
           "scholar": "Szulakowska",
@@ -9614,7 +9796,7 @@
           "relevance": "secondary"
         }
       ],
-      "image_url": ""
+      "image_url": "https://iiif.archive.org/iiif/2/b22424548$58/full/800,/0/default.jpg"
     },
     {
       "id": 127,
@@ -9644,7 +9826,14 @@
       ],
       "related_emblems": [],
       "authenticity": "confirmed",
-      "image_source": "Wellcome Collection - Cramer Rosicrucian Emblems (1617)",
+      "image_source": {
+        "type": "iiif_internet_archive",
+        "provider": "Internet Archive",
+        "identifier": "b22424548",
+        "page_estimate": 60,
+        "note": "Daniel Cramer, Emblemata Sacra (Frankfurt: Lucas Jennis, 1617). Digitized copy at Internet Archive (id: b22424548). Page number is estimated; image may show adjacent page.",
+        "review_status": "DRAFT"
+      },
       "scholarship": [
         {
           "scholar": "Szulakowska",
@@ -9665,7 +9854,7 @@
           "relevance": "secondary"
         }
       ],
-      "image_url": ""
+      "image_url": "https://iiif.archive.org/iiif/2/b22424548$60/full/800,/0/default.jpg"
     },
     {
       "id": 128,
@@ -9695,7 +9884,14 @@
       ],
       "related_emblems": [],
       "authenticity": "confirmed",
-      "image_source": "Wellcome Collection - Cramer Rosicrucian Emblems (1617)",
+      "image_source": {
+        "type": "iiif_internet_archive",
+        "provider": "Internet Archive",
+        "identifier": "b22424548",
+        "page_estimate": 62,
+        "note": "Daniel Cramer, Emblemata Sacra (Frankfurt: Lucas Jennis, 1617). Digitized copy at Internet Archive (id: b22424548). Page number is estimated; image may show adjacent page.",
+        "review_status": "DRAFT"
+      },
       "scholarship": [
         {
           "scholar": "Szulakowska",
@@ -9716,7 +9912,7 @@
           "relevance": "secondary"
         }
       ],
-      "image_url": ""
+      "image_url": "https://iiif.archive.org/iiif/2/b22424548$62/full/800,/0/default.jpg"
     },
     {
       "id": 129,
@@ -9746,7 +9942,14 @@
       ],
       "related_emblems": [],
       "authenticity": "confirmed",
-      "image_source": "Wellcome Collection - Cramer Rosicrucian Emblems (1617)",
+      "image_source": {
+        "type": "iiif_internet_archive",
+        "provider": "Internet Archive",
+        "identifier": "b22424548",
+        "page_estimate": 64,
+        "note": "Daniel Cramer, Emblemata Sacra (Frankfurt: Lucas Jennis, 1617). Digitized copy at Internet Archive (id: b22424548). Page number is estimated; image may show adjacent page.",
+        "review_status": "DRAFT"
+      },
       "scholarship": [
         {
           "scholar": "Szulakowska",
@@ -9767,7 +9970,7 @@
           "relevance": "secondary"
         }
       ],
-      "image_url": ""
+      "image_url": "https://iiif.archive.org/iiif/2/b22424548$64/full/800,/0/default.jpg"
     },
     {
       "id": 130,
@@ -9797,7 +10000,14 @@
       ],
       "related_emblems": [],
       "authenticity": "confirmed",
-      "image_source": "Wellcome Collection - Cramer Rosicrucian Emblems (1617)",
+      "image_source": {
+        "type": "iiif_internet_archive",
+        "provider": "Internet Archive",
+        "identifier": "b22424548",
+        "page_estimate": 66,
+        "note": "Daniel Cramer, Emblemata Sacra (Frankfurt: Lucas Jennis, 1617). Digitized copy at Internet Archive (id: b22424548). Page number is estimated; image may show adjacent page.",
+        "review_status": "DRAFT"
+      },
       "scholarship": [
         {
           "scholar": "Szulakowska",
@@ -9818,7 +10028,7 @@
           "relevance": "secondary"
         }
       ],
-      "image_url": ""
+      "image_url": "https://iiif.archive.org/iiif/2/b22424548$66/full/800,/0/default.jpg"
     },
     {
       "id": 131,
@@ -9848,7 +10058,14 @@
       ],
       "related_emblems": [],
       "authenticity": "confirmed",
-      "image_source": "Wellcome Collection - Cramer Rosicrucian Emblems (1617)",
+      "image_source": {
+        "type": "iiif_internet_archive",
+        "provider": "Internet Archive",
+        "identifier": "b22424548",
+        "page_estimate": 68,
+        "note": "Daniel Cramer, Emblemata Sacra (Frankfurt: Lucas Jennis, 1617). Digitized copy at Internet Archive (id: b22424548). Page number is estimated; image may show adjacent page.",
+        "review_status": "DRAFT"
+      },
       "scholarship": [
         {
           "scholar": "Szulakowska",
@@ -9869,7 +10086,7 @@
           "relevance": "secondary"
         }
       ],
-      "image_url": ""
+      "image_url": "https://iiif.archive.org/iiif/2/b22424548$68/full/800,/0/default.jpg"
     },
     {
       "id": 132,
@@ -9899,7 +10116,14 @@
       ],
       "related_emblems": [],
       "authenticity": "confirmed",
-      "image_source": "Wellcome Collection - Cramer Rosicrucian Emblems (1617)",
+      "image_source": {
+        "type": "iiif_internet_archive",
+        "provider": "Internet Archive",
+        "identifier": "b22424548",
+        "page_estimate": 70,
+        "note": "Daniel Cramer, Emblemata Sacra (Frankfurt: Lucas Jennis, 1617). Digitized copy at Internet Archive (id: b22424548). Page number is estimated; image may show adjacent page.",
+        "review_status": "DRAFT"
+      },
       "scholarship": [
         {
           "scholar": "Szulakowska",
@@ -9920,7 +10144,7 @@
           "relevance": "secondary"
         }
       ],
-      "image_url": ""
+      "image_url": "https://iiif.archive.org/iiif/2/b22424548$70/full/800,/0/default.jpg"
     },
     {
       "id": 133,
@@ -9950,7 +10174,14 @@
       ],
       "related_emblems": [],
       "authenticity": "confirmed",
-      "image_source": "Wellcome Collection - Cramer Rosicrucian Emblems (1617)",
+      "image_source": {
+        "type": "iiif_internet_archive",
+        "provider": "Internet Archive",
+        "identifier": "b22424548",
+        "page_estimate": 72,
+        "note": "Daniel Cramer, Emblemata Sacra (Frankfurt: Lucas Jennis, 1617). Digitized copy at Internet Archive (id: b22424548). Page number is estimated; image may show adjacent page.",
+        "review_status": "DRAFT"
+      },
       "scholarship": [
         {
           "scholar": "Szulakowska",
@@ -9971,7 +10202,7 @@
           "relevance": "secondary"
         }
       ],
-      "image_url": ""
+      "image_url": "https://iiif.archive.org/iiif/2/b22424548$72/full/800,/0/default.jpg"
     },
     {
       "id": 134,
@@ -10001,7 +10232,14 @@
       ],
       "related_emblems": [],
       "authenticity": "confirmed",
-      "image_source": "Wellcome Collection - Cramer Rosicrucian Emblems (1617)",
+      "image_source": {
+        "type": "iiif_internet_archive",
+        "provider": "Internet Archive",
+        "identifier": "b22424548",
+        "page_estimate": 74,
+        "note": "Daniel Cramer, Emblemata Sacra (Frankfurt: Lucas Jennis, 1617). Digitized copy at Internet Archive (id: b22424548). Page number is estimated; image may show adjacent page.",
+        "review_status": "DRAFT"
+      },
       "scholarship": [
         {
           "scholar": "Szulakowska",
@@ -10022,7 +10260,7 @@
           "relevance": "secondary"
         }
       ],
-      "image_url": ""
+      "image_url": "https://iiif.archive.org/iiif/2/b22424548$74/full/800,/0/default.jpg"
     },
     {
       "id": 135,
@@ -10052,7 +10290,14 @@
       ],
       "related_emblems": [],
       "authenticity": "confirmed",
-      "image_source": "Wellcome Collection - Cramer Rosicrucian Emblems (1617)",
+      "image_source": {
+        "type": "iiif_internet_archive",
+        "provider": "Internet Archive",
+        "identifier": "b22424548",
+        "page_estimate": 76,
+        "note": "Daniel Cramer, Emblemata Sacra (Frankfurt: Lucas Jennis, 1617). Digitized copy at Internet Archive (id: b22424548). Page number is estimated; image may show adjacent page.",
+        "review_status": "DRAFT"
+      },
       "scholarship": [
         {
           "scholar": "Szulakowska",
@@ -10073,7 +10318,7 @@
           "relevance": "secondary"
         }
       ],
-      "image_url": ""
+      "image_url": "https://iiif.archive.org/iiif/2/b22424548$76/full/800,/0/default.jpg"
     },
     {
       "id": 136,
@@ -10103,7 +10348,14 @@
       ],
       "related_emblems": [],
       "authenticity": "confirmed",
-      "image_source": "Wellcome Collection - Cramer Rosicrucian Emblems (1617)",
+      "image_source": {
+        "type": "iiif_internet_archive",
+        "provider": "Internet Archive",
+        "identifier": "b22424548",
+        "page_estimate": 78,
+        "note": "Daniel Cramer, Emblemata Sacra (Frankfurt: Lucas Jennis, 1617). Digitized copy at Internet Archive (id: b22424548). Page number is estimated; image may show adjacent page.",
+        "review_status": "DRAFT"
+      },
       "scholarship": [
         {
           "scholar": "Szulakowska",
@@ -10124,7 +10376,7 @@
           "relevance": "secondary"
         }
       ],
-      "image_url": ""
+      "image_url": "https://iiif.archive.org/iiif/2/b22424548$78/full/800,/0/default.jpg"
     },
     {
       "id": 137,
@@ -10154,7 +10406,14 @@
       ],
       "related_emblems": [],
       "authenticity": "confirmed",
-      "image_source": "Wellcome Collection - Cramer Rosicrucian Emblems (1617)",
+      "image_source": {
+        "type": "iiif_internet_archive",
+        "provider": "Internet Archive",
+        "identifier": "b22424548",
+        "page_estimate": 80,
+        "note": "Daniel Cramer, Emblemata Sacra (Frankfurt: Lucas Jennis, 1617). Digitized copy at Internet Archive (id: b22424548). Page number is estimated; image may show adjacent page.",
+        "review_status": "DRAFT"
+      },
       "scholarship": [
         {
           "scholar": "Szulakowska",
@@ -10175,7 +10434,7 @@
           "relevance": "secondary"
         }
       ],
-      "image_url": ""
+      "image_url": "https://iiif.archive.org/iiif/2/b22424548$80/full/800,/0/default.jpg"
     },
     {
       "id": 138,
@@ -10205,7 +10464,14 @@
       ],
       "related_emblems": [],
       "authenticity": "confirmed",
-      "image_source": "Wellcome Collection - Cramer Rosicrucian Emblems (1617)",
+      "image_source": {
+        "type": "iiif_internet_archive",
+        "provider": "Internet Archive",
+        "identifier": "b22424548",
+        "page_estimate": 82,
+        "note": "Daniel Cramer, Emblemata Sacra (Frankfurt: Lucas Jennis, 1617). Digitized copy at Internet Archive (id: b22424548). Page number is estimated; image may show adjacent page.",
+        "review_status": "DRAFT"
+      },
       "scholarship": [
         {
           "scholar": "Szulakowska",
@@ -10226,7 +10492,7 @@
           "relevance": "secondary"
         }
       ],
-      "image_url": ""
+      "image_url": "https://iiif.archive.org/iiif/2/b22424548$82/full/800,/0/default.jpg"
     },
     {
       "id": 139,
@@ -10256,7 +10522,14 @@
       ],
       "related_emblems": [],
       "authenticity": "confirmed",
-      "image_source": "Wellcome Collection - Cramer Rosicrucian Emblems (1617)",
+      "image_source": {
+        "type": "iiif_internet_archive",
+        "provider": "Internet Archive",
+        "identifier": "b22424548",
+        "page_estimate": 84,
+        "note": "Daniel Cramer, Emblemata Sacra (Frankfurt: Lucas Jennis, 1617). Digitized copy at Internet Archive (id: b22424548). Page number is estimated; image may show adjacent page.",
+        "review_status": "DRAFT"
+      },
       "scholarship": [
         {
           "scholar": "Szulakowska",
@@ -10277,7 +10550,7 @@
           "relevance": "secondary"
         }
       ],
-      "image_url": ""
+      "image_url": "https://iiif.archive.org/iiif/2/b22424548$84/full/800,/0/default.jpg"
     },
     {
       "id": 140,
@@ -10307,7 +10580,14 @@
       ],
       "related_emblems": [],
       "authenticity": "confirmed",
-      "image_source": "Wellcome Collection - Cramer Rosicrucian Emblems (1617)",
+      "image_source": {
+        "type": "iiif_internet_archive",
+        "provider": "Internet Archive",
+        "identifier": "b22424548",
+        "page_estimate": 86,
+        "note": "Daniel Cramer, Emblemata Sacra (Frankfurt: Lucas Jennis, 1617). Digitized copy at Internet Archive (id: b22424548). Page number is estimated; image may show adjacent page.",
+        "review_status": "DRAFT"
+      },
       "scholarship": [
         {
           "scholar": "Szulakowska",
@@ -10328,7 +10608,7 @@
           "relevance": "secondary"
         }
       ],
-      "image_url": ""
+      "image_url": "https://iiif.archive.org/iiif/2/b22424548$86/full/800,/0/default.jpg"
     },
     {
       "id": 141,
@@ -13108,7 +13388,12 @@
       ],
       "related_emblems": [],
       "authenticity": "confirmed",
-      "image_source": "Wellcome Collection - Stolcius Viridarium Chymicum (1624)",
+      "image_source": {
+        "type": "external_cdn",
+        "provider": "furnaceandfugue.org",
+        "note": "Same Jennis woodcut used in both Atalanta Fugiens (Maier, 1618) and Viridarium Chymicum (Stolcius, 1624). Same physical printing plates.",
+        "review_status": "DRAFT"
+      },
       "scholarship": [
         {
           "scholar": "Szulakowska",
@@ -13129,7 +13414,7 @@
           "relevance": "secondary"
         }
       ],
-      "image_url": ""
+      "image_url": "https://furnaceandfugue.org/assets/img/emblem-images_cropped/1600/emblem01.1600.jpg"
     },
     {
       "id": 192,
@@ -13159,7 +13444,12 @@
       ],
       "related_emblems": [],
       "authenticity": "confirmed",
-      "image_source": "Wellcome Collection - Stolcius Viridarium Chymicum (1624)",
+      "image_source": {
+        "type": "external_cdn",
+        "provider": "furnaceandfugue.org",
+        "note": "Same Jennis woodcut used in both Atalanta Fugiens (Maier, 1618) and Viridarium Chymicum (Stolcius, 1624). Same physical printing plates.",
+        "review_status": "DRAFT"
+      },
       "scholarship": [
         {
           "scholar": "Szulakowska",
@@ -13180,7 +13470,7 @@
           "relevance": "secondary"
         }
       ],
-      "image_url": ""
+      "image_url": "https://furnaceandfugue.org/assets/img/emblem-images_cropped/1600/emblem02.1600.jpg"
     },
     {
       "id": 193,
@@ -13210,7 +13500,12 @@
       ],
       "related_emblems": [],
       "authenticity": "confirmed",
-      "image_source": "Wellcome Collection - Stolcius Viridarium Chymicum (1624)",
+      "image_source": {
+        "type": "external_cdn",
+        "provider": "furnaceandfugue.org",
+        "note": "Same Jennis woodcut used in both Atalanta Fugiens (Maier, 1618) and Viridarium Chymicum (Stolcius, 1624). Same physical printing plates.",
+        "review_status": "DRAFT"
+      },
       "scholarship": [
         {
           "scholar": "Szulakowska",
@@ -13231,7 +13526,7 @@
           "relevance": "secondary"
         }
       ],
-      "image_url": ""
+      "image_url": "https://furnaceandfugue.org/assets/img/emblem-images_cropped/1600/emblem03.1600.jpg"
     },
     {
       "id": 194,
@@ -13261,7 +13556,12 @@
       ],
       "related_emblems": [],
       "authenticity": "confirmed",
-      "image_source": "Wellcome Collection - Stolcius Viridarium Chymicum (1624)",
+      "image_source": {
+        "type": "external_cdn",
+        "provider": "furnaceandfugue.org",
+        "note": "Same Jennis woodcut used in both Atalanta Fugiens (Maier, 1618) and Viridarium Chymicum (Stolcius, 1624). Same physical printing plates.",
+        "review_status": "DRAFT"
+      },
       "scholarship": [
         {
           "scholar": "Szulakowska",
@@ -13282,7 +13582,7 @@
           "relevance": "secondary"
         }
       ],
-      "image_url": ""
+      "image_url": "https://furnaceandfugue.org/assets/img/emblem-images_cropped/1600/emblem04.1600.jpg"
     },
     {
       "id": 195,
@@ -13313,7 +13613,12 @@
       ],
       "related_emblems": [],
       "authenticity": "confirmed",
-      "image_source": "Wellcome Collection - Stolcius Viridarium Chymicum (1624)",
+      "image_source": {
+        "type": "external_cdn",
+        "provider": "furnaceandfugue.org",
+        "note": "Same Jennis woodcut used in both Atalanta Fugiens (Maier, 1618) and Viridarium Chymicum (Stolcius, 1624). Same physical printing plates.",
+        "review_status": "DRAFT"
+      },
       "scholarship": [
         {
           "scholar": "Szulakowska",
@@ -13334,7 +13639,7 @@
           "relevance": "secondary"
         }
       ],
-      "image_url": ""
+      "image_url": "https://furnaceandfugue.org/assets/img/emblem-images_cropped/1600/emblem05.1600.jpg"
     },
     {
       "id": 196,
@@ -13364,7 +13669,12 @@
       ],
       "related_emblems": [],
       "authenticity": "confirmed",
-      "image_source": "Wellcome Collection - Stolcius Viridarium Chymicum (1624)",
+      "image_source": {
+        "type": "external_cdn",
+        "provider": "furnaceandfugue.org",
+        "note": "Same Jennis woodcut used in both Atalanta Fugiens (Maier, 1618) and Viridarium Chymicum (Stolcius, 1624). Same physical printing plates.",
+        "review_status": "DRAFT"
+      },
       "scholarship": [
         {
           "scholar": "Szulakowska",
@@ -13385,7 +13695,7 @@
           "relevance": "secondary"
         }
       ],
-      "image_url": ""
+      "image_url": "https://furnaceandfugue.org/assets/img/emblem-images_cropped/1600/emblem06.1600.jpg"
     },
     {
       "id": 197,
@@ -13415,7 +13725,12 @@
       ],
       "related_emblems": [],
       "authenticity": "confirmed",
-      "image_source": "Wellcome Collection - Stolcius Viridarium Chymicum (1624)",
+      "image_source": {
+        "type": "external_cdn",
+        "provider": "furnaceandfugue.org",
+        "note": "Same Jennis woodcut used in both Atalanta Fugiens (Maier, 1618) and Viridarium Chymicum (Stolcius, 1624). Same physical printing plates.",
+        "review_status": "DRAFT"
+      },
       "scholarship": [
         {
           "scholar": "Szulakowska",
@@ -13436,7 +13751,7 @@
           "relevance": "secondary"
         }
       ],
-      "image_url": ""
+      "image_url": "https://furnaceandfugue.org/assets/img/emblem-images_cropped/1600/emblem07.1600.jpg"
     },
     {
       "id": 198,
@@ -13466,7 +13781,12 @@
       ],
       "related_emblems": [],
       "authenticity": "confirmed",
-      "image_source": "Wellcome Collection - Stolcius Viridarium Chymicum (1624)",
+      "image_source": {
+        "type": "external_cdn",
+        "provider": "furnaceandfugue.org",
+        "note": "Same Jennis woodcut used in both Atalanta Fugiens (Maier, 1618) and Viridarium Chymicum (Stolcius, 1624). Same physical printing plates.",
+        "review_status": "DRAFT"
+      },
       "scholarship": [
         {
           "scholar": "Szulakowska",
@@ -13487,7 +13807,7 @@
           "relevance": "secondary"
         }
       ],
-      "image_url": ""
+      "image_url": "https://furnaceandfugue.org/assets/img/emblem-images_cropped/1600/emblem08.1600.jpg"
     },
     {
       "id": 199,
@@ -13517,7 +13837,12 @@
       ],
       "related_emblems": [],
       "authenticity": "confirmed",
-      "image_source": "Wellcome Collection - Stolcius Viridarium Chymicum (1624)",
+      "image_source": {
+        "type": "external_cdn",
+        "provider": "furnaceandfugue.org",
+        "note": "Same Jennis woodcut used in both Atalanta Fugiens (Maier, 1618) and Viridarium Chymicum (Stolcius, 1624). Same physical printing plates.",
+        "review_status": "DRAFT"
+      },
       "scholarship": [
         {
           "scholar": "Szulakowska",
@@ -13538,7 +13863,7 @@
           "relevance": "secondary"
         }
       ],
-      "image_url": ""
+      "image_url": "https://furnaceandfugue.org/assets/img/emblem-images_cropped/1600/emblem09.1600.jpg"
     },
     {
       "id": 200,
@@ -13568,7 +13893,12 @@
       ],
       "related_emblems": [],
       "authenticity": "confirmed",
-      "image_source": "Wellcome Collection - Stolcius Viridarium Chymicum (1624)",
+      "image_source": {
+        "type": "external_cdn",
+        "provider": "furnaceandfugue.org",
+        "note": "Same Jennis woodcut used in both Atalanta Fugiens (Maier, 1618) and Viridarium Chymicum (Stolcius, 1624). Same physical printing plates.",
+        "review_status": "DRAFT"
+      },
       "scholarship": [
         {
           "scholar": "Szulakowska",
@@ -13589,7 +13919,7 @@
           "relevance": "secondary"
         }
       ],
-      "image_url": ""
+      "image_url": "https://furnaceandfugue.org/assets/img/emblem-images_cropped/1600/emblem10.1600.jpg"
     },
     {
       "id": 201,
@@ -13619,7 +13949,12 @@
       ],
       "related_emblems": [],
       "authenticity": "confirmed",
-      "image_source": "Wellcome Collection - Stolcius Viridarium Chymicum (1624)",
+      "image_source": {
+        "type": "external_cdn",
+        "provider": "furnaceandfugue.org",
+        "note": "Same Jennis woodcut used in both Atalanta Fugiens (Maier, 1618) and Viridarium Chymicum (Stolcius, 1624). Same physical printing plates.",
+        "review_status": "DRAFT"
+      },
       "scholarship": [
         {
           "scholar": "Szulakowska",
@@ -13640,7 +13975,7 @@
           "relevance": "secondary"
         }
       ],
-      "image_url": ""
+      "image_url": "https://furnaceandfugue.org/assets/img/emblem-images_cropped/1600/emblem11.1600.jpg"
     },
     {
       "id": 202,
@@ -13670,7 +14005,12 @@
       ],
       "related_emblems": [],
       "authenticity": "confirmed",
-      "image_source": "Wellcome Collection - Stolcius Viridarium Chymicum (1624)",
+      "image_source": {
+        "type": "external_cdn",
+        "provider": "furnaceandfugue.org",
+        "note": "Same Jennis woodcut used in both Atalanta Fugiens (Maier, 1618) and Viridarium Chymicum (Stolcius, 1624). Same physical printing plates.",
+        "review_status": "DRAFT"
+      },
       "scholarship": [
         {
           "scholar": "Szulakowska",
@@ -13691,7 +14031,7 @@
           "relevance": "secondary"
         }
       ],
-      "image_url": ""
+      "image_url": "https://furnaceandfugue.org/assets/img/emblem-images_cropped/1600/emblem12.1600.jpg"
     },
     {
       "id": 203,
@@ -13721,7 +14061,12 @@
       ],
       "related_emblems": [],
       "authenticity": "confirmed",
-      "image_source": "Wellcome Collection - Stolcius Viridarium Chymicum (1624)",
+      "image_source": {
+        "type": "external_cdn",
+        "provider": "furnaceandfugue.org",
+        "note": "Same Jennis woodcut used in both Atalanta Fugiens (Maier, 1618) and Viridarium Chymicum (Stolcius, 1624). Same physical printing plates.",
+        "review_status": "DRAFT"
+      },
       "scholarship": [
         {
           "scholar": "Szulakowska",
@@ -13742,7 +14087,7 @@
           "relevance": "secondary"
         }
       ],
-      "image_url": ""
+      "image_url": "https://furnaceandfugue.org/assets/img/emblem-images_cropped/1600/emblem13.1600.jpg"
     },
     {
       "id": 204,
@@ -13772,7 +14117,12 @@
       ],
       "related_emblems": [],
       "authenticity": "confirmed",
-      "image_source": "Wellcome Collection - Stolcius Viridarium Chymicum (1624)",
+      "image_source": {
+        "type": "external_cdn",
+        "provider": "furnaceandfugue.org",
+        "note": "Same Jennis woodcut used in both Atalanta Fugiens (Maier, 1618) and Viridarium Chymicum (Stolcius, 1624). Same physical printing plates.",
+        "review_status": "DRAFT"
+      },
       "scholarship": [
         {
           "scholar": "Szulakowska",
@@ -13793,7 +14143,7 @@
           "relevance": "secondary"
         }
       ],
-      "image_url": ""
+      "image_url": "https://furnaceandfugue.org/assets/img/emblem-images_cropped/1600/emblem14.1600.jpg"
     },
     {
       "id": 205,
@@ -13823,7 +14173,12 @@
       ],
       "related_emblems": [],
       "authenticity": "confirmed",
-      "image_source": "Wellcome Collection - Stolcius Viridarium Chymicum (1624)",
+      "image_source": {
+        "type": "external_cdn",
+        "provider": "furnaceandfugue.org",
+        "note": "Same Jennis woodcut used in both Atalanta Fugiens (Maier, 1618) and Viridarium Chymicum (Stolcius, 1624). Same physical printing plates.",
+        "review_status": "DRAFT"
+      },
       "scholarship": [
         {
           "scholar": "Szulakowska",
@@ -13844,7 +14199,7 @@
           "relevance": "secondary"
         }
       ],
-      "image_url": ""
+      "image_url": "https://furnaceandfugue.org/assets/img/emblem-images_cropped/1600/emblem15.1600.jpg"
     },
     {
       "id": 206,
@@ -13874,7 +14229,12 @@
       ],
       "related_emblems": [],
       "authenticity": "confirmed",
-      "image_source": "Wellcome Collection - Stolcius Viridarium Chymicum (1624)",
+      "image_source": {
+        "type": "external_cdn",
+        "provider": "furnaceandfugue.org",
+        "note": "Same Jennis woodcut used in both Atalanta Fugiens (Maier, 1618) and Viridarium Chymicum (Stolcius, 1624). Same physical printing plates.",
+        "review_status": "DRAFT"
+      },
       "scholarship": [
         {
           "scholar": "Szulakowska",
@@ -13895,7 +14255,7 @@
           "relevance": "secondary"
         }
       ],
-      "image_url": ""
+      "image_url": "https://furnaceandfugue.org/assets/img/emblem-images_cropped/1600/emblem16.1600.jpg"
     },
     {
       "id": 207,
@@ -13925,7 +14285,12 @@
       ],
       "related_emblems": [],
       "authenticity": "confirmed",
-      "image_source": "Wellcome Collection - Stolcius Viridarium Chymicum (1624)",
+      "image_source": {
+        "type": "external_cdn",
+        "provider": "furnaceandfugue.org",
+        "note": "Same Jennis woodcut used in both Atalanta Fugiens (Maier, 1618) and Viridarium Chymicum (Stolcius, 1624). Same physical printing plates.",
+        "review_status": "DRAFT"
+      },
       "scholarship": [
         {
           "scholar": "Szulakowska",
@@ -13946,7 +14311,7 @@
           "relevance": "secondary"
         }
       ],
-      "image_url": ""
+      "image_url": "https://furnaceandfugue.org/assets/img/emblem-images_cropped/1600/emblem17.1600.jpg"
     },
     {
       "id": 208,
@@ -13976,7 +14341,12 @@
       ],
       "related_emblems": [],
       "authenticity": "confirmed",
-      "image_source": "Wellcome Collection - Stolcius Viridarium Chymicum (1624)",
+      "image_source": {
+        "type": "external_cdn",
+        "provider": "furnaceandfugue.org",
+        "note": "Same Jennis woodcut used in both Atalanta Fugiens (Maier, 1618) and Viridarium Chymicum (Stolcius, 1624). Same physical printing plates.",
+        "review_status": "DRAFT"
+      },
       "scholarship": [
         {
           "scholar": "Szulakowska",
@@ -13997,7 +14367,7 @@
           "relevance": "secondary"
         }
       ],
-      "image_url": ""
+      "image_url": "https://furnaceandfugue.org/assets/img/emblem-images_cropped/1600/emblem18.1600.jpg"
     },
     {
       "id": 209,
@@ -14027,7 +14397,12 @@
       ],
       "related_emblems": [],
       "authenticity": "confirmed",
-      "image_source": "Wellcome Collection - Stolcius Viridarium Chymicum (1624)",
+      "image_source": {
+        "type": "external_cdn",
+        "provider": "furnaceandfugue.org",
+        "note": "Same Jennis woodcut used in both Atalanta Fugiens (Maier, 1618) and Viridarium Chymicum (Stolcius, 1624). Same physical printing plates.",
+        "review_status": "DRAFT"
+      },
       "scholarship": [
         {
           "scholar": "Szulakowska",
@@ -14048,7 +14423,7 @@
           "relevance": "secondary"
         }
       ],
-      "image_url": ""
+      "image_url": "https://furnaceandfugue.org/assets/img/emblem-images_cropped/1600/emblem19.1600.jpg"
     },
     {
       "id": 210,
@@ -14078,7 +14453,12 @@
       ],
       "related_emblems": [],
       "authenticity": "confirmed",
-      "image_source": "Wellcome Collection - Stolcius Viridarium Chymicum (1624)",
+      "image_source": {
+        "type": "external_cdn",
+        "provider": "furnaceandfugue.org",
+        "note": "Same Jennis woodcut used in both Atalanta Fugiens (Maier, 1618) and Viridarium Chymicum (Stolcius, 1624). Same physical printing plates.",
+        "review_status": "DRAFT"
+      },
       "scholarship": [
         {
           "scholar": "Szulakowska",
@@ -14099,7 +14479,7 @@
           "relevance": "secondary"
         }
       ],
-      "image_url": ""
+      "image_url": "https://furnaceandfugue.org/assets/img/emblem-images_cropped/1600/emblem20.1600.jpg"
     },
     {
       "id": 211,
@@ -14129,7 +14509,12 @@
       ],
       "related_emblems": [],
       "authenticity": "confirmed",
-      "image_source": "Wellcome Collection - Stolcius Viridarium Chymicum (1624)",
+      "image_source": {
+        "type": "external_cdn",
+        "provider": "furnaceandfugue.org",
+        "note": "Same Jennis woodcut used in both Atalanta Fugiens (Maier, 1618) and Viridarium Chymicum (Stolcius, 1624). Same physical printing plates.",
+        "review_status": "DRAFT"
+      },
       "scholarship": [
         {
           "scholar": "Szulakowska",
@@ -14150,7 +14535,7 @@
           "relevance": "secondary"
         }
       ],
-      "image_url": ""
+      "image_url": "https://furnaceandfugue.org/assets/img/emblem-images_cropped/1600/emblem21.1600.jpg"
     },
     {
       "id": 212,
@@ -14180,7 +14565,12 @@
       ],
       "related_emblems": [],
       "authenticity": "confirmed",
-      "image_source": "Wellcome Collection - Stolcius Viridarium Chymicum (1624)",
+      "image_source": {
+        "type": "external_cdn",
+        "provider": "furnaceandfugue.org",
+        "note": "Same Jennis woodcut used in both Atalanta Fugiens (Maier, 1618) and Viridarium Chymicum (Stolcius, 1624). Same physical printing plates.",
+        "review_status": "DRAFT"
+      },
       "scholarship": [
         {
           "scholar": "Szulakowska",
@@ -14201,7 +14591,7 @@
           "relevance": "secondary"
         }
       ],
-      "image_url": ""
+      "image_url": "https://furnaceandfugue.org/assets/img/emblem-images_cropped/1600/emblem22.1600.jpg"
     },
     {
       "id": 213,
@@ -14231,7 +14621,12 @@
       ],
       "related_emblems": [],
       "authenticity": "confirmed",
-      "image_source": "Wellcome Collection - Stolcius Viridarium Chymicum (1624)",
+      "image_source": {
+        "type": "external_cdn",
+        "provider": "furnaceandfugue.org",
+        "note": "Same Jennis woodcut used in both Atalanta Fugiens (Maier, 1618) and Viridarium Chymicum (Stolcius, 1624). Same physical printing plates.",
+        "review_status": "DRAFT"
+      },
       "scholarship": [
         {
           "scholar": "Szulakowska",
@@ -14252,7 +14647,7 @@
           "relevance": "secondary"
         }
       ],
-      "image_url": ""
+      "image_url": "https://furnaceandfugue.org/assets/img/emblem-images_cropped/1600/emblem23.1600.jpg"
     },
     {
       "id": 214,
@@ -14282,7 +14677,12 @@
       ],
       "related_emblems": [],
       "authenticity": "confirmed",
-      "image_source": "Wellcome Collection - Stolcius Viridarium Chymicum (1624)",
+      "image_source": {
+        "type": "external_cdn",
+        "provider": "furnaceandfugue.org",
+        "note": "Same Jennis woodcut used in both Atalanta Fugiens (Maier, 1618) and Viridarium Chymicum (Stolcius, 1624). Same physical printing plates.",
+        "review_status": "DRAFT"
+      },
       "scholarship": [
         {
           "scholar": "Szulakowska",
@@ -14303,7 +14703,7 @@
           "relevance": "secondary"
         }
       ],
-      "image_url": ""
+      "image_url": "https://furnaceandfugue.org/assets/img/emblem-images_cropped/1600/emblem24.1600.jpg"
     },
     {
       "id": 215,
@@ -14333,7 +14733,12 @@
       ],
       "related_emblems": [],
       "authenticity": "confirmed",
-      "image_source": "Wellcome Collection - Stolcius Viridarium Chymicum (1624)",
+      "image_source": {
+        "type": "external_cdn",
+        "provider": "furnaceandfugue.org",
+        "note": "Same Jennis woodcut used in both Atalanta Fugiens (Maier, 1618) and Viridarium Chymicum (Stolcius, 1624). Same physical printing plates.",
+        "review_status": "DRAFT"
+      },
       "scholarship": [
         {
           "scholar": "Szulakowska",
@@ -14354,7 +14759,7 @@
           "relevance": "secondary"
         }
       ],
-      "image_url": ""
+      "image_url": "https://furnaceandfugue.org/assets/img/emblem-images_cropped/1600/emblem25.1600.jpg"
     },
     {
       "id": 216,
@@ -14384,7 +14789,12 @@
       ],
       "related_emblems": [],
       "authenticity": "confirmed",
-      "image_source": "Wellcome Collection - Stolcius Viridarium Chymicum (1624)",
+      "image_source": {
+        "type": "external_cdn",
+        "provider": "furnaceandfugue.org",
+        "note": "Same Jennis woodcut used in both Atalanta Fugiens (Maier, 1618) and Viridarium Chymicum (Stolcius, 1624). Same physical printing plates.",
+        "review_status": "DRAFT"
+      },
       "scholarship": [
         {
           "scholar": "Szulakowska",
@@ -14405,7 +14815,7 @@
           "relevance": "secondary"
         }
       ],
-      "image_url": ""
+      "image_url": "https://furnaceandfugue.org/assets/img/emblem-images_cropped/1600/emblem26.1600.jpg"
     },
     {
       "id": 217,
@@ -14435,7 +14845,12 @@
       ],
       "related_emblems": [],
       "authenticity": "confirmed",
-      "image_source": "Wellcome Collection - Stolcius Viridarium Chymicum (1624)",
+      "image_source": {
+        "type": "external_cdn",
+        "provider": "furnaceandfugue.org",
+        "note": "Same Jennis woodcut used in both Atalanta Fugiens (Maier, 1618) and Viridarium Chymicum (Stolcius, 1624). Same physical printing plates.",
+        "review_status": "DRAFT"
+      },
       "scholarship": [
         {
           "scholar": "Szulakowska",
@@ -14456,7 +14871,7 @@
           "relevance": "secondary"
         }
       ],
-      "image_url": ""
+      "image_url": "https://furnaceandfugue.org/assets/img/emblem-images_cropped/1600/emblem27.1600.jpg"
     },
     {
       "id": 218,
@@ -14486,7 +14901,12 @@
       ],
       "related_emblems": [],
       "authenticity": "confirmed",
-      "image_source": "Wellcome Collection - Stolcius Viridarium Chymicum (1624)",
+      "image_source": {
+        "type": "external_cdn",
+        "provider": "furnaceandfugue.org",
+        "note": "Same Jennis woodcut used in both Atalanta Fugiens (Maier, 1618) and Viridarium Chymicum (Stolcius, 1624). Same physical printing plates.",
+        "review_status": "DRAFT"
+      },
       "scholarship": [
         {
           "scholar": "Szulakowska",
@@ -14507,7 +14927,7 @@
           "relevance": "secondary"
         }
       ],
-      "image_url": ""
+      "image_url": "https://furnaceandfugue.org/assets/img/emblem-images_cropped/1600/emblem28.1600.jpg"
     },
     {
       "id": 219,
@@ -14537,7 +14957,12 @@
       ],
       "related_emblems": [],
       "authenticity": "confirmed",
-      "image_source": "Wellcome Collection - Stolcius Viridarium Chymicum (1624)",
+      "image_source": {
+        "type": "external_cdn",
+        "provider": "furnaceandfugue.org",
+        "note": "Same Jennis woodcut used in both Atalanta Fugiens (Maier, 1618) and Viridarium Chymicum (Stolcius, 1624). Same physical printing plates.",
+        "review_status": "DRAFT"
+      },
       "scholarship": [
         {
           "scholar": "Szulakowska",
@@ -14558,7 +14983,7 @@
           "relevance": "secondary"
         }
       ],
-      "image_url": ""
+      "image_url": "https://furnaceandfugue.org/assets/img/emblem-images_cropped/1600/emblem29.1600.jpg"
     },
     {
       "id": 220,
@@ -14588,7 +15013,12 @@
       ],
       "related_emblems": [],
       "authenticity": "confirmed",
-      "image_source": "Wellcome Collection - Stolcius Viridarium Chymicum (1624)",
+      "image_source": {
+        "type": "external_cdn",
+        "provider": "furnaceandfugue.org",
+        "note": "Same Jennis woodcut used in both Atalanta Fugiens (Maier, 1618) and Viridarium Chymicum (Stolcius, 1624). Same physical printing plates.",
+        "review_status": "DRAFT"
+      },
       "scholarship": [
         {
           "scholar": "Szulakowska",
@@ -14609,7 +15039,7 @@
           "relevance": "secondary"
         }
       ],
-      "image_url": ""
+      "image_url": "https://furnaceandfugue.org/assets/img/emblem-images_cropped/1600/emblem30.1600.jpg"
     },
     {
       "id": 221,
@@ -14639,7 +15069,12 @@
       ],
       "related_emblems": [],
       "authenticity": "confirmed",
-      "image_source": "Wellcome Collection - Stolcius Viridarium Chymicum (1624)",
+      "image_source": {
+        "type": "external_cdn",
+        "provider": "furnaceandfugue.org",
+        "note": "Same Jennis woodcut used in both Atalanta Fugiens (Maier, 1618) and Viridarium Chymicum (Stolcius, 1624). Same physical printing plates.",
+        "review_status": "DRAFT"
+      },
       "scholarship": [
         {
           "scholar": "Szulakowska",
@@ -14660,7 +15095,7 @@
           "relevance": "secondary"
         }
       ],
-      "image_url": ""
+      "image_url": "https://furnaceandfugue.org/assets/img/emblem-images_cropped/1600/emblem31.1600.jpg"
     },
     {
       "id": 222,
@@ -14690,7 +15125,12 @@
       ],
       "related_emblems": [],
       "authenticity": "confirmed",
-      "image_source": "Wellcome Collection - Stolcius Viridarium Chymicum (1624)",
+      "image_source": {
+        "type": "external_cdn",
+        "provider": "furnaceandfugue.org",
+        "note": "Same Jennis woodcut used in both Atalanta Fugiens (Maier, 1618) and Viridarium Chymicum (Stolcius, 1624). Same physical printing plates.",
+        "review_status": "DRAFT"
+      },
       "scholarship": [
         {
           "scholar": "Szulakowska",
@@ -14711,7 +15151,7 @@
           "relevance": "secondary"
         }
       ],
-      "image_url": ""
+      "image_url": "https://furnaceandfugue.org/assets/img/emblem-images_cropped/1600/emblem32.1600.jpg"
     },
     {
       "id": 223,
@@ -14741,7 +15181,12 @@
       ],
       "related_emblems": [],
       "authenticity": "confirmed",
-      "image_source": "Wellcome Collection - Stolcius Viridarium Chymicum (1624)",
+      "image_source": {
+        "type": "external_cdn",
+        "provider": "furnaceandfugue.org",
+        "note": "Same Jennis woodcut used in both Atalanta Fugiens (Maier, 1618) and Viridarium Chymicum (Stolcius, 1624). Same physical printing plates.",
+        "review_status": "DRAFT"
+      },
       "scholarship": [
         {
           "scholar": "Szulakowska",
@@ -14762,7 +15207,7 @@
           "relevance": "secondary"
         }
       ],
-      "image_url": ""
+      "image_url": "https://furnaceandfugue.org/assets/img/emblem-images_cropped/1600/emblem33.1600.jpg"
     },
     {
       "id": 224,
@@ -14792,7 +15237,12 @@
       ],
       "related_emblems": [],
       "authenticity": "confirmed",
-      "image_source": "Wellcome Collection - Stolcius Viridarium Chymicum (1624)",
+      "image_source": {
+        "type": "external_cdn",
+        "provider": "furnaceandfugue.org",
+        "note": "Same Jennis woodcut used in both Atalanta Fugiens (Maier, 1618) and Viridarium Chymicum (Stolcius, 1624). Same physical printing plates.",
+        "review_status": "DRAFT"
+      },
       "scholarship": [
         {
           "scholar": "Szulakowska",
@@ -14813,7 +15263,7 @@
           "relevance": "secondary"
         }
       ],
-      "image_url": ""
+      "image_url": "https://furnaceandfugue.org/assets/img/emblem-images_cropped/1600/emblem34.1600.jpg"
     },
     {
       "id": 225,
@@ -14843,7 +15293,12 @@
       ],
       "related_emblems": [],
       "authenticity": "confirmed",
-      "image_source": "Wellcome Collection - Stolcius Viridarium Chymicum (1624)",
+      "image_source": {
+        "type": "external_cdn",
+        "provider": "furnaceandfugue.org",
+        "note": "Same Jennis woodcut used in both Atalanta Fugiens (Maier, 1618) and Viridarium Chymicum (Stolcius, 1624). Same physical printing plates.",
+        "review_status": "DRAFT"
+      },
       "scholarship": [
         {
           "scholar": "Szulakowska",
@@ -14864,7 +15319,7 @@
           "relevance": "secondary"
         }
       ],
-      "image_url": ""
+      "image_url": "https://furnaceandfugue.org/assets/img/emblem-images_cropped/1600/emblem35.1600.jpg"
     },
     {
       "id": 226,
@@ -14894,7 +15349,12 @@
       ],
       "related_emblems": [],
       "authenticity": "confirmed",
-      "image_source": "Wellcome Collection - Stolcius Viridarium Chymicum (1624)",
+      "image_source": {
+        "type": "external_cdn",
+        "provider": "furnaceandfugue.org",
+        "note": "Same Jennis woodcut used in both Atalanta Fugiens (Maier, 1618) and Viridarium Chymicum (Stolcius, 1624). Same physical printing plates.",
+        "review_status": "DRAFT"
+      },
       "scholarship": [
         {
           "scholar": "Szulakowska",
@@ -14915,7 +15375,7 @@
           "relevance": "secondary"
         }
       ],
-      "image_url": ""
+      "image_url": "https://furnaceandfugue.org/assets/img/emblem-images_cropped/1600/emblem36.1600.jpg"
     },
     {
       "id": 227,
@@ -14945,7 +15405,12 @@
       ],
       "related_emblems": [],
       "authenticity": "confirmed",
-      "image_source": "Wellcome Collection - Stolcius Viridarium Chymicum (1624)",
+      "image_source": {
+        "type": "external_cdn",
+        "provider": "furnaceandfugue.org",
+        "note": "Same Jennis woodcut used in both Atalanta Fugiens (Maier, 1618) and Viridarium Chymicum (Stolcius, 1624). Same physical printing plates.",
+        "review_status": "DRAFT"
+      },
       "scholarship": [
         {
           "scholar": "Szulakowska",
@@ -14966,7 +15431,7 @@
           "relevance": "secondary"
         }
       ],
-      "image_url": ""
+      "image_url": "https://furnaceandfugue.org/assets/img/emblem-images_cropped/1600/emblem37.1600.jpg"
     },
     {
       "id": 228,
@@ -14996,7 +15461,12 @@
       ],
       "related_emblems": [],
       "authenticity": "confirmed",
-      "image_source": "Wellcome Collection - Stolcius Viridarium Chymicum (1624)",
+      "image_source": {
+        "type": "external_cdn",
+        "provider": "furnaceandfugue.org",
+        "note": "Same Jennis woodcut used in both Atalanta Fugiens (Maier, 1618) and Viridarium Chymicum (Stolcius, 1624). Same physical printing plates.",
+        "review_status": "DRAFT"
+      },
       "scholarship": [
         {
           "scholar": "Szulakowska",
@@ -15017,7 +15487,7 @@
           "relevance": "secondary"
         }
       ],
-      "image_url": ""
+      "image_url": "https://furnaceandfugue.org/assets/img/emblem-images_cropped/1600/emblem38.1600.jpg"
     },
     {
       "id": 229,
@@ -15047,7 +15517,12 @@
       ],
       "related_emblems": [],
       "authenticity": "confirmed",
-      "image_source": "Wellcome Collection - Stolcius Viridarium Chymicum (1624)",
+      "image_source": {
+        "type": "external_cdn",
+        "provider": "furnaceandfugue.org",
+        "note": "Same Jennis woodcut used in both Atalanta Fugiens (Maier, 1618) and Viridarium Chymicum (Stolcius, 1624). Same physical printing plates.",
+        "review_status": "DRAFT"
+      },
       "scholarship": [
         {
           "scholar": "Szulakowska",
@@ -15068,7 +15543,7 @@
           "relevance": "secondary"
         }
       ],
-      "image_url": ""
+      "image_url": "https://furnaceandfugue.org/assets/img/emblem-images_cropped/1600/emblem39.1600.jpg"
     },
     {
       "id": 230,
@@ -15098,7 +15573,12 @@
       ],
       "related_emblems": [],
       "authenticity": "confirmed",
-      "image_source": "Wellcome Collection - Stolcius Viridarium Chymicum (1624)",
+      "image_source": {
+        "type": "external_cdn",
+        "provider": "furnaceandfugue.org",
+        "note": "Same Jennis woodcut used in both Atalanta Fugiens (Maier, 1618) and Viridarium Chymicum (Stolcius, 1624). Same physical printing plates.",
+        "review_status": "DRAFT"
+      },
       "scholarship": [
         {
           "scholar": "Szulakowska",
@@ -15119,7 +15599,7 @@
           "relevance": "secondary"
         }
       ],
-      "image_url": ""
+      "image_url": "https://furnaceandfugue.org/assets/img/emblem-images_cropped/1600/emblem40.1600.jpg"
     },
     {
       "id": 231,
@@ -15149,7 +15629,12 @@
       ],
       "related_emblems": [],
       "authenticity": "confirmed",
-      "image_source": "Wellcome Collection - Stolcius Viridarium Chymicum (1624)",
+      "image_source": {
+        "type": "external_cdn",
+        "provider": "furnaceandfugue.org",
+        "note": "Same Jennis woodcut used in both Atalanta Fugiens (Maier, 1618) and Viridarium Chymicum (Stolcius, 1624). Same physical printing plates.",
+        "review_status": "DRAFT"
+      },
       "scholarship": [
         {
           "scholar": "Szulakowska",
@@ -15170,7 +15655,7 @@
           "relevance": "secondary"
         }
       ],
-      "image_url": ""
+      "image_url": "https://furnaceandfugue.org/assets/img/emblem-images_cropped/1600/emblem41.1600.jpg"
     },
     {
       "id": 232,
@@ -15200,7 +15685,12 @@
       ],
       "related_emblems": [],
       "authenticity": "confirmed",
-      "image_source": "Wellcome Collection - Stolcius Viridarium Chymicum (1624)",
+      "image_source": {
+        "type": "external_cdn",
+        "provider": "furnaceandfugue.org",
+        "note": "Same Jennis woodcut used in both Atalanta Fugiens (Maier, 1618) and Viridarium Chymicum (Stolcius, 1624). Same physical printing plates.",
+        "review_status": "DRAFT"
+      },
       "scholarship": [
         {
           "scholar": "Szulakowska",
@@ -15221,7 +15711,7 @@
           "relevance": "secondary"
         }
       ],
-      "image_url": ""
+      "image_url": "https://furnaceandfugue.org/assets/img/emblem-images_cropped/1600/emblem42.1600.jpg"
     },
     {
       "id": 233,
@@ -15251,7 +15741,12 @@
       ],
       "related_emblems": [],
       "authenticity": "confirmed",
-      "image_source": "Wellcome Collection - Stolcius Viridarium Chymicum (1624)",
+      "image_source": {
+        "type": "external_cdn",
+        "provider": "furnaceandfugue.org",
+        "note": "Same Jennis woodcut used in both Atalanta Fugiens (Maier, 1618) and Viridarium Chymicum (Stolcius, 1624). Same physical printing plates.",
+        "review_status": "DRAFT"
+      },
       "scholarship": [
         {
           "scholar": "Szulakowska",
@@ -15272,7 +15767,7 @@
           "relevance": "secondary"
         }
       ],
-      "image_url": ""
+      "image_url": "https://furnaceandfugue.org/assets/img/emblem-images_cropped/1600/emblem43.1600.jpg"
     },
     {
       "id": 234,
@@ -15302,7 +15797,12 @@
       ],
       "related_emblems": [],
       "authenticity": "confirmed",
-      "image_source": "Wellcome Collection - Stolcius Viridarium Chymicum (1624)",
+      "image_source": {
+        "type": "external_cdn",
+        "provider": "furnaceandfugue.org",
+        "note": "Same Jennis woodcut used in both Atalanta Fugiens (Maier, 1618) and Viridarium Chymicum (Stolcius, 1624). Same physical printing plates.",
+        "review_status": "DRAFT"
+      },
       "scholarship": [
         {
           "scholar": "Szulakowska",
@@ -15323,7 +15823,7 @@
           "relevance": "secondary"
         }
       ],
-      "image_url": ""
+      "image_url": "https://furnaceandfugue.org/assets/img/emblem-images_cropped/1600/emblem44.1600.jpg"
     },
     {
       "id": 235,
@@ -15353,7 +15853,12 @@
       ],
       "related_emblems": [],
       "authenticity": "confirmed",
-      "image_source": "Wellcome Collection - Stolcius Viridarium Chymicum (1624)",
+      "image_source": {
+        "type": "external_cdn",
+        "provider": "furnaceandfugue.org",
+        "note": "Same Jennis woodcut used in both Atalanta Fugiens (Maier, 1618) and Viridarium Chymicum (Stolcius, 1624). Same physical printing plates.",
+        "review_status": "DRAFT"
+      },
       "scholarship": [
         {
           "scholar": "Szulakowska",
@@ -15374,7 +15879,7 @@
           "relevance": "secondary"
         }
       ],
-      "image_url": ""
+      "image_url": "https://furnaceandfugue.org/assets/img/emblem-images_cropped/1600/emblem45.1600.jpg"
     }
   ],
   "essays": [
