@@ -252,7 +252,7 @@ function injectUI() {
             if (!document.getElementById('modal-back')) {
                 const toolbar = document.createElement('div');
                 toolbar.className = 'modal-toolbar';
-                toolbar.innerHTML = `<button id="modal-back" class="modal-back" style="display:none">&#8592; Back</button>`;
+                toolbar.innerHTML = `<button id="modal-back" class="modal-back" hidden>&#8592; Back</button><span id="modal-breadcrumb" class="modal-breadcrumb"></span>`;
                 toolbar.querySelector('#modal-back');
                 mc.insertBefore(toolbar, mc.firstChild);
                 // Move close button into toolbar
@@ -650,8 +650,8 @@ function renderModal(section, item) {
     const backBtn   = document.getElementById('modal-back');
     const crumb     = document.getElementById('modal-breadcrumb');
 
-    backBtn.hidden  = modalStack.length <= 1;
-    crumb.textContent = modalStack.length > 1
+    if (backBtn) backBtn.hidden  = modalStack.length <= 1;
+    if (crumb) crumb.textContent = modalStack.length > 1
         ? modalStack.slice(0, -1).map(s => {
             const prev = allData[s.section].find(x => String(x.id) === String(s.id));
             return prev ? (prev.name || prev.title) : '';
@@ -725,10 +725,14 @@ function buildFigureModal(f) {
     if (f.emblem_books_created?.length) {
         h += `<h3>Emblem Books Created</h3><ul>`;
         f.emblem_books_created.forEach(book => {
-            h += `<li><em>${book.title}</em> (${book.year}, ${book.location})`;
-            if (book.total_emblems) h += ` — ${book.total_emblems} emblems`;
-            if (book.innovation) h += ` — ${book.innovation}`;
-            h += `</li>`;
+            if (typeof book === 'string') {
+                h += `<li><em>${escHtml(book)}</em></li>`;
+            } else {
+                h += `<li><em>${escHtml(book.title)}</em> (${book.year}, ${book.location})`;
+                if (book.total_emblems) h += ` — ${book.total_emblems} emblems`;
+                if (book.innovation) h += ` — ${book.innovation}`;
+                h += `</li>`;
+            }
         });
         h += '</ul>';
     }
@@ -774,6 +778,15 @@ function buildFigureModal(f) {
             return `<span class="rel-link-text">${label}</span>`;
         }).filter(Boolean);
         if (links.length) h += `<h3>Influenced By</h3><div class="rel-links">${links.join('')}</div>`;
+    }
+
+    // Influence chain (new string-array format)
+    if (f.influences?.length) {
+        const links = f.influences.map(name => {
+            const fig = allData.figures.find(x => x.name.toLowerCase().includes(name.toLowerCase()) || name.toLowerCase().includes(x.name.toLowerCase()));
+            return fig ? relLink('figures', fig.id, name) : `<span class="rel-link-text">${escHtml(name)}</span>`;
+        });
+        h += `<h3>Intellectual Influences</h3><div class="rel-links">${links.join('')}</div>`;
     }
 
     if (f.scholars?.length) {

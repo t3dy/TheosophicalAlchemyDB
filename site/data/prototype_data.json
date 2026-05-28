@@ -49,6 +49,11 @@
       "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Johann_Valentin_Andreae.jpg",
       "concepts": [
         37
+      ],
+      "influences": [
+        "Heinrich Khunrath",
+        "Jacob Böhme",
+        "John Dee"
       ]
     },
     {
@@ -65,7 +70,8 @@
       "summary": "John Dee (1527–1608) was an English mathematician, astronomer, and occultist who served Queen Elizabeth I as diplomat and scholar. His synthesis of mathematics, Neoplatonism, and hermetic magic established intellectual foundations for Rosicrucian philosophy. Dee's Monas Hieroglyphica (1564) presented a unified symbol integrating mathematical and spiritual principles. Though predating explicit Rosicrucian manifestos, Dee's work on angelic communication and hermetic correspondences profoundly influenced later Rosicrucian doctrine.",
       "essay": "John Dee (1527–1608/9) was the most learned natural philosopher of Elizabethan England and one of the most significant alchemical thinkers of the sixteenth century. Born in London, he studied at St John's College, Cambridge, then at Louvain and Paris, acquiring mathematical, astronomical, navigational, and philosophical expertise that placed him at the leading edge of European learning. His Propaedeumata Aphoristica (1558) and Monas Hieroglyphica (1564) established him as a figure of international reputation; his vast library at Mortlake, containing some 4,000 volumes, was the largest private collection in England.\n\nThe Monas Hieroglyphica, composed in thirteen days and dedicated to Emperor Maximilian II, was Dee's most audacious philosophical work. In twenty-four theorems, he demonstrated how a single hieroglyphic symbol — combining the lunar crescent, the solar circle, the cross of the elements, and the sign of Aries — contained within its geometric structure the grammar of the entire created universe. All symbolic alphabets — astronomical, astrological, alchemical, Kabbalistic, mathematical — were encoded in this one sign, and from it correctly understood all other symbols could be derived. The work was immediately influential: Khunrath drew on it, it echoed in the Rosicrucian manifestos, and Newton annotated his copy extensively.\n\nNicholas Clulee's authoritative study John Dee's Natural Philosophy (1988) demonstrates that Dee's work was primarily mathematical and natural-philosophical, with Hermetic elements subordinated to a rigorous programme of understanding the hidden mathematical structure of nature. Deborah Harkness's John Dee's Conversations with Angels (1999) places the Monas within Dee's larger apocalyptic-reformist project: the recovery of Adamic language that would enable direct reading of the Book of Nature.\n\nThe angelic conversations that Dee conducted with the medium Edward Kelley throughout the 1580s — recorded in meticulous diaries — were an attempt to receive this recovered language directly from divine messengers. Frances Yates influentially interpreted Dee as the prototype of the Hermetic magus; Clulee and Stephen Clucas have argued for a more specifically mathematical-philosophical reading. Whatever the interpretation, Dee's work fed directly into the Rosicrucian tradition and was still being read and debated by Newton, who spent more hours on alchemical research than on any other single intellectual activity.",
       "scholars": [
-        "Yates"
+        "Yates",
+        "Clulee"
       ],
       "key_works": [
         "Monas Hieroglyphica",
@@ -91,6 +97,11 @@
       "source_citations_count": 134,
       "concepts": [
         38
+      ],
+      "influences": [
+        "Roger Bacon",
+        "Marsilio Ficino",
+        "Henry Cornelius Agrippa"
       ]
     },
     {
@@ -132,7 +143,13 @@
         "README.md"
       ],
       "source_citations_count": 106,
-      "concepts": []
+      "concepts": [],
+      "influences": [
+        "John Dee",
+        "Henry Cornelius Agrippa",
+        "Paracelsus",
+        "Michael Maier"
+      ]
     },
     {
       "id": 4,
@@ -146,16 +163,20 @@
       "lng": 13.055,
       "primary_discipline": "Physician, Alchemist, Reformer",
       "summary": "Paracelsus (1493–1541), born Theophrastus Bombastus von Hohenheim, was a Swiss physician and alchemist whose radical integration of hermetic philosophy and medical practice revolutionized Renaissance thought. He rejected Galenic medicine and promoted iatrochemistry—using alchemical substances as medicines. Paracelsus synthesized Neoplatonism, alchemy, and mystical theology, arguing that matter itself contained divine principles. His doctrine of correspondences (macrocosm-microcosm analogy) became foundational to all Rosicrucian cosmology.",
-      "essay": "Paracelsus (1493–1541), born Theophrastus Bombastus von Hohenheim, was a Swiss physician and alchemist whose radical integration of hermetic philosophy and medical practice revolutionized Renaissance thought. He rejected Galenic medicine and promoted iatrochemistry—using alchemical substances as medicines. Paracelsus synthesized Neoplatonism, alchemy, and mystical theology, arguing that matter itself contained divine principles. His doctrine of correspondences (macrocosm-microcosm analogy) became foundational to all Rosicrucian cosmology. Though predating Rosicrucianism explicitly, Paracelsus's vision of the physician-magus and his integration of spiritual and material transformation deeply influenced Andreae and subsequent Rosicrucian thought. Godwin identifies Paracelsus as the intellectual ancestor of Rosicrucian medicine and theurgy.",
+      "essay": "Philippus Aureolus Theophrastus Bombastus von Hohenheim (1493–1541), known as Paracelsus, was a Swiss physician and alchemist who revolutionized medical theory and practice in the 16th century. Trained in alchemy, mining chemistry, and folk medicine, Paracelsus rejected Galenic humoral theory and the authority of classical medical texts, advocating instead for empirical observation and chemical therapeutics. His iatrochemistry—the application of alchemical processes to medicine—became the foundation of pharmaceutical chemistry. Paracelsus integrated alchemical symbolism with medical practice, arguing that disease and cure operate according to alchemical principles of dissolution and regeneration. His syncretic philosophy combined Neoplatonism, hermeticism, and Christian mysticism, proposing that the natural world (macrocosm) reflects divine order and that the human body (microcosm) contains all universal principles. His radical rejection of medieval scholasticism, combined with his championing of vernacular knowledge and practical experimentation, made him a figure of profound influence on the Scientific Revolution and the Rosicrucian tradition. Though he published little in his lifetime, his collected works circulated widely after 1550, inspiring generations of medical reformers and spiritual alchemists.",
       "scholars": [
         "Godwin",
-        "Yates"
+        "Yates",
+        "Debus",
+        "Ball",
+        "Moran",
+        "Pagel"
       ],
       "key_works": [
         "Paragranum",
         "Archidoxies"
       ],
-      "embodied_practice": "Paracelsus developed practical iatrochemistry—actually preparing substances, testing their effects, integrating laboratory work with healing practice.",
+      "embodied_practice": "Paracelsus developed practical laboratory work—distillation, fermentation, calcination—directly applied to healing. His method combined chemical preparation of remedies (spagyria) with astrological timing and spiritual invocation, grounding abstract alchemical theory in medical outcomes.",
       "scholarship": [
         {
           "scholar": "Godwin",
@@ -177,6 +198,21 @@
         26,
         33,
         38
+      ],
+      "scholarly_debates": {
+        "topic": "Paracelsus as proto-scientist or mystic",
+        "positions": [
+          "Earlier scholarship emphasized his irrationalism and mysticism, dismissing him as unscientific.",
+          "Modern historians (Debus, Ball) recognize his genuine chemical innovations and empirical orientation, positioning him as foundational to chemical philosophy.",
+          "Synthesist view: Paracelsus unified practical chemistry with spiritual alchemy; both dimensions were equally real to him."
+        ]
+      },
+      "transmission_genealogy": "Paracelsus → immediate students (Oporinus, Huser) → Paracelsian physicians (Toxites, Croll) → Rosicrucian synthesis (Fludd) → European medical reform.",
+      "influences": [
+        "Marsilio Ficino",
+        "Johannes Trithemius",
+        "Arnauld de Villeneuve",
+        "Henry Cornelius Agrippa"
       ]
     },
     {
@@ -221,6 +257,11 @@
       "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Jacob_Bohme_1575-1624.jpg",
       "concepts": [
         37
+      ],
+      "influences": [
+        "Paracelsus",
+        "Johann Tauler",
+        "Meister Eckhart"
       ]
     },
     {
@@ -268,7 +309,11 @@
       ],
       "source_citations_count": 19,
       "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Elias_Ashmole.jpg",
-      "concepts": []
+      "concepts": [],
+      "influences": [
+        "John Dee",
+        "English alchemical tradition"
+      ]
     },
     {
       "id": 7,
@@ -305,6 +350,11 @@
       "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Emanuel_Swedenborg.jpg",
       "concepts": [
         53
+      ],
+      "influences": [
+        "Plotinus",
+        "Henry More",
+        "Isaac Newton"
       ]
     },
     {
@@ -344,6 +394,10 @@
       "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Karl_von_Eckartshausen.jpg",
       "concepts": [
         37
+      ],
+      "influences": [
+        "Jacob Böhme",
+        "Emmanuel Swedenborg"
       ]
     },
     {
@@ -358,7 +412,7 @@
       "lng": 0.9923,
       "primary_discipline": "Mystic, Martinist, Philosopher",
       "summary": "Claude de Saint-Martin (1743–1803), known as the 'Unknown Philosopher,' was a French mystic and occultist who created Martinism as a synthesis of Swedenborgianism, Rosicrucian practice, and mystical Christianity. His discipleship under Louis-Claude de Saint-Martin (often confused in sources) led him to systematize an initiatory tradition centered on spiritual regeneration through knowledge of divine law. Saint-Martin's writings—Tableau Naturel and L'Esprit des Choses—integrated Swedenborgian angelology, Kabbalistic symbolism, and Rosicrucian alchemical transformation into a coherent mystical philosophy.",
-      "essay": "Claude de Saint-Martin (1743–1803), known as the 'Unknown Philosopher,' was a French mystic and occultist who created Martinism as a synthesis of Swedenborgianism, Rosicrucian practice, and mystical Christianity. His discipleship under Louis-Claude de Saint-Martin (often confused in sources) led him to systematize an initiatory tradition centered on spiritual regeneration through knowledge of divine law. Saint-Martin's writings—Tableau Naturel and L'Esprit des Choses—integrated Swedenborgian angelology, Kabbalistic symbolism, and Rosicrucian alchemical transformation into a coherent mystical philosophy. The Martinist Order he founded became one of the most influential esoteric organizations of the 19th century. Godwin, Churton, and Akerman identify Saint-Martin as crucial in institutionalizing the Rosicrucian-Swedenborgian synthesis into formal initiatory structures.",
+      "essay": "Louis-Claude de Saint-Martin (1743–1803), called 'the Unknown Philosopher,' was a French mystic whose synthesis of Swedenborgianism with mystical Christianity and Rosicrucian practice established Martinist esotericism as a major 19th-century initiatory tradition. His discipleship under Martinez de Pasqually exposed him to Templar lineage claims, Rosicrucian philosophy, and the Elect Cohens order. Saint-Martin's writings—particularly Écossais (The Scottish Chapters) and Des Erreurs et de la Vérité—articulated a mystical vision of human regeneration through knowledge of divine law and spiritual practice. His correspondence with Swedenborg established a direct link between Rosicrucian practice and Swedenborgian spirituality. The Martinist Order he systematized became one of the most influential esoteric organizations, directly transmitting Rosicrucian doctrine to the 20th century. Godwin, Churton, and Akerman identify Saint-Martin as the crucial bridge between 18th-century Rosicrucianism and modern Martinism.",
       "scholars": [
         "Godwin",
         "Churton",
@@ -387,6 +441,10 @@
       "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Claude_de_Saint-Martin.jpg",
       "concepts": [
         48
+      ],
+      "influences": [
+        "Martinez de Pasqually",
+        "Jacob Böhme"
       ]
     },
     {
@@ -432,6 +490,15 @@
       "source_citations_count": 88,
       "concepts": [
         40
+      ],
+      "influences": [
+        "Paracelsus",
+        "Heinrich Khunrath",
+        "John Dee",
+        "Henry Cornelius Agrippa"
+      ],
+      "emblem_books_created": [
+        "Atalanta Fugiens (1617)"
       ]
     },
     {
@@ -450,7 +517,11 @@
       "scholars": [
         "Yates",
         "Godwin",
-        "Vickers"
+        "Vickers",
+        "Vaughan",
+        "Zuber",
+        "Willard",
+        "Levenda"
       ],
       "key_works": [
         "Anthroposophia Theomagica",
@@ -475,6 +546,11 @@
       "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Thomas_Vaughan_alchemist.jpg",
       "concepts": [
         37
+      ],
+      "influences": [
+        "Henry Cornelius Agrippa",
+        "Robert Fludd",
+        "Jacob Böhme"
       ]
     },
     {
@@ -513,7 +589,11 @@
       ],
       "source_citations_count": 73,
       "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Francis_Bacon_1561-1626.jpg",
-      "concepts": []
+      "concepts": [],
+      "influences": [
+        "natural magic tradition",
+        "Giordano Bruno"
+      ]
     },
     {
       "id": 13,
@@ -554,7 +634,12 @@
       ],
       "source_citations_count": 89,
       "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Giordano_Bruno_1548-1600.jpg",
-      "concepts": []
+      "concepts": [],
+      "influences": [
+        "Marsilio Ficino",
+        "Hermes Trismegistus",
+        "Ramon Llull"
+      ]
     },
     {
       "id": 14,
@@ -592,7 +677,12 @@
       ],
       "source_citations_count": 76,
       "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Heinrich_Khunrath.jpg",
-      "concepts": []
+      "concepts": [],
+      "influences": [
+        "Paracelsus",
+        "Gerhard Dorn",
+        "John Dee"
+      ]
     },
     {
       "id": 15,
@@ -628,7 +718,11 @@
       ],
       "source_citations_count": 5,
       "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Catherine_of_Siena.jpg",
-      "concepts": []
+      "concepts": [],
+      "influences": [
+        "Meister Eckhart",
+        "Johann Tauler"
+      ]
     },
     {
       "id": 16,
@@ -671,6 +765,11 @@
       "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Marsilio_Ficino.jpg",
       "concepts": [
         38
+      ],
+      "influences": [
+        "Plotinus",
+        "Hermes Trismegistus",
+        "Plato"
       ]
     },
     {
@@ -712,7 +811,11 @@
       ],
       "source_citations_count": 80,
       "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Pico_della_Mirandola.jpg",
-      "concepts": []
+      "concepts": [],
+      "influences": [
+        "Marsilio Ficino",
+        "Kabbalah"
+      ]
     },
     {
       "id": 18,
@@ -726,7 +829,7 @@
       "lng": 2.3522,
       "primary_discipline": "Alchemist, Scrivener, Philanthropist",
       "summary": "Nicolas Flamel (1330–1418), a French scrivener and philanthropist, became a legendary figure in alchemical tradition. The attribution to him of alchemical treatises (particularly the 'Exposition of the Hieroglyphical Figures') and the legend of his discovery of the Philosopher's Stone made him emblematic of successful alchemy. Though the historical Flamel's alchemical practices are uncertain, the Flamelian legend—of the wise adept who achieved transmutation and used wealth for charity—became archetypal in Rosicrucian and Masonic imagination.",
-      "essay": "Nicolas Flamel (1330–1418), a French scrivener and philanthropist, became a legendary figure in alchemical tradition. The attribution to him of alchemical treatises (particularly the 'Exposition of the Hieroglyphical Figures') and the legend of his discovery of the Philosopher's Stone made him emblematic of successful alchemy. Though the historical Flamel's alchemical practices are uncertain, the Flamelian legend—of the wise adept who achieved transmutation and used wealth for charity—became archetypal in Rosicrucian and Masonic imagination. His tomb and house in Paris became pilgrimage sites for alchemists. The Rosicrucian embrace of the Flamelian legend demonstrates how historical figures become mythologized to serve philosophical purposes. Godwin and Churton examine Flamel as a case study in how alchemy generates and sustains visionary figures.",
+      "essay": "Nicholas Flamel (c. 1330–1418) is the most famous of all legendary alchemists in the Western tradition, though the distinction between the historical Flamel and the legendary Flamel has been contested ever since the seventeenth century. The historical Flamel was a prosperous Parisian scribe and manuscript dealer who, with his wife Perenelle, accumulated substantial wealth through legitimate commercial activities and devoted much of it to charitable endowments — hospitals, chapels, and charnel houses — that he funded in his lifetime and through his will.\n\nThe legendary Flamel emerged in 1612 with the publication of his alleged autobiography, the Livre des figures hiéroglyphiques (Book of Hieroglyphical Figures), which described how he had purchased an ancient Jewish book of Abraham the Jew containing the secret of transmutation, had spent twenty-one years decoding it with the help of a Spanish Jewish convert named Canches, and had finally achieved transmutation of mercury into silver in January 1382 and into gold in April 1382. The work described these figures with elaborate allegorical commentary, presenting a complete alchemical programme in the form of an autobiographical narrative.\n\nModern scholarly consensus holds that the 1612 publication was a pseudepigraphical compilation — that is, a work composed by an early seventeenth-century author who attributed it to Flamel to give it historical authority. The historical Flamel's great wealth has been explained by his commercial activities and by the wealth of his wife Perenelle, who brought substantial property to the marriage. There is no contemporary evidence of alchemical activity.\n\nThe legendary Flamel nevertheless became one of the most powerful figures in alchemical mythology. Stories of his immortality — according to which he and Perenelle had faked their deaths and were still living centuries later — circulated widely. He appears in works by René Descartes, Isaac Newton (who copied alchemical texts attributed to him), and Victor Hugo, and in the twentieth and twenty-first centuries he has become a cultural icon, appearing in films, novels (including J.K. Rowling's Harry Potter), and popular accounts of alchemy.",
       "scholars": [
         "Godwin",
         "Churton"
@@ -752,7 +855,11 @@
       ],
       "source_citations_count": 26,
       "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Nicolas_Flamel.jpg",
-      "concepts": []
+      "concepts": [],
+      "influences": [
+        "Roger Bacon",
+        "Jabir ibn Hayyan"
+      ]
     },
     {
       "id": 19,
@@ -766,7 +873,7 @@
       "lng": 44.403,
       "primary_discipline": "Alchemist, Philosopher, Chemist",
       "summary": "Jabir ibn Hayyan (721–815), known in the West as Geber, was an Islamic alchemist, physician, and natural philosopher whose systematic experimental methodology and metallurgical innovations established alchemy as a proto-scientific discipline. His articulation of chemical processes, preparation of substances, and theoretical frameworks influenced European alchemy profoundly through medieval translations. Jabir's integration of laboratory practice with cosmic philosophy—viewing chemical transformation as mirror of cosmic transformation—provided a model that Rosicrucian alchemists adopted.",
-      "essay": "Jabir ibn Hayyan (721–815), known in the West as Geber, was an Islamic alchemist, physician, and natural philosopher whose systematic experimental methodology and metallurgical innovations established alchemy as a proto-scientific discipline. His articulation of chemical processes, preparation of substances, and theoretical frameworks influenced European alchemy profoundly through medieval translations. Jabir's integration of laboratory practice with cosmic philosophy—viewing chemical transformation as mirror of cosmic transformation—provided a model that Rosicrucian alchemists adopted. His famous phrase 'nothing is difficult to science' became motto for alchemical optimism. Godwin and Akerman emphasize Islamic alchemy's crucial role in establishing the rational, experimental dimensions of Western Rosicrucian practice.",
+      "essay": "Jābir ibn Hayyān (fl. c. 721–815 CE), known to Latin readers as Geber, is the most important figure in the history of Arabic alchemy and one of the foundational influences on the entire Western alchemical tradition. Whether the historical Jabir was a single person or a composite tradition—the 'Jabirian corpus' contains hundreds of texts with no clear single authorship—the body of work attributed to him established the theoretical and practical foundations of Arabic alchemy.\n\nThe Jabirian corpus (Kitab al-Kimya and related texts) advanced the sulphur-mercury theory of metals: all metals are composed of sulphur and mercury (not in their ordinary forms but as philosophical principles) in varying degrees of purity, and transmutation consists in bringing the sulphur-mercury composition of base metals to the degree of purity found in gold and silver. This theory, transmitted to Latin Europe through translations in the twelfth and thirteenth centuries, became the foundational framework for medieval Latin alchemy and persisted into the early modern period in Paracelsian tria prima (which added Salt as a third principle).\n\nWilliam Newman's Gehennical Fire: The Lives of George Starkey, an Alchemist of Newton's Scientific Revolution (1994) traces how the Jabirian sulphur-mercury theory was received and transformed by Latin alchemists, showing that the pseudo-Geber of the fourteenth century (a Latin author who wrote under the Arabic name) generated many of the most practically important medieval alchemical doctrines. Paul Kraus's fundamental Jabir ibn Hayyan: Contribution à l'Histoire des Idées Scientifiques dans l'Islam (1942) remains the essential philological study of the Arabic corpus. For the TheosophicalAlchemyDB, Jabir represents the crucial Arabic transmission link through which ancient Greek and Hellenistic alchemical knowledge was preserved, systematized, and transmitted to the Latin West.",
       "scholars": [
         "Godwin",
         "Akerman"
@@ -790,7 +897,10 @@
       ],
       "source_citations_count": 17,
       "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Jabir_ibn_Hayyan.jpg",
-      "concepts": []
+      "concepts": [],
+      "influences": [
+        "Hermes Trismegistus"
+      ]
     },
     {
       "id": 20,
@@ -870,7 +980,10 @@
       ],
       "source_citations_count": 50,
       "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Thomas_Aquinas.jpg",
-      "concepts": []
+      "concepts": [],
+      "influences": [
+        "Albertus Magnus"
+      ]
     },
     {
       "id": 22,
@@ -910,7 +1023,11 @@
       ],
       "source_citations_count": 99,
       "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Roger_Bacon_1220-1292.jpg",
-      "concepts": []
+      "concepts": [],
+      "influences": [
+        "Albertus Magnus",
+        "Jabir ibn Hayyan"
+      ]
     },
     {
       "id": 23,
@@ -952,6 +1069,10 @@
       "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Plotinus.jpg",
       "concepts": [
         25
+      ],
+      "influences": [
+        "Plato",
+        "Hermes Trismegistus"
       ]
     },
     {
@@ -995,49 +1116,11 @@
       "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/William_Blake_1757-1827.jpg",
       "concepts": [
         48
-      ]
-    },
-    {
-      "id": 25,
-      "name": "Louis-Claude de Saint-Martin",
-      "slug": "louis-claude-de-saint-martin",
-      "birth_year": 1743,
-      "death_year": 1803,
-      "nationality": "French",
-      "location": "Amboise, France",
-      "lat": 47.4131,
-      "lng": 0.9923,
-      "primary_discipline": "Mystic, Martinist, Philosopher",
-      "summary": "Louis-Claude de Saint-Martin (1743–1803), called 'the Unknown Philosopher,' was a French mystic whose synthesis of Swedenborgianism with mystical Christianity and Rosicrucian practice established Martinist esotericism as a major 19th-century initiatory tradition. His discipleship under Martinez de Pasqually exposed him to Templar lineage claims, Rosicrucian philosophy, and the Elect Cohens order. Saint-Martin's writings—particularly Écossais (The Scottish Chapters) and Des Erreurs et de la Vérité—articulated a mystical vision of human regeneration through knowledge of divine law and spiritual practice.",
-      "essay": "Louis-Claude de Saint-Martin (1743–1803), called 'the Unknown Philosopher,' was a French mystic whose synthesis of Swedenborgianism with mystical Christianity and Rosicrucian practice established Martinist esotericism as a major 19th-century initiatory tradition. His discipleship under Martinez de Pasqually exposed him to Templar lineage claims, Rosicrucian philosophy, and the Elect Cohens order. Saint-Martin's writings—particularly Écossais (The Scottish Chapters) and Des Erreurs et de la Vérité—articulated a mystical vision of human regeneration through knowledge of divine law and spiritual practice. His correspondence with Swedenborg established a direct link between Rosicrucian practice and Swedenborgian spirituality. The Martinist Order he systematized became one of the most influential esoteric organizations, directly transmitting Rosicrucian doctrine to the 20th century. Godwin, Churton, and Akerman identify Saint-Martin as the crucial bridge between 18th-century Rosicrucianism and modern Martinism.",
-      "scholars": [
-        "Godwin",
-        "Churton",
-        "Akerman"
       ],
-      "key_works": [
-        "Des Erreurs et de la Vérité",
-        "Tableau Naturel"
-      ],
-      "scholarship": [
-        {
-          "scholar": "Godwin",
-          "reference": "The Theosophical Enlightenment (1994)",
-          "quote": "Integration of mystical practice with historical development of esotericism.",
-          "relevance": "primary"
-        }
-      ],
-      "markdown_sources_found": [
-        "cover",
-        "Christopher McIntosh The Rose Cross and the Age of Reason_ Eighteenth Century Rosicrucianism in Central Europe",
-        "The Occult World",
-        "Constructing Tradition"
-      ],
-      "source_citations_count": 8,
-      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Louis-Claude_de_Saint-Martin.jpg",
-      "concepts": [
-        48,
-        53
+      "influences": [
+        "Jacob Böhme",
+        "Emmanuel Swedenborg",
+        "Paracelsus"
       ]
     },
     {
@@ -1052,10 +1135,11 @@
       "lng": 10.0,
       "primary_discipline": "Mystic, Böhmean Theosophist",
       "summary": "Johann Georg Gichtel (1638–1710) was a German mystic who became one of the most important promoters of Jacob Böhme's theology. His founding of the Angelic Society (Engelsgesellschaft) in Amsterdam provided an organized structure for transmitting Böhmean theosophical practice. Gichtel's integration of Böhme's visionary mysticism with Rosicrucian organizational forms and alchemical practice created a living tradition of Rosicrucian-Böhmean spirituality. His mystical correspondence and his role in circulating Böhme's works throughout Northern Europe made him crucial to the dissemination of Rosicrucian-theosophical synthesis.",
-      "essay": "Johann Georg Gichtel (1638–1710) was a German mystic who became one of the most important promoters of Jacob Böhme's theology. His founding of the Angelic Society (Engelsgesellschaft) in Amsterdam provided an organized structure for transmitting Böhmean theosophical practice. Gichtel's integration of Böhme's visionary mysticism with Rosicrucian organizational forms and alchemical practice created a living tradition of Rosicrucian-Böhmean spirituality. His mystical correspondence and his role in circulating Böhme's works throughout Northern Europe made him crucial to the dissemination of Rosicrucian-theosophical synthesis. The Angelic Society became a model for 18th-century Rosicrucian-Martinist organizations. Godwin and Churton emphasize Gichtel's role in establishing institutional structures for transmitting Rosicrucian mysticism.",
+      "essay": "Johann Georg Gichtel (1638–1710) was a German mystic and radical reformer whose deep engagement with Jacob Boehme's writings led him to establish mystical communities practicing theosophical spirituality in lived community. Gichtel's life represents the actualization of Boehme's teaching: that spiritual transformation must involve embodied practice, radical simplicity, and communal witness. Gichtel founded the Angelic Society, a network of mystical practitioners committed to intensive meditation on Boehme's writings, ethical living, and mutual spiritual support. His *Theosophia Practica* presented practical exercises for consciousness transformation grounded in Boehme's cosmology. Gichtel emphasized that Boehme's vision was not merely intellectual but demanded concrete transformation of life: renunciation of worldly attachments, cultivation of inner silence, recognition of divine light within. He developed a distinctive model of spiritual community that influenced later Pietism and Radical Reformation movements. Unlike more institutional approaches, Gichtel's communities emphasized direct experience, inward illumination, and personal responsibility for spiritual development. Zuber emphasizes Gichtel as a crucial figure for understanding spiritual alchemy as embodied practice; Godwin notes his influence on subsequent European mysticism. Gichtel's biography demonstrates how esoteric philosophy was actualized in lived communities and how theosophical teaching was transmitted through direct spiritual relationship.",
       "scholars": [
         "Godwin",
-        "Churton"
+        "Churton",
+        "Zuber"
       ],
       "key_works": [
         "Theosophia Practica"
@@ -1077,6 +1161,9 @@
       "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Johann_Georg_Gichtel.jpg",
       "concepts": [
         53
+      ],
+      "influences": [
+        "Jacob Böhme"
       ]
     },
     {
@@ -1117,6 +1204,9 @@
         34,
         35,
         37
+      ],
+      "influences": [
+        "Enlightenment philosophy"
       ]
     },
     {
@@ -1157,6 +1247,10 @@
       "concepts": [
         34,
         48
+      ],
+      "influences": [
+        "Freemasonry",
+        "Egyptian alchemy"
       ]
     },
     {
@@ -1196,6 +1290,9 @@
       "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Gerhard_Dorn.jpg",
       "concepts": [
         41
+      ],
+      "influences": [
+        "Paracelsus"
       ]
     },
     {
@@ -1229,6 +1326,9 @@
       "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Leonhard_Thurneiser.jpg",
       "concepts": [
         33
+      ],
+      "influences": [
+        "Paracelsus"
       ]
     },
     {
@@ -1262,7 +1362,11 @@
       ],
       "source_citations_count": 1,
       "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Catherine_de_Medici.jpg",
-      "concepts": []
+      "concepts": [],
+      "influences": [
+        "Italian Renaissance culture",
+        "Marsilio Ficino"
+      ]
     },
     {
       "id": 32,
@@ -1301,6 +1405,10 @@
       "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Giambattista_della_Porta.jpg",
       "concepts": [
         53
+      ],
+      "influences": [
+        "Marsilio Ficino",
+        "natural magic tradition"
       ]
     },
     {
@@ -1315,11 +1423,12 @@
       "lng": 6.9582,
       "primary_discipline": "Magus, Philosopher, Polymath",
       "summary": "Henry Cornelius Agrippa (1486–1535) was a German polymath and magus whose Three Books of Occult Philosophy became the definitive synthesis of Renaissance magic, Neoplatonism, and Kabbalah. Agrippa's systematic integration of natural, celestial, and ceremonial magic—all grounded in the unity of divine order—established a comprehensive magical philosophy. His doctrine of correspondences (linking earthly, celestial, and divine realms) became foundational to all subsequent Western esotericism.",
-      "essay": "Henry Cornelius Agrippa (1486–1535) was a German polymath and magus whose Three Books of Occult Philosophy became the definitive synthesis of Renaissance magic, Neoplatonism, and Kabbalah. Agrippa's systematic integration of natural, celestial, and ceremonial magic—all grounded in the unity of divine order—established a comprehensive magical philosophy. His doctrine of correspondences (linking earthly, celestial, and divine realms) became foundational to all subsequent Western esotericism. Agrippa's vision of the magus as one who works with hidden correspondences and sympathies in nature established the intellectual foundation for Rosicrucian theory. His integration of Hebrew Kabbalah with Latin Christian theology made him a crucial bridge between Jewish and Christian mystical traditions. Though predating Rosicrucianism, Agrippa's systematic magical philosophy directly influenced Rosicrucian doctrine. Yates, Godwin, and Churton all identify Agrippa as essential to understanding Rosicrucian intellectual foundations.",
+      "essay": "Heinrich Cornelius Agrippa von Nettesheim (1486–1535) was a German polymath of extraordinary range whose *De occulta philosophia* (Three Books of Occult Philosophy, 1533) established the most comprehensive systematization of magical theory in the Western esoteric tradition. A scholar of extraordinary learning, Agrippa entered the University of Cologne at thirteen and received his Master of Arts by sixteen. He mastered multiple languages, studied law and theology, and pursued medicine and natural philosophy with equal intensity. His intellectual synthesis created a coherent framework integrating Neoplatonic philosophy, Kabbalistic symbolism, Hermetic principles, astrological correspondences, and alchemical operations into a grand vision of interconnected reality. The *Three Books* organized this vast domain: natural magic dealing with earthly substances and properties, celestial magic engaging astrological influences, and ceremonial magic invoking spiritual intelligences and divine powers. Agrippa's work proved foundational to subsequent Western esotericism, influencing Renaissance magi like John Dee, early modern alchemists and Rosicrucians, and establishing standards for magical philosophy that persisted into the modern period. His integration of rigorous learning with mystical aspiration exemplified the Renaissance ideal of the philosopher-magus. Though his influence waned during the scientific revolution, modern scholars recognize Agrippa as one of the most important figures in the history of Western esoteric thought. His student Thomas Vaughan inherited and developed Agrippan magical philosophy within an English alchemical context, extending Agrippa's legacy into the seventeenth century.",
       "scholars": [
         "Yates",
         "Godwin",
-        "Churton"
+        "Churton",
+        "Agrippa"
       ],
       "key_works": [
         "Three Books of Occult Philosophy"
@@ -1342,7 +1451,12 @@
       ],
       "source_citations_count": 14,
       "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Henry_Cornelius_Agrippa.jpg",
-      "concepts": []
+      "concepts": [],
+      "influences": [
+        "Marsilio Ficino",
+        "Pico della Mirandola",
+        "Johannes Trithemius"
+      ]
     },
     {
       "id": 34,
@@ -1377,7 +1491,11 @@
       ],
       "source_citations_count": 3,
       "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Rudolf_II_Holy_Roman_Emperor.jpg",
-      "concepts": []
+      "concepts": [],
+      "influences": [
+        "Renaissance Hermeticism",
+        "John Dee"
+      ]
     },
     {
       "id": 35,
@@ -1454,6 +1572,10 @@
         30,
         31,
         46
+      ],
+      "influences": [
+        "Marsilio Ficino",
+        "Pico della Mirandola"
       ]
     },
     {
@@ -1483,7 +1605,11 @@
         }
       ],
       "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Samuel_Fictuld_alchemist.jpg",
-      "concepts": []
+      "concepts": [],
+      "influences": [
+        "Rosicrucian tradition",
+        "Johann Valentin Andreae"
+      ]
     },
     {
       "id": 37,
@@ -1526,6 +1652,11 @@
       "concepts": [
         37,
         53
+      ],
+      "influences": [
+        "Giordano Bruno",
+        "Hermeticism",
+        "Michael Maier"
       ]
     },
     {
@@ -1562,42 +1693,11 @@
       ],
       "source_citations_count": 4,
       "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Joseph_Glanvill.jpg",
-      "concepts": []
-    },
-    {
-      "id": 39,
-      "name": "Henry Khunrath",
-      "slug": "henry-khunrath",
-      "birth_year": 1560,
-      "death_year": 1605,
-      "nationality": "German",
-      "location": "Hamburg, Germany",
-      "lat": 53.5511,
-      "lng": 10.0,
-      "primary_discipline": "Alchemist, Mystic, Physician",
-      "summary": "Henry Khunrath (1560–1605) was a significant Alchemist, Mystic, Physician in the history of Western esotericism. His contributions to Rosicrucian, hermetic, and alchemical thought remain influential in contemporary studies of alchemy and spiritual philosophy. He represents key currents in the intellectual history of Europe.",
-      "essay": "Heinrich Khunrath (1560–1605)—the correct name; 'Henry' is an anglicization—was a German physician and alchemical philosopher whose Amphitheatrum Sapientiae Aeternae (Amphitheatre of Eternal Wisdom, Hamburg 1595; expanded Hanover 1609) is the most spectacular and philosophically ambitious emblem book of the alchemical and Rosicrucian tradition. Born in Leipzig, Khunrath studied medicine at Basel (MD 1588), establishing himself as a physician in Hamburg and Dresden.\n\nKhunrath's philosophical formation drew on Paracelsian medicine, Hermetic philosophy, Lutheran theology, and Christian Kabbalah. His Warhafftiger Bericht (1597) defended Paracelsian chemical medicine against Galenist critics. The Amphitheatrum synthesizes these commitments into a comprehensive initiatory program: the four circular engraved plates (depicting the laboratorium-oratorium, the stage of philosophical ascent, the hermaphroditic stone, and the divine Word at the center of creation) map the adept's journey from practical laboratory work through philosophical enlightenment to divine union.\n\nPeter Forshaw's comprehensive scholarship—including his doctoral dissertation on Khunrath and multiple articles on the Amphitheatrum's visual program—has established the intellectual context of Khunrath's work, documenting his visit to John Dee in Bremen in 1589 and his connections with the broader network of Hermetic philosophers in late sixteenth-century Germany. Urszula Szulakowska's The Alchemy of Light provides the fullest art-historical analysis of the Amphitheatrum's plates, situating them within the tradition of Neoplatonic light theology and demonstrating how Khunrath's visual program encodes a complete philosophy of divine illumination through alchemical purification.",
-      "scholars": [
-        "Yates",
-        "Godwin"
-      ],
-      "key_works": [
-        "Amphitheatrum Sapientiae Aeternae"
-      ],
-      "scholarship": [
-        {
-          "scholar": "Godwin",
-          "reference": "The Theosophical Enlightenment (1994)",
-          "quote": "Integration of mystical practice with historical development of esotericism.",
-          "relevance": "primary"
-        }
-      ],
-      "markdown_sources_found": [
-        "Peter J Forshaw The Mage s Images_ Heinrich Khunrath in His Oratory and Laboratory Volume 1_ Prologue_ Bio Bibliography Introduction to Khunrath s Images Brill"
-      ],
-      "source_citations_count": 5,
-      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Henricus_Khunrath.jpg",
-      "concepts": []
+      "concepts": [],
+      "influences": [
+        "Henry More",
+        "Cambridge Platonism"
+      ]
     },
     {
       "id": 40,
@@ -1635,7 +1735,11 @@
       ],
       "source_citations_count": 16,
       "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Philip_Sidney.jpg",
-      "concepts": []
+      "concepts": [],
+      "influences": [
+        "Giordano Bruno",
+        "court humanism"
+      ]
     },
     {
       "id": 41,
@@ -1681,6 +1785,11 @@
         30,
         40,
         41
+      ],
+      "influences": [
+        "Jacob Böhme",
+        "Emmanuel Swedenborg",
+        "alchemical tradition"
       ]
     },
     {
@@ -1719,6 +1828,10 @@
       "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Anna_Zieglerin.jpg",
       "concepts": [
         40
+      ],
+      "influences": [
+        "Paracelsus",
+        "court alchemy tradition"
       ]
     },
     {
@@ -1802,6 +1915,11 @@
       "concepts": [
         30,
         53
+      ],
+      "influences": [
+        "Isaac Newton",
+        "Robert Boyle",
+        "Henry More"
       ]
     },
     {
@@ -1845,6 +1963,11 @@
         30,
         40,
         41
+      ],
+      "influences": [
+        "Johann Tauler",
+        "Meister Eckhart",
+        "Paracelsus"
       ]
     },
     {
@@ -1884,6 +2007,10 @@
       "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Jane_Lead.jpg",
       "concepts": [
         30
+      ],
+      "influences": [
+        "Jacob Böhme",
+        "John Pordage"
       ]
     },
     {
@@ -1925,6 +2052,11 @@
       "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Isaac_Newton_1643-1727.jpg",
       "concepts": [
         30
+      ],
+      "influences": [
+        "Henry More",
+        "Robert Boyle",
+        "Giordano Bruno"
       ]
     },
     {
@@ -1967,6 +2099,10 @@
       "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Henry_More.jpg",
       "concepts": [
         30
+      ],
+      "influences": [
+        "Platonism",
+        "Cambridge Neoplatonism"
       ]
     },
     {
@@ -2000,6 +2136,9 @@
       "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Benedict_Chabotas.jpg",
       "concepts": [
         30
+      ],
+      "influences": [
+        "Paracelsian tradition"
       ]
     },
     {
@@ -2040,7 +2179,10 @@
       ],
       "source_citations_count": 25,
       "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Adam_McLean.jpg",
-      "concepts": []
+      "concepts": [],
+      "influences": [
+        "alchemical scholarship tradition"
+      ]
     },
     {
       "id": 51,
@@ -2082,195 +2224,10 @@
       "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Brian_Vickers.jpg",
       "concepts": [
         37
-      ]
-    },
-    {
-      "id": 52,
-      "name": "Heinrich Cornelius Agrippa",
-      "slug": "heinrich-cornelius-agrippa",
-      "birth_year": 1486,
-      "death_year": 1535,
-      "nationality": "German",
-      "location": "Cologne, Germany",
-      "lat": 50.9365,
-      "lng": 6.9582,
-      "primary_discipline": "Polymath, Occultist, Physician, Theologian",
-      "summary": "Heinrich Cornelius Agrippa von Nettesheim (1486–1535) was a German polymath of extraordinary range whose *De occulta philosophia* (Three Books of Occult Philosophy, 1533) established the most comprehensive systematization of magical theory in the Western esoteric tradition. A scholar of extraordinary learning, Agrippa entered the University of Cologne at thirteen and received his Master of Arts by sixteen. He mastered multiple languages, studied law and theology, and pursued medicine and natural philosophy with equal intensity.",
-      "essay": "Heinrich Cornelius Agrippa von Nettesheim (1486–1535) was a German polymath of extraordinary range whose *De occulta philosophia* (Three Books of Occult Philosophy, 1533) established the most comprehensive systematization of magical theory in the Western esoteric tradition. A scholar of extraordinary learning, Agrippa entered the University of Cologne at thirteen and received his Master of Arts by sixteen. He mastered multiple languages, studied law and theology, and pursued medicine and natural philosophy with equal intensity. His intellectual synthesis created a coherent framework integrating Neoplatonic philosophy, Kabbalistic symbolism, Hermetic principles, astrological correspondences, and alchemical operations into a grand vision of interconnected reality. The *Three Books* organized this vast domain: natural magic dealing with earthly substances and properties, celestial magic engaging astrological influences, and ceremonial magic invoking spiritual intelligences and divine powers. Agrippa's work proved foundational to subsequent Western esotericism, influencing Renaissance magi like John Dee, early modern alchemists and Rosicrucians, and establishing standards for magical philosophy that persisted into the modern period. His integration of rigorous learning with mystical aspiration exemplified the Renaissance ideal of the philosopher-magus. Though his influence waned during the scientific revolution, modern scholars recognize Agrippa as one of the most important figures in the history of Western esoteric thought. His student Thomas Vaughan inherited and developed Agrippan magical philosophy within an English alchemical context, extending Agrippa's legacy into the seventeenth century.",
-      "scholars": [
-        "Agrippa",
-        "Yates",
-        "Godwin"
       ],
-      "key_works": [
-        "Three Books of Occult Philosophy (De occulta philosophia)",
-        "On the Uncertainty and Vanity of the Sciences",
-        "Book of Occult Philosophy",
-        "Declamations Against the Occult Philosophers"
-      ],
-      "emblems_created": [
-        101,
-        102,
-        103,
-        104,
-        105,
-        106,
-        107,
-        108,
-        109,
-        110,
-        111,
-        112,
-        113,
-        114,
-        115,
-        116,
-        117,
-        118,
-        119,
-        120,
-        121,
-        122,
-        123,
-        124,
-        125,
-        126,
-        127,
-        128,
-        129,
-        130,
-        131,
-        132,
-        133,
-        134,
-        135,
-        136,
-        137,
-        138,
-        139,
-        140
-      ],
-      "gender_awareness": "As a Protestant theologian, Andreae inherited scholastic frameworks that excluded women from formal intellectual participation. His philosophical synthesis represents masculine intellectual achievement; women's parallel mystical contributions through figures like Jane Lead remained institutionally marginalized.",
-      "scholarship": [
-        {
-          "scholar": "Godwin",
-          "reference": "The Theosophical Enlightenment (1994)",
-          "quote": "Integration of mystical practice with historical development of esotericism.",
-          "relevance": "primary"
-        }
-      ],
-      "markdown_sources_found": [
-        "",
-        "Alchemy and Authority in the Holy Roman Empire",
-        "33326_SP_BOG_FM_00i-xii",
-        "Constructing Tradition",
-        "%5B9789004466005%20-%20Fictional%20Practice%3A%20Magic%2C%20Narration%2C%20and%20the%20Power%20of%20Imagination%5D%20Fictional%20Practice%3A%20Magic%2C%20Narration%2C%20and%20the%20Power%20of%20Imagination.pdf",
-        "Kabbalah: Rosicrucian Digest (Rosicrucian Order AMORC Kindle Editions)"
-      ],
-      "source_citations_count": 25,
-      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Agrippa_Portrait.jpg",
-      "concepts": []
-    },
-    {
-      "id": 53,
-      "name": "Thomas Vaughan",
-      "slug": "thomas-vaughan",
-      "birth_year": 1621,
-      "death_year": 1666,
-      "nationality": "English",
-      "location": "Wales, England",
-      "lat": 52.1302,
-      "lng": -3.7297,
-      "primary_discipline": "Alchemist, Mystic, Rosicrucian Apologist",
-      "summary": "Thomas Vaughan (1621–1666) was an English mystic, alchemist, and Rosicrucian apologist who synthesized Paracelsian iatrochemistry, Agrippan magical philosophy, and Rosicrucian spirituality into a comprehensive vision of alchemy as consciousness transformation. Twin brother to the poet Henry Vaughan, Thomas pursued mystical and alchemical studies with intense dedication, publishing under the pseudonym Eugenius Philalethes. His *Anthroposophia Theomagica* (1650) presented man as a microcosm reflecting divine macrocosmic structures, exploring the mystical theology of human nature and its transformation through alchemical work.",
-      "essay": "Thomas Vaughan (1621–1666) was an English mystic, alchemist, and Rosicrucian apologist who synthesized Paracelsian iatrochemistry, Agrippan magical philosophy, and Rosicrucian spirituality into a comprehensive vision of alchemy as consciousness transformation. Twin brother to the poet Henry Vaughan, Thomas pursued mystical and alchemical studies with intense dedication, publishing under the pseudonym Eugenius Philalethes. His *Anthroposophia Theomagica* (1650) presented man as a microcosm reflecting divine macrocosmic structures, exploring the mystical theology of human nature and its transformation through alchemical work. Vaughan's approach understood the alchemist's laboratory engagement with matter as simultaneously a spiritual practice—chemical operations paralleling consciousness development. He inherited Agrippan principles of magical correspondence and applied them to alchemical practice, demonstrating how macrocosm-microcosm relationships enabled the alchemist to work with both material and spiritual dimensions. Vaughan claimed the title 'philosopher of nature' rather than 'vulgar alchemist,' insisting that true alchemy integrated practical laboratory work with mystical theology. His synthesis of Paracelsian medicine, Agrippan magic, and Rosicrucian spirituality made him one of the most important English alchemists of his era. Peter Levenda's *The Tantric Alchemist: Thomas Vaughan and the Indian Tantric Tradition* situates Vaughan within a broader mystical tradition emphasizing consciousness transformation through alchemical practice. Thomas Willard's scholarship on *Vaughan and the Rosicrucian Revival in Britain* documents his central role in transmitting Rosicrucian and alchemical doctrines to English esotericism.",
-      "scholars": [
-        "Vaughan",
-        "Zuber",
-        "Godwin",
-        "Willard",
-        "Levenda"
-      ],
-      "key_works": [
-        "Anthroposophia Theomagica",
-        "Anima Magica Abscondita",
-        "The Fame and Confession of the Fraternity of R.C.",
-        "Euphrates",
-        "Magia Adamica"
-      ],
-      "emblems_created": [
-        111,
-        112,
-        113,
-        114,
-        115,
-        116,
-        117,
-        118,
-        119,
-        120,
-        121,
-        122,
-        123,
-        124,
-        125,
-        126,
-        127,
-        128,
-        129,
-        130,
-        131,
-        132,
-        133,
-        134,
-        135,
-        136,
-        137,
-        138,
-        139,
-        140,
-        141,
-        142,
-        143,
-        144,
-        145,
-        146,
-        147,
-        148,
-        149,
-        150,
-        151,
-        152,
-        153,
-        154,
-        155,
-        156,
-        157,
-        158,
-        159,
-        160,
-        161
-      ],
-      "scholarship": [
-        {
-          "scholar": "Godwin",
-          "reference": "The Theosophical Enlightenment (1994)",
-          "quote": "Integration of mystical practice with historical development of esotericism.",
-          "relevance": "primary"
-        }
-      ],
-      "markdown_sources_found": [
-        "The Occult World",
-        "33326_SP_BOG_FM_00i-xii",
-        "01 PRELIMS",
-        "\"Dispersa Intentio.\" Alchemy, Magic and Scepticism in Agrippa"
-      ],
-      "source_citations_count": 66,
-      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Thomas_Vaughan_alchemist.jpg",
-      "concepts": [
-        26,
-        33,
-        53
+      "influences": [
+        "academic historiography",
+        "Frances Yates"
       ]
     },
     {
@@ -2314,6 +2271,9 @@
       "concepts": [
         15,
         30
+      ],
+      "influences": [
+        "Hermes Trismegistus"
       ]
     },
     {
@@ -2328,7 +2288,7 @@
       "lng": 3.8767,
       "primary_discipline": "Physician, Alchemist, Theologian",
       "summary": "Arnauld de Villeneuve (c. 1240–1311) was a Catalan physician, alchemist, and theologian whose synthesis of practical alchemy with medical theory established alchemical knowledge as legitimate within medieval Christian framework. Based in Montpellier, a center of medical learning, Arnauld demonstrated that alchemical distillation and material transformation served medical purposes—the extraction of quintessences, the preparation of medicinal compounds, the understanding of material efficacy.",
-      "essay": "Arnauld de Villeneuve (c. 1240–1311) was a Catalan physician, alchemist, and theologian whose synthesis of practical alchemy with medical theory established alchemical knowledge as legitimate within medieval Christian framework. Based in Montpellier, a center of medical learning, Arnauld demonstrated that alchemical distillation and material transformation served medical purposes—the extraction of quintessences, the preparation of medicinal compounds, the understanding of material efficacy. His works, written in practical Latin rather than obscurantist allegory, articulated how alchemical operations revealed the workings of natural principles. Arnauld faced theological opposition for practicing 'chemistry' and making gold, but he defended alchemy as legitimate inquiry into God's creation. His synthesis was historically crucial: by connecting alchemy to medicine and natural philosophy, Arnauld established alchemical inquiry as within the bounds of acceptable Christian learning. He influenced later alchemists including John of Rupescissa and contributed to the eventual emergence of iatroalchemy (chemical medicine). Szulakowska notes Arnauld's technical descriptions as foundational for understanding medieval alchemical practice; Zuber emphasizes his role in establishing alchemy as legitimate inquiry rather than mere mysticism.",
+      "essay": "Arnaldus de Villanova (c. 1240–1311) was a Catalan physician, theologian, and alchemist whose career spanned the royal courts of Aragon, the papal curia, and the great medical school of Montpellier, making him one of the most influential medical-alchemical writers of the medieval period. A prolific author whose authentic medical works were highly technical and practically oriented, he became in the fourteenth and fifteenth centuries the attributed author of an enormous pseudepigraphical alchemical corpus that exercised lasting influence on the alchemical tradition.\n\nArnaldus's authentic medical writings — on urines, fevers, regimen, and pharmacy — drew on Arabic and Greek sources and represented the most advanced medical learning available in thirteenth-century Europe. His translations from Arabic introduced important Galenic and Avicennian material to the Latin West. His theological works, in which he advocated for prophetic reform of the church and criticised the scholastic theology of the Dominicans, brought him into conflict with ecclesiastical authorities and led to his condemnation on several occasions.\n\nThe alchemical corpus attributed to Arnaldus — including the Rosarium Philosophorum (Rose Garden of the Philosophers), the Novum Lumen (New Light), and the Flos Florum (Flower of Flowers) — was almost certainly composed after his death and attributed to him to exploit his considerable medical authority. The Rosarium in particular became one of the most widely circulated and commented alchemical texts of the fourteenth through sixteenth centuries, and its distinctive imagery — including the famous series of images depicting the royal bath, the conjunction of king and queen, and the resurrection — was reproduced in countless copies and commentaries.\n\nThe transmission of medical knowledge through alchemical channels, and of alchemical knowledge through medical channels, that Arnaldus's name exemplifies was a crucial feature of later medieval intellectual culture: the boundary between medicine and alchemy was permeable, and the most authoritative medical figures were naturally recruited as alchemical authorities as well.",
       "scholars": [
         "Szulakowska",
         "Zuber",
@@ -2354,6 +2314,11 @@
       "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Arnauld_de_Villeneuve.jpg",
       "concepts": [
         15
+      ],
+      "influences": [
+        "Jabir ibn Hayyan",
+        "al-Rāzī",
+        "Roger Bacon"
       ]
     },
     {
@@ -2394,6 +2359,10 @@
       "concepts": [
         37,
         53
+      ],
+      "influences": [
+        "Paracelsus",
+        "French Hermeticism"
       ]
     },
     {
@@ -2428,7 +2397,11 @@
         }
       ],
       "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Anna_Bonus_Kingsford.jpg",
-      "concepts": []
+      "concepts": [],
+      "influences": [
+        "Éliphas Lévi",
+        "Hermeticism"
+      ]
     },
     {
       "id": 58,
@@ -2469,6 +2442,10 @@
       "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Éliphas_Lévi_portrait.jpg",
       "concepts": [
         53
+      ],
+      "influences": [
+        "Karl von Eckartshausen",
+        "occult philosophy"
       ]
     },
     {
@@ -2511,6 +2488,9 @@
         30,
         37,
         53
+      ],
+      "influences": [
+        "Jacob Böhme"
       ]
     },
     {
@@ -2552,48 +2532,10 @@
       "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Joseph_Ennemoser.jpg",
       "concepts": [
         30
-      ]
-    },
-    {
-      "id": 61,
-      "name": "Johann Georg Gichtel",
-      "slug": "johann-georg-gichtel",
-      "birth_year": 1638,
-      "death_year": 1710,
-      "nationality": "German",
-      "location": "Ratingen, Germany",
-      "lat": 51.2827,
-      "lng": 6.8427,
-      "primary_discipline": "Boehme Mystic, Theosophist, Radical Reformer",
-      "summary": "Johann Georg Gichtel (1638–1710) was a German mystic and radical reformer whose deep engagement with Jacob Boehme's writings led him to establish mystical communities practicing theosophical spirituality in lived community. Gichtel's life represents the actualization of Boehme's teaching: that spiritual transformation must involve embodied practice, radical simplicity, and communal witness. Gichtel founded the Angelic Society, a network of mystical practitioners committed to intensive meditation on Boehme's writings, ethical living, and mutual spiritual support.",
-      "essay": "Johann Georg Gichtel (1638–1710) was a German mystic and radical reformer whose deep engagement with Jacob Boehme's writings led him to establish mystical communities practicing theosophical spirituality in lived community. Gichtel's life represents the actualization of Boehme's teaching: that spiritual transformation must involve embodied practice, radical simplicity, and communal witness. Gichtel founded the Angelic Society, a network of mystical practitioners committed to intensive meditation on Boehme's writings, ethical living, and mutual spiritual support. His *Theosophia Practica* presented practical exercises for consciousness transformation grounded in Boehme's cosmology. Gichtel emphasized that Boehme's vision was not merely intellectual but demanded concrete transformation of life: renunciation of worldly attachments, cultivation of inner silence, recognition of divine light within. He developed a distinctive model of spiritual community that influenced later Pietism and Radical Reformation movements. Unlike more institutional approaches, Gichtel's communities emphasized direct experience, inward illumination, and personal responsibility for spiritual development. Zuber emphasizes Gichtel as a crucial figure for understanding spiritual alchemy as embodied practice; Godwin notes his influence on subsequent European mysticism. Gichtel's biography demonstrates how esoteric philosophy was actualized in lived communities and how theosophical teaching was transmitted through direct spiritual relationship.",
-      "scholars": [
-        "Zuber",
-        "Godwin",
-        "Churton"
       ],
-      "key_works": [
-        "Theosophia Practica",
-        "Letters on Boehme",
-        "Mystical Community Teachings"
-      ],
-      "scholarship": [
-        {
-          "scholar": "Godwin",
-          "reference": "The Theosophical Enlightenment (1994)",
-          "quote": "Integration of mystical practice with historical development of esotericism.",
-          "relevance": "primary"
-        }
-      ],
-      "markdown_sources_found": [
-        "The Occult World",
-        "The Mage’s Images: Heinrich Khunrath in His Oratory and Laboratory",
-        "A Christian Rosenkreutz Anthology"
-      ],
-      "source_citations_count": 4,
-      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Johann_Georg_Gichtel.jpg",
-      "concepts": [
-        30
+      "influences": [
+        "Mesmerism",
+        "Romantic Naturphilosophie"
       ]
     },
     {
@@ -2638,6 +2580,10 @@
       "concepts": [
         40,
         47
+      ],
+      "influences": [
+        "Éliphas Lévi",
+        "Anna Bonus Kingsford"
       ]
     },
     {
@@ -2674,70 +2620,10 @@
       "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Iuliana_Covaci.jpg",
       "concepts": [
         30
+      ],
+      "influences": [
+        "Paracelsian tradition"
       ]
-    },
-    {
-      "id": 64,
-      "name": "Philippus Aureolus Theophrastus Bombastus von Hohenheim (Paracelsus)",
-      "slug": "paracelsus",
-      "birth_year": 1493,
-      "death_year": 1541,
-      "nationality": "Swiss",
-      "location": "Basel",
-      "lat": 47.56,
-      "lng": 7.59,
-      "primary_discipline": "Medicine, Alchemy, Philosophy",
-      "summary": "Philippus Aureolus Theophrastus Bombastus von Hohenheim (1493–1541), known as Paracelsus, was a Swiss physician and alchemist who revolutionized medical theory and practice in the 16th century. Trained in alchemy, mining chemistry, and folk medicine, Paracelsus rejected Galenic humoral theory and the authority of classical medical texts, advocating instead for empirical observation and chemical therapeutics. His iatrochemistry—the application of alchemical processes to medicine—became the foundation of pharmaceutical chemistry.",
-      "essay": "Philippus Aureolus Theophrastus Bombastus von Hohenheim (1493–1541), known as Paracelsus, was a Swiss physician and alchemist who revolutionized medical theory and practice in the 16th century. Trained in alchemy, mining chemistry, and folk medicine, Paracelsus rejected Galenic humoral theory and the authority of classical medical texts, advocating instead for empirical observation and chemical therapeutics. His iatrochemistry—the application of alchemical processes to medicine—became the foundation of pharmaceutical chemistry. Paracelsus integrated alchemical symbolism with medical practice, arguing that disease and cure operate according to alchemical principles of dissolution and regeneration. His syncretic philosophy combined Neoplatonism, hermeticism, and Christian mysticism, proposing that the natural world (macrocosm) reflects divine order and that the human body (microcosm) contains all universal principles. His radical rejection of medieval scholasticism, combined with his championing of vernacular knowledge and practical experimentation, made him a figure of profound influence on the Scientific Revolution and the Rosicrucian tradition. Though he published little in his lifetime, his collected works circulated widely after 1550, inspiring generations of medical reformers and spiritual alchemists.",
-      "embodied_practice": "Paracelsus developed practical laboratory work—distillation, fermentation, calcination—directly applied to healing. His method combined chemical preparation of remedies (spagyria) with astrological timing and spiritual invocation, grounding abstract alchemical theory in medical outcomes.",
-      "scholarly_debates": {
-        "topic": "Paracelsus as proto-scientist or mystic",
-        "positions": [
-          "Earlier scholarship emphasized his irrationalism and mysticism, dismissing him as unscientific.",
-          "Modern historians (Debus, Ball) recognize his genuine chemical innovations and empirical orientation, positioning him as foundational to chemical philosophy.",
-          "Synthesist view: Paracelsus unified practical chemistry with spiritual alchemy; both dimensions were equally real to him."
-        ]
-      },
-      "key_works": [
-        "Paragranum (1530)",
-        "Volumen Paramirum (1531)",
-        "Archidoxies (alchemy texts on magical medicines)",
-        "De natura rerum (natural philosophy)"
-      ],
-      "scholars": [
-        "Debus",
-        "Ball",
-        "Moran",
-        "Pagel"
-      ],
-      "concepts": [
-        1,
-        6,
-        8,
-        25,
-        40,
-        12,
-        33,
-        48
-      ],
-      "gender_awareness": "Paracelsus lived in a male-dominated medical establishment but drew on folk healing traditions (largely women's knowledge); his writings show openness to women's practical wisdom, though not institutional recognition.",
-      "scholarship": [
-        {
-          "scholar": "Debus",
-          "reference": "The Chemical Philosophy (1977), Chapters 1–3",
-          "quote": "Paracelsus was convinced that the alchemical arts and the study of nature provided a path to truth denied to those who relied solely on Aristotelian logic.",
-          "relevance": "primary"
-        },
-        {
-          "scholar": "Moran",
-          "reference": "Distilling Knowledge (2005), Intro & Ch. 1",
-          "quote": "Paracelsus's medicine was inseparable from his cosmology: healing was cosmic synchronization, not mechanical repair.",
-          "relevance": "primary"
-        }
-      ],
-      "transmission_genealogy": "Paracelsus → immediate students (Oporinus, Huser) → Paracelsian physicians (Toxites, Croll) → Rosicrucian synthesis (Fludd) → European medical reform.",
-      "created_at": "2026-05-25T12:08:59.434492",
-      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Philippus_Aureolus_Theophrastus_Bombastus_von_Hohenheim_(Paracelsus)_portrait.jpg"
     },
     {
       "id": 65,
@@ -2786,7 +2672,11 @@
         "Peter J Forshaw The Mage s Images_ Heinrich Khunrath in His Oratory and Laboratory Volume 1_ Prologue_ Bio Bibliography Introduction to Khunrath s Images Brill"
       ],
       "source_citations_count": 10,
-      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Jacques_Gohory.jpg"
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Jacques_Gohory.jpg",
+      "influences": [
+        "Paracelsus",
+        "French Humanism"
+      ]
     },
     {
       "id": 66,
@@ -2829,7 +2719,11 @@
         "K Park L Daston Cambridge History of Science Early Modern Science Vol 3 libgen li"
       ],
       "source_citations_count": 3,
-      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Symphorien_Champier.jpg"
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Symphorien_Champier.jpg",
+      "influences": [
+        "Marsilio Ficino",
+        "Johannes Trithemius"
+      ]
     },
     {
       "id": 67,
@@ -2858,7 +2752,11 @@
         31
       ],
       "created_at": "2026-05-25T12:08:59.434534",
-      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Jean_Thibault.jpg"
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Jean_Thibault.jpg",
+      "influences": [
+        "Paracelsus",
+        "court astrology"
+      ]
     },
     {
       "id": 68,
@@ -2892,7 +2790,10 @@
         "Alchemy and Authority in the Holy Roman Empire"
       ],
       "source_citations_count": 5,
-      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Adam_von_Bodenstein.jpg"
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Adam_von_Bodenstein.jpg",
+      "influences": [
+        "Paracelsus"
+      ]
     },
     {
       "id": 69,
@@ -2919,7 +2820,11 @@
         25
       ],
       "created_at": "2026-05-25T12:09:48.317366",
-      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Johannes_Guinter_Andernach.jpg"
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Johannes_Guinter_Andernach.jpg",
+      "influences": [
+        "Galen",
+        "Renaissance medicine"
+      ]
     },
     {
       "id": 70,
@@ -2947,7 +2852,10 @@
         15
       ],
       "created_at": "2026-05-25T12:09:48.317368",
-      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Leonhard_Fuchs.jpg"
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Leonhard_Fuchs.jpg",
+      "influences": [
+        "Renaissance botany"
+      ]
     },
     {
       "id": 71,
@@ -3006,7 +2914,10 @@
         "Rosicrucian Cosmo-Conception",
         "The Mage’s Images: Heinrich Khunrath in His Oratory and Laboratory"
       ],
-      "source_citations_count": 3
+      "source_citations_count": 3,
+      "influences": [
+        "Paracelsus"
+      ]
     },
     {
       "id": 72,
@@ -3077,7 +2988,10 @@
         "Peter J Forshaw The Mage s Images_ Heinrich Khunrath in His Oratory and Laboratory Volume 1_ Prologue_ Bio Bibliography Introduction to Khunrath s Images Brill"
       ],
       "source_citations_count": 17,
-      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Oswald_Croll.jpg"
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Oswald_Croll.jpg",
+      "influences": [
+        "Paracelsus"
+      ]
     },
     {
       "id": 74,
@@ -3094,7 +3008,11 @@
       "essay": "William Bradwardine (dates uncertain, likely c. 1600–1660) was an English alchemical practitioner whose career illustrates the social and institutional dimensions of alchemical belief in seventeenth-century England. The Bradwardines were a significant English family, and the name has been associated with various learned individuals, including Thomas Bradwardine (c. 1300–1349), the fourteenth-century theologian and mathematician whose treatise on proportions in motion influenced late medieval natural philosophy.\n\nThe later William Bradwardine active in the English alchemical world of the mid-seventeenth century participated in the overlapping networks of laboratory practitioners, spiritual seekers, and learned gentlemen that characterised English alchemical culture in this period. His correspondence and notebooks, where they survive, record experiments with mercury and antimony preparations associated with the Philalethean tradition, contacts with other practitioners, and reflections on the spiritual dimensions of alchemical work.\n\nThe period of Bradwardine's active practice — roughly the 1640s through 1660s — coincided with the extraordinary ferment of the English Revolution, when the disruption of established institutions created space for heterodox natural philosophy, religious experimentation, and the circulation of alchemical knowledge through social networks that crossed conventional boundaries. The Hartlib Circle, centred on the Polish-German émigré Samuel Hartlib, provided one such network; the various Puritan and Quaker communities another.\n\nBradwardine's significance for the history of alchemical belief in England lies less in any major theoretical contribution than in the documentary evidence his activities provide for the social organisation and practice of English alchemy at the mid-century — the way laboratory work was conducted in household settings, communicated through correspondence, legitimated by appeal to earlier authorities, and sustained by communities of practitioners who shared materials, procedures, and interpretive frameworks.",
       "created_at": "2026-05-25T12:45:53.868428",
       "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/William_Bradwardine.jpg",
-      "concepts": []
+      "concepts": [],
+      "influences": [
+        "Oxford mathematics",
+        "natural philosophy"
+      ]
     },
     {
       "id": 75,
@@ -3121,7 +3039,11 @@
         "undefined series for scimag 1998 jun 26 Åkerman Susanna Rose Cross over the Baltic 10 1163_9789004247413 libgen li"
       ],
       "source_citations_count": 1,
-      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Balthasar_Walther_alchemist.jpg"
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Balthasar_Walther_alchemist.jpg",
+      "influences": [
+        "Paracelsus",
+        "Kabbalah"
+      ]
     },
     {
       "id": 76,
@@ -3149,7 +3071,11 @@
         8
       ],
       "created_at": "2026-05-25T12:45:53.868453",
-      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Michael_Sendivogius.jpg"
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Michael_Sendivogius.jpg",
+      "influences": [
+        "Paracelsus",
+        "Michael Sendivog"
+      ]
     },
     {
       "id": 77,
@@ -3170,7 +3096,10 @@
         61
       ],
       "created_at": "2026-05-25T12:45:53.868456",
-      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Louis_Camelle_alchemist.jpg"
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Louis_Camelle_alchemist.jpg",
+      "influences": [
+        "Paracelsus"
+      ]
     },
     {
       "id": 78,
@@ -3190,7 +3119,11 @@
         25
       ],
       "created_at": "2026-05-25T12:45:53.868458",
-      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Pierre_Potier_alchemist.jpg"
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Pierre_Potier_alchemist.jpg",
+      "influences": [
+        "Paracelsus",
+        "French iatrochemistry"
+      ]
     },
     {
       "id": 79,
@@ -3211,7 +3144,10 @@
         61
       ],
       "created_at": "2026-05-25T12:45:53.868460",
-      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Godefridus_Steidel.jpg"
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Godefridus_Steidel.jpg",
+      "influences": [
+        "Paracelsus"
+      ]
     },
     {
       "id": 80,
@@ -3231,7 +3167,10 @@
         25
       ],
       "created_at": "2026-05-25T12:45:53.868463",
-      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Alonso_Pena_alchemist.jpg"
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Alonso_Pena_alchemist.jpg",
+      "influences": [
+        "Paracelsus"
+      ]
     },
     {
       "id": 81,
@@ -3252,7 +3191,10 @@
         61
       ],
       "created_at": "2026-05-25T12:46:42.266722",
-      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Antoine_de_Gohorry.jpg"
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Antoine_de_Gohorry.jpg",
+      "influences": [
+        "Paracelsus"
+      ]
     },
     {
       "id": 82,
@@ -3273,7 +3215,11 @@
         61
       ],
       "created_at": "2026-05-25T12:46:42.266750",
-      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Henri_Rantzau.jpg"
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Henri_Rantzau.jpg",
+      "influences": [
+        "Tycho Brahe",
+        "Renaissance learning"
+      ]
     },
     {
       "id": 83,
@@ -3310,7 +3256,11 @@
         "The Occult World"
       ],
       "source_citations_count": 27,
-      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Andreas_Libavius.jpg"
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Andreas_Libavius.jpg",
+      "influences": [
+        "Paracelsus",
+        "iatrochemical tradition"
+      ]
     },
     {
       "id": 84,
@@ -3339,77 +3289,11 @@
         "A Christian Rosenkreutz Anthology"
       ],
       "source_citations_count": 24,
-      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Tycho_Brahe_1546-1601.jpg"
-    },
-    {
-      "id": 85,
-      "name": "John Dee",
-      "slug": "john-dee",
-      "birth_year": 1527,
-      "death_year": 1609,
-      "nationality": "English",
-      "location": "London / Mortlake",
-      "lat": 51.5074,
-      "lng": -0.1278,
-      "primary_discipline": "Natural Magic, Alchemy, Mathematics",
-      "summary": "John Dee (1527–1609) was an English polymath—mathematician, astrologer, alchemist, and occultist—who sought to understand divine order through mathematics, astrology, and alchemy. Dee conducted alchemical research seeking transmutation and the Philosopher's Stone, understanding alchemy as a pathway to knowledge of divine creation. His integration of mathematics, astrology, and alchemy made him influential on both learned and esoteric circles.",
-      "essay": "John Dee (1527–1608/9) was the most learned natural philosopher of Elizabethan England and one of the most significant alchemical thinkers of the sixteenth century. Born in London, he studied at St John's College, Cambridge, then at Louvain and Paris, acquiring mathematical, astronomical, navigational, and philosophical expertise that placed him at the leading edge of European learning. His Propaedeumata Aphoristica (1558) and Monas Hieroglyphica (1564) established him as a figure of international reputation; his vast library at Mortlake, containing some 4,000 volumes, was the largest private collection in England.\n\nThe Monas Hieroglyphica, composed in thirteen days and dedicated to Emperor Maximilian II, was Dee's most audacious philosophical work. In twenty-four theorems, he demonstrated how a single hieroglyphic symbol — combining the lunar crescent, the solar circle, the cross of the elements, and the sign of Aries — contained within its geometric structure the grammar of the entire created universe. All symbolic alphabets — astronomical, astrological, alchemical, Kabbalistic, mathematical — were encoded in this one sign, and from it correctly understood all other symbols could be derived. The work was immediately influential: Khunrath drew on it, it echoed in the Rosicrucian manifestos, and Newton annotated his copy extensively.\n\nNicholas Clulee's authoritative study John Dee's Natural Philosophy (1988) demonstrates that Dee's work was primarily mathematical and natural-philosophical, with Hermetic elements subordinated to a rigorous programme of understanding the hidden mathematical structure of nature. Deborah Harkness's John Dee's Conversations with Angels (1999) places the Monas within Dee's larger apocalyptic-reformist project: the recovery of Adamic language that would enable direct reading of the Book of Nature.\n\nThe angelic conversations that Dee conducted with the medium Edward Kelley throughout the 1580s — recorded in meticulous diaries — were an attempt to receive this recovered language directly from divine messengers. Frances Yates influentially interpreted Dee as the prototype of the Hermetic magus; Clulee and Stephen Clucas have argued for a more specifically mathematical-philosophical reading. Whatever the interpretation, Dee's work fed directly into the Rosicrucian tradition and was still being read and debated by Newton, who spent more hours on alchemical research than on any other single intellectual activity.",
-      "key_works": [
-        "Monad Hieroglyphica (mathematical-alchemical philosophy)",
-        "Alchemical manuscripts",
-        "Works on natural magic"
-      ],
-      "scholars": [
-        "Clulee"
-      ],
-      "concepts": [
-        1,
-        6,
-        8,
-        25,
-        62
-      ],
-      "created_at": "2026-05-25T12:46:42.266761",
-      "image_url": "images/figures/john-dee.jpg",
-      "markdown_sources_found": [
-        "",
-        "01 PRELIMS",
-        "33326_SP_BOG_FM_00i-xii",
-        "Arguing with Angels",
-        "%5B9789004466005%20-%20Fictional%20Practice%3A%20Magic%2C%20Narration%2C%20and%20the%20Power%20of%20Imagination%5D%20Fictional%20Practice%3A%20Magic%2C%20Narration%2C%20and%20the%20Power%20of%20Imagination.pdf",
-        "README.md"
-      ],
-      "source_citations_count": 134
-    },
-    {
-      "id": 86,
-      "name": "Giambattista della Porta",
-      "slug": "della-porta",
-      "birth_year": 1535,
-      "death_year": 1615,
-      "nationality": "Italian",
-      "location": "Naples",
-      "lat": 40.8518,
-      "lng": 14.2681,
-      "primary_discipline": "Natural Magic, Chemistry",
-      "summary": "Giambattista della Porta (1535–1615) was a significant Natural Magic, Chemistry in the history of Western esotericism. His contributions to Rosicrucian, hermetic, and alchemical thought remain influential in contemporary studies of alchemy and spiritual philosophy. He represents key currents in the intellectual history of Europe.",
-      "essay": "Giambattista della Porta (c. 1535–1615), the Neapolitan polymath who founded one of the first scientific academies in Europe and whose Magia Naturalis (Natural Magic, 1558; greatly expanded 1589) became one of the most widely read natural philosophical works of the sixteenth century, occupies an important position at the intersection of natural magic, practical chemistry, and the broader tradition of occult philosophy that fed into Rosicrucianism.\n\nBorn into a noble Neapolitan family, della Porta received a thorough humanistic education and from an early age pursued investigations into natural phenomena with encyclopaedic energy. His Accademia dei Segreti (Academy of Secrets), founded in the 1560s and dissolved by Church authorities in the 1580s on suspicion of practising magic, was one of the earliest learned societies dedicated to empirical investigation of natural phenomena — an ancestor of the learned societies that would proliferate in the seventeenth century.\n\nThe Magia Naturalis, in its expanded twenty-book edition of 1589, covered an extraordinary range of topics: optics (including principles of the camera obscura), magnetism, cosmetics, cooking, distillation, cultivation of plants, the breeding of animals, metallurgy, and what della Porta called \"natural magic\" — the production of marvellous effects through knowledge of the hidden properties and sympathies of natural things. This last category connected the work to the broader tradition of natural magic as developed by Ficino and Agrippa, while della Porta's consistent insistence that all the effects he described had natural causes distinguished his programme from demonic magic.\n\nDella Porta's chemical and distillatory knowledge was extensive and practically grounded. His Phytognomonica (1583) developed the doctrine of signatures — the correspondence between the external appearance of plants and their hidden therapeutic properties — and his works on distillation contributed to the practical chemical literature that connected Renaissance natural magic to the emerging discipline of chemistry. Robert Fludd, whose cosmological system shared many features with della Porta's natural magic, drew on his work, and the programme of natural magic that both represented was one of the intellectual currents that fed into the Rosicrucian synthesis.",
-      "key_works": [
-        "Natural Magic (Magia Naturalis)",
-        "Works on chemical processes"
-      ],
-      "concepts": [
-        1,
-        25
-      ],
-      "created_at": "2026-05-25T12:46:42.266763",
-      "markdown_sources_found": [
-        "The Occult World",
-        "K Park L Daston Cambridge History of Science Early Modern Science Vol 3 libgen li",
-        "The Sacrificial Body and the Day of Doom: Alchemy and Apocalyptic Discourse in the Protestant Reformation"
-      ],
-      "source_citations_count": 6,
-      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Giambattista_della_Porta.jpg"
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Tycho_Brahe_1546-1601.jpg",
+      "influences": [
+        "Renaissance astronomy",
+        "Rudolf II"
+      ]
     },
     {
       "id": 87,
@@ -3432,7 +3316,11 @@
         33
       ],
       "created_at": "2026-05-25T12:46:42.266766",
-      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Franciscus_Sylvius.jpg"
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Franciscus_Sylvius.jpg",
+      "influences": [
+        "Jan Baptist van Helmont",
+        "iatrochemistry"
+      ]
     },
     {
       "id": 88,
@@ -3461,7 +3349,11 @@
         "The Occult World"
       ],
       "source_citations_count": 77,
-      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Robert_Boyle_1627-1691.jpg"
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Robert_Boyle_1627-1691.jpg",
+      "influences": [
+        "Jan Baptist van Helmont",
+        "Francis Bacon"
+      ]
     },
     {
       "id": 89,
@@ -3487,115 +3379,11 @@
         "K Park L Daston Cambridge History of Science Early Modern Science Vol 3 libgen li"
       ],
       "source_citations_count": 5,
-      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Bernard_Palissy.jpg"
-    },
-    {
-      "id": 90,
-      "name": "Michael Maier",
-      "slug": "michael-maier",
-      "birth_year": 1568,
-      "death_year": 1622,
-      "nationality": "German",
-      "location": "Prague",
-      "lat": 50.0755,
-      "lng": 14.4378,
-      "primary_discipline": "Alchemy, Medicine",
-      "summary": "Michael Maier (1568–1622) was a significant Alchemy, Medicine in the history of Western esotericism. His contributions to Rosicrucian, hermetic, and alchemical thought remain influential in contemporary studies of alchemy and spiritual philosophy. He represents key currents in the intellectual history of Europe.",
-      "essay": "Michael Maier (1568–1622) was physician, court alchemist, and one of the most erudite defenders of Rosicrucianism to appear in print during the critical decade of 1614–1622. Born in Rendsburg in Holstein, he studied medicine and philosophy at Rostock, Frankfurt, and Padua before obtaining his medical doctorate. His talents brought him to the court of Emperor Rudolf II in Prague — then the foremost patron of alchemical and occult sciences in Europe — where he served as personal physician and imperial count palatine. Rudolf's court, which also drew Tycho Brahe, Johannes Kepler, and a constellation of Hermetic scholars, provided Maier with the intellectual and financial resources to develop his ambitious programme of alchemical synthesis.\n\nMaier's greatest achievement was the Atalanta Fugiens (1617), published at Oppenheim by the de Bry firm. This extraordinary multimedia emblem book combined fifty copper engravings (depicting scenes from classical mythology reinterpreted as alchemical allegories), fifty Latin mottos and epigrams, fifty prose discourses, and fifty three-voice musical fugues — making it unique in the entire history of Western esotericism. The work's central myth, drawn from Ovid, figures the fleet-footed Atalanta (the volatile principle) fleeing the pursuing Hippomenes (the fixed principle), with the golden apple (the Stone) as the agent of reconciliation. H.M.E. de Jong's exhaustive source-study (1969) demonstrated the depth of Maier's classical learning and his systematic transformation of mythological material into alchemical philosophy.\n\nHis other major works include Symbola Aureae Mensae Duodecim Nationum (1617), which presented twelve allegorical figures representing twelve nations of alchemical wisdom, and Atalanta Fugiens's companion volume Silentium Post Clamores (1617). In Themis Aurea (1618), Maier provided the most detailed and sympathetic published defence of the Rosicrucian Fraternity's laws and principles, arguing that the Brotherhood was a legitimate sodality of Christian natural philosophers rather than the diabolical conspiracy its critics alleged.\n\nMaier's relationship to the actual Rosicrucian Brotherhood remains uncertain — Tara Nummedal and Carlos Gilly have argued that he was a fellow-traveller who shared the manifestos' reform programme rather than an actual member. What is clear is that his publications did more than those of any other single author to define the intellectual content of Rosicrucianism for the European reading public. His synthesis of Paracelsian chymistry, classical mythology, Neoplatonic philosophy, musical theory, and visual art constituted an argument that natural knowledge of the highest order was continuous with — not opposed to — the wisdom of antiquity and the insights of Christian theology. Maier died in Magdeburg in 1622, shortly before the defeat of the Palatine cause that temporarily ended the Rosicrucian public moment.",
-      "concepts": [
-        1,
-        6,
-        25,
-        62
-      ],
-      "created_at": "2026-05-25T12:48:45.528355",
-      "image_url": "images/figures/michael-maier.jpg",
-      "markdown_sources_found": [
-        "Alchemy and Authority in the Holy Roman Empire",
-        "The Occult World",
-        "33326_SP_BOG_FM_00i-xii",
-        "Arguing with Angels",
-        "Alchemy, Jung, and Remedios Varo; Cultural Complexes and the Redemptive Power of the"
-      ],
-      "source_citations_count": 88
-    },
-    {
-      "id": 91,
-      "name": "Johann Arndt",
-      "slug": "johann-arndt",
-      "birth_year": 1555,
-      "death_year": 1621,
-      "nationality": "German",
-      "location": "Eisleben",
-      "lat": 51.5294,
-      "lng": 11.5517,
-      "primary_discipline": "Theology, Alchemy",
-      "summary": "Johann Arndt (1555–1621) was a significant Theology, Alchemy in the history of Western esotericism. His contributions to Rosicrucian, hermetic, and alchemical thought remain influential in contemporary studies of alchemy and spiritual philosophy. He represents key currents in the intellectual history of Europe.",
-      "essay": "Johann Arndt (1555–1621) was a Lutheran pastor and spiritual writer whose Vier Bücher vom wahren Christentum (Four Books of True Christianity, 1605–1610) became one of the most widely read devotional works in the Protestant tradition and exercised an enormous influence on German Pietism, theosophy, and spiritual alchemy. Born in Ballenstädt in the Duchy of Anhalt, he studied theology and Paracelsian medicine at Halberstadt, Wittenberg, Strasbourg, and Basel before entering the Lutheran ministry.\n\nArndt's Wahres Christentum drew on a remarkable range of sources: Luther's theology of grace, the Rhineland mystics (Eckhart, Tauler, the Theologia Germanica), the Neoplatonism of Ficino and Paracelsus, and the natural philosophy of Paracelsus and Valentin Weigel. Its central argument was that Lutheran orthodoxy had become arid and formalistic, concerned with correct doctrine at the expense of genuine spiritual transformation. True Christianity required not merely intellectual assent to doctrinal propositions but a living union with God through an interior process of death to self and rebirth in Christ — a process Arndt described in language directly indebted to both mystical and alchemical traditions.\n\nThe fourth book of Wahres Christentum, Liber Naturae (Book of Nature), treated the natural world as a book of divine revelation whose hidden signatures and correspondences the spiritually illumined reader could learn to interpret. This Paracelsian-Kabbalistic approach to nature as divine text was one of the most direct channels through which alchemical natural philosophy entered the mainstream of Protestant piety.\n\nArndt's influence on the Rosicrucian movement was significant. Johann Valentin Andreae, probably the principal author of the Rosicrucian manifestos, was deeply indebted to Arndt's vision of Christian reformation through genuine spiritual renewal and natural wisdom. The Fama Fraternitatis's programme of universal reformation — combining medical healing, natural knowledge, and spiritual renewal — echoes the Arndtian synthesis. Arndt also influenced Philip Jakob Spener, the founder of Lutheran Pietism, and through Spener the theosophical Pietist tradition that fed into the early eighteenth-century circulation of Böhme's works in Germany and England.",
-      "concepts": [
-        1,
-        6,
-        25
-      ],
-      "created_at": "2026-05-25T12:48:45.528357",
-      "markdown_sources_found": [
-        "The Occult World",
-        "Peter J Forshaw The Mage s Images_ Heinrich Khunrath in His Oratory and Laboratory Volume 1_ Prologue_ Bio Bibliography Introduction to Khunrath s Images Brill",
-        "A Christian Rosenkreutz Anthology"
-      ],
-      "source_citations_count": 17,
-      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Johann_Arndt.jpg"
-    },
-    {
-      "id": 92,
-      "name": "Gerhard Dorn",
-      "slug": "gerhard-dorn",
-      "birth_year": 1530,
-      "death_year": 1600,
-      "nationality": "German",
-      "location": "Frankfurt",
-      "lat": 50.1109,
-      "lng": 8.6821,
-      "primary_discipline": "Medicine, Alchemy",
-      "summary": "Gerhard Dorn (1530–1600) was a significant Medicine, Alchemy in the history of Western esotericism. His contributions to Rosicrucian, hermetic, and alchemical thought remain influential in contemporary studies of alchemy and spiritual philosophy. He represents key currents in the intellectual history of Europe.",
-      "essay": "Gerhard Dorn (c. 1530–1584) was among the most important systematizers of Paracelsian philosophy in the generation immediately following Paracelsus's death, and his work played a crucial role in transmitting and elaborating the Paracelsian-alchemical tradition to the late sixteenth century. Little is known of his early life; he appears to have studied medicine and philosophy and to have been closely associated with the Frankfurt publishing world, where many of his works appeared through the Gulden Pflug press.\n\nDorn produced extensive Latin translations and commentaries on Paracelsus's German works, making the Paracelsian corpus accessible to the Latin-reading learned world and thereby enabling the international reception of Paracelsian ideas. His own philosophical works, particularly the Speculativae Philosophiae (1581) and Theatrum Chymicum (the latter appearing in expanded editions of the important anthology of the same name), elaborated a distinctive mystical-alchemical philosophy that went considerably beyond Paracelsus in its Neoplatonic and theosophical dimensions.\n\nDorn's most important contribution was his development of the concept of the unus mundus — the \"one world\" underlying the apparent multiplicity of created things. Drawing on Neoplatonic emanation theory and Paracelsian naturphilosophie, Dorn argued that the ultimate goal of the alchemical work was not merely the production of the Philosopher's Stone but the mystical unification of the adept's soul with this underlying unity. This was one of the earliest formulations of what would later be called theosophical alchemy, in which the laboratory work and the soul's spiritual journey were understood as aspects of a single integrated process.\n\nC.G. Jung found in Dorn's concept of the unus mundus an important anticipation of his own psychological model of the Self and of the individuation process as the recovery of an underlying wholeness. This Jungian appropriation has coloured the reception of Dorn's work in ways that make careful historical reading difficult, but scholars like Walter Pagel and Didier Kahn have begun the work of reading Dorn on his own terms.",
-      "concepts": [
-        1,
-        25,
-        61
-      ],
-      "created_at": "2026-05-25T12:48:45.528360",
-      "markdown_sources_found": [
-        "The Occult World",
-        "01 PRELIMS",
-        "The Sacrificial Body and the Day of Doom: Alchemy and Apocalyptic Discourse in the Protestant Reformation"
-      ],
-      "source_citations_count": 21,
-      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Gerhard_Dorn.jpg"
-    },
-    {
-      "id": 93,
-      "name": "Jābir ibn Ḥayyān (Geber)",
-      "slug": "jabir",
-      "birth_year": 721,
-      "death_year": 815,
-      "nationality": "Persian",
-      "location": "Khorasan",
-      "lat": 35.0,
-      "lng": 65.0,
-      "primary_discipline": "Alchemy",
-      "summary": "Jābir ibn Ḥayyān (Geber) (721–815) was a significant Alchemy in the history of Western esotericism. His contributions to Rosicrucian, hermetic, and alchemical thought remain influential in contemporary studies of alchemy and spiritual philosophy. He represents key currents in the intellectual history of Europe.",
-      "essay": "Jābir ibn Hayyān (fl. c. 721–815 CE), known to Latin readers as Geber, is the most important figure in the history of Arabic alchemy and one of the foundational influences on the entire Western alchemical tradition. Whether the historical Jabir was a single person or a composite tradition—the 'Jabirian corpus' contains hundreds of texts with no clear single authorship—the body of work attributed to him established the theoretical and practical foundations of Arabic alchemy.\n\nThe Jabirian corpus (Kitab al-Kimya and related texts) advanced the sulphur-mercury theory of metals: all metals are composed of sulphur and mercury (not in their ordinary forms but as philosophical principles) in varying degrees of purity, and transmutation consists in bringing the sulphur-mercury composition of base metals to the degree of purity found in gold and silver. This theory, transmitted to Latin Europe through translations in the twelfth and thirteenth centuries, became the foundational framework for medieval Latin alchemy and persisted into the early modern period in Paracelsian tria prima (which added Salt as a third principle).\n\nWilliam Newman's Gehennical Fire: The Lives of George Starkey, an Alchemist of Newton's Scientific Revolution (1994) traces how the Jabirian sulphur-mercury theory was received and transformed by Latin alchemists, showing that the pseudo-Geber of the fourteenth century (a Latin author who wrote under the Arabic name) generated many of the most practically important medieval alchemical doctrines. Paul Kraus's fundamental Jabir ibn Hayyan: Contribution à l'Histoire des Idées Scientifiques dans l'Islam (1942) remains the essential philological study of the Arabic corpus. For the TheosophicalAlchemyDB, Jabir represents the crucial Arabic transmission link through which ancient Greek and Hellenistic alchemical knowledge was preserved, systematized, and transmitted to the Latin West.",
-      "concepts": [
-        1,
-        6,
-        25,
-        61,
-        65,
-        15
-      ],
-      "created_at": "2026-05-25T12:48:45.528362",
-      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Jābir_ibn_Ḥayyān_(Geber)_portrait.jpg"
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Bernard_Palissy.jpg",
+      "influences": [
+        "Paracelsus",
+        "craft knowledge"
+      ]
     },
     {
       "id": 94,
@@ -3620,7 +3408,10 @@
         "The Mage’s Images: Heinrich Khunrath in His Oratory and Laboratory"
       ],
       "source_citations_count": 1,
-      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/al-Rāzī_portrait.jpg"
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/al-Rāzī_portrait.jpg",
+      "influences": [
+        "Jabir ibn Hayyan"
+      ]
     },
     {
       "id": 95,
@@ -3648,91 +3439,11 @@
         "1Cairn.info"
       ],
       "source_citations_count": 64,
-      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Albertus_Magnus.jpg"
-    },
-    {
-      "id": 96,
-      "name": "Roger Bacon",
-      "slug": "roger-bacon",
-      "birth_year": 1214,
-      "death_year": 1292,
-      "nationality": "English",
-      "location": "Oxford",
-      "lat": 51.752,
-      "lng": -1.2578,
-      "primary_discipline": "Alchemy",
-      "summary": "Roger Bacon (1214–1292) was a significant Alchemy in the history of Western esotericism. His contributions to Rosicrucian, hermetic, and alchemical thought remain influential in contemporary studies of alchemy and spiritual philosophy. He represents key currents in the intellectual history of Europe.",
-      "essay": "Roger Bacon (c. 1214/1220–c. 1292) was one of the most remarkable intellectual figures of the thirteenth century — a Franciscan friar whose advocacy of mathematical and experimental approaches to natural knowledge was centuries ahead of his time, and whose engagement with alchemy placed him at the intersection of the theoretical and practical dimensions of medieval natural philosophy. Born in Somerset, he studied at Oxford and Paris, encountering the new Aristotelian natural philosophy that was transforming European intellectual life, before becoming a Franciscan around 1256.\n\nBacon's encyclopaedic Opus Majus (1267), composed at the request of Pope Clement IV, argued for the reform of knowledge on the basis of mathematics, languages, and experiment. His account of experimental science (scientia experimentalis) as a method superior to argument alone was remarkably prescient, though it drew on earlier traditions of empirical inquiry rather than representing a clean break with scholasticism. His interest in mathematics as the foundation of natural philosophy connected him to a Pythagorean-Neoplatonic tradition that would feed into later Hermetic and alchemical thought.\n\nA substantial body of alchemical texts attributed to Bacon circulated from the fourteenth century onward, most notably the Speculum Alchimiae (Mirror of Alchemy) and the Radix Mundi (Root of the World). Modern scholarship has determined that most of these are pseudepigrapha — works composed after Bacon's death and attributed to him to exploit his reputation. However, Bacon's authentic works do contain alchemical material: his Opus Tertium discusses the elixir and the prolongation of life, and his scientific investigations into optics, mirrors, and the properties of substances overlap with alchemical concerns.\n\nThe legendary Bacon — credited with mechanical marvels including a brazen head that could answer questions, flying machines, and explosive powder — became a central figure in the mythology of hidden knowledge in the Renaissance and Reformation periods. His figure inspired Francis Bacon's vision of a reformed natural philosophy oriented toward practical benefit, and John Dee cited him as a predecessor in mathematical-Hermetic inquiry.",
-      "concepts": [
-        1,
-        6,
-        25
-      ],
-      "created_at": "2026-05-25T12:48:45.528368",
-      "markdown_sources_found": [
-        "01 PRELIMS",
-        "A Christian Rosenkreutz Anthology",
-        "33326_SP_BOG_FM_00i-xii",
-        "Arguing with Angels",
-        "%5B9789004466005%20-%20Fictional%20Practice%3A%20Magic%2C%20Narration%2C%20and%20the%20Power%20of%20Imagination%5D%20Fictional%20Practice%3A%20Magic%2C%20Narration%2C%20and%20the%20Power%20of%20Imagination.pdf",
-        "README.md"
-      ],
-      "source_citations_count": 99,
-      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Roger_Bacon_1220-1292.jpg"
-    },
-    {
-      "id": 97,
-      "name": "Nicholas Flamel",
-      "slug": "nicholas-flamel",
-      "birth_year": 1330,
-      "death_year": 1418,
-      "nationality": "French",
-      "location": "Paris",
-      "lat": 48.8566,
-      "lng": 2.3522,
-      "primary_discipline": "Alchemy",
-      "summary": "Nicholas Flamel (1330–1418) was a significant Alchemy in the history of Western esotericism. His contributions to Rosicrucian, hermetic, and alchemical thought remain influential in contemporary studies of alchemy and spiritual philosophy. He represents key currents in the intellectual history of Europe.",
-      "essay": "Nicholas Flamel (c. 1330–1418) is the most famous of all legendary alchemists in the Western tradition, though the distinction between the historical Flamel and the legendary Flamel has been contested ever since the seventeenth century. The historical Flamel was a prosperous Parisian scribe and manuscript dealer who, with his wife Perenelle, accumulated substantial wealth through legitimate commercial activities and devoted much of it to charitable endowments — hospitals, chapels, and charnel houses — that he funded in his lifetime and through his will.\n\nThe legendary Flamel emerged in 1612 with the publication of his alleged autobiography, the Livre des figures hiéroglyphiques (Book of Hieroglyphical Figures), which described how he had purchased an ancient Jewish book of Abraham the Jew containing the secret of transmutation, had spent twenty-one years decoding it with the help of a Spanish Jewish convert named Canches, and had finally achieved transmutation of mercury into silver in January 1382 and into gold in April 1382. The work described these figures with elaborate allegorical commentary, presenting a complete alchemical programme in the form of an autobiographical narrative.\n\nModern scholarly consensus holds that the 1612 publication was a pseudepigraphical compilation — that is, a work composed by an early seventeenth-century author who attributed it to Flamel to give it historical authority. The historical Flamel's great wealth has been explained by his commercial activities and by the wealth of his wife Perenelle, who brought substantial property to the marriage. There is no contemporary evidence of alchemical activity.\n\nThe legendary Flamel nevertheless became one of the most powerful figures in alchemical mythology. Stories of his immortality — according to which he and Perenelle had faked their deaths and were still living centuries later — circulated widely. He appears in works by René Descartes, Isaac Newton (who copied alchemical texts attributed to him), and Victor Hugo, and in the twentieth and twenty-first centuries he has become a cultural icon, appearing in films, novels (including J.K. Rowling's Harry Potter), and popular accounts of alchemy.",
-      "concepts": [
-        1,
-        6,
-        8
-      ],
-      "created_at": "2026-05-25T12:48:45.528370",
-      "markdown_sources_found": [
-        "Alchemy and Authority in the Holy Roman Empire",
-        "33326_SP_BOG_FM_00i-xii",
-        "Thomas Vaughan and the Rosicrucian Revival in Britain",
-        "Lyndy Abraham A Dictionary of Alchemical Imagery Cambridge University Press"
-      ],
-      "source_citations_count": 5,
-      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Nicolas_Flamel.jpg"
-    },
-    {
-      "id": 98,
-      "name": "Arnaldus de Villanova",
-      "slug": "arnaldus-villanova",
-      "birth_year": 1240,
-      "death_year": 1311,
-      "nationality": "Catalan",
-      "location": "Valencia",
-      "lat": 39.4699,
-      "lng": -0.3763,
-      "primary_discipline": "Medicine, Alchemy",
-      "summary": "Arnaldus de Villanova (1240–1311) was a significant Medicine, Alchemy in the history of Western esotericism. His contributions to Rosicrucian, hermetic, and alchemical thought remain influential in contemporary studies of alchemy and spiritual philosophy. He represents key currents in the intellectual history of Europe.",
-      "essay": "Arnaldus de Villanova (c. 1240–1311) was a Catalan physician, theologian, and alchemist whose career spanned the royal courts of Aragon, the papal curia, and the great medical school of Montpellier, making him one of the most influential medical-alchemical writers of the medieval period. A prolific author whose authentic medical works were highly technical and practically oriented, he became in the fourteenth and fifteenth centuries the attributed author of an enormous pseudepigraphical alchemical corpus that exercised lasting influence on the alchemical tradition.\n\nArnaldus's authentic medical writings — on urines, fevers, regimen, and pharmacy — drew on Arabic and Greek sources and represented the most advanced medical learning available in thirteenth-century Europe. His translations from Arabic introduced important Galenic and Avicennian material to the Latin West. His theological works, in which he advocated for prophetic reform of the church and criticised the scholastic theology of the Dominicans, brought him into conflict with ecclesiastical authorities and led to his condemnation on several occasions.\n\nThe alchemical corpus attributed to Arnaldus — including the Rosarium Philosophorum (Rose Garden of the Philosophers), the Novum Lumen (New Light), and the Flos Florum (Flower of Flowers) — was almost certainly composed after his death and attributed to him to exploit his considerable medical authority. The Rosarium in particular became one of the most widely circulated and commented alchemical texts of the fourteenth through sixteenth centuries, and its distinctive imagery — including the famous series of images depicting the royal bath, the conjunction of king and queen, and the resurrection — was reproduced in countless copies and commentaries.\n\nThe transmission of medical knowledge through alchemical channels, and of alchemical knowledge through medical channels, that Arnaldus's name exemplifies was a crucial feature of later medieval intellectual culture: the boundary between medicine and alchemy was permeable, and the most authoritative medical figures were naturally recruited as alchemical authorities as well.",
-      "concepts": [
-        1,
-        25,
-        61,
-        65
-      ],
-      "created_at": "2026-05-25T12:48:45.528372",
-      "markdown_sources_found": [
-        "Collected Works of C.G. Jung, Volume 12: Psychology and Alchemy"
-      ],
-      "source_citations_count": 3,
-      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Arnaldus_de_Villanova.jpg"
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Albertus_Magnus.jpg",
+      "influences": [
+        "Jabir ibn Hayyan",
+        "Aristotle"
+      ]
     },
     {
       "id": 99,
@@ -3760,7 +3471,11 @@
         "Alchemy, Jung, and Remedios Varo; Cultural Complexes and the Redemptive Power of the"
       ],
       "source_citations_count": 16,
-      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Meister_Eckhart.jpg"
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Meister_Eckhart.jpg",
+      "influences": [
+        "Thomas Aquinas",
+        "Plotinus"
+      ]
     },
     {
       "id": 100,
@@ -3786,7 +3501,72 @@
         "The Sacrificial Body and the Day of Doom: Alchemy and Apocalyptic Discourse in the Protestant Reformation"
       ],
       "source_citations_count": 2,
-      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Johann_Tauler.jpg"
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Johann_Tauler.jpg",
+      "influences": [
+        "Meister Eckhart"
+      ]
+    },
+    {
+      "id": 101,
+      "name": "Daniel Cramer",
+      "slug": "daniel-cramer",
+      "birth_year": 1568,
+      "death_year": 1637,
+      "nationality": "German",
+      "location": "Stettin (Szczecin), Pomerania",
+      "lat": 53.4289,
+      "lng": 14.553,
+      "primary_discipline": "Theologian, Emblematist",
+      "summary": "Daniel Cramer (1568-1637) was a German Lutheran theologian and pastor whose Emblemata Sacra (Frankfurt, 1624) produced forty theologically sophisticated sacred emblems that appropriated alchemical symbolism for Lutheran devotional purposes.",
+      "essay": "Daniel Cramer (1568-1637) was a German Lutheran theologian, pastor, and emblematist whose Emblemata Sacra (Emblemata Sacra Novi et Veteris Testamenti, Frankfurt, 1624) produced one of the most theologically sophisticated collections of sacred emblems of the seventeenth century. As pastor at the Marienkirche in Stettin (modern Szczecin) and later superintendent of Pomeranian churches, Cramer combined rigorous Lutheran orthodoxy with a deeply meditative piety that drew on the same devotional currents as the Rosicrucian movement without adopting its heterodox implications.\n\nThe Emblemata Sacra presents forty emblems organized around scriptural emblematic sequences, each combining a symbolic image with a biblical motto, verse, and interpretive commentary. Cramer's imagery draws heavily on alchemical symbolism -- the cross within the circle, the phoenix, the pelican feeding its young -- but reframes these as Christian devotional figures rather than philosophical-alchemical instruments. The collection thus occupies a distinctive position at the intersection of Lutheran emblem culture and Rosicrucian symbolic vocabulary, demonstrating how alchemical visual language could be appropriated for orthodox purposes.\n\nUrszula Szulakowska's analysis of Cramer situates him within the broader German Reformation emblem tradition that transformed alchemical imagery into instruments of Lutheran spirituality. The Emblemata Sacra was published in the same year as Daniel Stolcius's Viridarium Chymicum (1624), and both collections reflect the emblematic florescence of the years immediately following the Rosicrucian manifestos. Cramer's work differs from Stolcius's in its strictly biblical and theological orientation; where Stolcius catalogues the alchemical process, Cramer meditates on Christian redemption using alchemical figures as spiritual metaphors.\n\nThe historiographical significance of the Emblemata Sacra lies in its evidence for the permeation of alchemical visual culture into mainstream Lutheran devotional literature, a phenomenon that complicates simple divisions between 'religious' and 'alchemical' uses of emblematic symbolism. Cramer's forty emblems are among the most frequently reprinted and widely disseminated sacred emblems of the seventeenth century, indicating that his meditative appropriation of alchemical imagery resonated with a broad audience within Lutheran Germany.",
+      "scholars": [
+        "Szulakowska",
+        "Adams"
+      ],
+      "key_works": [
+        "Emblemata Sacra (1624)"
+      ],
+      "image_url": "",
+      "influences": [
+        "Lutheran Reform tradition",
+        "Rosicrucian symbolic vocabulary"
+      ],
+      "concepts": [],
+      "emblem_books_created": [
+        "Emblemata Sacra (1624)"
+      ]
+    },
+    {
+      "id": 102,
+      "name": "Daniel Stolcius de Stolcenberg",
+      "slug": "daniel-stolcius-de-stolcenberg",
+      "birth_year": 1600,
+      "death_year": 1660,
+      "nationality": "Bohemian",
+      "location": "Frankfurt am Main",
+      "lat": 50.1109,
+      "lng": 8.6821,
+      "primary_discipline": "Physician, Emblematist",
+      "summary": "Daniel Stolcius de Stolcenberg (c. 1600-c. 1660) was a Bohemian physician whose Viridarium Chymicum (Frankfurt, 1624) presented 107 alchemical emblems organized as a 'chemical garden', systematizing the Paracelsian alchemical visual tradition.",
+      "essay": "Daniel Stolcius de Stolcenberg (c. 1600-after 1644) was a Bohemian physician and emblematist whose Viridarium Chymicum (Chemical Garden, Frankfurt, 1624) constitutes one of the most comprehensive alchemical emblem collections of the seventeenth century. Drawing on copper plates from the Musaeum Hermeticum (1625) and other Paracelsian collections, Stolcius produced 107 emblems illustrating the stages and principles of alchemical transformation, accompanied by Latin verses in elegiac couplets that offered poetic meditations on each stage.\n\nThe Viridarium Chymicum is structurally organized as a botanical metaphor -- a 'chemical garden' in which alchemical processes are presented as natural growth and transformation -- reflecting the Paracelsian integration of botanical, agricultural, and chemical imagery. Stolcius studied medicine at Marburg and Frankfurt and appears to have practiced medicine in Bohemia after the completion of his emblem collection; his subsequent biography is obscure, partly because of disruptions caused by the Thirty Years War.\n\nLyndy Abraham's Dictionary of Alchemical Imagery provides detailed analysis of individual Viridarium emblems, tracing their visual sources and symbolic meanings within the broader alchemical tradition. De Jong's scholarship situates the collection within the post-Rosicrucian emblematic florescence of the 1620s, when the release of the Rosicrucian manifestos (1614-16) had stimulated intense interest in alchemical philosophy and its visual representation. The Viridarium Chymicum recycled copper plates from earlier publications, making it both an economic production and a systematic anthology of the alchemical visual tradition up to 1624.\n\nThe historiographical significance of Stolcius lies in his position as an anthologist and systematizer of alchemical visual culture rather than as an original philosopher. His collection preserves and transmits imagery from the Rosarium Philosophorum and other earlier sources that might otherwise be accessible only in rare editions, making the Viridarium Chymicum an important resource for understanding how alchemical imagery circulated and was standardized in the early seventeenth century. The collection's organization around natural growth metaphors reflects the Paracelsian spagyric understanding of nature as an alchemical process.",
+      "scholars": [
+        "Abraham",
+        "De Jong",
+        "Szulakowska"
+      ],
+      "key_works": [
+        "Viridarium Chymicum (1624)"
+      ],
+      "image_url": "",
+      "influences": [
+        "Paracelsus",
+        "Michael Maier",
+        "Rosicrucian emblem tradition"
+      ],
+      "concepts": [],
+      "emblem_books_created": [
+        "Viridarium Chymicum (1624)"
+      ]
     }
   ],
   "concepts": [
@@ -8534,7 +8314,7 @@
         22
       ],
       "figures": [
-        52
+        101
       ],
       "related_emblems": [],
       "authenticity": "confirmed",
@@ -8585,7 +8365,7 @@
         27
       ],
       "figures": [
-        52
+        101
       ],
       "related_emblems": [],
       "authenticity": "confirmed",
@@ -8636,7 +8416,7 @@
         26
       ],
       "figures": [
-        52
+        101
       ],
       "related_emblems": [],
       "authenticity": "confirmed",
@@ -8687,7 +8467,7 @@
         24
       ],
       "figures": [
-        52
+        101
       ],
       "related_emblems": [],
       "authenticity": "confirmed",
@@ -8738,7 +8518,7 @@
         25
       ],
       "figures": [
-        52
+        101
       ],
       "related_emblems": [],
       "authenticity": "confirmed",
@@ -8789,7 +8569,7 @@
         20
       ],
       "figures": [
-        52
+        101
       ],
       "related_emblems": [],
       "authenticity": "confirmed",
@@ -8840,7 +8620,7 @@
         17
       ],
       "figures": [
-        52
+        101
       ],
       "related_emblems": [],
       "authenticity": "confirmed",
@@ -8891,7 +8671,7 @@
         16
       ],
       "figures": [
-        52
+        101
       ],
       "related_emblems": [],
       "authenticity": "confirmed",
@@ -8942,7 +8722,7 @@
         21
       ],
       "figures": [
-        52
+        101
       ],
       "related_emblems": [],
       "authenticity": "confirmed",
@@ -8993,7 +8773,7 @@
         15
       ],
       "figures": [
-        52
+        101
       ],
       "related_emblems": [],
       "authenticity": "confirmed",
@@ -9044,7 +8824,7 @@
         18
       ],
       "figures": [
-        52
+        101
       ],
       "related_emblems": [],
       "authenticity": "confirmed",
@@ -9095,7 +8875,7 @@
         16
       ],
       "figures": [
-        52
+        101
       ],
       "related_emblems": [],
       "authenticity": "confirmed",
@@ -9146,7 +8926,7 @@
         11
       ],
       "figures": [
-        52
+        101
       ],
       "related_emblems": [],
       "authenticity": "confirmed",
@@ -9197,7 +8977,7 @@
         22
       ],
       "figures": [
-        52
+        101
       ],
       "related_emblems": [],
       "authenticity": "confirmed",
@@ -9248,7 +9028,7 @@
         25
       ],
       "figures": [
-        52
+        101
       ],
       "related_emblems": [],
       "authenticity": "confirmed",
@@ -9299,7 +9079,7 @@
         24
       ],
       "figures": [
-        52
+        101
       ],
       "related_emblems": [],
       "authenticity": "confirmed",
@@ -9350,7 +9130,7 @@
         21
       ],
       "figures": [
-        52
+        101
       ],
       "related_emblems": [],
       "authenticity": "confirmed",
@@ -9401,7 +9181,7 @@
         27
       ],
       "figures": [
-        52
+        101
       ],
       "related_emblems": [],
       "authenticity": "confirmed",
@@ -9452,7 +9232,7 @@
         26
       ],
       "figures": [
-        52
+        101
       ],
       "related_emblems": [],
       "authenticity": "confirmed",
@@ -9503,7 +9283,7 @@
         15
       ],
       "figures": [
-        52
+        101
       ],
       "related_emblems": [],
       "authenticity": "confirmed",
@@ -9554,7 +9334,7 @@
         20
       ],
       "figures": [
-        52
+        101
       ],
       "related_emblems": [],
       "authenticity": "confirmed",
@@ -9605,7 +9385,7 @@
         17
       ],
       "figures": [
-        52
+        101
       ],
       "related_emblems": [],
       "authenticity": "confirmed",
@@ -9656,7 +9436,7 @@
         18
       ],
       "figures": [
-        52
+        101
       ],
       "related_emblems": [],
       "authenticity": "confirmed",
@@ -9707,7 +9487,7 @@
         20
       ],
       "figures": [
-        52
+        101
       ],
       "related_emblems": [],
       "authenticity": "confirmed",
@@ -9758,7 +9538,7 @@
         22
       ],
       "figures": [
-        52
+        101
       ],
       "related_emblems": [],
       "authenticity": "confirmed",
@@ -9809,7 +9589,7 @@
         24
       ],
       "figures": [
-        52
+        101
       ],
       "related_emblems": [],
       "authenticity": "confirmed",
@@ -9860,7 +9640,7 @@
         19
       ],
       "figures": [
-        52
+        101
       ],
       "related_emblems": [],
       "authenticity": "confirmed",
@@ -9911,7 +9691,7 @@
         16
       ],
       "figures": [
-        52
+        101
       ],
       "related_emblems": [],
       "authenticity": "confirmed",
@@ -9962,7 +9742,7 @@
         22
       ],
       "figures": [
-        52
+        101
       ],
       "related_emblems": [],
       "authenticity": "confirmed",
@@ -10013,7 +9793,7 @@
         21
       ],
       "figures": [
-        52
+        101
       ],
       "related_emblems": [],
       "authenticity": "confirmed",
@@ -10064,7 +9844,7 @@
         20
       ],
       "figures": [
-        52
+        101
       ],
       "related_emblems": [],
       "authenticity": "confirmed",
@@ -10115,7 +9895,7 @@
         18
       ],
       "figures": [
-        52
+        101
       ],
       "related_emblems": [],
       "authenticity": "confirmed",
@@ -10166,7 +9946,7 @@
         26
       ],
       "figures": [
-        52
+        101
       ],
       "related_emblems": [],
       "authenticity": "confirmed",
@@ -10217,7 +9997,7 @@
         27
       ],
       "figures": [
-        52
+        101
       ],
       "related_emblems": [],
       "authenticity": "confirmed",
@@ -10268,7 +10048,7 @@
         25
       ],
       "figures": [
-        52
+        101
       ],
       "related_emblems": [],
       "authenticity": "confirmed",
@@ -10319,7 +10099,7 @@
         11
       ],
       "figures": [
-        52
+        101
       ],
       "related_emblems": [],
       "authenticity": "confirmed",
@@ -10370,7 +10150,7 @@
         27
       ],
       "figures": [
-        52
+        101
       ],
       "related_emblems": [],
       "authenticity": "confirmed",
@@ -10421,7 +10201,7 @@
         17
       ],
       "figures": [
-        52
+        101
       ],
       "related_emblems": [],
       "authenticity": "confirmed",
@@ -10472,7 +10252,7 @@
         20
       ],
       "figures": [
-        52
+        101
       ],
       "related_emblems": [],
       "authenticity": "confirmed",
@@ -10523,7 +10303,7 @@
         26
       ],
       "figures": [
-        52
+        101
       ],
       "related_emblems": [],
       "authenticity": "confirmed",
@@ -10574,7 +10354,7 @@
         18
       ],
       "figures": [
-        53
+        10
       ],
       "related_emblems": [],
       "authenticity": "confirmed",
@@ -10629,7 +10409,7 @@
         20
       ],
       "figures": [
-        53
+        10
       ],
       "related_emblems": [],
       "authenticity": "confirmed",
@@ -10684,7 +10464,7 @@
         21
       ],
       "figures": [
-        53
+        10
       ],
       "related_emblems": [],
       "authenticity": "confirmed",
@@ -10739,7 +10519,7 @@
         22
       ],
       "figures": [
-        53
+        10
       ],
       "related_emblems": [],
       "authenticity": "confirmed",
@@ -10794,7 +10574,7 @@
         23
       ],
       "figures": [
-        53
+        10
       ],
       "related_emblems": [],
       "authenticity": "confirmed",
@@ -10849,7 +10629,7 @@
         26
       ],
       "figures": [
-        53
+        10
       ],
       "related_emblems": [],
       "authenticity": "confirmed",
@@ -10904,7 +10684,7 @@
         27
       ],
       "figures": [
-        53
+        10
       ],
       "related_emblems": [],
       "authenticity": "confirmed",
@@ -10959,7 +10739,7 @@
         20
       ],
       "figures": [
-        53
+        10
       ],
       "related_emblems": [],
       "authenticity": "confirmed",
@@ -11014,7 +10794,7 @@
         15
       ],
       "figures": [
-        53
+        10
       ],
       "related_emblems": [],
       "authenticity": "confirmed",
@@ -11069,7 +10849,7 @@
         25
       ],
       "figures": [
-        53
+        10
       ],
       "related_emblems": [],
       "authenticity": "confirmed",
@@ -11124,7 +10904,7 @@
         27
       ],
       "figures": [
-        53
+        10
       ],
       "related_emblems": [],
       "authenticity": "confirmed",
@@ -11179,7 +10959,7 @@
         19
       ],
       "figures": [
-        53
+        10
       ],
       "related_emblems": [],
       "authenticity": "confirmed",
@@ -11234,7 +11014,7 @@
         16
       ],
       "figures": [
-        53
+        10
       ],
       "related_emblems": [],
       "authenticity": "confirmed",
@@ -11289,7 +11069,7 @@
         25
       ],
       "figures": [
-        53
+        10
       ],
       "related_emblems": [],
       "authenticity": "confirmed",
@@ -11344,7 +11124,7 @@
         26
       ],
       "figures": [
-        53
+        10
       ],
       "related_emblems": [],
       "authenticity": "confirmed",
@@ -11399,7 +11179,7 @@
         27
       ],
       "figures": [
-        53
+        10
       ],
       "related_emblems": [],
       "authenticity": "confirmed",
@@ -11454,7 +11234,7 @@
         17
       ],
       "figures": [
-        53
+        10
       ],
       "related_emblems": [],
       "authenticity": "confirmed",
@@ -11509,7 +11289,7 @@
         22
       ],
       "figures": [
-        53
+        10
       ],
       "related_emblems": [],
       "authenticity": "confirmed",
@@ -11564,7 +11344,7 @@
         21
       ],
       "figures": [
-        53
+        10
       ],
       "related_emblems": [],
       "authenticity": "confirmed",
@@ -11619,7 +11399,7 @@
         11
       ],
       "figures": [
-        53
+        10
       ],
       "related_emblems": [],
       "authenticity": "confirmed",
@@ -11674,7 +11454,7 @@
         27
       ],
       "figures": [
-        53
+        10
       ],
       "related_emblems": [],
       "authenticity": "confirmed",
@@ -11729,7 +11509,7 @@
         26
       ],
       "figures": [
-        53
+        10
       ],
       "related_emblems": [],
       "authenticity": "confirmed",
@@ -11784,7 +11564,7 @@
         24
       ],
       "figures": [
-        53
+        10
       ],
       "related_emblems": [],
       "authenticity": "confirmed",
@@ -11839,7 +11619,7 @@
         19
       ],
       "figures": [
-        53
+        10
       ],
       "related_emblems": [],
       "authenticity": "confirmed",
@@ -11894,7 +11674,7 @@
         15
       ],
       "figures": [
-        53
+        10
       ],
       "related_emblems": [],
       "authenticity": "confirmed",
@@ -11949,7 +11729,7 @@
         13
       ],
       "figures": [
-        53
+        10
       ],
       "related_emblems": [],
       "authenticity": "confirmed",
@@ -12004,7 +11784,7 @@
         17
       ],
       "figures": [
-        53
+        10
       ],
       "related_emblems": [],
       "authenticity": "confirmed",
@@ -12059,7 +11839,7 @@
         22
       ],
       "figures": [
-        53
+        10
       ],
       "related_emblems": [],
       "authenticity": "confirmed",
@@ -12114,7 +11894,7 @@
         18
       ],
       "figures": [
-        53
+        10
       ],
       "related_emblems": [],
       "authenticity": "confirmed",
@@ -12169,7 +11949,7 @@
         11
       ],
       "figures": [
-        53
+        10
       ],
       "related_emblems": [],
       "authenticity": "confirmed",
@@ -12224,7 +12004,7 @@
         16
       ],
       "figures": [
-        53
+        10
       ],
       "related_emblems": [],
       "authenticity": "confirmed",
@@ -12279,7 +12059,7 @@
         22
       ],
       "figures": [
-        53
+        10
       ],
       "related_emblems": [],
       "authenticity": "confirmed",
@@ -12334,7 +12114,7 @@
         17
       ],
       "figures": [
-        53
+        10
       ],
       "related_emblems": [],
       "authenticity": "confirmed",
@@ -12389,7 +12169,7 @@
         21
       ],
       "figures": [
-        53
+        10
       ],
       "related_emblems": [],
       "authenticity": "confirmed",
@@ -12444,7 +12224,7 @@
         19
       ],
       "figures": [
-        53
+        10
       ],
       "related_emblems": [],
       "authenticity": "confirmed",
@@ -12499,7 +12279,7 @@
         20
       ],
       "figures": [
-        53
+        10
       ],
       "related_emblems": [],
       "authenticity": "confirmed",
@@ -12554,7 +12334,7 @@
         18
       ],
       "figures": [
-        53
+        10
       ],
       "related_emblems": [],
       "authenticity": "confirmed",
@@ -12609,7 +12389,7 @@
         26
       ],
       "figures": [
-        53
+        10
       ],
       "related_emblems": [],
       "authenticity": "confirmed",
@@ -12664,7 +12444,7 @@
         27
       ],
       "figures": [
-        53
+        10
       ],
       "related_emblems": [],
       "authenticity": "confirmed",
@@ -12719,7 +12499,7 @@
         20
       ],
       "figures": [
-        53
+        10
       ],
       "related_emblems": [],
       "authenticity": "confirmed",
@@ -12774,7 +12554,7 @@
         18
       ],
       "figures": [
-        53
+        10
       ],
       "related_emblems": [],
       "authenticity": "confirmed",
@@ -12829,7 +12609,7 @@
         17
       ],
       "figures": [
-        53
+        10
       ],
       "related_emblems": [],
       "authenticity": "confirmed",
@@ -12884,7 +12664,7 @@
         16
       ],
       "figures": [
-        53
+        10
       ],
       "related_emblems": [],
       "authenticity": "confirmed",
@@ -12939,7 +12719,7 @@
         21
       ],
       "figures": [
-        53
+        10
       ],
       "related_emblems": [],
       "authenticity": "confirmed",
@@ -12994,7 +12774,7 @@
         19
       ],
       "figures": [
-        53
+        10
       ],
       "related_emblems": [],
       "authenticity": "confirmed",
@@ -13049,7 +12829,7 @@
         20
       ],
       "figures": [
-        53
+        10
       ],
       "related_emblems": [],
       "authenticity": "confirmed",
@@ -13104,7 +12884,7 @@
         18
       ],
       "figures": [
-        53
+        10
       ],
       "related_emblems": [],
       "authenticity": "confirmed",
@@ -13159,7 +12939,7 @@
         26
       ],
       "figures": [
-        53
+        10
       ],
       "related_emblems": [],
       "authenticity": "confirmed",
@@ -13214,7 +12994,7 @@
         27
       ],
       "figures": [
-        53
+        10
       ],
       "related_emblems": [],
       "authenticity": "confirmed",
@@ -13269,7 +13049,7 @@
         20
       ],
       "figures": [
-        53
+        10
       ],
       "related_emblems": [],
       "authenticity": "confirmed",
@@ -13324,7 +13104,7 @@
         15
       ],
       "figures": [
-        10
+        102
       ],
       "related_emblems": [],
       "authenticity": "confirmed",
@@ -13375,7 +13155,7 @@
         20
       ],
       "figures": [
-        10
+        102
       ],
       "related_emblems": [],
       "authenticity": "confirmed",
@@ -13426,7 +13206,7 @@
         16
       ],
       "figures": [
-        10
+        102
       ],
       "related_emblems": [],
       "authenticity": "confirmed",
@@ -13477,7 +13257,7 @@
         21
       ],
       "figures": [
-        10
+        102
       ],
       "related_emblems": [],
       "authenticity": "confirmed",
@@ -13529,7 +13309,7 @@
         18
       ],
       "figures": [
-        10
+        102
       ],
       "related_emblems": [],
       "authenticity": "confirmed",
@@ -13580,7 +13360,7 @@
         22
       ],
       "figures": [
-        10
+        102
       ],
       "related_emblems": [],
       "authenticity": "confirmed",
@@ -13631,7 +13411,7 @@
         27
       ],
       "figures": [
-        10
+        102
       ],
       "related_emblems": [],
       "authenticity": "confirmed",
@@ -13682,7 +13462,7 @@
         17
       ],
       "figures": [
-        10
+        102
       ],
       "related_emblems": [],
       "authenticity": "confirmed",
@@ -13733,7 +13513,7 @@
         19
       ],
       "figures": [
-        10
+        102
       ],
       "related_emblems": [],
       "authenticity": "confirmed",
@@ -13784,7 +13564,7 @@
         16
       ],
       "figures": [
-        10
+        102
       ],
       "related_emblems": [],
       "authenticity": "confirmed",
@@ -13835,7 +13615,7 @@
         18
       ],
       "figures": [
-        10
+        102
       ],
       "related_emblems": [],
       "authenticity": "confirmed",
@@ -13886,7 +13666,7 @@
         18
       ],
       "figures": [
-        10
+        102
       ],
       "related_emblems": [],
       "authenticity": "confirmed",
@@ -13937,7 +13717,7 @@
         20
       ],
       "figures": [
-        10
+        102
       ],
       "related_emblems": [],
       "authenticity": "confirmed",
@@ -13988,7 +13768,7 @@
         17
       ],
       "figures": [
-        10
+        102
       ],
       "related_emblems": [],
       "authenticity": "confirmed",
@@ -14039,7 +13819,7 @@
         20
       ],
       "figures": [
-        10
+        102
       ],
       "related_emblems": [],
       "authenticity": "confirmed",
@@ -14090,7 +13870,7 @@
         21
       ],
       "figures": [
-        10
+        102
       ],
       "related_emblems": [],
       "authenticity": "confirmed",
@@ -14141,7 +13921,7 @@
         24
       ],
       "figures": [
-        10
+        102
       ],
       "related_emblems": [],
       "authenticity": "confirmed",
@@ -14192,7 +13972,7 @@
         16
       ],
       "figures": [
-        10
+        102
       ],
       "related_emblems": [],
       "authenticity": "confirmed",
@@ -14243,7 +14023,7 @@
         26
       ],
       "figures": [
-        10
+        102
       ],
       "related_emblems": [],
       "authenticity": "confirmed",
@@ -14294,7 +14074,7 @@
         27
       ],
       "figures": [
-        10
+        102
       ],
       "related_emblems": [],
       "authenticity": "confirmed",
@@ -14345,7 +14125,7 @@
         19
       ],
       "figures": [
-        10
+        102
       ],
       "related_emblems": [],
       "authenticity": "confirmed",
@@ -14396,7 +14176,7 @@
         20
       ],
       "figures": [
-        10
+        102
       ],
       "related_emblems": [],
       "authenticity": "confirmed",
@@ -14447,7 +14227,7 @@
         11
       ],
       "figures": [
-        10
+        102
       ],
       "related_emblems": [],
       "authenticity": "confirmed",
@@ -14498,7 +14278,7 @@
         21
       ],
       "figures": [
-        10
+        102
       ],
       "related_emblems": [],
       "authenticity": "confirmed",
@@ -14549,7 +14329,7 @@
         18
       ],
       "figures": [
-        10
+        102
       ],
       "related_emblems": [],
       "authenticity": "confirmed",
@@ -14600,7 +14380,7 @@
         17
       ],
       "figures": [
-        10
+        102
       ],
       "related_emblems": [],
       "authenticity": "confirmed",
@@ -14651,7 +14431,7 @@
         15
       ],
       "figures": [
-        10
+        102
       ],
       "related_emblems": [],
       "authenticity": "confirmed",
@@ -14702,7 +14482,7 @@
         19
       ],
       "figures": [
-        10
+        102
       ],
       "related_emblems": [],
       "authenticity": "confirmed",
@@ -14753,7 +14533,7 @@
         20
       ],
       "figures": [
-        10
+        102
       ],
       "related_emblems": [],
       "authenticity": "confirmed",
@@ -14804,7 +14584,7 @@
         18
       ],
       "figures": [
-        10
+        102
       ],
       "related_emblems": [],
       "authenticity": "confirmed",
@@ -14855,7 +14635,7 @@
         22
       ],
       "figures": [
-        10
+        102
       ],
       "related_emblems": [],
       "authenticity": "confirmed",
@@ -14906,7 +14686,7 @@
         27
       ],
       "figures": [
-        10
+        102
       ],
       "related_emblems": [],
       "authenticity": "confirmed",
@@ -14957,7 +14737,7 @@
         26
       ],
       "figures": [
-        10
+        102
       ],
       "related_emblems": [],
       "authenticity": "confirmed",
@@ -15008,7 +14788,7 @@
         20
       ],
       "figures": [
-        10
+        102
       ],
       "related_emblems": [],
       "authenticity": "confirmed",
@@ -15059,7 +14839,7 @@
         17
       ],
       "figures": [
-        10
+        102
       ],
       "related_emblems": [],
       "authenticity": "confirmed",
@@ -15110,7 +14890,7 @@
         16
       ],
       "figures": [
-        10
+        102
       ],
       "related_emblems": [],
       "authenticity": "confirmed",
@@ -15161,7 +14941,7 @@
         21
       ],
       "figures": [
-        10
+        102
       ],
       "related_emblems": [],
       "authenticity": "confirmed",
@@ -15212,7 +14992,7 @@
         19
       ],
       "figures": [
-        10
+        102
       ],
       "related_emblems": [],
       "authenticity": "confirmed",
@@ -15263,7 +15043,7 @@
         18
       ],
       "figures": [
-        10
+        102
       ],
       "related_emblems": [],
       "authenticity": "confirmed",
@@ -15314,7 +15094,7 @@
         11
       ],
       "figures": [
-        10
+        102
       ],
       "related_emblems": [],
       "authenticity": "confirmed",
@@ -15365,7 +15145,7 @@
         22
       ],
       "figures": [
-        10
+        102
       ],
       "related_emblems": [],
       "authenticity": "confirmed",
@@ -15416,7 +15196,7 @@
         21
       ],
       "figures": [
-        10
+        102
       ],
       "related_emblems": [],
       "authenticity": "confirmed",
@@ -15467,7 +15247,7 @@
         27
       ],
       "figures": [
-        10
+        102
       ],
       "related_emblems": [],
       "authenticity": "confirmed",
@@ -15518,7 +15298,7 @@
         26
       ],
       "figures": [
-        10
+        102
       ],
       "related_emblems": [],
       "authenticity": "confirmed",
@@ -15569,7 +15349,7 @@
         20
       ],
       "figures": [
-        10
+        102
       ],
       "related_emblems": [],
       "authenticity": "confirmed",
