@@ -40,10 +40,12 @@ document.addEventListener('DOMContentLoaded', async () => {
         renderEmblemBooks();
 
         initializeMap();
+        renderTimeline();
         setupNavigation();
         setupModal();
         setupSearch();
         setupFilterListeners();
+        setupTimelineFilters();
     } catch (err) {
         console.error('Error loading data:', err);
         document.body.innerHTML =
@@ -200,8 +202,9 @@ function applyFiltersAndSort(section) {
 function renderGallery(section) {
     const items   = applyFiltersAndSort(section);
     const gallery = document.getElementById(`${section}-gallery`);
+    if (!gallery) return;
     const counter = document.getElementById(`${section}-count`);
-    const total   = allData[section].length;
+    const total   = (allData[section] || []).length;
 
     if (counter) {
         counter.textContent = items.length < total
@@ -409,10 +412,13 @@ function getEmblemTheme(emblem) {
 // ─── Modal system ─────────────────────────────────────────────────────────────
 
 function setupModal() {
-    document.getElementById('modal-close').addEventListener('click', closeModal);
-    document.getElementById('modal-back').addEventListener('click', modalBack);
-    document.getElementById('modal').addEventListener('click', e => {
-        if (e.target === document.getElementById('modal')) closeModal();
+    const closeBtn = document.getElementById('modal-close');
+    const backBtn  = document.getElementById('modal-back');
+    const overlay  = document.getElementById('modal');
+    if (closeBtn) closeBtn.addEventListener('click', closeModal);
+    if (backBtn)  backBtn.addEventListener('click', modalBack);
+    if (overlay)  overlay.addEventListener('click', e => {
+        if (e.target === overlay) closeModal();
     });
     document.addEventListener('keydown', e => {
         if (e.key === 'Escape') closeModal();
@@ -730,9 +736,11 @@ function capitalise(s) {
 // ─── Global search ────────────────────────────────────────────────────────────
 
 function setupSearch() {
-    const input   = document.getElementById('global-search');
-    const panel   = document.getElementById('search-results-panel');
+    const input    = document.getElementById('global-search');
+    const panel    = document.getElementById('search-results-panel');
     const clearBtn = document.getElementById('search-clear');
+
+    if (!input) return;
 
     let debounceTimer;
 
@@ -741,20 +749,15 @@ function setupSearch() {
         debounceTimer = setTimeout(() => runSearch(input.value.trim()), 200);
     });
 
-    clearBtn.addEventListener('click', () => {
+    if (clearBtn) clearBtn.addEventListener('click', () => {
         input.value = '';
-        panel.hidden = true;
-        panel.innerHTML = '';
+        if (panel) { panel.hidden = true; panel.innerHTML = ''; }
     });
 
-    // Close panel on outside click
     document.addEventListener('click', e => {
-        if (!e.target.closest('.search-bar-container')) {
-            panel.hidden = true;
-        }
+        if (panel && !e.target.closest('.search-bar-container')) panel.hidden = true;
     });
 
-    // Re-open on focus if there's a query
     input.addEventListener('focus', () => {
         if (input.value.trim().length >= 2) runSearch(input.value.trim());
     });
@@ -950,20 +953,19 @@ function initializeMap() {
         emblemGroup.addLayer(marker);
     });
 
-    // ── Learning centers ─────────────────────────────────────────
-    [
-        { name: 'Prague',     lat: 50.0755, lng: 14.4378, role: 'Alchemical center under Rudolf II' },
-        { name: 'Florence',   lat: 43.7696, lng: 11.2558, role: 'Renaissance Neoplatonism & hermetic philosophy' },
-        { name: 'Tübingen',   lat: 48.5216, lng: 9.0577,  role: 'Rosicrucian theological reform' },
-        { name: 'London',     lat: 51.5074, lng: -0.1278, role: 'English Rosicrucian & Masonic synthesis' },
-        { name: 'Amsterdam',  lat: 52.3676, lng: 4.9041,  role: 'Martinist and Theosophical center' },
-        { name: 'Paris',      lat: 48.8566, lng: 2.3522,  role: 'French illuminism and alchemy' }
-    ].forEach(c => {
+    // ── Learning centers (from map_centers in data) ───────────────
+    const centers = allData.map_centers || [];
+    centers.forEach(c => {
         const marker = L.circleMarker([c.lat, c.lng], {
-            radius: 8, fillColor: '#f39c12', color: '#d68910',
-            weight: 2, opacity: 1, fillOpacity: 0.8
+            radius: 10, fillColor: '#f39c12', color: '#d68910',
+            weight: 2, opacity: 1, fillOpacity: 0.82
         });
-        marker.bindPopup(`<strong>${c.name}</strong><br><em>${c.role}</em>`);
+        const popupHtml = `<strong style="font-size:1rem;color:#8b4513">${escHtml(c.name)}</strong>
+            <br><em style="font-size:0.8em;color:#5c3d2e">${escHtml(c.role)}</em>
+            <br><span style="font-size:0.82em;color:#444;line-height:1.5;display:block;margin-top:0.4rem">${escHtml(truncate(c.description || '', 200))}</span>`;
+        marker.bindPopup(popupHtml, { maxWidth: 300 });
+        marker.bindTooltip(`<strong>${escHtml(c.name)}</strong>`, { sticky: true, className: 'map-tooltip' });
+        marker.on('click', () => showMapSidePanel('center', c));
         centerGroup.addLayer(marker);
     });
 
@@ -1010,28 +1012,84 @@ function showMapSidePanel(section, item) {
 
     let html = '';
     if (section === 'figures') {
-        html = `<div class="map-side-item">
-                    <p><strong>Life Span:</strong> ${item.birth_year || '?'}–${item.death_year || '?'}</p>
-                    <p><strong>Nationality:</strong> ${item.nationality || 'Unknown'}</p>
-                    <p><strong>Location:</strong> ${item.location || 'Unknown'}</p>
-                    ${item.primary_discipline ? `<p><strong>Discipline:</strong> ${escHtml(item.primary_discipline)}</p>` : ''}
-                    <p class="map-side-summary">${paragraphify(item.summary || '')}</p>
-                    ${item.embodied_practice ? `<h4>Practice</h4><p>${item.embodied_practice}</p>` : ''}
-                </div>`;
+        html = `<p><strong>Life Span:</strong> ${item.birth_year || '?'}–${item.death_year || '?'}</p>
+                <p><strong>Nationality:</strong> ${escHtml(item.nationality || 'Unknown')}</p>
+                <p><strong>Location:</strong> ${escHtml(item.location || 'Unknown')}</p>
+                ${item.primary_discipline ? `<p><strong>Discipline:</strong> ${escHtml(item.primary_discipline)}</p>` : ''}
+                <p class="map-side-summary">${paragraphify(item.summary || '')}</p>`;
     } else if (section === 'texts') {
-        html = `<div class="map-side-item">
-                    <p><strong>Year:</strong> ${item.year || '?'}</p>
-                    <p><strong>Language:</strong> ${item.language || 'Unknown'}</p>
-                    <p><strong>Location:</strong> ${item.location || 'Unknown'}</p>
-                    <p class="map-side-summary">${paragraphify(item.summary || '')}</p>
-                    ${item.historical_context ? `<h4>Historical Context</h4><p>${item.historical_context}</p>` : ''}
-                </div>`;
+        html = `<p><strong>Year:</strong> ${item.year || '?'}</p>
+                <p><strong>Language:</strong> ${escHtml(item.language || 'Unknown')}</p>
+                <p><strong>Location:</strong> ${escHtml(item.location || 'Unknown')}</p>
+                <p class="map-side-summary">${paragraphify(item.summary || '')}</p>
+                ${item.historical_context ? `<p><em>${escHtml(item.historical_context)}</em></p>` : ''}`;
+    } else if (section === 'center') {
+        html = `<p><em style="color:var(--burnt-sienna)">${escHtml(item.role || '')}</em></p>
+                <p class="map-side-summary">${paragraphify(item.description || '')}</p>`;
     }
 
     content.innerHTML = html;
     panel.classList.add('open');
 
-    document.getElementById('map-side-close').addEventListener('click', () => {
-        panel.classList.remove('open');
+    // Re-attach close listener cleanly
+    const closeBtn = document.getElementById('map-side-close');
+    if (closeBtn) {
+        closeBtn.onclick = () => panel.classList.remove('open');
+    }
+}
+
+// ─── Timeline ─────────────────────────────────────────────────────────────────
+
+function renderTimeline(activeCategory = 'all') {
+    const container = document.getElementById('timeline-container');
+    if (!container) return;
+
+    const events = (allData.timeline || []).slice().sort((a, b) => a.year - b.year);
+
+    container.innerHTML = '';
+
+    events.forEach(ev => {
+        const visible = activeCategory === 'all' || ev.category === activeCategory;
+        const div = document.createElement('div');
+        div.className = `tl-event ${ev.category}${visible ? '' : ' hidden'}`;
+
+        const relatedFigs = (ev.related_figures || []).filter(Boolean);
+        const relatedTexts = (ev.related_texts || []).filter(Boolean);
+        const relatedHtml = (relatedFigs.length || relatedTexts.length)
+            ? `<div class="tl-related">
+                ${relatedFigs.length ? `<strong>Figures:</strong> ${escHtml(relatedFigs.join(', '))}` : ''}
+                ${relatedFigs.length && relatedTexts.length ? ' &nbsp;·&nbsp; ' : ''}
+                ${relatedTexts.length ? `<strong>Texts:</strong> ${escHtml(relatedTexts.join(', '))}` : ''}
+               </div>`
+            : '';
+
+        const badgeLabels = { historical: 'Historical', text: 'Publication', figure: 'Figure', discovery: 'Discovery' };
+
+        div.innerHTML = `
+            <span class="tl-dot ${ev.category}"></span>
+            <div class="tl-card">
+                <div class="tl-header">
+                    <span class="tl-year">${ev.year}</span>
+                    <span class="tl-title">${escHtml(ev.title)}</span>
+                    <span class="tl-badge ${ev.category}">${badgeLabels[ev.category] || ev.category}</span>
+                </div>
+                <div class="tl-desc">${escHtml(ev.description)}</div>
+                ${relatedHtml}
+            </div>`;
+
+        container.appendChild(div);
+    });
+}
+
+function setupTimelineFilters() {
+    document.querySelectorAll('.tl-filter').forEach(btn => {
+        btn.addEventListener('click', () => {
+            document.querySelectorAll('.tl-filter').forEach(b => b.classList.remove('active'));
+            btn.classList.add('active');
+            const cat = btn.dataset.category;
+            document.querySelectorAll('.tl-event').forEach(ev => {
+                ev.classList.toggle('hidden', cat !== 'all' && !ev.classList.contains(cat));
+            });
+        });
     });
 }

@@ -15,13 +15,17 @@ def load_mapping_specifications():
     concept_emblem_spec = None
     figure_emblem_spec = None
 
-    # Try loading concept-emblem spec
-    concept_spec_path = Path("docs/CONCEPT_EMBLEM_LINKS_SPECIFICATION.json")
+    # Try loading comprehensive concept-emblem spec (all 67 concepts)
+    concept_spec_path = Path("docs/COMPREHENSIVE_CONCEPT_EMBLEM_MAPPINGS.json")
+    if not concept_spec_path.exists():
+        # Fall back to original spec if comprehensive not available
+        concept_spec_path = Path("docs/CONCEPT_EMBLEM_LINKS_SPECIFICATION.json")
+
     if concept_spec_path.exists():
         with open(concept_spec_path, 'r', encoding='utf-8') as f:
             concept_emblem_spec = json.load(f)
     else:
-        print(f"Warning: {concept_spec_path} not found")
+        print(f"Warning: No concept-emblem spec found")
 
     # Try loading figure-emblem spec
     figure_spec_path = Path("docs/FIGURE_EMBLEM_GENEALOGY_SPECIFICATION.json")

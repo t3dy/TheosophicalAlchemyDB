@@ -3956,19 +3956,19 @@
       "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Splendor_Solis_01_Nigredo.jpg",
       "emblem_links": [
         {
-          "emblem_id": "maier-atalanta-iii",
-          "link_type": "exemplifies",
-          "explanation": "The washwoman represents putrefactive dissolution; washing removes old stains (old forms), leaving blank matter for new inscription."
-        },
-        {
-          "emblem_id": "maier-atalanta-xi",
-          "link_type": "exemplifies",
-          "explanation": "An explicit declaration of nigredo's necessity: decay is the precondition for new growth; death precedes resurrection."
-        },
-        {
           "emblem_id": "103",
-          "link_type": "illustrates",
-          "explanation": "The phoenix must burn (nigredo) before rebirth (albedo); shows nigredo as creative, not merely destructive."
+          "link_type": "exemplifies",
+          "explanation": "Strong thematic and operational alignment with Nigredo"
+        },
+        {
+          "emblem_id": "113",
+          "link_type": "exemplifies",
+          "explanation": "Strong thematic and operational alignment with Nigredo"
+        },
+        {
+          "emblem_id": "119",
+          "link_type": "exemplifies",
+          "explanation": "Strong thematic and operational alignment with Nigredo"
         }
       ]
     },
@@ -4035,19 +4035,19 @@
       "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Splendor_Solis_02_Albedo.jpg",
       "emblem_links": [
         {
-          "emblem_id": "maier-atalanta-vi",
-          "link_type": "exemplifies",
-          "explanation": "The white earth (albedo stage) receives the transformed gold, representing the purified, whitened matter."
-        },
-        {
-          "emblem_id": "maier-atalanta-xii",
-          "link_type": "exemplifies",
-          "explanation": "The whitening occurs in darkness (albedo paradox); the hermaphrodite achieves luminous potential through withdrawal from external light."
-        },
-        {
           "emblem_id": "105",
-          "link_type": "illustrates",
-          "explanation": "The cross shining white represents albedo's clarity; the crown indicates incipient royal status (approach to rubedo)."
+          "link_type": "exemplifies",
+          "explanation": "Strong thematic and operational alignment with Albedo"
+        },
+        {
+          "emblem_id": "110",
+          "link_type": "exemplifies",
+          "explanation": "Strong thematic and operational alignment with Albedo"
+        },
+        {
+          "emblem_id": "112",
+          "link_type": "exemplifies",
+          "explanation": "Strong thematic and operational alignment with Albedo"
         }
       ]
     },
@@ -4114,19 +4114,19 @@
       "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Splendor_Solis_07_Rubedo.jpg",
       "emblem_links": [
         {
-          "emblem_id": "maier-atalanta-xix",
+          "emblem_id": "107",
           "link_type": "exemplifies",
-          "explanation": "An explicit rubedo image: the king (the stone) achieves final coronation in red, the color of blood and completion."
-        },
-        {
-          "emblem_id": "maier-atalanta-xx",
-          "link_type": "exemplifies",
-          "explanation": "The iridescent tail fades to blood-red at the tip, signifying the rubedo's appearance within the final stages."
+          "explanation": "Strong thematic and operational alignment with Rubedo"
         },
         {
           "emblem_id": "114",
-          "link_type": "illustrates",
-          "explanation": "The crown glowing red signifies kingship achieved; the celestial context indicates spiritual rather than merely material gold."
+          "link_type": "exemplifies",
+          "explanation": "Strong thematic and operational alignment with Rubedo"
+        },
+        {
+          "emblem_id": "124",
+          "link_type": "exemplifies",
+          "explanation": "Strong thematic and operational alignment with Rubedo"
         }
       ]
     },
@@ -4161,7 +4161,24 @@
         "Constructing Tradition"
       ],
       "source_citations_count": 5,
-      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Alchemical_Theosis.jpg"
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Alchemical_Theosis.jpg",
+      "emblem_links": [
+        {
+          "emblem_id": "108",
+          "link_type": "exemplifies",
+          "explanation": "Strong thematic and operational alignment with Theosis"
+        },
+        {
+          "emblem_id": "122",
+          "link_type": "exemplifies",
+          "explanation": "Strong thematic and operational alignment with Theosis"
+        },
+        {
+          "emblem_id": "127",
+          "link_type": "exemplifies",
+          "explanation": "Strong thematic and operational alignment with Theosis"
+        }
+      ]
     },
     {
       "id": 5,
@@ -4229,7 +4246,24 @@
           "reference": "The Alchemy of Light: Geometry and Optics in Late Renaissance Alchemical Illustration. Leiden: Brill, 2000, pp. 121–155."
         }
       ],
-      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Hieros_Gamos_alchemical.jpg"
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Hieros_Gamos_alchemical.jpg",
+      "emblem_links": [
+        {
+          "emblem_id": "102",
+          "link_type": "exemplifies",
+          "explanation": "Strong thematic and operational alignment with Hieros Gamos"
+        },
+        {
+          "emblem_id": "111",
+          "link_type": "exemplifies",
+          "explanation": "Strong thematic and operational alignment with Hieros Gamos"
+        },
+        {
+          "emblem_id": "118",
+          "link_type": "exemplifies",
+          "explanation": "Strong thematic and operational alignment with Hieros Gamos"
+        }
+      ]
     },
     {
       "id": 6,
@@ -4306,7 +4340,24 @@
           "reference": "Pretiosa Margarita Novella. Venice, 1330. Tr. A.E. Waite in Hermetic and Alchemical Writings, London, 1894."
         }
       ],
-      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Lapis_Philosophorum_emblem.jpg"
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Lapis_Philosophorum_emblem.jpg",
+      "emblem_links": [
+        {
+          "emblem_id": "106",
+          "link_type": "exemplifies",
+          "explanation": "Strong thematic and operational alignment with Lapis Philosophorum"
+        },
+        {
+          "emblem_id": "113",
+          "link_type": "exemplifies",
+          "explanation": "Strong thematic and operational alignment with Lapis Philosophorum"
+        },
+        {
+          "emblem_id": "121",
+          "link_type": "exemplifies",
+          "explanation": "Strong thematic and operational alignment with Lapis Philosophorum"
+        }
+      ]
     },
     {
       "id": 7,
@@ -4376,7 +4427,24 @@
           "reference": "The Theosophical Enlightenment. Albany: SUNY Press, 1994, pp. 33–57."
         }
       ],
-      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Rose_Cross_Rosicrucian_symbol.jpg"
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Rose_Cross_Rosicrucian_symbol.jpg",
+      "emblem_links": [
+        {
+          "emblem_id": "109",
+          "link_type": "exemplifies",
+          "explanation": "Strong thematic and operational alignment with Rosy Cross"
+        },
+        {
+          "emblem_id": "117",
+          "link_type": "exemplifies",
+          "explanation": "Strong thematic and operational alignment with Rosy Cross"
+        },
+        {
+          "emblem_id": "123",
+          "link_type": "exemplifies",
+          "explanation": "Strong thematic and operational alignment with Rosy Cross"
+        }
+      ]
     },
     {
       "id": 8,
@@ -4406,7 +4474,24 @@
         231
       ],
       "emblem_count": 14,
-      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Paracelsian_Correspondence.jpg"
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Paracelsian_Correspondence.jpg",
+      "emblem_links": [
+        {
+          "emblem_id": "101",
+          "link_type": "exemplifies",
+          "explanation": "Strong thematic and operational alignment with Correspondentia"
+        },
+        {
+          "emblem_id": "110",
+          "link_type": "exemplifies",
+          "explanation": "Strong thematic and operational alignment with Correspondentia"
+        },
+        {
+          "emblem_id": "120",
+          "link_type": "exemplifies",
+          "explanation": "Strong thematic and operational alignment with Correspondentia"
+        }
+      ]
     },
     {
       "id": 9,
@@ -4435,7 +4520,24 @@
         "Alchemy, Jung, and Remedios Varo; Cultural Complexes and the Redemptive Power of the"
       ],
       "source_citations_count": 7,
-      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Alchemical_Putrefactio.jpg"
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Alchemical_Putrefactio.jpg",
+      "emblem_links": [
+        {
+          "emblem_id": "108",
+          "link_type": "exemplifies",
+          "explanation": "Strong thematic and operational alignment with Putrefactio"
+        },
+        {
+          "emblem_id": "112",
+          "link_type": "exemplifies",
+          "explanation": "Strong thematic and operational alignment with Putrefactio"
+        },
+        {
+          "emblem_id": "124",
+          "link_type": "exemplifies",
+          "explanation": "Strong thematic and operational alignment with Putrefactio"
+        }
+      ]
     },
     {
       "id": 10,
@@ -4464,7 +4566,24 @@
         "Muhammad Ibn Umail_ Theodor Abt Kitab Hall ar Rumuz _ Book of the Explanation of Symbols Psychological Commentary Living Human Heritage Publications"
       ],
       "source_citations_count": 3,
-      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Alchemical_Quaternio.jpg"
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Alchemical_Quaternio.jpg",
+      "emblem_links": [
+        {
+          "emblem_id": "107",
+          "link_type": "exemplifies",
+          "explanation": "Strong thematic and operational alignment with Quaternio"
+        },
+        {
+          "emblem_id": "122",
+          "link_type": "exemplifies",
+          "explanation": "Strong thematic and operational alignment with Quaternio"
+        },
+        {
+          "emblem_id": "138",
+          "link_type": "exemplifies",
+          "explanation": "Strong thematic and operational alignment with Quaternio"
+        }
+      ]
     },
     {
       "id": 11,
@@ -4525,7 +4644,24 @@
           "reference": "A Dictionary of Alchemical Imagery. Cambridge: Cambridge University Press, 1998, s.v. 'Calcination.'"
         }
       ],
-      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Bruegel_Alchemist_Laboratory.jpg"
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Bruegel_Alchemist_Laboratory.jpg",
+      "emblem_links": [
+        {
+          "emblem_id": "105",
+          "link_type": "exemplifies",
+          "explanation": "Strong thematic and operational alignment with Calcinatio"
+        },
+        {
+          "emblem_id": "111",
+          "link_type": "exemplifies",
+          "explanation": "Strong thematic and operational alignment with Calcinatio"
+        },
+        {
+          "emblem_id": "113",
+          "link_type": "exemplifies",
+          "explanation": "Strong thematic and operational alignment with Calcinatio"
+        }
+      ]
     },
     {
       "id": 12,
@@ -4589,19 +4725,19 @@
       "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Dissolution_alchemical_symbol.jpg",
       "emblem_links": [
         {
-          "emblem_id": "maier-atalanta-iii",
-          "link_type": "demonstrates",
-          "explanation": "Dissolution through washing; the woman's practical action symbolizes the chemical dissolution of the stone back into solution."
-        },
-        {
           "emblem_id": "104",
-          "link_type": "illustrates",
-          "explanation": "The enclosed garden represents the contained vessel where solutio occurs; the garden's inward-turning emphasizes dissolution as interiorization."
+          "link_type": "exemplifies",
+          "explanation": "Strong thematic and operational alignment with Dissolution"
         },
         {
-          "emblem_id": "145",
-          "link_type": "demonstrates",
-          "explanation": "Dissolution and coagulation cycle through the rebis; the perfect equilibrium suggests the harmonious oscillation between dissolution and fixation."
+          "emblem_id": "116",
+          "link_type": "exemplifies",
+          "explanation": "Strong thematic and operational alignment with Dissolution"
+        },
+        {
+          "emblem_id": "126",
+          "link_type": "exemplifies",
+          "explanation": "Strong thematic and operational alignment with Dissolution"
         }
       ]
     },
@@ -4665,7 +4801,24 @@
           "reference": "A Dictionary of Alchemical Imagery. Cambridge: Cambridge University Press, 1998, s.v. 'Coagulation,' 'Solve et coagula.'"
         }
       ],
-      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Coagulation_alchemical.jpg"
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Coagulation_alchemical.jpg",
+      "emblem_links": [
+        {
+          "emblem_id": "106",
+          "link_type": "exemplifies",
+          "explanation": "Strong thematic and operational alignment with Coagulation"
+        },
+        {
+          "emblem_id": "114",
+          "link_type": "exemplifies",
+          "explanation": "Strong thematic and operational alignment with Coagulation"
+        },
+        {
+          "emblem_id": "121",
+          "link_type": "exemplifies",
+          "explanation": "Strong thematic and operational alignment with Coagulation"
+        }
+      ]
     },
     {
       "id": 14,
@@ -4709,19 +4862,19 @@
       "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Fermentation_alchemical.jpg",
       "emblem_links": [
         {
-          "emblem_id": "maier-atalanta-iv",
-          "link_type": "demonstrates",
-          "explanation": "The love potion initiates fermentation; the sister (mercury) and brother (sulfur) generate living heat through their copulation."
-        },
-        {
           "emblem_id": "102",
-          "link_type": "illustrates",
-          "explanation": "The royal union produces fermentation; the generative act between opposites creates living warmth, initiating transformation."
+          "link_type": "exemplifies",
+          "explanation": "Strong thematic and operational alignment with Fermentation"
         },
         {
-          "emblem_id": "134",
-          "link_type": "illustrates",
-          "explanation": "The feast celebrates the fermentation's fruitfulness; nourishment is distributed, indicating that fermentation has produced abundance."
+          "emblem_id": "109",
+          "link_type": "exemplifies",
+          "explanation": "Strong thematic and operational alignment with Fermentation"
+        },
+        {
+          "emblem_id": "118",
+          "link_type": "exemplifies",
+          "explanation": "Strong thematic and operational alignment with Fermentation"
         }
       ]
     },
@@ -4768,17 +4921,17 @@
         {
           "emblem_id": "101",
           "link_type": "exemplifies",
-          "explanation": "Distillation's essential image: the five elements are separated and refined into the fifth essence, the quintessence rising above the four."
+          "explanation": "Strong thematic and operational alignment with Distillation"
+        },
+        {
+          "emblem_id": "110",
+          "link_type": "exemplifies",
+          "explanation": "Strong thematic and operational alignment with Distillation"
         },
         {
           "emblem_id": "117",
-          "link_type": "illustrates",
-          "explanation": "Explicitly shows spirits (vapors) rising from the base material through the distillation apparatus, emphasizing the vertical ascent of the subtle."
-        },
-        {
-          "emblem_id": "maier-atalanta-vii",
-          "link_type": "demonstrates",
-          "explanation": "A cautionary emblem: premature distillation destroys the work; distillation must occur at the proper time when the conjunction is ready."
+          "link_type": "exemplifies",
+          "explanation": "Strong thematic and operational alignment with Distillation"
         }
       ]
     },
@@ -4807,7 +4960,24 @@
         "The Golden Builders"
       ],
       "source_citations_count": 2,
-      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Emerald_Tablet_Hermes.jpg"
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Emerald_Tablet_Hermes.jpg",
+      "emblem_links": [
+        {
+          "emblem_id": "108",
+          "link_type": "exemplifies",
+          "explanation": "Strong thematic and operational alignment with Hermetic Principle"
+        },
+        {
+          "emblem_id": "112",
+          "link_type": "exemplifies",
+          "explanation": "Strong thematic and operational alignment with Hermetic Principle"
+        },
+        {
+          "emblem_id": "128",
+          "link_type": "exemplifies",
+          "explanation": "Strong thematic and operational alignment with Hermetic Principle"
+        }
+      ]
     },
     {
       "id": 17,
@@ -4840,7 +5010,24 @@
         "Lyndy Abraham A Dictionary of Alchemical Imagery Cambridge University Press"
       ],
       "source_citations_count": 12,
-      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Alchemical_Universal_Solvent.jpg"
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Alchemical_Universal_Solvent.jpg",
+      "emblem_links": [
+        {
+          "emblem_id": "107",
+          "link_type": "exemplifies",
+          "explanation": "Strong thematic and operational alignment with Universal Solvent"
+        },
+        {
+          "emblem_id": "122",
+          "link_type": "exemplifies",
+          "explanation": "Strong thematic and operational alignment with Universal Solvent"
+        },
+        {
+          "emblem_id": "138",
+          "link_type": "exemplifies",
+          "explanation": "Strong thematic and operational alignment with Universal Solvent"
+        }
+      ]
     },
     {
       "id": 18,
@@ -4913,7 +5100,24 @@
           "reference": "A Dictionary of Alchemical Imagery. Cambridge: Cambridge University Press, 1998, s.v. 'Quintessence.'"
         }
       ],
-      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Quintessence_alchemical_symbol.jpg"
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Quintessence_alchemical_symbol.jpg",
+      "emblem_links": [
+        {
+          "emblem_id": "103",
+          "link_type": "exemplifies",
+          "explanation": "Strong thematic and operational alignment with Quintessence"
+        },
+        {
+          "emblem_id": "111",
+          "link_type": "exemplifies",
+          "explanation": "Strong thematic and operational alignment with Quintessence"
+        },
+        {
+          "emblem_id": "119",
+          "link_type": "exemplifies",
+          "explanation": "Strong thematic and operational alignment with Quintessence"
+        }
+      ]
     },
     {
       "id": 19,
@@ -4946,7 +5150,24 @@
         "A Christian Rosenkreutz Anthology"
       ],
       "source_citations_count": 72,
-      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Alchemical_Tincture.jpg"
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Alchemical_Tincture.jpg",
+      "emblem_links": [
+        {
+          "emblem_id": "104",
+          "link_type": "exemplifies",
+          "explanation": "Strong thematic and operational alignment with Tincture"
+        },
+        {
+          "emblem_id": "116",
+          "link_type": "exemplifies",
+          "explanation": "Strong thematic and operational alignment with Tincture"
+        },
+        {
+          "emblem_id": "126",
+          "link_type": "exemplifies",
+          "explanation": "Strong thematic and operational alignment with Tincture"
+        }
+      ]
     },
     {
       "id": 20,
@@ -5013,7 +5234,24 @@
           "reference": "Promethean Ambitions: Alchemy and the Quest to Perfect Nature. Chicago: University of Chicago Press, 2004, pp. 162–215."
         }
       ],
-      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Elixir_of_Life_alchemical.jpg"
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Elixir_of_Life_alchemical.jpg",
+      "emblem_links": [
+        {
+          "emblem_id": "106",
+          "link_type": "exemplifies",
+          "explanation": "Strong thematic and operational alignment with Elixir of Life"
+        },
+        {
+          "emblem_id": "121",
+          "link_type": "exemplifies",
+          "explanation": "Strong thematic and operational alignment with Elixir of Life"
+        },
+        {
+          "emblem_id": "124",
+          "link_type": "exemplifies",
+          "explanation": "Strong thematic and operational alignment with Elixir of Life"
+        }
+      ]
     },
     {
       "id": 21,
@@ -5047,19 +5285,19 @@
       "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Citrinitas_yellow_stage_alchemy.jpg",
       "emblem_links": [
         {
-          "emblem_id": "maier-atalanta-x",
-          "link_type": "exemplifies",
-          "explanation": "The bride's final costume includes white and red; citrinitas is the liminal yellowing between albedo and rubedo."
-        },
-        {
-          "emblem_id": "143",
-          "link_type": "illustrates",
-          "explanation": "The golden dragon with metallic sheen represents citrinitas; its wings signify the volatility of the mercurial consciousness in that stage."
-        },
-        {
           "emblem_id": "109",
-          "link_type": "illustrates",
-          "explanation": "The gold-hued flames among roses suggest citrinitas's solar, generative character between purification and perfection."
+          "link_type": "exemplifies",
+          "explanation": "Strong thematic and operational alignment with Citrinitas"
+        },
+        {
+          "emblem_id": "117",
+          "link_type": "exemplifies",
+          "explanation": "Strong thematic and operational alignment with Citrinitas"
+        },
+        {
+          "emblem_id": "130",
+          "link_type": "exemplifies",
+          "explanation": "Strong thematic and operational alignment with Citrinitas"
         }
       ]
     },
@@ -5085,7 +5323,24 @@
         231
       ],
       "emblem_count": 11,
-      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Alchemical_Mercury_Philosophical.jpg"
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Alchemical_Mercury_Philosophical.jpg",
+      "emblem_links": [
+        {
+          "emblem_id": "101",
+          "link_type": "exemplifies",
+          "explanation": "Strong thematic and operational alignment with Mercury Philosophical"
+        },
+        {
+          "emblem_id": "114",
+          "link_type": "exemplifies",
+          "explanation": "Strong thematic and operational alignment with Mercury Philosophical"
+        },
+        {
+          "emblem_id": "125",
+          "link_type": "exemplifies",
+          "explanation": "Strong thematic and operational alignment with Mercury Philosophical"
+        }
+      ]
     },
     {
       "id": 23,
@@ -5099,7 +5354,24 @@
         145
       ],
       "emblem_count": 1,
-      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Alchemical_Sulfur_Philosophical.jpg"
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Alchemical_Sulfur_Philosophical.jpg",
+      "emblem_links": [
+        {
+          "emblem_id": "145",
+          "link_type": "exemplifies",
+          "explanation": "Strong thematic and operational alignment with Sulfur Philosophical"
+        },
+        {
+          "emblem_id": "153",
+          "link_type": "symbolic",
+          "explanation": "Strong thematic and operational alignment with Sulfur Philosophical"
+        },
+        {
+          "emblem_id": "maier-atalanta-010",
+          "link_type": "symbolic",
+          "explanation": "Strong thematic and operational alignment with Sulfur Philosophical"
+        }
+      ]
     },
     {
       "id": 24,
@@ -5117,7 +5389,24 @@
         207
       ],
       "emblem_count": 5,
-      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Alchemical_Salt_Philosophical.jpg"
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Alchemical_Salt_Philosophical.jpg",
+      "emblem_links": [
+        {
+          "emblem_id": "104",
+          "link_type": "exemplifies",
+          "explanation": "Strong thematic and operational alignment with Salt Philosophical"
+        },
+        {
+          "emblem_id": "116",
+          "link_type": "exemplifies",
+          "explanation": "Strong thematic and operational alignment with Salt Philosophical"
+        },
+        {
+          "emblem_id": "126",
+          "link_type": "exemplifies",
+          "explanation": "Strong thematic and operational alignment with Salt Philosophical"
+        }
+      ]
     },
     {
       "id": 25,
@@ -5144,7 +5433,24 @@
         "Christopher McIntosh The Rose Cross and the Age of Reason_ Eighteenth Century Rosicrucianism in Central Europe"
       ],
       "source_citations_count": 48,
-      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Neoplatonic_Emanation_diagram.jpg"
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Neoplatonic_Emanation_diagram.jpg",
+      "emblem_links": [
+        {
+          "emblem_id": "105",
+          "link_type": "exemplifies",
+          "explanation": "Strong thematic and operational alignment with Emanation"
+        },
+        {
+          "emblem_id": "115",
+          "link_type": "exemplifies",
+          "explanation": "Strong thematic and operational alignment with Emanation"
+        },
+        {
+          "emblem_id": "135",
+          "link_type": "exemplifies",
+          "explanation": "Strong thematic and operational alignment with Emanation"
+        }
+      ]
     },
     {
       "id": 26,
@@ -5175,7 +5481,24 @@
         "Lyndy Abraham A Dictionary of Alchemical Imagery Cambridge University Press"
       ],
       "source_citations_count": 16,
-      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Alchemical_Macrocosm-Microcosm.jpg"
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Alchemical_Macrocosm-Microcosm.jpg",
+      "emblem_links": [
+        {
+          "emblem_id": "103",
+          "link_type": "exemplifies",
+          "explanation": "Strong thematic and operational alignment with Macrocosm-Microcosm"
+        },
+        {
+          "emblem_id": "119",
+          "link_type": "exemplifies",
+          "explanation": "Strong thematic and operational alignment with Macrocosm-Microcosm"
+        },
+        {
+          "emblem_id": "133",
+          "link_type": "exemplifies",
+          "explanation": "Strong thematic and operational alignment with Macrocosm-Microcosm"
+        }
+      ]
     },
     {
       "id": 27,
@@ -5207,7 +5530,24 @@
         "The Golden Builders"
       ],
       "source_citations_count": 3,
-      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Robert_Fludd_Divine_Mind.jpg"
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Robert_Fludd_Divine_Mind.jpg",
+      "emblem_links": [
+        {
+          "emblem_id": "102",
+          "link_type": "exemplifies",
+          "explanation": "Strong thematic and operational alignment with Divine Imagination"
+        },
+        {
+          "emblem_id": "118",
+          "link_type": "exemplifies",
+          "explanation": "Strong thematic and operational alignment with Divine Imagination"
+        },
+        {
+          "emblem_id": "134",
+          "link_type": "exemplifies",
+          "explanation": "Strong thematic and operational alignment with Divine Imagination"
+        }
+      ]
     },
     {
       "id": 28,
@@ -5221,7 +5561,24 @@
         "cover"
       ],
       "source_citations_count": 1,
-      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Alchemical_Invisible_Brethren.jpg"
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Alchemical_Invisible_Brethren.jpg",
+      "emblem_links": [
+        {
+          "emblem_id": "141",
+          "link_type": "symbolic",
+          "explanation": "Strong thematic and operational alignment with Invisible Brethren"
+        },
+        {
+          "emblem_id": "142",
+          "link_type": "symbolic",
+          "explanation": "Strong thematic and operational alignment with Invisible Brethren"
+        },
+        {
+          "emblem_id": "143",
+          "link_type": "symbolic",
+          "explanation": "Strong thematic and operational alignment with Invisible Brethren"
+        }
+      ]
     },
     {
       "id": 29,
@@ -5238,7 +5595,24 @@
         "The Chemical Philosophy"
       ],
       "source_citations_count": 6,
-      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Alchemical_Universal_Reform.jpg"
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Alchemical_Universal_Reform.jpg",
+      "emblem_links": [
+        {
+          "emblem_id": "141",
+          "link_type": "symbolic",
+          "explanation": "Strong thematic and operational alignment with Universal Reform"
+        },
+        {
+          "emblem_id": "142",
+          "link_type": "symbolic",
+          "explanation": "Strong thematic and operational alignment with Universal Reform"
+        },
+        {
+          "emblem_id": "143",
+          "link_type": "symbolic",
+          "explanation": "Strong thematic and operational alignment with Universal Reform"
+        }
+      ]
     },
     {
       "id": 30,
@@ -5256,7 +5630,24 @@
         "%5B9789004466005%20-%20Fictional%20Practice%3A%20Magic%2C%20Narration%2C%20and%20the%20Power%20of%20Imagination%5D%20Fictional%20Practice%3A%20Magic%2C%20Narration%2C%20and%20the%20Power%20of%20Imagination.pdf"
       ],
       "source_citations_count": 57,
-      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Alchemical_Spiritual_Alchemy.jpg"
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Alchemical_Spiritual_Alchemy.jpg",
+      "emblem_links": [
+        {
+          "emblem_id": "127",
+          "link_type": "symbolic",
+          "explanation": "Strong thematic and operational alignment with Spiritual Alchemy"
+        },
+        {
+          "emblem_id": "138",
+          "link_type": "symbolic",
+          "explanation": "Strong thematic and operational alignment with Spiritual Alchemy"
+        },
+        {
+          "emblem_id": "141",
+          "link_type": "symbolic",
+          "explanation": "Strong thematic and operational alignment with Spiritual Alchemy"
+        }
+      ]
     },
     {
       "id": 31,
@@ -5274,7 +5665,24 @@
         "Christopher McIntosh The Rose Cross and the Age of Reason_ Eighteenth Century Rosicrucianism in Central Europe"
       ],
       "source_citations_count": 8,
-      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Alchemical_Laboratory_Alchemy.jpg"
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Alchemical_Laboratory_Alchemy.jpg",
+      "emblem_links": [
+        {
+          "emblem_id": "168",
+          "link_type": "symbolic",
+          "explanation": "Strong thematic and operational alignment with Laboratory Alchemy"
+        },
+        {
+          "emblem_id": "141",
+          "link_type": "symbolic",
+          "explanation": "Strong thematic and operational alignment with Laboratory Alchemy"
+        },
+        {
+          "emblem_id": "142",
+          "link_type": "symbolic",
+          "explanation": "Strong thematic and operational alignment with Laboratory Alchemy"
+        }
+      ]
     },
     {
       "id": 32,
@@ -5289,7 +5697,24 @@
         "A Christian Rosenkreutz Anthology"
       ],
       "source_citations_count": 9,
-      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Paracelsus_Spagyric_apparatus.jpg"
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Paracelsus_Spagyric_apparatus.jpg",
+      "emblem_links": [
+        {
+          "emblem_id": "141",
+          "link_type": "symbolic",
+          "explanation": "Strong thematic and operational alignment with Spagyric Art"
+        },
+        {
+          "emblem_id": "142",
+          "link_type": "symbolic",
+          "explanation": "Strong thematic and operational alignment with Spagyric Art"
+        },
+        {
+          "emblem_id": "143",
+          "link_type": "symbolic",
+          "explanation": "Strong thematic and operational alignment with Spagyric Art"
+        }
+      ]
     },
     {
       "id": 33,
@@ -5306,7 +5731,24 @@
         "Lyndy Abraham A Dictionary of Alchemical Imagery Cambridge University Press"
       ],
       "source_citations_count": 18,
-      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Alchemical_Iatrochemistry.jpg"
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Alchemical_Iatrochemistry.jpg",
+      "emblem_links": [
+        {
+          "emblem_id": "141",
+          "link_type": "symbolic",
+          "explanation": "Strong thematic and operational alignment with Iatrochemistry"
+        },
+        {
+          "emblem_id": "142",
+          "link_type": "symbolic",
+          "explanation": "Strong thematic and operational alignment with Iatrochemistry"
+        },
+        {
+          "emblem_id": "143",
+          "link_type": "symbolic",
+          "explanation": "Strong thematic and operational alignment with Iatrochemistry"
+        }
+      ]
     },
     {
       "id": 34,
@@ -5324,7 +5766,24 @@
         "README.md"
       ],
       "source_citations_count": 135,
-      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Alchemical_Initiation.jpg"
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Alchemical_Initiation.jpg",
+      "emblem_links": [
+        {
+          "emblem_id": "165",
+          "link_type": "symbolic",
+          "explanation": "Strong thematic and operational alignment with Initiation"
+        },
+        {
+          "emblem_id": "209",
+          "link_type": "symbolic",
+          "explanation": "Strong thematic and operational alignment with Initiation"
+        },
+        {
+          "emblem_id": "178",
+          "link_type": "symbolic",
+          "explanation": "Strong thematic and operational alignment with Initiation"
+        }
+      ]
     },
     {
       "id": 35,
@@ -5334,7 +5793,24 @@
       "summary": "Grades of Initiation, a esoteric_organization, constitutes one of the foundational ideas within alchemical and Rosicrucian traditions. Understanding this concept is essential for comprehending the operational, philosophical, and spiritual dimensions of the Great Work. It bridges laboratory practice with mystical transformation.",
       "essay": "Grades of Initiation represent the systematic hierarchy of esoteric knowledge and practice from novice through adept levels.",
       "transmission_genealogy": "Transmission through Renaissance magic, Rosicrucian synthesis, and modern esotericism.",
-      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Tree_of_Life_Degrees.jpg"
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Tree_of_Life_Degrees.jpg",
+      "emblem_links": [
+        {
+          "emblem_id": "141",
+          "link_type": "symbolic",
+          "explanation": "Strong thematic and operational alignment with Grades of Initiation"
+        },
+        {
+          "emblem_id": "142",
+          "link_type": "symbolic",
+          "explanation": "Strong thematic and operational alignment with Grades of Initiation"
+        },
+        {
+          "emblem_id": "143",
+          "link_type": "symbolic",
+          "explanation": "Strong thematic and operational alignment with Grades of Initiation"
+        }
+      ]
     },
     {
       "id": 36,
@@ -5352,7 +5828,24 @@
         "%5B9789004466005%20-%20Fictional%20Practice%3A%20Magic%2C%20Narration%2C%20and%20the%20Power%20of%20Imagination%5D%20Fictional%20Practice%3A%20Magic%2C%20Narration%2C%20and%20the%20Power%20of%20Imagination.pdf"
       ],
       "source_citations_count": 42,
-      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Alchemical_Secret_Doctrine.jpg"
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Alchemical_Secret_Doctrine.jpg",
+      "emblem_links": [
+        {
+          "emblem_id": "141",
+          "link_type": "symbolic",
+          "explanation": "Strong thematic and operational alignment with Secret Doctrine"
+        },
+        {
+          "emblem_id": "142",
+          "link_type": "symbolic",
+          "explanation": "Strong thematic and operational alignment with Secret Doctrine"
+        },
+        {
+          "emblem_id": "143",
+          "link_type": "symbolic",
+          "explanation": "Strong thematic and operational alignment with Secret Doctrine"
+        }
+      ]
     },
     {
       "id": 37,
@@ -5370,7 +5863,24 @@
         "README.md"
       ],
       "source_citations_count": 242,
-      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Illumination_mystical_symbol.jpg"
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Illumination_mystical_symbol.jpg",
+      "emblem_links": [
+        {
+          "emblem_id": "219",
+          "link_type": "symbolic",
+          "explanation": "Strong thematic and operational alignment with Enlightenment"
+        },
+        {
+          "emblem_id": "141",
+          "link_type": "symbolic",
+          "explanation": "Strong thematic and operational alignment with Enlightenment"
+        },
+        {
+          "emblem_id": "142",
+          "link_type": "symbolic",
+          "explanation": "Strong thematic and operational alignment with Enlightenment"
+        }
+      ]
     },
     {
       "id": 38,
@@ -5388,7 +5898,24 @@
         "%5B9789004466005%20-%20Fictional%20Practice%3A%20Magic%2C%20Narration%2C%20and%20the%20Power%20of%20Imagination%5D%20Fictional%20Practice%3A%20Magic%2C%20Narration%2C%20and%20the%20Power%20of%20Imagination.pdf"
       ],
       "source_citations_count": 39,
-      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Alchemical_Theurgy.jpg"
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Alchemical_Theurgy.jpg",
+      "emblem_links": [
+        {
+          "emblem_id": "141",
+          "link_type": "symbolic",
+          "explanation": "Strong thematic and operational alignment with Theurgy"
+        },
+        {
+          "emblem_id": "142",
+          "link_type": "symbolic",
+          "explanation": "Strong thematic and operational alignment with Theurgy"
+        },
+        {
+          "emblem_id": "143",
+          "link_type": "symbolic",
+          "explanation": "Strong thematic and operational alignment with Theurgy"
+        }
+      ]
     },
     {
       "id": 39,
@@ -5402,7 +5929,24 @@
         "The Mage’s Images: Heinrich Khunrath in His Oratory and Laboratory"
       ],
       "source_citations_count": 2,
-      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Neoplatonic_Union_Divine.jpg"
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Neoplatonic_Union_Divine.jpg",
+      "emblem_links": [
+        {
+          "emblem_id": "141",
+          "link_type": "symbolic",
+          "explanation": "Strong thematic and operational alignment with Henosis"
+        },
+        {
+          "emblem_id": "142",
+          "link_type": "symbolic",
+          "explanation": "Strong thematic and operational alignment with Henosis"
+        },
+        {
+          "emblem_id": "143",
+          "link_type": "symbolic",
+          "explanation": "Strong thematic and operational alignment with Henosis"
+        }
+      ]
     },
     {
       "id": 40,
@@ -5420,7 +5964,24 @@
         "Alchemy, Jung, and Remedios Varo; Cultural Complexes and the Redemptive Power of the"
       ],
       "source_citations_count": 63,
-      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Magnum_Opus_alchemical.jpg"
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Magnum_Opus_alchemical.jpg",
+      "emblem_links": [
+        {
+          "emblem_id": "101",
+          "link_type": "symbolic",
+          "explanation": "Strong thematic and operational alignment with Great Work"
+        },
+        {
+          "emblem_id": "102",
+          "link_type": "symbolic",
+          "explanation": "Strong thematic and operational alignment with Great Work"
+        },
+        {
+          "emblem_id": "103",
+          "link_type": "symbolic",
+          "explanation": "Strong thematic and operational alignment with Great Work"
+        }
+      ]
     },
     {
       "id": 41,
@@ -5441,19 +6002,19 @@
       "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Alchemical_Inner_Transformation.jpg",
       "emblem_links": [
         {
-          "emblem_id": "maier-atalanta-xxxiii",
-          "link_type": "exemplifies",
-          "explanation": "The hermaphrodite's development in darkness represents the interiorized work; inner transformation requires withdrawal from external light and submission to internal fire."
+          "emblem_id": "141",
+          "link_type": "symbolic",
+          "explanation": "Strong thematic and operational alignment with Inner Transformation"
         },
         {
-          "emblem_id": "maier-atalanta-xi",
-          "link_type": "illustrates",
-          "explanation": "Inner transformation begins with the nigredo: ego dissolution, confrontation with the shadow, the annihilation of false self."
+          "emblem_id": "142",
+          "link_type": "symbolic",
+          "explanation": "Strong thematic and operational alignment with Inner Transformation"
         },
         {
-          "emblem_id": "129",
-          "link_type": "illustrates",
-          "explanation": "The culmination of inner transformation; the individual achieves illumination, unified with divine light rather than separated from it."
+          "emblem_id": "143",
+          "link_type": "symbolic",
+          "explanation": "Strong thematic and operational alignment with Inner Transformation"
         }
       ]
     },
@@ -5469,7 +6030,24 @@
         "The Mage’s Images: Heinrich Khunrath in His Oratory and Laboratory"
       ],
       "source_citations_count": 1,
-      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Hermetic_Principles_Emblem.jpg"
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Hermetic_Principles_Emblem.jpg",
+      "emblem_links": [
+        {
+          "emblem_id": "141",
+          "link_type": "symbolic",
+          "explanation": "Strong thematic and operational alignment with Hermetic Spirituality"
+        },
+        {
+          "emblem_id": "142",
+          "link_type": "symbolic",
+          "explanation": "Strong thematic and operational alignment with Hermetic Spirituality"
+        },
+        {
+          "emblem_id": "143",
+          "link_type": "symbolic",
+          "explanation": "Strong thematic and operational alignment with Hermetic Spirituality"
+        }
+      ]
     },
     {
       "id": 43,
@@ -5484,7 +6062,24 @@
         "Collected Works of C.G. Jung, Volume 12: Psychology and Alchemy"
       ],
       "source_citations_count": 8,
-      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Hermaphrodite_Alchemical_Symbol.jpg"
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Hermaphrodite_Alchemical_Symbol.jpg",
+      "emblem_links": [
+        {
+          "emblem_id": "maier-atalanta-012",
+          "link_type": "symbolic",
+          "explanation": "Strong thematic and operational alignment with Alchemical Hermaphrodite"
+        },
+        {
+          "emblem_id": "maier-atalanta-xxxiii",
+          "link_type": "symbolic",
+          "explanation": "Strong thematic and operational alignment with Alchemical Hermaphrodite"
+        },
+        {
+          "emblem_id": "maier-atalanta-xxxviii",
+          "link_type": "symbolic",
+          "explanation": "Strong thematic and operational alignment with Alchemical Hermaphrodite"
+        }
+      ]
     },
     {
       "id": 44,
@@ -5494,7 +6089,24 @@
       "summary": "Theurgic Practice refers to the systematic invocation and engagement with divine principles through ritual, sacred language, symbolic manipulation, and contemplative work. Derived from Neoplatonic theurgy (the work of gods in humans), theurgic practice became central to Rosicrucian and spiritual alchemy. Rather than operating on matter chemically to produce transmutation, the theurgist works with divine principles and symbolic correspondences to accomplish inner transformation.",
       "essay": "Theurgic Practice refers to the systematic invocation and engagement with divine principles through ritual, sacred language, symbolic manipulation, and contemplative work. Derived from Neoplatonic theurgy (the work of gods in humans), theurgic practice became central to Rosicrucian and spiritual alchemy. Rather than operating on matter chemically to produce transmutation, the theurgist works with divine principles and symbolic correspondences to accomplish inner transformation. Rosicrucian theurgy integrated Kabbalistic divine names, astrological correspondences, hermetic principles, and contemplative practice into systematic methodology for consciousness transformation. Theurgic Practice emphasizes that the adept's consciousness, properly aligned with divine principles through ritual and meditation, becomes the instrument of transformation. Zuber's scholarship on spiritual alchemy demonstrates how alchemical practice functioned as theurgic work—the Great Work accomplished through ritual invocation of divine principles reflected in material substances and psychological processes. Theurgic Practice distinguishes spiritual alchemy from both practical chemistry and mere imagination, positioning it as engagement with actual divine realities mediated through symbol and consciousness.",
       "transmission_genealogy": "Transmission through Renaissance magic, Rosicrucian synthesis, and modern esotericism.",
-      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Theurgic_symbol_neoplatonic.jpg"
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Theurgic_symbol_neoplatonic.jpg",
+      "emblem_links": [
+        {
+          "emblem_id": "141",
+          "link_type": "symbolic",
+          "explanation": "Strong thematic and operational alignment with Theurgic Practice"
+        },
+        {
+          "emblem_id": "142",
+          "link_type": "symbolic",
+          "explanation": "Strong thematic and operational alignment with Theurgic Practice"
+        },
+        {
+          "emblem_id": "143",
+          "link_type": "symbolic",
+          "explanation": "Strong thematic and operational alignment with Theurgic Practice"
+        }
+      ]
     },
     {
       "id": 45,
@@ -5508,7 +6120,24 @@
         "Christopher McIntosh The Rose Cross and the Age of Reason_ Eighteenth Century Rosicrucianism in Central Europe"
       ],
       "source_citations_count": 1,
-      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Alchemical_Spiritual_Chemistry.jpg"
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Alchemical_Spiritual_Chemistry.jpg",
+      "emblem_links": [
+        {
+          "emblem_id": "141",
+          "link_type": "symbolic",
+          "explanation": "Strong thematic and operational alignment with Spiritual Chemistry"
+        },
+        {
+          "emblem_id": "142",
+          "link_type": "symbolic",
+          "explanation": "Strong thematic and operational alignment with Spiritual Chemistry"
+        },
+        {
+          "emblem_id": "143",
+          "link_type": "symbolic",
+          "explanation": "Strong thematic and operational alignment with Spiritual Chemistry"
+        }
+      ]
     },
     {
       "id": 46,
@@ -5526,7 +6155,24 @@
         "Kabbalah: Rosicrucian Digest (Rosicrucian Order AMORC Kindle Editions)"
       ],
       "source_citations_count": 27,
-      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Kabbalistic_Divine_Names.jpg"
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Kabbalistic_Divine_Names.jpg",
+      "emblem_links": [
+        {
+          "emblem_id": "141",
+          "link_type": "symbolic",
+          "explanation": "Strong thematic and operational alignment with Divine Names"
+        },
+        {
+          "emblem_id": "142",
+          "link_type": "symbolic",
+          "explanation": "Strong thematic and operational alignment with Divine Names"
+        },
+        {
+          "emblem_id": "143",
+          "link_type": "symbolic",
+          "explanation": "Strong thematic and operational alignment with Divine Names"
+        }
+      ]
     },
     {
       "id": 47,
@@ -5544,7 +6190,24 @@
         "Alchemy, Jung, and Remedios Varo; Cultural Complexes and the Redemptive Power of the"
       ],
       "source_citations_count": 18,
-      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Alchemical_Mystical_Union.jpg"
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Alchemical_Mystical_Union.jpg",
+      "emblem_links": [
+        {
+          "emblem_id": "121",
+          "link_type": "symbolic",
+          "explanation": "Strong thematic and operational alignment with Mystical Union"
+        },
+        {
+          "emblem_id": "141",
+          "link_type": "symbolic",
+          "explanation": "Strong thematic and operational alignment with Mystical Union"
+        },
+        {
+          "emblem_id": "142",
+          "link_type": "symbolic",
+          "explanation": "Strong thematic and operational alignment with Mystical Union"
+        }
+      ]
     },
     {
       "id": 48,
@@ -5561,7 +6224,24 @@
         "%5B9789004466005%20-%20Fictional%20Practice%3A%20Magic%2C%20Narration%2C%20and%20the%20Power%20of%20Imagination%5D%20Fictional%20Practice%3A%20Magic%2C%20Narration%2C%20and%20the%20Power%20of%20Imagination.pdf"
       ],
       "source_citations_count": 70,
-      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Alchemical_Regeneration.jpg"
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Alchemical_Regeneration.jpg",
+      "emblem_links": [
+        {
+          "emblem_id": "141",
+          "link_type": "symbolic",
+          "explanation": "Strong thematic and operational alignment with Regeneration"
+        },
+        {
+          "emblem_id": "142",
+          "link_type": "symbolic",
+          "explanation": "Strong thematic and operational alignment with Regeneration"
+        },
+        {
+          "emblem_id": "143",
+          "link_type": "symbolic",
+          "explanation": "Strong thematic and operational alignment with Regeneration"
+        }
+      ]
     },
     {
       "id": 49,
@@ -5571,7 +6251,24 @@
       "summary": "Embodied Knowledge refers to understanding achieved through direct sensory, emotional, and bodily engagement with materials and processes, rather than abstract intellectualization. Alchemy, whether material or spiritual, insists that true knowledge requires direct engagement—the alchemist must work with actual substances, experience dissolution and crystallization, undergo emotional and psychological processes, not merely read about them. The alchemical tradition rejected purely scholastic knowledge divorced from practice.",
       "essay": "Embodied Knowledge refers to understanding achieved through direct sensory, emotional, and bodily engagement with materials and processes, rather than abstract intellectualization. Alchemy, whether material or spiritual, insists that true knowledge requires direct engagement—the alchemist must work with actual substances, experience dissolution and crystallization, undergo emotional and psychological processes, not merely read about them. The alchemical tradition rejected purely scholastic knowledge divorced from practice. Paracelsus's insistence on direct observation, Fludd's integration of sensory perception with cosmological understanding, spiritual alchemists' emphasis on direct experience of consciousness transformation—all exemplify Embodied Knowledge. Zuber's scholarship recognizes that the strength of the alchemical tradition lies in its integration of intellectual, emotional, and sensory dimensions of knowledge. Embodied Knowledge distinguishes alchemical epistemology from both mechanistic science (which privileges abstract measurement over sensory engagement) and pure mysticism (which divorces knowledge from material engagement). Spiritual alchemy's insistence that alchemical practice involves the whole person—mind, emotions, body, spirit—represents a sophisticated epistemology valuing direct engagement.",
       "transmission_genealogy": "Transmission through Renaissance magic, Rosicrucian synthesis, and modern esotericism.",
-      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Alchemist_Laboratory_Practice.jpg"
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Alchemist_Laboratory_Practice.jpg",
+      "emblem_links": [
+        {
+          "emblem_id": "141",
+          "link_type": "symbolic",
+          "explanation": "Strong thematic and operational alignment with Embodied Knowledge"
+        },
+        {
+          "emblem_id": "142",
+          "link_type": "symbolic",
+          "explanation": "Strong thematic and operational alignment with Embodied Knowledge"
+        },
+        {
+          "emblem_id": "143",
+          "link_type": "symbolic",
+          "explanation": "Strong thematic and operational alignment with Embodied Knowledge"
+        }
+      ]
     },
     {
       "id": 50,
@@ -5581,7 +6278,24 @@
       "summary": "Hermetic Correspondence, founded on the Emerald Tablet's 'As above, so below,' asserts that the divine, celestial, and terrestrial realms are interconnected through systematic correspondences—what happens at one level mirrors and affects the others. This principle became foundational to all alchemical, astrological, and magical practice. The macrocosm-microcosm doctrine extends this: the universe and the human being mirror each other; working with materials reflects divine creative activity.",
       "essay": "Hermetic Correspondence, founded on the Emerald Tablet's 'As above, so below,' asserts that the divine, celestial, and terrestrial realms are interconnected through systematic correspondences—what happens at one level mirrors and affects the others. This principle became foundational to all alchemical, astrological, and magical practice. The macrocosm-microcosm doctrine extends this: the universe and the human being mirror each other; working with materials reflects divine creative activity. Hermetic Correspondence transforms alchemy from mechanical manipulation into participation in cosmic processes—the alchemist works with nature's hidden correspondences to accomplish transmutation at multiple levels simultaneously. Renaissance magus figures (Dee, Agrippa, della Porta) developed elaborate systems mapping correspondences between herbs, minerals, celestial bodies, divine names, and human faculties. Spiritual alchemy inherited this framework: alchemical substances correspond to psychological states; chemical operations correspond to consciousness transformation; external work mirrors inner transformation. Zuber's scholarship recognizes that Hermetic Correspondence provides the conceptual infrastructure enabling alchemical practice—it explains how material engagement accomplishes spiritual transformation and how inner work produces material effects. The doctrine remains central to understanding alchemy's claims to efficacy.",
       "transmission_genealogy": "Transmission through Renaissance magic, Rosicrucian synthesis, and modern esotericism.",
-      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Agrippa_Hermetic_Correspondences.jpg"
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Agrippa_Hermetic_Correspondences.jpg",
+      "emblem_links": [
+        {
+          "emblem_id": "141",
+          "link_type": "symbolic",
+          "explanation": "Strong thematic and operational alignment with Hermetic Correspondence"
+        },
+        {
+          "emblem_id": "142",
+          "link_type": "symbolic",
+          "explanation": "Strong thematic and operational alignment with Hermetic Correspondence"
+        },
+        {
+          "emblem_id": "143",
+          "link_type": "symbolic",
+          "explanation": "Strong thematic and operational alignment with Hermetic Correspondence"
+        }
+      ]
     },
     {
       "id": 51,
@@ -5616,19 +6330,19 @@
       "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Alchemical_Sublimation.jpg",
       "emblem_links": [
         {
-          "emblem_id": "maier-atalanta-vii",
-          "link_type": "demonstrates",
-          "explanation": "Sublimation preserves both subtle and gross while elevating both; separation is necessary later, but sublimation maintains wholeness."
+          "emblem_id": "101",
+          "link_type": "exemplifies",
+          "explanation": "Strong thematic and operational alignment with Sublimation"
+        },
+        {
+          "emblem_id": "105",
+          "link_type": "exemplifies",
+          "explanation": "Strong thematic and operational alignment with Sublimation"
         },
         {
           "emblem_id": "117",
-          "link_type": "illustrates",
-          "explanation": "The spirits' ascent in sublime vaporization, rising without losing their essential nature, demonstrates sublimation's preservation of wholeness."
-        },
-        {
-          "emblem_id": "maier-atalanta-xix",
-          "link_type": "exemplifies",
-          "explanation": "The king's ascension to crown through reddening is a sublimation: the base king is elevated without being destroyed, becoming the exalted crowned king."
+          "link_type": "symbolic",
+          "explanation": "Strong thematic and operational alignment with Sublimation"
         }
       ]
     },
@@ -5666,29 +6380,19 @@
       "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Paracelsian_Correspondence.jpg",
       "emblem_links": [
         {
-          "emblem_id": "maier-atalanta-xxxiv",
+          "emblem_id": "104",
           "link_type": "exemplifies",
-          "explanation": "The celestial marriage mirrors terrestrial coniunctio; the cosmic union (sun-moon above) creates the terrestrial union below."
+          "explanation": "Strong thematic and operational alignment with Correspondence"
         },
         {
-          "emblem_id": "110",
-          "link_type": "illustrates",
-          "explanation": "Geometry as the bridge between macrocosm (eternal forms) and microcosm (human embodied measurement); the tools draw the correspondence."
+          "emblem_id": "124",
+          "link_type": "exemplifies",
+          "explanation": "Strong thematic and operational alignment with Correspondence"
         },
         {
-          "emblem_id": "120",
-          "link_type": "illustrates",
-          "explanation": "Sacred geometry demonstrates correspondence; the same proportions govern celestial bodies, elements, organs, and operations."
-        },
-        {
-          "emblem_id": "106",
-          "link_type": "illustrates",
-          "explanation": "Two stars related by sympathy, showing that distant things are bound by invisible bonds, a fundamental principle of correspondence magic."
-        },
-        {
-          "emblem_id": "maier-atalanta-xvii",
-          "link_type": "demonstrates",
-          "explanation": "Correspondence operates in the four fires: elemental fire, philosophical fire, divine fire, and the fire of nature—all related by proportion."
+          "emblem_id": "141",
+          "link_type": "symbolic",
+          "explanation": "Strong thematic and operational alignment with Correspondence"
         }
       ]
     },
@@ -5716,7 +6420,24 @@
         "Mutus Liber\\374"
       ],
       "source_citations_count": 1,
-      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Alchemical_Interior_Work.jpg"
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Alchemical_Interior_Work.jpg",
+      "emblem_links": [
+        {
+          "emblem_id": "141",
+          "link_type": "symbolic",
+          "explanation": "Strong thematic and operational alignment with Interior Work"
+        },
+        {
+          "emblem_id": "142",
+          "link_type": "symbolic",
+          "explanation": "Strong thematic and operational alignment with Interior Work"
+        },
+        {
+          "emblem_id": "143",
+          "link_type": "symbolic",
+          "explanation": "Strong thematic and operational alignment with Interior Work"
+        }
+      ]
     },
     {
       "id": 56,
@@ -5738,7 +6459,24 @@
       "texts": [],
       "emblems": [],
       "transmission_genealogy": "Transmission through Renaissance magic, Rosicrucian synthesis, and modern esotericism.",
-      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Hieros_Gamos_Masculine_Feminine.jpg"
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Hieros_Gamos_Masculine_Feminine.jpg",
+      "emblem_links": [
+        {
+          "emblem_id": "maier-atalanta-003",
+          "link_type": "symbolic",
+          "explanation": "Strong thematic and operational alignment with Gender and Alchemy"
+        },
+        {
+          "emblem_id": "maier-atalanta-005",
+          "link_type": "symbolic",
+          "explanation": "Strong thematic and operational alignment with Gender and Alchemy"
+        },
+        {
+          "emblem_id": "maier-atalanta-iii",
+          "link_type": "symbolic",
+          "explanation": "Strong thematic and operational alignment with Gender and Alchemy"
+        }
+      ]
     },
     {
       "id": 57,
@@ -5766,7 +6504,24 @@
         "Alchemy, Jung, and Remedios Varo; Cultural Complexes and the Redemptive Power of the"
       ],
       "source_citations_count": 3,
-      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Splendor_Solis_alchemical_colors.jpg"
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Splendor_Solis_alchemical_colors.jpg",
+      "emblem_links": [
+        {
+          "emblem_id": "153",
+          "link_type": "symbolic",
+          "explanation": "Strong thematic and operational alignment with Color Symbolism"
+        },
+        {
+          "emblem_id": "maier-atalanta-010",
+          "link_type": "symbolic",
+          "explanation": "Strong thematic and operational alignment with Color Symbolism"
+        },
+        {
+          "emblem_id": "120",
+          "link_type": "symbolic",
+          "explanation": "Strong thematic and operational alignment with Color Symbolism"
+        }
+      ]
     },
     {
       "id": 60,
@@ -5788,7 +6543,24 @@
       "texts": [],
       "emblems": [],
       "transmission_genealogy": "Transmission through Renaissance magic, Rosicrucian synthesis, and modern esotericism.",
-      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Alchemical_Multiplicity_and_Return.jpg"
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Alchemical_Multiplicity_and_Return.jpg",
+      "emblem_links": [
+        {
+          "emblem_id": "141",
+          "link_type": "symbolic",
+          "explanation": "Strong thematic and operational alignment with Multiplicity and Return"
+        },
+        {
+          "emblem_id": "142",
+          "link_type": "symbolic",
+          "explanation": "Strong thematic and operational alignment with Multiplicity and Return"
+        },
+        {
+          "emblem_id": "143",
+          "link_type": "symbolic",
+          "explanation": "Strong thematic and operational alignment with Multiplicity and Return"
+        }
+      ]
     },
     {
       "id": 61,
@@ -5822,7 +6594,24 @@
         }
       ],
       "created_at": "2026-05-25T12:08:59.434693",
-      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Alchemical_Spagyria_/_Spagyric_Art.jpg"
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Alchemical_Spagyria_/_Spagyric_Art.jpg",
+      "emblem_links": [
+        {
+          "emblem_id": "141",
+          "link_type": "symbolic",
+          "explanation": "Strong thematic and operational alignment with Spagyria / Spagyric Art"
+        },
+        {
+          "emblem_id": "142",
+          "link_type": "symbolic",
+          "explanation": "Strong thematic and operational alignment with Spagyria / Spagyric Art"
+        },
+        {
+          "emblem_id": "143",
+          "link_type": "symbolic",
+          "explanation": "Strong thematic and operational alignment with Spagyria / Spagyric Art"
+        }
+      ]
     },
     {
       "id": 62,
@@ -5844,7 +6633,24 @@
         }
       ],
       "created_at": "2026-05-25T12:08:59.434699",
-      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Paracelsian_Astral_Body.jpg"
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Paracelsian_Astral_Body.jpg",
+      "emblem_links": [
+        {
+          "emblem_id": "141",
+          "link_type": "symbolic",
+          "explanation": "Strong thematic and operational alignment with Ens Astralis / Astral Disease"
+        },
+        {
+          "emblem_id": "142",
+          "link_type": "symbolic",
+          "explanation": "Strong thematic and operational alignment with Ens Astralis / Astral Disease"
+        },
+        {
+          "emblem_id": "143",
+          "link_type": "symbolic",
+          "explanation": "Strong thematic and operational alignment with Ens Astralis / Astral Disease"
+        }
+      ]
     },
     {
       "id": 63,
@@ -5866,7 +6672,24 @@
         }
       ],
       "created_at": "2026-05-25T12:08:59.434704",
-      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Paracelsian_Archei_Formative.jpg"
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Paracelsian_Archei_Formative.jpg",
+      "emblem_links": [
+        {
+          "emblem_id": "141",
+          "link_type": "symbolic",
+          "explanation": "Strong thematic and operational alignment with Archei / Formative Principles"
+        },
+        {
+          "emblem_id": "142",
+          "link_type": "symbolic",
+          "explanation": "Strong thematic and operational alignment with Archei / Formative Principles"
+        },
+        {
+          "emblem_id": "143",
+          "link_type": "symbolic",
+          "explanation": "Strong thematic and operational alignment with Archei / Formative Principles"
+        }
+      ]
     },
     {
       "id": 66,
@@ -5890,19 +6713,19 @@
       "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Bruegel_Alchemist_1558.jpg",
       "emblem_links": [
         {
-          "emblem_id": "maier-atalanta-xviii",
-          "link_type": "demonstrates",
-          "explanation": "Calcination through fire; the stone's survival of burning represents its essential nature, purified by annihilation of all accidental forms."
+          "emblem_id": "141",
+          "link_type": "symbolic",
+          "explanation": "Strong thematic and operational alignment with Calcination"
         },
         {
-          "emblem_id": "130",
-          "link_type": "illustrates",
-          "explanation": "Calcination's active principle; the sacred flame purifies through total consumption, leaving only the white ash (salt) of the calcined matter."
+          "emblem_id": "142",
+          "link_type": "symbolic",
+          "explanation": "Strong thematic and operational alignment with Calcination"
         },
         {
-          "emblem_id": "maier-atalanta-xvii",
-          "link_type": "demonstrates",
-          "explanation": "Calcination appears as one of four fires; this emblem contextualizes calcination within the hierarchy of heats applied during the opus."
+          "emblem_id": "143",
+          "link_type": "symbolic",
+          "explanation": "Strong thematic and operational alignment with Calcination"
         }
       ]
     },
@@ -5918,7 +6741,24 @@
       "spiritual_meaning": "Spiritually, the quintessence symbolizes the divine spark within all creation, the point where matter and spirit meet.",
       "transmission_genealogy": "Medieval alchemy → Paracelsus → European pharmaceutical alchemy → homeopathy and modern vitalism.",
       "created_at": "2026-05-25T12:45:53.868560",
-      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Alchemical_Quintessence_/_Quinta_Essentia.jpg"
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Alchemical_Quintessence_/_Quinta_Essentia.jpg",
+      "emblem_links": [
+        {
+          "emblem_id": "141",
+          "link_type": "symbolic",
+          "explanation": "Strong thematic and operational alignment with Quintessence / Quinta Essentia"
+        },
+        {
+          "emblem_id": "142",
+          "link_type": "symbolic",
+          "explanation": "Strong thematic and operational alignment with Quintessence / Quinta Essentia"
+        },
+        {
+          "emblem_id": "143",
+          "link_type": "symbolic",
+          "explanation": "Strong thematic and operational alignment with Quintessence / Quinta Essentia"
+        }
+      ]
     },
     {
       "id": 68,
@@ -5940,7 +6780,24 @@
         }
       ],
       "created_at": "2026-05-25T12:45:53.868563",
-      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Alchemical_Iatrochemistry_/_Chemical_Medicine.jpg"
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Alchemical_Iatrochemistry_/_Chemical_Medicine.jpg",
+      "emblem_links": [
+        {
+          "emblem_id": "141",
+          "link_type": "symbolic",
+          "explanation": "Strong thematic and operational alignment with Iatrochemistry / Chemical Medicine"
+        },
+        {
+          "emblem_id": "142",
+          "link_type": "symbolic",
+          "explanation": "Strong thematic and operational alignment with Iatrochemistry / Chemical Medicine"
+        },
+        {
+          "emblem_id": "143",
+          "link_type": "symbolic",
+          "explanation": "Strong thematic and operational alignment with Iatrochemistry / Chemical Medicine"
+        }
+      ]
     },
     {
       "id": 70,
@@ -5954,7 +6811,24 @@
       "spiritual_meaning": "Spiritually, the magistery symbolizes the perfected self, the culmination of spiritual refinement.",
       "transmission_genealogy": "Medieval alchemy → Paracelsian pharmacy → homeopathy and potentized remedies.",
       "created_at": "2026-05-25T12:46:42.266845",
-      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Alchemical_Magistery_/_Magister.jpg"
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Alchemical_Magistery_/_Magister.jpg",
+      "emblem_links": [
+        {
+          "emblem_id": "141",
+          "link_type": "symbolic",
+          "explanation": "Strong thematic and operational alignment with Magistery / Magister"
+        },
+        {
+          "emblem_id": "142",
+          "link_type": "symbolic",
+          "explanation": "Strong thematic and operational alignment with Magistery / Magister"
+        },
+        {
+          "emblem_id": "143",
+          "link_type": "symbolic",
+          "explanation": "Strong thematic and operational alignment with Magistery / Magister"
+        }
+      ]
     },
     {
       "id": 71,
@@ -5971,7 +6845,24 @@
         66
       ],
       "created_at": "2026-05-25T12:46:42.266847",
-      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Alchemical_Liquor_Potassae_/_Potassium_Compounds.jpg"
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Alchemical_Liquor_Potassae_/_Potassium_Compounds.jpg",
+      "emblem_links": [
+        {
+          "emblem_id": "141",
+          "link_type": "symbolic",
+          "explanation": "Strong thematic and operational alignment with Liquor Potassae / Potassium Compounds"
+        },
+        {
+          "emblem_id": "142",
+          "link_type": "symbolic",
+          "explanation": "Strong thematic and operational alignment with Liquor Potassae / Potassium Compounds"
+        },
+        {
+          "emblem_id": "143",
+          "link_type": "symbolic",
+          "explanation": "Strong thematic and operational alignment with Liquor Potassae / Potassium Compounds"
+        }
+      ]
     },
     {
       "id": 72,
@@ -5986,7 +6877,24 @@
         8
       ],
       "created_at": "2026-05-25T12:46:42.266850",
-      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Alchemical_Mercurius_Duplicatus_/_Philosophical_Mercury.jpg"
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Alchemical_Mercurius_Duplicatus_/_Philosophical_Mercury.jpg",
+      "emblem_links": [
+        {
+          "emblem_id": "141",
+          "link_type": "symbolic",
+          "explanation": "Strong thematic and operational alignment with Mercurius Duplicatus / Philosophical Mercury"
+        },
+        {
+          "emblem_id": "142",
+          "link_type": "symbolic",
+          "explanation": "Strong thematic and operational alignment with Mercurius Duplicatus / Philosophical Mercury"
+        },
+        {
+          "emblem_id": "143",
+          "link_type": "symbolic",
+          "explanation": "Strong thematic and operational alignment with Mercurius Duplicatus / Philosophical Mercury"
+        }
+      ]
     },
     {
       "id": 73,
@@ -6001,7 +6909,24 @@
         8
       ],
       "created_at": "2026-05-25T12:46:42.266852",
-      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Alchemical_Sulphur_Principle_/_Philosophical_Sulphur.jpg"
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Alchemical_Sulphur_Principle_/_Philosophical_Sulphur.jpg",
+      "emblem_links": [
+        {
+          "emblem_id": "141",
+          "link_type": "symbolic",
+          "explanation": "Strong thematic and operational alignment with Sulphur Principle / Philosophical Sulphur"
+        },
+        {
+          "emblem_id": "142",
+          "link_type": "symbolic",
+          "explanation": "Strong thematic and operational alignment with Sulphur Principle / Philosophical Sulphur"
+        },
+        {
+          "emblem_id": "143",
+          "link_type": "symbolic",
+          "explanation": "Strong thematic and operational alignment with Sulphur Principle / Philosophical Sulphur"
+        }
+      ]
     },
     {
       "id": 74,
@@ -6016,7 +6941,24 @@
         8
       ],
       "created_at": "2026-05-25T12:46:42.266854",
-      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Alchemical_Salt_/_Philosophical_Salt.jpg"
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Alchemical_Salt_/_Philosophical_Salt.jpg",
+      "emblem_links": [
+        {
+          "emblem_id": "141",
+          "link_type": "symbolic",
+          "explanation": "Strong thematic and operational alignment with Salt / Philosophical Salt"
+        },
+        {
+          "emblem_id": "142",
+          "link_type": "symbolic",
+          "explanation": "Strong thematic and operational alignment with Salt / Philosophical Salt"
+        },
+        {
+          "emblem_id": "143",
+          "link_type": "symbolic",
+          "explanation": "Strong thematic and operational alignment with Salt / Philosophical Salt"
+        }
+      ]
     }
   ],
   "texts": [
@@ -15876,7 +16818,14 @@
       },
       "review_status": "DRAFT",
       "confidence": "HIGH",
-      "source_method": "De Jong scholarly extraction + metadata synthesis"
+      "source_method": "De Jong scholarly extraction + metadata synthesis",
+      "concept_links": [
+        {
+          "concept_id": 56,
+          "concept_name": "Gender and Alchemy",
+          "link_type": "symbolic"
+        }
+      ]
     },
     {
       "id": "maier-atalanta-004",
@@ -15994,7 +16943,14 @@
       },
       "review_status": "DRAFT",
       "confidence": "HIGH",
-      "source_method": "De Jong scholarly extraction + metadata synthesis"
+      "source_method": "De Jong scholarly extraction + metadata synthesis",
+      "concept_links": [
+        {
+          "concept_id": 56,
+          "concept_name": "Gender and Alchemy",
+          "link_type": "symbolic"
+        }
+      ]
     },
     {
       "id": "maier-atalanta-006",
@@ -16280,7 +17236,19 @@
       },
       "review_status": "DRAFT",
       "confidence": "HIGH",
-      "source_method": "De Jong scholarly extraction + metadata synthesis"
+      "source_method": "De Jong scholarly extraction + metadata synthesis",
+      "concept_links": [
+        {
+          "concept_id": 23,
+          "concept_name": "Sulfur Philosophical",
+          "link_type": "symbolic"
+        },
+        {
+          "concept_id": 57,
+          "concept_name": "Color Symbolism",
+          "link_type": "symbolic"
+        }
+      ]
     },
     {
       "id": "maier-atalanta-011",
@@ -16394,7 +17362,14 @@
       },
       "review_status": "DRAFT",
       "confidence": "HIGH",
-      "source_method": "De Jong scholarly extraction + metadata synthesis"
+      "source_method": "De Jong scholarly extraction + metadata synthesis",
+      "concept_links": [
+        {
+          "concept_id": 43,
+          "concept_name": "Alchemical Hermaphrodite",
+          "link_type": "symbolic"
+        }
+      ]
     },
     {
       "id": "maier-atalanta-013",
@@ -17134,14 +18109,9 @@
       "attribution": "Data compiled from Claudiens project (https://github.com/t3dy/Claudiens)",
       "concept_links": [
         {
-          "concept_id": 1,
-          "concept_name": "Nigredo",
-          "link_type": "exemplifies"
-        },
-        {
-          "concept_id": 12,
-          "concept_name": "Dissolution",
-          "link_type": "demonstrates"
+          "concept_id": 56,
+          "concept_name": "Gender and Alchemy",
+          "link_type": "symbolic"
         }
       ]
     },
@@ -17206,14 +18176,7 @@
       "source_method": "Claudiens integration - adapted from atalanta_fugiens_seed.json",
       "review_status": "DRAFT",
       "confidence": "HIGH",
-      "attribution": "Data compiled from Claudiens project (https://github.com/t3dy/Claudiens)",
-      "concept_links": [
-        {
-          "concept_id": 14,
-          "concept_name": "Fermentation",
-          "link_type": "demonstrates"
-        }
-      ]
+      "attribution": "Data compiled from Claudiens project (https://github.com/t3dy/Claudiens)"
     },
     {
       "id": "maier-atalanta-v",
@@ -17343,14 +18306,7 @@
       "source_method": "Claudiens integration - adapted from atalanta_fugiens_seed.json",
       "review_status": "DRAFT",
       "confidence": "HIGH",
-      "attribution": "Data compiled from Claudiens project (https://github.com/t3dy/Claudiens)",
-      "concept_links": [
-        {
-          "concept_id": 2,
-          "concept_name": "Albedo",
-          "link_type": "exemplifies"
-        }
-      ]
+      "attribution": "Data compiled from Claudiens project (https://github.com/t3dy/Claudiens)"
     },
     {
       "id": "maier-atalanta-vii",
@@ -17424,19 +18380,7 @@
       "source_method": "Claudiens integration - adapted from atalanta_fugiens_seed.json",
       "review_status": "DRAFT",
       "confidence": "HIGH",
-      "attribution": "Data compiled from Claudiens project (https://github.com/t3dy/Claudiens)",
-      "concept_links": [
-        {
-          "concept_id": 15,
-          "concept_name": "Distillation",
-          "link_type": "demonstrates"
-        },
-        {
-          "concept_id": 51,
-          "concept_name": "Sublimation",
-          "link_type": "demonstrates"
-        }
-      ]
+      "attribution": "Data compiled from Claudiens project (https://github.com/t3dy/Claudiens)"
     },
     {
       "id": "maier-atalanta-xiii",
@@ -17607,19 +18551,7 @@
       "source_method": "Claudiens integration - adapted from atalanta_fugiens_seed.json",
       "review_status": "DRAFT",
       "confidence": "HIGH",
-      "attribution": "Data compiled from Claudiens project (https://github.com/t3dy/Claudiens)",
-      "concept_links": [
-        {
-          "concept_id": 53,
-          "concept_name": "Correspondence",
-          "link_type": "demonstrates"
-        },
-        {
-          "concept_id": 66,
-          "concept_name": "Calcination",
-          "link_type": "demonstrates"
-        }
-      ]
+      "attribution": "Data compiled from Claudiens project (https://github.com/t3dy/Claudiens)"
     },
     {
       "id": "maier-atalanta-xxi",
@@ -18075,9 +19007,9 @@
       "attribution": "Data compiled from Claudiens project (https://github.com/t3dy/Claudiens)",
       "concept_links": [
         {
-          "concept_id": 41,
-          "concept_name": "Inner Transformation",
-          "link_type": "exemplifies"
+          "concept_id": 43,
+          "concept_name": "Alchemical Hermaphrodite",
+          "link_type": "symbolic"
         }
       ]
     },
@@ -18138,14 +19070,7 @@
       "source_method": "Claudiens integration - adapted from atalanta_fugiens_seed.json",
       "review_status": "DRAFT",
       "confidence": "HIGH",
-      "attribution": "Data compiled from Claudiens project (https://github.com/t3dy/Claudiens)",
-      "concept_links": [
-        {
-          "concept_id": 53,
-          "concept_name": "Correspondence",
-          "link_type": "exemplifies"
-        }
-      ]
+      "attribution": "Data compiled from Claudiens project (https://github.com/t3dy/Claudiens)"
     },
     {
       "id": "maier-atalanta-xxxviii",
@@ -18200,7 +19125,14 @@
       "source_method": "Claudiens integration - adapted from atalanta_fugiens_seed.json",
       "review_status": "DRAFT",
       "confidence": "HIGH",
-      "attribution": "Data compiled from Claudiens project (https://github.com/t3dy/Claudiens)"
+      "attribution": "Data compiled from Claudiens project (https://github.com/t3dy/Claudiens)",
+      "concept_links": [
+        {
+          "concept_id": 43,
+          "concept_name": "Alchemical Hermaphrodite",
+          "link_type": "symbolic"
+        }
+      ]
     },
     {
       "id": "maier-atalanta-xliv",
