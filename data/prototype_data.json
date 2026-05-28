@@ -3956,17 +3956,17 @@
       "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Splendor_Solis_01_Nigredo.jpg",
       "emblem_links": [
         {
-          "emblem_id": "103",
+          "emblem_id": 103,
           "link_type": "exemplifies",
           "explanation": "Strong thematic and operational alignment with Nigredo"
         },
         {
-          "emblem_id": "113",
+          "emblem_id": 113,
           "link_type": "exemplifies",
           "explanation": "Strong thematic and operational alignment with Nigredo"
         },
         {
-          "emblem_id": "119",
+          "emblem_id": 119,
           "link_type": "exemplifies",
           "explanation": "Strong thematic and operational alignment with Nigredo"
         }
@@ -4035,17 +4035,17 @@
       "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Splendor_Solis_02_Albedo.jpg",
       "emblem_links": [
         {
-          "emblem_id": "105",
+          "emblem_id": 105,
           "link_type": "exemplifies",
           "explanation": "Strong thematic and operational alignment with Albedo"
         },
         {
-          "emblem_id": "110",
+          "emblem_id": 110,
           "link_type": "exemplifies",
           "explanation": "Strong thematic and operational alignment with Albedo"
         },
         {
-          "emblem_id": "112",
+          "emblem_id": 112,
           "link_type": "exemplifies",
           "explanation": "Strong thematic and operational alignment with Albedo"
         }
@@ -4114,17 +4114,17 @@
       "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Splendor_Solis_07_Rubedo.jpg",
       "emblem_links": [
         {
-          "emblem_id": "107",
+          "emblem_id": 107,
           "link_type": "exemplifies",
           "explanation": "Strong thematic and operational alignment with Rubedo"
         },
         {
-          "emblem_id": "114",
+          "emblem_id": 114,
           "link_type": "exemplifies",
           "explanation": "Strong thematic and operational alignment with Rubedo"
         },
         {
-          "emblem_id": "124",
+          "emblem_id": 124,
           "link_type": "exemplifies",
           "explanation": "Strong thematic and operational alignment with Rubedo"
         }
@@ -4164,17 +4164,17 @@
       "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Alchemical_Theosis.jpg",
       "emblem_links": [
         {
-          "emblem_id": "108",
+          "emblem_id": 108,
           "link_type": "exemplifies",
           "explanation": "Strong thematic and operational alignment with Theosis"
         },
         {
-          "emblem_id": "122",
+          "emblem_id": 122,
           "link_type": "exemplifies",
           "explanation": "Strong thematic and operational alignment with Theosis"
         },
         {
-          "emblem_id": "127",
+          "emblem_id": 127,
           "link_type": "exemplifies",
           "explanation": "Strong thematic and operational alignment with Theosis"
         }
@@ -4249,17 +4249,17 @@
       "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Hieros_Gamos_alchemical.jpg",
       "emblem_links": [
         {
-          "emblem_id": "102",
+          "emblem_id": 102,
           "link_type": "exemplifies",
           "explanation": "Strong thematic and operational alignment with Hieros Gamos"
         },
         {
-          "emblem_id": "111",
+          "emblem_id": 111,
           "link_type": "exemplifies",
           "explanation": "Strong thematic and operational alignment with Hieros Gamos"
         },
         {
-          "emblem_id": "118",
+          "emblem_id": 118,
           "link_type": "exemplifies",
           "explanation": "Strong thematic and operational alignment with Hieros Gamos"
         }
@@ -4343,17 +4343,17 @@
       "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Lapis_Philosophorum_emblem.jpg",
       "emblem_links": [
         {
-          "emblem_id": "106",
+          "emblem_id": 106,
           "link_type": "exemplifies",
           "explanation": "Strong thematic and operational alignment with Lapis Philosophorum"
         },
         {
-          "emblem_id": "113",
+          "emblem_id": 113,
           "link_type": "exemplifies",
           "explanation": "Strong thematic and operational alignment with Lapis Philosophorum"
         },
         {
-          "emblem_id": "121",
+          "emblem_id": 121,
           "link_type": "exemplifies",
           "explanation": "Strong thematic and operational alignment with Lapis Philosophorum"
         }
@@ -4430,17 +4430,17 @@
       "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Rose_Cross_Rosicrucian_symbol.jpg",
       "emblem_links": [
         {
-          "emblem_id": "109",
+          "emblem_id": 109,
           "link_type": "exemplifies",
           "explanation": "Strong thematic and operational alignment with Rosy Cross"
         },
         {
-          "emblem_id": "117",
+          "emblem_id": 117,
           "link_type": "exemplifies",
           "explanation": "Strong thematic and operational alignment with Rosy Cross"
         },
         {
-          "emblem_id": "123",
+          "emblem_id": 123,
           "link_type": "exemplifies",
           "explanation": "Strong thematic and operational alignment with Rosy Cross"
         }
@@ -4477,17 +4477,17 @@
       "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Paracelsian_Correspondence.jpg",
       "emblem_links": [
         {
-          "emblem_id": "101",
+          "emblem_id": 101,
           "link_type": "exemplifies",
           "explanation": "Strong thematic and operational alignment with Correspondentia"
         },
         {
-          "emblem_id": "110",
+          "emblem_id": 110,
           "link_type": "exemplifies",
           "explanation": "Strong thematic and operational alignment with Correspondentia"
         },
         {
-          "emblem_id": "120",
+          "emblem_id": 120,
           "link_type": "exemplifies",
           "explanation": "Strong thematic and operational alignment with Correspondentia"
         }
@@ -4523,17 +4523,17 @@
       "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Alchemical_Putrefactio.jpg",
       "emblem_links": [
         {
-          "emblem_id": "108",
+          "emblem_id": 108,
           "link_type": "exemplifies",
           "explanation": "Strong thematic and operational alignment with Putrefactio"
         },
         {
-          "emblem_id": "112",
+          "emblem_id": 112,
           "link_type": "exemplifies",
           "explanation": "Strong thematic and operational alignment with Putrefactio"
         },
         {
-          "emblem_id": "124",
+          "emblem_id": 124,
           "link_type": "exemplifies",
           "explanation": "Strong thematic and operational alignment with Putrefactio"
         }
@@ -4569,17 +4569,17 @@
       "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Alchemical_Quaternio.jpg",
       "emblem_links": [
         {
-          "emblem_id": "107",
+          "emblem_id": 107,
           "link_type": "exemplifies",
           "explanation": "Strong thematic and operational alignment with Quaternio"
         },
         {
-          "emblem_id": "122",
+          "emblem_id": 122,
           "link_type": "exemplifies",
           "explanation": "Strong thematic and operational alignment with Quaternio"
         },
         {
-          "emblem_id": "138",
+          "emblem_id": 138,
           "link_type": "exemplifies",
           "explanation": "Strong thematic and operational alignment with Quaternio"
         }
@@ -4647,17 +4647,17 @@
       "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Bruegel_Alchemist_Laboratory.jpg",
       "emblem_links": [
         {
-          "emblem_id": "105",
+          "emblem_id": 105,
           "link_type": "exemplifies",
           "explanation": "Strong thematic and operational alignment with Calcinatio"
         },
         {
-          "emblem_id": "111",
+          "emblem_id": 111,
           "link_type": "exemplifies",
           "explanation": "Strong thematic and operational alignment with Calcinatio"
         },
         {
-          "emblem_id": "113",
+          "emblem_id": 113,
           "link_type": "exemplifies",
           "explanation": "Strong thematic and operational alignment with Calcinatio"
         }
@@ -4725,17 +4725,17 @@
       "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Dissolution_alchemical_symbol.jpg",
       "emblem_links": [
         {
-          "emblem_id": "104",
+          "emblem_id": 104,
           "link_type": "exemplifies",
           "explanation": "Strong thematic and operational alignment with Dissolution"
         },
         {
-          "emblem_id": "116",
+          "emblem_id": 116,
           "link_type": "exemplifies",
           "explanation": "Strong thematic and operational alignment with Dissolution"
         },
         {
-          "emblem_id": "126",
+          "emblem_id": 126,
           "link_type": "exemplifies",
           "explanation": "Strong thematic and operational alignment with Dissolution"
         }
@@ -4804,17 +4804,17 @@
       "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Coagulation_alchemical.jpg",
       "emblem_links": [
         {
-          "emblem_id": "106",
+          "emblem_id": 106,
           "link_type": "exemplifies",
           "explanation": "Strong thematic and operational alignment with Coagulation"
         },
         {
-          "emblem_id": "114",
+          "emblem_id": 114,
           "link_type": "exemplifies",
           "explanation": "Strong thematic and operational alignment with Coagulation"
         },
         {
-          "emblem_id": "121",
+          "emblem_id": 121,
           "link_type": "exemplifies",
           "explanation": "Strong thematic and operational alignment with Coagulation"
         }
@@ -4862,17 +4862,17 @@
       "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Fermentation_alchemical.jpg",
       "emblem_links": [
         {
-          "emblem_id": "102",
+          "emblem_id": 102,
           "link_type": "exemplifies",
           "explanation": "Strong thematic and operational alignment with Fermentation"
         },
         {
-          "emblem_id": "109",
+          "emblem_id": 109,
           "link_type": "exemplifies",
           "explanation": "Strong thematic and operational alignment with Fermentation"
         },
         {
-          "emblem_id": "118",
+          "emblem_id": 118,
           "link_type": "exemplifies",
           "explanation": "Strong thematic and operational alignment with Fermentation"
         }
@@ -4919,17 +4919,17 @@
       "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Alchemical_Distillation_apparatus.jpg",
       "emblem_links": [
         {
-          "emblem_id": "101",
+          "emblem_id": 101,
           "link_type": "exemplifies",
           "explanation": "Strong thematic and operational alignment with Distillation"
         },
         {
-          "emblem_id": "110",
+          "emblem_id": 110,
           "link_type": "exemplifies",
           "explanation": "Strong thematic and operational alignment with Distillation"
         },
         {
-          "emblem_id": "117",
+          "emblem_id": 117,
           "link_type": "exemplifies",
           "explanation": "Strong thematic and operational alignment with Distillation"
         }
@@ -4963,17 +4963,17 @@
       "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Emerald_Tablet_Hermes.jpg",
       "emblem_links": [
         {
-          "emblem_id": "108",
+          "emblem_id": 108,
           "link_type": "exemplifies",
           "explanation": "Strong thematic and operational alignment with Hermetic Principle"
         },
         {
-          "emblem_id": "112",
+          "emblem_id": 112,
           "link_type": "exemplifies",
           "explanation": "Strong thematic and operational alignment with Hermetic Principle"
         },
         {
-          "emblem_id": "128",
+          "emblem_id": 128,
           "link_type": "exemplifies",
           "explanation": "Strong thematic and operational alignment with Hermetic Principle"
         }
@@ -5013,17 +5013,17 @@
       "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Alchemical_Universal_Solvent.jpg",
       "emblem_links": [
         {
-          "emblem_id": "107",
+          "emblem_id": 107,
           "link_type": "exemplifies",
           "explanation": "Strong thematic and operational alignment with Universal Solvent"
         },
         {
-          "emblem_id": "122",
+          "emblem_id": 122,
           "link_type": "exemplifies",
           "explanation": "Strong thematic and operational alignment with Universal Solvent"
         },
         {
-          "emblem_id": "138",
+          "emblem_id": 138,
           "link_type": "exemplifies",
           "explanation": "Strong thematic and operational alignment with Universal Solvent"
         }
@@ -5103,17 +5103,17 @@
       "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Quintessence_alchemical_symbol.jpg",
       "emblem_links": [
         {
-          "emblem_id": "103",
+          "emblem_id": 103,
           "link_type": "exemplifies",
           "explanation": "Strong thematic and operational alignment with Quintessence"
         },
         {
-          "emblem_id": "111",
+          "emblem_id": 111,
           "link_type": "exemplifies",
           "explanation": "Strong thematic and operational alignment with Quintessence"
         },
         {
-          "emblem_id": "119",
+          "emblem_id": 119,
           "link_type": "exemplifies",
           "explanation": "Strong thematic and operational alignment with Quintessence"
         }
@@ -5153,17 +5153,17 @@
       "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Alchemical_Tincture.jpg",
       "emblem_links": [
         {
-          "emblem_id": "104",
+          "emblem_id": 104,
           "link_type": "exemplifies",
           "explanation": "Strong thematic and operational alignment with Tincture"
         },
         {
-          "emblem_id": "116",
+          "emblem_id": 116,
           "link_type": "exemplifies",
           "explanation": "Strong thematic and operational alignment with Tincture"
         },
         {
-          "emblem_id": "126",
+          "emblem_id": 126,
           "link_type": "exemplifies",
           "explanation": "Strong thematic and operational alignment with Tincture"
         }
@@ -5237,17 +5237,17 @@
       "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Elixir_of_Life_alchemical.jpg",
       "emblem_links": [
         {
-          "emblem_id": "106",
+          "emblem_id": 106,
           "link_type": "exemplifies",
           "explanation": "Strong thematic and operational alignment with Elixir of Life"
         },
         {
-          "emblem_id": "121",
+          "emblem_id": 121,
           "link_type": "exemplifies",
           "explanation": "Strong thematic and operational alignment with Elixir of Life"
         },
         {
-          "emblem_id": "124",
+          "emblem_id": 124,
           "link_type": "exemplifies",
           "explanation": "Strong thematic and operational alignment with Elixir of Life"
         }
@@ -5285,17 +5285,17 @@
       "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Citrinitas_yellow_stage_alchemy.jpg",
       "emblem_links": [
         {
-          "emblem_id": "109",
+          "emblem_id": 109,
           "link_type": "exemplifies",
           "explanation": "Strong thematic and operational alignment with Citrinitas"
         },
         {
-          "emblem_id": "117",
+          "emblem_id": 117,
           "link_type": "exemplifies",
           "explanation": "Strong thematic and operational alignment with Citrinitas"
         },
         {
-          "emblem_id": "130",
+          "emblem_id": 130,
           "link_type": "exemplifies",
           "explanation": "Strong thematic and operational alignment with Citrinitas"
         }
@@ -5326,17 +5326,17 @@
       "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Alchemical_Mercury_Philosophical.jpg",
       "emblem_links": [
         {
-          "emblem_id": "101",
+          "emblem_id": 101,
           "link_type": "exemplifies",
           "explanation": "Strong thematic and operational alignment with Mercury Philosophical"
         },
         {
-          "emblem_id": "114",
+          "emblem_id": 114,
           "link_type": "exemplifies",
           "explanation": "Strong thematic and operational alignment with Mercury Philosophical"
         },
         {
-          "emblem_id": "125",
+          "emblem_id": 125,
           "link_type": "exemplifies",
           "explanation": "Strong thematic and operational alignment with Mercury Philosophical"
         }
@@ -5357,12 +5357,12 @@
       "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Alchemical_Sulfur_Philosophical.jpg",
       "emblem_links": [
         {
-          "emblem_id": "145",
+          "emblem_id": 145,
           "link_type": "exemplifies",
           "explanation": "Strong thematic and operational alignment with Sulfur Philosophical"
         },
         {
-          "emblem_id": "153",
+          "emblem_id": 153,
           "link_type": "symbolic",
           "explanation": "Strong thematic and operational alignment with Sulfur Philosophical"
         },
@@ -5392,17 +5392,17 @@
       "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Alchemical_Salt_Philosophical.jpg",
       "emblem_links": [
         {
-          "emblem_id": "104",
+          "emblem_id": 104,
           "link_type": "exemplifies",
           "explanation": "Strong thematic and operational alignment with Salt Philosophical"
         },
         {
-          "emblem_id": "116",
+          "emblem_id": 116,
           "link_type": "exemplifies",
           "explanation": "Strong thematic and operational alignment with Salt Philosophical"
         },
         {
-          "emblem_id": "126",
+          "emblem_id": 126,
           "link_type": "exemplifies",
           "explanation": "Strong thematic and operational alignment with Salt Philosophical"
         }
@@ -5436,17 +5436,17 @@
       "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Neoplatonic_Emanation_diagram.jpg",
       "emblem_links": [
         {
-          "emblem_id": "105",
+          "emblem_id": 105,
           "link_type": "exemplifies",
           "explanation": "Strong thematic and operational alignment with Emanation"
         },
         {
-          "emblem_id": "115",
+          "emblem_id": 115,
           "link_type": "exemplifies",
           "explanation": "Strong thematic and operational alignment with Emanation"
         },
         {
-          "emblem_id": "135",
+          "emblem_id": 135,
           "link_type": "exemplifies",
           "explanation": "Strong thematic and operational alignment with Emanation"
         }
@@ -5484,17 +5484,17 @@
       "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Alchemical_Macrocosm-Microcosm.jpg",
       "emblem_links": [
         {
-          "emblem_id": "103",
+          "emblem_id": 103,
           "link_type": "exemplifies",
           "explanation": "Strong thematic and operational alignment with Macrocosm-Microcosm"
         },
         {
-          "emblem_id": "119",
+          "emblem_id": 119,
           "link_type": "exemplifies",
           "explanation": "Strong thematic and operational alignment with Macrocosm-Microcosm"
         },
         {
-          "emblem_id": "133",
+          "emblem_id": 133,
           "link_type": "exemplifies",
           "explanation": "Strong thematic and operational alignment with Macrocosm-Microcosm"
         }
@@ -5533,17 +5533,17 @@
       "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Robert_Fludd_Divine_Mind.jpg",
       "emblem_links": [
         {
-          "emblem_id": "102",
+          "emblem_id": 102,
           "link_type": "exemplifies",
           "explanation": "Strong thematic and operational alignment with Divine Imagination"
         },
         {
-          "emblem_id": "118",
+          "emblem_id": 118,
           "link_type": "exemplifies",
           "explanation": "Strong thematic and operational alignment with Divine Imagination"
         },
         {
-          "emblem_id": "134",
+          "emblem_id": 134,
           "link_type": "exemplifies",
           "explanation": "Strong thematic and operational alignment with Divine Imagination"
         }
@@ -5564,17 +5564,17 @@
       "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Alchemical_Invisible_Brethren.jpg",
       "emblem_links": [
         {
-          "emblem_id": "141",
+          "emblem_id": 141,
           "link_type": "symbolic",
           "explanation": "Strong thematic and operational alignment with Invisible Brethren"
         },
         {
-          "emblem_id": "142",
+          "emblem_id": 142,
           "link_type": "symbolic",
           "explanation": "Strong thematic and operational alignment with Invisible Brethren"
         },
         {
-          "emblem_id": "143",
+          "emblem_id": 143,
           "link_type": "symbolic",
           "explanation": "Strong thematic and operational alignment with Invisible Brethren"
         }
@@ -5598,17 +5598,17 @@
       "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Alchemical_Universal_Reform.jpg",
       "emblem_links": [
         {
-          "emblem_id": "141",
+          "emblem_id": 141,
           "link_type": "symbolic",
           "explanation": "Strong thematic and operational alignment with Universal Reform"
         },
         {
-          "emblem_id": "142",
+          "emblem_id": 142,
           "link_type": "symbolic",
           "explanation": "Strong thematic and operational alignment with Universal Reform"
         },
         {
-          "emblem_id": "143",
+          "emblem_id": 143,
           "link_type": "symbolic",
           "explanation": "Strong thematic and operational alignment with Universal Reform"
         }
@@ -5633,17 +5633,17 @@
       "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Alchemical_Spiritual_Alchemy.jpg",
       "emblem_links": [
         {
-          "emblem_id": "127",
+          "emblem_id": 127,
           "link_type": "symbolic",
           "explanation": "Strong thematic and operational alignment with Spiritual Alchemy"
         },
         {
-          "emblem_id": "138",
+          "emblem_id": 138,
           "link_type": "symbolic",
           "explanation": "Strong thematic and operational alignment with Spiritual Alchemy"
         },
         {
-          "emblem_id": "141",
+          "emblem_id": 141,
           "link_type": "symbolic",
           "explanation": "Strong thematic and operational alignment with Spiritual Alchemy"
         }
@@ -5668,17 +5668,17 @@
       "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Alchemical_Laboratory_Alchemy.jpg",
       "emblem_links": [
         {
-          "emblem_id": "168",
+          "emblem_id": 168,
           "link_type": "symbolic",
           "explanation": "Strong thematic and operational alignment with Laboratory Alchemy"
         },
         {
-          "emblem_id": "141",
+          "emblem_id": 141,
           "link_type": "symbolic",
           "explanation": "Strong thematic and operational alignment with Laboratory Alchemy"
         },
         {
-          "emblem_id": "142",
+          "emblem_id": 142,
           "link_type": "symbolic",
           "explanation": "Strong thematic and operational alignment with Laboratory Alchemy"
         }
@@ -5700,17 +5700,17 @@
       "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Paracelsus_Spagyric_apparatus.jpg",
       "emblem_links": [
         {
-          "emblem_id": "141",
+          "emblem_id": 141,
           "link_type": "symbolic",
           "explanation": "Strong thematic and operational alignment with Spagyric Art"
         },
         {
-          "emblem_id": "142",
+          "emblem_id": 142,
           "link_type": "symbolic",
           "explanation": "Strong thematic and operational alignment with Spagyric Art"
         },
         {
-          "emblem_id": "143",
+          "emblem_id": 143,
           "link_type": "symbolic",
           "explanation": "Strong thematic and operational alignment with Spagyric Art"
         }
@@ -5734,17 +5734,17 @@
       "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Alchemical_Iatrochemistry.jpg",
       "emblem_links": [
         {
-          "emblem_id": "141",
+          "emblem_id": 141,
           "link_type": "symbolic",
           "explanation": "Strong thematic and operational alignment with Iatrochemistry"
         },
         {
-          "emblem_id": "142",
+          "emblem_id": 142,
           "link_type": "symbolic",
           "explanation": "Strong thematic and operational alignment with Iatrochemistry"
         },
         {
-          "emblem_id": "143",
+          "emblem_id": 143,
           "link_type": "symbolic",
           "explanation": "Strong thematic and operational alignment with Iatrochemistry"
         }
@@ -5769,17 +5769,17 @@
       "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Alchemical_Initiation.jpg",
       "emblem_links": [
         {
-          "emblem_id": "165",
+          "emblem_id": 165,
           "link_type": "symbolic",
           "explanation": "Strong thematic and operational alignment with Initiation"
         },
         {
-          "emblem_id": "209",
+          "emblem_id": 209,
           "link_type": "symbolic",
           "explanation": "Strong thematic and operational alignment with Initiation"
         },
         {
-          "emblem_id": "178",
+          "emblem_id": 178,
           "link_type": "symbolic",
           "explanation": "Strong thematic and operational alignment with Initiation"
         }
@@ -5796,17 +5796,17 @@
       "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Tree_of_Life_Degrees.jpg",
       "emblem_links": [
         {
-          "emblem_id": "141",
+          "emblem_id": 141,
           "link_type": "symbolic",
           "explanation": "Strong thematic and operational alignment with Grades of Initiation"
         },
         {
-          "emblem_id": "142",
+          "emblem_id": 142,
           "link_type": "symbolic",
           "explanation": "Strong thematic and operational alignment with Grades of Initiation"
         },
         {
-          "emblem_id": "143",
+          "emblem_id": 143,
           "link_type": "symbolic",
           "explanation": "Strong thematic and operational alignment with Grades of Initiation"
         }
@@ -5831,17 +5831,17 @@
       "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Alchemical_Secret_Doctrine.jpg",
       "emblem_links": [
         {
-          "emblem_id": "141",
+          "emblem_id": 141,
           "link_type": "symbolic",
           "explanation": "Strong thematic and operational alignment with Secret Doctrine"
         },
         {
-          "emblem_id": "142",
+          "emblem_id": 142,
           "link_type": "symbolic",
           "explanation": "Strong thematic and operational alignment with Secret Doctrine"
         },
         {
-          "emblem_id": "143",
+          "emblem_id": 143,
           "link_type": "symbolic",
           "explanation": "Strong thematic and operational alignment with Secret Doctrine"
         }
@@ -5866,17 +5866,17 @@
       "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Illumination_mystical_symbol.jpg",
       "emblem_links": [
         {
-          "emblem_id": "219",
+          "emblem_id": 219,
           "link_type": "symbolic",
           "explanation": "Strong thematic and operational alignment with Enlightenment"
         },
         {
-          "emblem_id": "141",
+          "emblem_id": 141,
           "link_type": "symbolic",
           "explanation": "Strong thematic and operational alignment with Enlightenment"
         },
         {
-          "emblem_id": "142",
+          "emblem_id": 142,
           "link_type": "symbolic",
           "explanation": "Strong thematic and operational alignment with Enlightenment"
         }
@@ -5901,17 +5901,17 @@
       "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Alchemical_Theurgy.jpg",
       "emblem_links": [
         {
-          "emblem_id": "141",
+          "emblem_id": 141,
           "link_type": "symbolic",
           "explanation": "Strong thematic and operational alignment with Theurgy"
         },
         {
-          "emblem_id": "142",
+          "emblem_id": 142,
           "link_type": "symbolic",
           "explanation": "Strong thematic and operational alignment with Theurgy"
         },
         {
-          "emblem_id": "143",
+          "emblem_id": 143,
           "link_type": "symbolic",
           "explanation": "Strong thematic and operational alignment with Theurgy"
         }
@@ -5932,17 +5932,17 @@
       "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Neoplatonic_Union_Divine.jpg",
       "emblem_links": [
         {
-          "emblem_id": "141",
+          "emblem_id": 141,
           "link_type": "symbolic",
           "explanation": "Strong thematic and operational alignment with Henosis"
         },
         {
-          "emblem_id": "142",
+          "emblem_id": 142,
           "link_type": "symbolic",
           "explanation": "Strong thematic and operational alignment with Henosis"
         },
         {
-          "emblem_id": "143",
+          "emblem_id": 143,
           "link_type": "symbolic",
           "explanation": "Strong thematic and operational alignment with Henosis"
         }
@@ -5967,17 +5967,17 @@
       "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Magnum_Opus_alchemical.jpg",
       "emblem_links": [
         {
-          "emblem_id": "101",
+          "emblem_id": 101,
           "link_type": "symbolic",
           "explanation": "Strong thematic and operational alignment with Great Work"
         },
         {
-          "emblem_id": "102",
+          "emblem_id": 102,
           "link_type": "symbolic",
           "explanation": "Strong thematic and operational alignment with Great Work"
         },
         {
-          "emblem_id": "103",
+          "emblem_id": 103,
           "link_type": "symbolic",
           "explanation": "Strong thematic and operational alignment with Great Work"
         }
@@ -6002,17 +6002,17 @@
       "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Alchemical_Inner_Transformation.jpg",
       "emblem_links": [
         {
-          "emblem_id": "141",
+          "emblem_id": 141,
           "link_type": "symbolic",
           "explanation": "Strong thematic and operational alignment with Inner Transformation"
         },
         {
-          "emblem_id": "142",
+          "emblem_id": 142,
           "link_type": "symbolic",
           "explanation": "Strong thematic and operational alignment with Inner Transformation"
         },
         {
-          "emblem_id": "143",
+          "emblem_id": 143,
           "link_type": "symbolic",
           "explanation": "Strong thematic and operational alignment with Inner Transformation"
         }
@@ -6033,17 +6033,17 @@
       "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Hermetic_Principles_Emblem.jpg",
       "emblem_links": [
         {
-          "emblem_id": "141",
+          "emblem_id": 141,
           "link_type": "symbolic",
           "explanation": "Strong thematic and operational alignment with Hermetic Spirituality"
         },
         {
-          "emblem_id": "142",
+          "emblem_id": 142,
           "link_type": "symbolic",
           "explanation": "Strong thematic and operational alignment with Hermetic Spirituality"
         },
         {
-          "emblem_id": "143",
+          "emblem_id": 143,
           "link_type": "symbolic",
           "explanation": "Strong thematic and operational alignment with Hermetic Spirituality"
         }
@@ -6092,17 +6092,17 @@
       "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Theurgic_symbol_neoplatonic.jpg",
       "emblem_links": [
         {
-          "emblem_id": "141",
+          "emblem_id": 141,
           "link_type": "symbolic",
           "explanation": "Strong thematic and operational alignment with Theurgic Practice"
         },
         {
-          "emblem_id": "142",
+          "emblem_id": 142,
           "link_type": "symbolic",
           "explanation": "Strong thematic and operational alignment with Theurgic Practice"
         },
         {
-          "emblem_id": "143",
+          "emblem_id": 143,
           "link_type": "symbolic",
           "explanation": "Strong thematic and operational alignment with Theurgic Practice"
         }
@@ -6123,17 +6123,17 @@
       "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Alchemical_Spiritual_Chemistry.jpg",
       "emblem_links": [
         {
-          "emblem_id": "141",
+          "emblem_id": 141,
           "link_type": "symbolic",
           "explanation": "Strong thematic and operational alignment with Spiritual Chemistry"
         },
         {
-          "emblem_id": "142",
+          "emblem_id": 142,
           "link_type": "symbolic",
           "explanation": "Strong thematic and operational alignment with Spiritual Chemistry"
         },
         {
-          "emblem_id": "143",
+          "emblem_id": 143,
           "link_type": "symbolic",
           "explanation": "Strong thematic and operational alignment with Spiritual Chemistry"
         }
@@ -6158,17 +6158,17 @@
       "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Kabbalistic_Divine_Names.jpg",
       "emblem_links": [
         {
-          "emblem_id": "141",
+          "emblem_id": 141,
           "link_type": "symbolic",
           "explanation": "Strong thematic and operational alignment with Divine Names"
         },
         {
-          "emblem_id": "142",
+          "emblem_id": 142,
           "link_type": "symbolic",
           "explanation": "Strong thematic and operational alignment with Divine Names"
         },
         {
-          "emblem_id": "143",
+          "emblem_id": 143,
           "link_type": "symbolic",
           "explanation": "Strong thematic and operational alignment with Divine Names"
         }
@@ -6193,17 +6193,17 @@
       "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Alchemical_Mystical_Union.jpg",
       "emblem_links": [
         {
-          "emblem_id": "121",
+          "emblem_id": 121,
           "link_type": "symbolic",
           "explanation": "Strong thematic and operational alignment with Mystical Union"
         },
         {
-          "emblem_id": "141",
+          "emblem_id": 141,
           "link_type": "symbolic",
           "explanation": "Strong thematic and operational alignment with Mystical Union"
         },
         {
-          "emblem_id": "142",
+          "emblem_id": 142,
           "link_type": "symbolic",
           "explanation": "Strong thematic and operational alignment with Mystical Union"
         }
@@ -6227,17 +6227,17 @@
       "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Alchemical_Regeneration.jpg",
       "emblem_links": [
         {
-          "emblem_id": "141",
+          "emblem_id": 141,
           "link_type": "symbolic",
           "explanation": "Strong thematic and operational alignment with Regeneration"
         },
         {
-          "emblem_id": "142",
+          "emblem_id": 142,
           "link_type": "symbolic",
           "explanation": "Strong thematic and operational alignment with Regeneration"
         },
         {
-          "emblem_id": "143",
+          "emblem_id": 143,
           "link_type": "symbolic",
           "explanation": "Strong thematic and operational alignment with Regeneration"
         }
@@ -6254,17 +6254,17 @@
       "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Alchemist_Laboratory_Practice.jpg",
       "emblem_links": [
         {
-          "emblem_id": "141",
+          "emblem_id": 141,
           "link_type": "symbolic",
           "explanation": "Strong thematic and operational alignment with Embodied Knowledge"
         },
         {
-          "emblem_id": "142",
+          "emblem_id": 142,
           "link_type": "symbolic",
           "explanation": "Strong thematic and operational alignment with Embodied Knowledge"
         },
         {
-          "emblem_id": "143",
+          "emblem_id": 143,
           "link_type": "symbolic",
           "explanation": "Strong thematic and operational alignment with Embodied Knowledge"
         }
@@ -6281,17 +6281,17 @@
       "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Agrippa_Hermetic_Correspondences.jpg",
       "emblem_links": [
         {
-          "emblem_id": "141",
+          "emblem_id": 141,
           "link_type": "symbolic",
           "explanation": "Strong thematic and operational alignment with Hermetic Correspondence"
         },
         {
-          "emblem_id": "142",
+          "emblem_id": 142,
           "link_type": "symbolic",
           "explanation": "Strong thematic and operational alignment with Hermetic Correspondence"
         },
         {
-          "emblem_id": "143",
+          "emblem_id": 143,
           "link_type": "symbolic",
           "explanation": "Strong thematic and operational alignment with Hermetic Correspondence"
         }
@@ -6330,17 +6330,17 @@
       "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Alchemical_Sublimation.jpg",
       "emblem_links": [
         {
-          "emblem_id": "101",
+          "emblem_id": 101,
           "link_type": "exemplifies",
           "explanation": "Strong thematic and operational alignment with Sublimation"
         },
         {
-          "emblem_id": "105",
+          "emblem_id": 105,
           "link_type": "exemplifies",
           "explanation": "Strong thematic and operational alignment with Sublimation"
         },
         {
-          "emblem_id": "117",
+          "emblem_id": 117,
           "link_type": "symbolic",
           "explanation": "Strong thematic and operational alignment with Sublimation"
         }
@@ -6380,17 +6380,17 @@
       "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Paracelsian_Correspondence.jpg",
       "emblem_links": [
         {
-          "emblem_id": "104",
+          "emblem_id": 104,
           "link_type": "exemplifies",
           "explanation": "Strong thematic and operational alignment with Correspondence"
         },
         {
-          "emblem_id": "124",
+          "emblem_id": 124,
           "link_type": "exemplifies",
           "explanation": "Strong thematic and operational alignment with Correspondence"
         },
         {
-          "emblem_id": "141",
+          "emblem_id": 141,
           "link_type": "symbolic",
           "explanation": "Strong thematic and operational alignment with Correspondence"
         }
@@ -6423,17 +6423,17 @@
       "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Alchemical_Interior_Work.jpg",
       "emblem_links": [
         {
-          "emblem_id": "141",
+          "emblem_id": 141,
           "link_type": "symbolic",
           "explanation": "Strong thematic and operational alignment with Interior Work"
         },
         {
-          "emblem_id": "142",
+          "emblem_id": 142,
           "link_type": "symbolic",
           "explanation": "Strong thematic and operational alignment with Interior Work"
         },
         {
-          "emblem_id": "143",
+          "emblem_id": 143,
           "link_type": "symbolic",
           "explanation": "Strong thematic and operational alignment with Interior Work"
         }
@@ -6507,7 +6507,7 @@
       "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Splendor_Solis_alchemical_colors.jpg",
       "emblem_links": [
         {
-          "emblem_id": "153",
+          "emblem_id": 153,
           "link_type": "symbolic",
           "explanation": "Strong thematic and operational alignment with Color Symbolism"
         },
@@ -6517,7 +6517,7 @@
           "explanation": "Strong thematic and operational alignment with Color Symbolism"
         },
         {
-          "emblem_id": "120",
+          "emblem_id": 120,
           "link_type": "symbolic",
           "explanation": "Strong thematic and operational alignment with Color Symbolism"
         }
@@ -6546,17 +6546,17 @@
       "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Alchemical_Multiplicity_and_Return.jpg",
       "emblem_links": [
         {
-          "emblem_id": "141",
+          "emblem_id": 141,
           "link_type": "symbolic",
           "explanation": "Strong thematic and operational alignment with Multiplicity and Return"
         },
         {
-          "emblem_id": "142",
+          "emblem_id": 142,
           "link_type": "symbolic",
           "explanation": "Strong thematic and operational alignment with Multiplicity and Return"
         },
         {
-          "emblem_id": "143",
+          "emblem_id": 143,
           "link_type": "symbolic",
           "explanation": "Strong thematic and operational alignment with Multiplicity and Return"
         }
@@ -6597,17 +6597,17 @@
       "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Alchemical_Spagyria_/_Spagyric_Art.jpg",
       "emblem_links": [
         {
-          "emblem_id": "141",
+          "emblem_id": 141,
           "link_type": "symbolic",
           "explanation": "Strong thematic and operational alignment with Spagyria / Spagyric Art"
         },
         {
-          "emblem_id": "142",
+          "emblem_id": 142,
           "link_type": "symbolic",
           "explanation": "Strong thematic and operational alignment with Spagyria / Spagyric Art"
         },
         {
-          "emblem_id": "143",
+          "emblem_id": 143,
           "link_type": "symbolic",
           "explanation": "Strong thematic and operational alignment with Spagyria / Spagyric Art"
         }
@@ -6636,17 +6636,17 @@
       "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Paracelsian_Astral_Body.jpg",
       "emblem_links": [
         {
-          "emblem_id": "141",
+          "emblem_id": 141,
           "link_type": "symbolic",
           "explanation": "Strong thematic and operational alignment with Ens Astralis / Astral Disease"
         },
         {
-          "emblem_id": "142",
+          "emblem_id": 142,
           "link_type": "symbolic",
           "explanation": "Strong thematic and operational alignment with Ens Astralis / Astral Disease"
         },
         {
-          "emblem_id": "143",
+          "emblem_id": 143,
           "link_type": "symbolic",
           "explanation": "Strong thematic and operational alignment with Ens Astralis / Astral Disease"
         }
@@ -6675,17 +6675,17 @@
       "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Paracelsian_Archei_Formative.jpg",
       "emblem_links": [
         {
-          "emblem_id": "141",
+          "emblem_id": 141,
           "link_type": "symbolic",
           "explanation": "Strong thematic and operational alignment with Archei / Formative Principles"
         },
         {
-          "emblem_id": "142",
+          "emblem_id": 142,
           "link_type": "symbolic",
           "explanation": "Strong thematic and operational alignment with Archei / Formative Principles"
         },
         {
-          "emblem_id": "143",
+          "emblem_id": 143,
           "link_type": "symbolic",
           "explanation": "Strong thematic and operational alignment with Archei / Formative Principles"
         }
@@ -6713,17 +6713,17 @@
       "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Bruegel_Alchemist_1558.jpg",
       "emblem_links": [
         {
-          "emblem_id": "141",
+          "emblem_id": 141,
           "link_type": "symbolic",
           "explanation": "Strong thematic and operational alignment with Calcination"
         },
         {
-          "emblem_id": "142",
+          "emblem_id": 142,
           "link_type": "symbolic",
           "explanation": "Strong thematic and operational alignment with Calcination"
         },
         {
-          "emblem_id": "143",
+          "emblem_id": 143,
           "link_type": "symbolic",
           "explanation": "Strong thematic and operational alignment with Calcination"
         }
@@ -6744,17 +6744,17 @@
       "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Alchemical_Quintessence_/_Quinta_Essentia.jpg",
       "emblem_links": [
         {
-          "emblem_id": "141",
+          "emblem_id": 141,
           "link_type": "symbolic",
           "explanation": "Strong thematic and operational alignment with Quintessence / Quinta Essentia"
         },
         {
-          "emblem_id": "142",
+          "emblem_id": 142,
           "link_type": "symbolic",
           "explanation": "Strong thematic and operational alignment with Quintessence / Quinta Essentia"
         },
         {
-          "emblem_id": "143",
+          "emblem_id": 143,
           "link_type": "symbolic",
           "explanation": "Strong thematic and operational alignment with Quintessence / Quinta Essentia"
         }
@@ -6783,17 +6783,17 @@
       "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Alchemical_Iatrochemistry_/_Chemical_Medicine.jpg",
       "emblem_links": [
         {
-          "emblem_id": "141",
+          "emblem_id": 141,
           "link_type": "symbolic",
           "explanation": "Strong thematic and operational alignment with Iatrochemistry / Chemical Medicine"
         },
         {
-          "emblem_id": "142",
+          "emblem_id": 142,
           "link_type": "symbolic",
           "explanation": "Strong thematic and operational alignment with Iatrochemistry / Chemical Medicine"
         },
         {
-          "emblem_id": "143",
+          "emblem_id": 143,
           "link_type": "symbolic",
           "explanation": "Strong thematic and operational alignment with Iatrochemistry / Chemical Medicine"
         }
@@ -6814,17 +6814,17 @@
       "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Alchemical_Magistery_/_Magister.jpg",
       "emblem_links": [
         {
-          "emblem_id": "141",
+          "emblem_id": 141,
           "link_type": "symbolic",
           "explanation": "Strong thematic and operational alignment with Magistery / Magister"
         },
         {
-          "emblem_id": "142",
+          "emblem_id": 142,
           "link_type": "symbolic",
           "explanation": "Strong thematic and operational alignment with Magistery / Magister"
         },
         {
-          "emblem_id": "143",
+          "emblem_id": 143,
           "link_type": "symbolic",
           "explanation": "Strong thematic and operational alignment with Magistery / Magister"
         }
@@ -6848,17 +6848,17 @@
       "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Alchemical_Liquor_Potassae_/_Potassium_Compounds.jpg",
       "emblem_links": [
         {
-          "emblem_id": "141",
+          "emblem_id": 141,
           "link_type": "symbolic",
           "explanation": "Strong thematic and operational alignment with Liquor Potassae / Potassium Compounds"
         },
         {
-          "emblem_id": "142",
+          "emblem_id": 142,
           "link_type": "symbolic",
           "explanation": "Strong thematic and operational alignment with Liquor Potassae / Potassium Compounds"
         },
         {
-          "emblem_id": "143",
+          "emblem_id": 143,
           "link_type": "symbolic",
           "explanation": "Strong thematic and operational alignment with Liquor Potassae / Potassium Compounds"
         }
@@ -6880,17 +6880,17 @@
       "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Alchemical_Mercurius_Duplicatus_/_Philosophical_Mercury.jpg",
       "emblem_links": [
         {
-          "emblem_id": "141",
+          "emblem_id": 141,
           "link_type": "symbolic",
           "explanation": "Strong thematic and operational alignment with Mercurius Duplicatus / Philosophical Mercury"
         },
         {
-          "emblem_id": "142",
+          "emblem_id": 142,
           "link_type": "symbolic",
           "explanation": "Strong thematic and operational alignment with Mercurius Duplicatus / Philosophical Mercury"
         },
         {
-          "emblem_id": "143",
+          "emblem_id": 143,
           "link_type": "symbolic",
           "explanation": "Strong thematic and operational alignment with Mercurius Duplicatus / Philosophical Mercury"
         }
@@ -6912,17 +6912,17 @@
       "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Alchemical_Sulphur_Principle_/_Philosophical_Sulphur.jpg",
       "emblem_links": [
         {
-          "emblem_id": "141",
+          "emblem_id": 141,
           "link_type": "symbolic",
           "explanation": "Strong thematic and operational alignment with Sulphur Principle / Philosophical Sulphur"
         },
         {
-          "emblem_id": "142",
+          "emblem_id": 142,
           "link_type": "symbolic",
           "explanation": "Strong thematic and operational alignment with Sulphur Principle / Philosophical Sulphur"
         },
         {
-          "emblem_id": "143",
+          "emblem_id": 143,
           "link_type": "symbolic",
           "explanation": "Strong thematic and operational alignment with Sulphur Principle / Philosophical Sulphur"
         }
@@ -6944,17 +6944,17 @@
       "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Alchemical_Salt_/_Philosophical_Salt.jpg",
       "emblem_links": [
         {
-          "emblem_id": "141",
+          "emblem_id": 141,
           "link_type": "symbolic",
           "explanation": "Strong thematic and operational alignment with Salt / Philosophical Salt"
         },
         {
-          "emblem_id": "142",
+          "emblem_id": 142,
           "link_type": "symbolic",
           "explanation": "Strong thematic and operational alignment with Salt / Philosophical Salt"
         },
         {
-          "emblem_id": "143",
+          "emblem_id": 143,
           "link_type": "symbolic",
           "explanation": "Strong thematic and operational alignment with Salt / Philosophical Salt"
         }
@@ -9602,7 +9602,34 @@
           "relevance": "secondary"
         }
       ],
-      "image_url": "https://wellcomecollection.org/works/d4pc2pcu"
+      "image_url": "https://wellcomecollection.org/works/d4pc2pcu",
+      "concept_links": [
+        {
+          "concept_id": 8,
+          "concept_name": "Correspondentia",
+          "link_type": "exemplifies"
+        },
+        {
+          "concept_id": 15,
+          "concept_name": "Distillation",
+          "link_type": "exemplifies"
+        },
+        {
+          "concept_id": 22,
+          "concept_name": "Mercury Philosophical",
+          "link_type": "exemplifies"
+        },
+        {
+          "concept_id": 40,
+          "concept_name": "Great Work",
+          "link_type": "symbolic"
+        },
+        {
+          "concept_id": 51,
+          "concept_name": "Sublimation",
+          "link_type": "exemplifies"
+        }
+      ]
     },
     {
       "id": 102,
@@ -9653,7 +9680,29 @@
           "relevance": "secondary"
         }
       ],
-      "image_url": "https://wellcomecollection.org/works/d4pc2pcu"
+      "image_url": "https://wellcomecollection.org/works/d4pc2pcu",
+      "concept_links": [
+        {
+          "concept_id": 5,
+          "concept_name": "Hieros Gamos",
+          "link_type": "exemplifies"
+        },
+        {
+          "concept_id": 14,
+          "concept_name": "Fermentation",
+          "link_type": "exemplifies"
+        },
+        {
+          "concept_id": 27,
+          "concept_name": "Divine Imagination",
+          "link_type": "exemplifies"
+        },
+        {
+          "concept_id": 40,
+          "concept_name": "Great Work",
+          "link_type": "symbolic"
+        }
+      ]
     },
     {
       "id": 103,
@@ -9704,7 +9753,29 @@
           "relevance": "secondary"
         }
       ],
-      "image_url": "https://wellcomecollection.org/works/d4pc2pcu"
+      "image_url": "https://wellcomecollection.org/works/d4pc2pcu",
+      "concept_links": [
+        {
+          "concept_id": 1,
+          "concept_name": "Nigredo",
+          "link_type": "exemplifies"
+        },
+        {
+          "concept_id": 18,
+          "concept_name": "Quintessence",
+          "link_type": "exemplifies"
+        },
+        {
+          "concept_id": 26,
+          "concept_name": "Macrocosm-Microcosm",
+          "link_type": "exemplifies"
+        },
+        {
+          "concept_id": 40,
+          "concept_name": "Great Work",
+          "link_type": "symbolic"
+        }
+      ]
     },
     {
       "id": 104,
@@ -9755,7 +9826,29 @@
           "relevance": "secondary"
         }
       ],
-      "image_url": "https://wellcomecollection.org/works/d4pc2pcu"
+      "image_url": "https://wellcomecollection.org/works/d4pc2pcu",
+      "concept_links": [
+        {
+          "concept_id": 12,
+          "concept_name": "Dissolution",
+          "link_type": "exemplifies"
+        },
+        {
+          "concept_id": 19,
+          "concept_name": "Tincture",
+          "link_type": "exemplifies"
+        },
+        {
+          "concept_id": 24,
+          "concept_name": "Salt Philosophical",
+          "link_type": "exemplifies"
+        },
+        {
+          "concept_id": 53,
+          "concept_name": "Correspondence",
+          "link_type": "exemplifies"
+        }
+      ]
     },
     {
       "id": 105,
@@ -9806,7 +9899,29 @@
           "relevance": "secondary"
         }
       ],
-      "image_url": "https://wellcomecollection.org/works/d4pc2pcu"
+      "image_url": "https://wellcomecollection.org/works/d4pc2pcu",
+      "concept_links": [
+        {
+          "concept_id": 2,
+          "concept_name": "Albedo",
+          "link_type": "exemplifies"
+        },
+        {
+          "concept_id": 11,
+          "concept_name": "Calcinatio",
+          "link_type": "exemplifies"
+        },
+        {
+          "concept_id": 25,
+          "concept_name": "Emanation",
+          "link_type": "exemplifies"
+        },
+        {
+          "concept_id": 51,
+          "concept_name": "Sublimation",
+          "link_type": "exemplifies"
+        }
+      ]
     },
     {
       "id": 106,
@@ -9857,7 +9972,24 @@
           "relevance": "secondary"
         }
       ],
-      "image_url": "https://wellcomecollection.org/works/d4pc2pcu"
+      "image_url": "https://wellcomecollection.org/works/d4pc2pcu",
+      "concept_links": [
+        {
+          "concept_id": 6,
+          "concept_name": "Lapis Philosophorum",
+          "link_type": "exemplifies"
+        },
+        {
+          "concept_id": 13,
+          "concept_name": "Coagulation",
+          "link_type": "exemplifies"
+        },
+        {
+          "concept_id": 20,
+          "concept_name": "Elixir of Life",
+          "link_type": "exemplifies"
+        }
+      ]
     },
     {
       "id": 107,
@@ -9908,7 +10040,24 @@
           "relevance": "secondary"
         }
       ],
-      "image_url": "https://wellcomecollection.org/works/d4pc2pcu"
+      "image_url": "https://wellcomecollection.org/works/d4pc2pcu",
+      "concept_links": [
+        {
+          "concept_id": 3,
+          "concept_name": "Rubedo",
+          "link_type": "exemplifies"
+        },
+        {
+          "concept_id": 10,
+          "concept_name": "Quaternio",
+          "link_type": "exemplifies"
+        },
+        {
+          "concept_id": 17,
+          "concept_name": "Universal Solvent",
+          "link_type": "exemplifies"
+        }
+      ]
     },
     {
       "id": 108,
@@ -9959,7 +10108,24 @@
           "relevance": "secondary"
         }
       ],
-      "image_url": "https://wellcomecollection.org/works/d4pc2pcu"
+      "image_url": "https://wellcomecollection.org/works/d4pc2pcu",
+      "concept_links": [
+        {
+          "concept_id": 4,
+          "concept_name": "Theosis",
+          "link_type": "exemplifies"
+        },
+        {
+          "concept_id": 9,
+          "concept_name": "Putrefactio",
+          "link_type": "exemplifies"
+        },
+        {
+          "concept_id": 16,
+          "concept_name": "Hermetic Principle",
+          "link_type": "exemplifies"
+        }
+      ]
     },
     {
       "id": 109,
@@ -10010,7 +10176,24 @@
           "relevance": "secondary"
         }
       ],
-      "image_url": "https://wellcomecollection.org/works/d4pc2pcu"
+      "image_url": "https://wellcomecollection.org/works/d4pc2pcu",
+      "concept_links": [
+        {
+          "concept_id": 7,
+          "concept_name": "Rosy Cross",
+          "link_type": "exemplifies"
+        },
+        {
+          "concept_id": 14,
+          "concept_name": "Fermentation",
+          "link_type": "exemplifies"
+        },
+        {
+          "concept_id": 21,
+          "concept_name": "Citrinitas",
+          "link_type": "exemplifies"
+        }
+      ]
     },
     {
       "id": 110,
@@ -10061,7 +10244,24 @@
           "relevance": "secondary"
         }
       ],
-      "image_url": "https://wellcomecollection.org/works/d4pc2pcu"
+      "image_url": "https://wellcomecollection.org/works/d4pc2pcu",
+      "concept_links": [
+        {
+          "concept_id": 2,
+          "concept_name": "Albedo",
+          "link_type": "exemplifies"
+        },
+        {
+          "concept_id": 8,
+          "concept_name": "Correspondentia",
+          "link_type": "exemplifies"
+        },
+        {
+          "concept_id": 15,
+          "concept_name": "Distillation",
+          "link_type": "exemplifies"
+        }
+      ]
     },
     {
       "id": 111,
@@ -10112,7 +10312,24 @@
           "relevance": "secondary"
         }
       ],
-      "image_url": "https://wellcomecollection.org/works/d4pc2pcu"
+      "image_url": "https://wellcomecollection.org/works/d4pc2pcu",
+      "concept_links": [
+        {
+          "concept_id": 5,
+          "concept_name": "Hieros Gamos",
+          "link_type": "exemplifies"
+        },
+        {
+          "concept_id": 11,
+          "concept_name": "Calcinatio",
+          "link_type": "exemplifies"
+        },
+        {
+          "concept_id": 18,
+          "concept_name": "Quintessence",
+          "link_type": "exemplifies"
+        }
+      ]
     },
     {
       "id": 112,
@@ -10163,7 +10380,24 @@
           "relevance": "secondary"
         }
       ],
-      "image_url": "https://wellcomecollection.org/works/d4pc2pcu"
+      "image_url": "https://wellcomecollection.org/works/d4pc2pcu",
+      "concept_links": [
+        {
+          "concept_id": 2,
+          "concept_name": "Albedo",
+          "link_type": "exemplifies"
+        },
+        {
+          "concept_id": 9,
+          "concept_name": "Putrefactio",
+          "link_type": "exemplifies"
+        },
+        {
+          "concept_id": 16,
+          "concept_name": "Hermetic Principle",
+          "link_type": "exemplifies"
+        }
+      ]
     },
     {
       "id": 113,
@@ -10214,7 +10448,24 @@
           "relevance": "secondary"
         }
       ],
-      "image_url": "https://wellcomecollection.org/works/d4pc2pcu"
+      "image_url": "https://wellcomecollection.org/works/d4pc2pcu",
+      "concept_links": [
+        {
+          "concept_id": 1,
+          "concept_name": "Nigredo",
+          "link_type": "exemplifies"
+        },
+        {
+          "concept_id": 6,
+          "concept_name": "Lapis Philosophorum",
+          "link_type": "exemplifies"
+        },
+        {
+          "concept_id": 11,
+          "concept_name": "Calcinatio",
+          "link_type": "exemplifies"
+        }
+      ]
     },
     {
       "id": 114,
@@ -10265,7 +10516,24 @@
           "relevance": "secondary"
         }
       ],
-      "image_url": "https://wellcomecollection.org/works/d4pc2pcu"
+      "image_url": "https://wellcomecollection.org/works/d4pc2pcu",
+      "concept_links": [
+        {
+          "concept_id": 3,
+          "concept_name": "Rubedo",
+          "link_type": "exemplifies"
+        },
+        {
+          "concept_id": 13,
+          "concept_name": "Coagulation",
+          "link_type": "exemplifies"
+        },
+        {
+          "concept_id": 22,
+          "concept_name": "Mercury Philosophical",
+          "link_type": "exemplifies"
+        }
+      ]
     },
     {
       "id": 115,
@@ -10316,7 +10584,14 @@
           "relevance": "secondary"
         }
       ],
-      "image_url": "https://wellcomecollection.org/works/d4pc2pcu"
+      "image_url": "https://wellcomecollection.org/works/d4pc2pcu",
+      "concept_links": [
+        {
+          "concept_id": 25,
+          "concept_name": "Emanation",
+          "link_type": "exemplifies"
+        }
+      ]
     },
     {
       "id": 116,
@@ -10367,7 +10642,24 @@
           "relevance": "secondary"
         }
       ],
-      "image_url": "https://wellcomecollection.org/works/d4pc2pcu"
+      "image_url": "https://wellcomecollection.org/works/d4pc2pcu",
+      "concept_links": [
+        {
+          "concept_id": 12,
+          "concept_name": "Dissolution",
+          "link_type": "exemplifies"
+        },
+        {
+          "concept_id": 19,
+          "concept_name": "Tincture",
+          "link_type": "exemplifies"
+        },
+        {
+          "concept_id": 24,
+          "concept_name": "Salt Philosophical",
+          "link_type": "exemplifies"
+        }
+      ]
     },
     {
       "id": 117,
@@ -10418,7 +10710,29 @@
           "relevance": "secondary"
         }
       ],
-      "image_url": "https://wellcomecollection.org/works/d4pc2pcu"
+      "image_url": "https://wellcomecollection.org/works/d4pc2pcu",
+      "concept_links": [
+        {
+          "concept_id": 7,
+          "concept_name": "Rosy Cross",
+          "link_type": "exemplifies"
+        },
+        {
+          "concept_id": 15,
+          "concept_name": "Distillation",
+          "link_type": "exemplifies"
+        },
+        {
+          "concept_id": 21,
+          "concept_name": "Citrinitas",
+          "link_type": "exemplifies"
+        },
+        {
+          "concept_id": 51,
+          "concept_name": "Sublimation",
+          "link_type": "symbolic"
+        }
+      ]
     },
     {
       "id": 118,
@@ -10469,7 +10783,24 @@
           "relevance": "secondary"
         }
       ],
-      "image_url": "https://wellcomecollection.org/works/d4pc2pcu"
+      "image_url": "https://wellcomecollection.org/works/d4pc2pcu",
+      "concept_links": [
+        {
+          "concept_id": 5,
+          "concept_name": "Hieros Gamos",
+          "link_type": "exemplifies"
+        },
+        {
+          "concept_id": 14,
+          "concept_name": "Fermentation",
+          "link_type": "exemplifies"
+        },
+        {
+          "concept_id": 27,
+          "concept_name": "Divine Imagination",
+          "link_type": "exemplifies"
+        }
+      ]
     },
     {
       "id": 119,
@@ -10520,7 +10851,24 @@
           "relevance": "secondary"
         }
       ],
-      "image_url": "https://wellcomecollection.org/works/d4pc2pcu"
+      "image_url": "https://wellcomecollection.org/works/d4pc2pcu",
+      "concept_links": [
+        {
+          "concept_id": 1,
+          "concept_name": "Nigredo",
+          "link_type": "exemplifies"
+        },
+        {
+          "concept_id": 18,
+          "concept_name": "Quintessence",
+          "link_type": "exemplifies"
+        },
+        {
+          "concept_id": 26,
+          "concept_name": "Macrocosm-Microcosm",
+          "link_type": "exemplifies"
+        }
+      ]
     },
     {
       "id": 120,
@@ -10571,7 +10919,19 @@
           "relevance": "secondary"
         }
       ],
-      "image_url": "https://wellcomecollection.org/works/d4pc2pcu"
+      "image_url": "https://wellcomecollection.org/works/d4pc2pcu",
+      "concept_links": [
+        {
+          "concept_id": 8,
+          "concept_name": "Correspondentia",
+          "link_type": "exemplifies"
+        },
+        {
+          "concept_id": 57,
+          "concept_name": "Color Symbolism",
+          "link_type": "symbolic"
+        }
+      ]
     },
     {
       "id": 121,
@@ -10622,7 +10982,29 @@
           "relevance": "secondary"
         }
       ],
-      "image_url": "https://wellcomecollection.org/works/d4pc2pcu"
+      "image_url": "https://wellcomecollection.org/works/d4pc2pcu",
+      "concept_links": [
+        {
+          "concept_id": 6,
+          "concept_name": "Lapis Philosophorum",
+          "link_type": "exemplifies"
+        },
+        {
+          "concept_id": 13,
+          "concept_name": "Coagulation",
+          "link_type": "exemplifies"
+        },
+        {
+          "concept_id": 20,
+          "concept_name": "Elixir of Life",
+          "link_type": "exemplifies"
+        },
+        {
+          "concept_id": 47,
+          "concept_name": "Mystical Union",
+          "link_type": "symbolic"
+        }
+      ]
     },
     {
       "id": 122,
@@ -10673,7 +11055,24 @@
           "relevance": "secondary"
         }
       ],
-      "image_url": "https://wellcomecollection.org/works/d4pc2pcu"
+      "image_url": "https://wellcomecollection.org/works/d4pc2pcu",
+      "concept_links": [
+        {
+          "concept_id": 4,
+          "concept_name": "Theosis",
+          "link_type": "exemplifies"
+        },
+        {
+          "concept_id": 10,
+          "concept_name": "Quaternio",
+          "link_type": "exemplifies"
+        },
+        {
+          "concept_id": 17,
+          "concept_name": "Universal Solvent",
+          "link_type": "exemplifies"
+        }
+      ]
     },
     {
       "id": 123,
@@ -10724,7 +11123,14 @@
           "relevance": "secondary"
         }
       ],
-      "image_url": "https://wellcomecollection.org/works/d4pc2pcu"
+      "image_url": "https://wellcomecollection.org/works/d4pc2pcu",
+      "concept_links": [
+        {
+          "concept_id": 7,
+          "concept_name": "Rosy Cross",
+          "link_type": "exemplifies"
+        }
+      ]
     },
     {
       "id": 124,
@@ -10775,7 +11181,29 @@
           "relevance": "secondary"
         }
       ],
-      "image_url": "https://wellcomecollection.org/works/d4pc2pcu"
+      "image_url": "https://wellcomecollection.org/works/d4pc2pcu",
+      "concept_links": [
+        {
+          "concept_id": 3,
+          "concept_name": "Rubedo",
+          "link_type": "exemplifies"
+        },
+        {
+          "concept_id": 9,
+          "concept_name": "Putrefactio",
+          "link_type": "exemplifies"
+        },
+        {
+          "concept_id": 20,
+          "concept_name": "Elixir of Life",
+          "link_type": "exemplifies"
+        },
+        {
+          "concept_id": 53,
+          "concept_name": "Correspondence",
+          "link_type": "exemplifies"
+        }
+      ]
     },
     {
       "id": 125,
@@ -10826,7 +11254,14 @@
           "relevance": "secondary"
         }
       ],
-      "image_url": "https://wellcomecollection.org/works/d4pc2pcu"
+      "image_url": "https://wellcomecollection.org/works/d4pc2pcu",
+      "concept_links": [
+        {
+          "concept_id": 22,
+          "concept_name": "Mercury Philosophical",
+          "link_type": "exemplifies"
+        }
+      ]
     },
     {
       "id": 126,
@@ -10877,7 +11312,24 @@
           "relevance": "secondary"
         }
       ],
-      "image_url": "https://wellcomecollection.org/works/d4pc2pcu"
+      "image_url": "https://wellcomecollection.org/works/d4pc2pcu",
+      "concept_links": [
+        {
+          "concept_id": 12,
+          "concept_name": "Dissolution",
+          "link_type": "exemplifies"
+        },
+        {
+          "concept_id": 19,
+          "concept_name": "Tincture",
+          "link_type": "exemplifies"
+        },
+        {
+          "concept_id": 24,
+          "concept_name": "Salt Philosophical",
+          "link_type": "exemplifies"
+        }
+      ]
     },
     {
       "id": 127,
@@ -10928,7 +11380,19 @@
           "relevance": "secondary"
         }
       ],
-      "image_url": "https://wellcomecollection.org/works/d4pc2pcu"
+      "image_url": "https://wellcomecollection.org/works/d4pc2pcu",
+      "concept_links": [
+        {
+          "concept_id": 4,
+          "concept_name": "Theosis",
+          "link_type": "exemplifies"
+        },
+        {
+          "concept_id": 30,
+          "concept_name": "Spiritual Alchemy",
+          "link_type": "symbolic"
+        }
+      ]
     },
     {
       "id": 128,
@@ -10979,7 +11443,14 @@
           "relevance": "secondary"
         }
       ],
-      "image_url": "https://wellcomecollection.org/works/d4pc2pcu"
+      "image_url": "https://wellcomecollection.org/works/d4pc2pcu",
+      "concept_links": [
+        {
+          "concept_id": 16,
+          "concept_name": "Hermetic Principle",
+          "link_type": "exemplifies"
+        }
+      ]
     },
     {
       "id": 129,
@@ -11081,7 +11552,14 @@
           "relevance": "secondary"
         }
       ],
-      "image_url": "https://wellcomecollection.org/works/d4pc2pcu"
+      "image_url": "https://wellcomecollection.org/works/d4pc2pcu",
+      "concept_links": [
+        {
+          "concept_id": 21,
+          "concept_name": "Citrinitas",
+          "link_type": "exemplifies"
+        }
+      ]
     },
     {
       "id": 131,
@@ -11234,7 +11712,14 @@
           "relevance": "secondary"
         }
       ],
-      "image_url": "https://wellcomecollection.org/works/d4pc2pcu"
+      "image_url": "https://wellcomecollection.org/works/d4pc2pcu",
+      "concept_links": [
+        {
+          "concept_id": 26,
+          "concept_name": "Macrocosm-Microcosm",
+          "link_type": "exemplifies"
+        }
+      ]
     },
     {
       "id": 134,
@@ -11285,7 +11770,14 @@
           "relevance": "secondary"
         }
       ],
-      "image_url": "https://wellcomecollection.org/works/d4pc2pcu"
+      "image_url": "https://wellcomecollection.org/works/d4pc2pcu",
+      "concept_links": [
+        {
+          "concept_id": 27,
+          "concept_name": "Divine Imagination",
+          "link_type": "exemplifies"
+        }
+      ]
     },
     {
       "id": 135,
@@ -11336,7 +11828,14 @@
           "relevance": "secondary"
         }
       ],
-      "image_url": "https://wellcomecollection.org/works/d4pc2pcu"
+      "image_url": "https://wellcomecollection.org/works/d4pc2pcu",
+      "concept_links": [
+        {
+          "concept_id": 25,
+          "concept_name": "Emanation",
+          "link_type": "exemplifies"
+        }
+      ]
     },
     {
       "id": 136,
@@ -11489,7 +11988,24 @@
           "relevance": "secondary"
         }
       ],
-      "image_url": "https://wellcomecollection.org/works/d4pc2pcu"
+      "image_url": "https://wellcomecollection.org/works/d4pc2pcu",
+      "concept_links": [
+        {
+          "concept_id": 10,
+          "concept_name": "Quaternio",
+          "link_type": "exemplifies"
+        },
+        {
+          "concept_id": 17,
+          "concept_name": "Universal Solvent",
+          "link_type": "exemplifies"
+        },
+        {
+          "concept_id": 30,
+          "concept_name": "Spiritual Alchemy",
+          "link_type": "symbolic"
+        }
+      ]
     },
     {
       "id": 139,
@@ -11646,7 +12162,179 @@
           "relevance": "secondary"
         }
       ],
-      "image_url": "https://furnaceandfugue.org/assets/img/emblem-images_cropped/1600/emblem01.1600.jpg"
+      "image_url": "https://furnaceandfugue.org/assets/img/emblem-images_cropped/1600/emblem01.1600.jpg",
+      "concept_links": [
+        {
+          "concept_id": 28,
+          "concept_name": "Invisible Brethren",
+          "link_type": "symbolic"
+        },
+        {
+          "concept_id": 29,
+          "concept_name": "Universal Reform",
+          "link_type": "symbolic"
+        },
+        {
+          "concept_id": 30,
+          "concept_name": "Spiritual Alchemy",
+          "link_type": "symbolic"
+        },
+        {
+          "concept_id": 31,
+          "concept_name": "Laboratory Alchemy",
+          "link_type": "symbolic"
+        },
+        {
+          "concept_id": 32,
+          "concept_name": "Spagyric Art",
+          "link_type": "symbolic"
+        },
+        {
+          "concept_id": 33,
+          "concept_name": "Iatrochemistry",
+          "link_type": "symbolic"
+        },
+        {
+          "concept_id": 35,
+          "concept_name": "Grades of Initiation",
+          "link_type": "symbolic"
+        },
+        {
+          "concept_id": 36,
+          "concept_name": "Secret Doctrine",
+          "link_type": "symbolic"
+        },
+        {
+          "concept_id": 37,
+          "concept_name": "Enlightenment",
+          "link_type": "symbolic"
+        },
+        {
+          "concept_id": 38,
+          "concept_name": "Theurgy",
+          "link_type": "symbolic"
+        },
+        {
+          "concept_id": 39,
+          "concept_name": "Henosis",
+          "link_type": "symbolic"
+        },
+        {
+          "concept_id": 41,
+          "concept_name": "Inner Transformation",
+          "link_type": "symbolic"
+        },
+        {
+          "concept_id": 42,
+          "concept_name": "Hermetic Spirituality",
+          "link_type": "symbolic"
+        },
+        {
+          "concept_id": 44,
+          "concept_name": "Theurgic Practice",
+          "link_type": "symbolic"
+        },
+        {
+          "concept_id": 45,
+          "concept_name": "Spiritual Chemistry",
+          "link_type": "symbolic"
+        },
+        {
+          "concept_id": 46,
+          "concept_name": "Divine Names",
+          "link_type": "symbolic"
+        },
+        {
+          "concept_id": 47,
+          "concept_name": "Mystical Union",
+          "link_type": "symbolic"
+        },
+        {
+          "concept_id": 48,
+          "concept_name": "Regeneration",
+          "link_type": "symbolic"
+        },
+        {
+          "concept_id": 49,
+          "concept_name": "Embodied Knowledge",
+          "link_type": "symbolic"
+        },
+        {
+          "concept_id": 50,
+          "concept_name": "Hermetic Correspondence",
+          "link_type": "symbolic"
+        },
+        {
+          "concept_id": 53,
+          "concept_name": "Correspondence",
+          "link_type": "symbolic"
+        },
+        {
+          "concept_id": 55,
+          "concept_name": "Interior Work",
+          "link_type": "symbolic"
+        },
+        {
+          "concept_id": 60,
+          "concept_name": "Multiplicity and Return",
+          "link_type": "symbolic"
+        },
+        {
+          "concept_id": 61,
+          "concept_name": "Spagyria / Spagyric Art",
+          "link_type": "symbolic"
+        },
+        {
+          "concept_id": 62,
+          "concept_name": "Ens Astralis / Astral Disease",
+          "link_type": "symbolic"
+        },
+        {
+          "concept_id": 63,
+          "concept_name": "Archei / Formative Principles",
+          "link_type": "symbolic"
+        },
+        {
+          "concept_id": 66,
+          "concept_name": "Calcination",
+          "link_type": "symbolic"
+        },
+        {
+          "concept_id": 67,
+          "concept_name": "Quintessence / Quinta Essentia",
+          "link_type": "symbolic"
+        },
+        {
+          "concept_id": 68,
+          "concept_name": "Iatrochemistry / Chemical Medicine",
+          "link_type": "symbolic"
+        },
+        {
+          "concept_id": 70,
+          "concept_name": "Magistery / Magister",
+          "link_type": "symbolic"
+        },
+        {
+          "concept_id": 71,
+          "concept_name": "Liquor Potassae / Potassium Compounds",
+          "link_type": "symbolic"
+        },
+        {
+          "concept_id": 72,
+          "concept_name": "Mercurius Duplicatus / Philosophical Mercury",
+          "link_type": "symbolic"
+        },
+        {
+          "concept_id": 73,
+          "concept_name": "Sulphur Principle / Philosophical Sulphur",
+          "link_type": "symbolic"
+        },
+        {
+          "concept_id": 74,
+          "concept_name": "Salt / Philosophical Salt",
+          "link_type": "symbolic"
+        }
+      ]
     },
     {
       "id": 142,
@@ -11701,7 +12389,169 @@
           "relevance": "secondary"
         }
       ],
-      "image_url": "https://furnaceandfugue.org/assets/img/emblem-images_cropped/1600/emblem02.1600.jpg"
+      "image_url": "https://furnaceandfugue.org/assets/img/emblem-images_cropped/1600/emblem02.1600.jpg",
+      "concept_links": [
+        {
+          "concept_id": 28,
+          "concept_name": "Invisible Brethren",
+          "link_type": "symbolic"
+        },
+        {
+          "concept_id": 29,
+          "concept_name": "Universal Reform",
+          "link_type": "symbolic"
+        },
+        {
+          "concept_id": 31,
+          "concept_name": "Laboratory Alchemy",
+          "link_type": "symbolic"
+        },
+        {
+          "concept_id": 32,
+          "concept_name": "Spagyric Art",
+          "link_type": "symbolic"
+        },
+        {
+          "concept_id": 33,
+          "concept_name": "Iatrochemistry",
+          "link_type": "symbolic"
+        },
+        {
+          "concept_id": 35,
+          "concept_name": "Grades of Initiation",
+          "link_type": "symbolic"
+        },
+        {
+          "concept_id": 36,
+          "concept_name": "Secret Doctrine",
+          "link_type": "symbolic"
+        },
+        {
+          "concept_id": 37,
+          "concept_name": "Enlightenment",
+          "link_type": "symbolic"
+        },
+        {
+          "concept_id": 38,
+          "concept_name": "Theurgy",
+          "link_type": "symbolic"
+        },
+        {
+          "concept_id": 39,
+          "concept_name": "Henosis",
+          "link_type": "symbolic"
+        },
+        {
+          "concept_id": 41,
+          "concept_name": "Inner Transformation",
+          "link_type": "symbolic"
+        },
+        {
+          "concept_id": 42,
+          "concept_name": "Hermetic Spirituality",
+          "link_type": "symbolic"
+        },
+        {
+          "concept_id": 44,
+          "concept_name": "Theurgic Practice",
+          "link_type": "symbolic"
+        },
+        {
+          "concept_id": 45,
+          "concept_name": "Spiritual Chemistry",
+          "link_type": "symbolic"
+        },
+        {
+          "concept_id": 46,
+          "concept_name": "Divine Names",
+          "link_type": "symbolic"
+        },
+        {
+          "concept_id": 47,
+          "concept_name": "Mystical Union",
+          "link_type": "symbolic"
+        },
+        {
+          "concept_id": 48,
+          "concept_name": "Regeneration",
+          "link_type": "symbolic"
+        },
+        {
+          "concept_id": 49,
+          "concept_name": "Embodied Knowledge",
+          "link_type": "symbolic"
+        },
+        {
+          "concept_id": 50,
+          "concept_name": "Hermetic Correspondence",
+          "link_type": "symbolic"
+        },
+        {
+          "concept_id": 55,
+          "concept_name": "Interior Work",
+          "link_type": "symbolic"
+        },
+        {
+          "concept_id": 60,
+          "concept_name": "Multiplicity and Return",
+          "link_type": "symbolic"
+        },
+        {
+          "concept_id": 61,
+          "concept_name": "Spagyria / Spagyric Art",
+          "link_type": "symbolic"
+        },
+        {
+          "concept_id": 62,
+          "concept_name": "Ens Astralis / Astral Disease",
+          "link_type": "symbolic"
+        },
+        {
+          "concept_id": 63,
+          "concept_name": "Archei / Formative Principles",
+          "link_type": "symbolic"
+        },
+        {
+          "concept_id": 66,
+          "concept_name": "Calcination",
+          "link_type": "symbolic"
+        },
+        {
+          "concept_id": 67,
+          "concept_name": "Quintessence / Quinta Essentia",
+          "link_type": "symbolic"
+        },
+        {
+          "concept_id": 68,
+          "concept_name": "Iatrochemistry / Chemical Medicine",
+          "link_type": "symbolic"
+        },
+        {
+          "concept_id": 70,
+          "concept_name": "Magistery / Magister",
+          "link_type": "symbolic"
+        },
+        {
+          "concept_id": 71,
+          "concept_name": "Liquor Potassae / Potassium Compounds",
+          "link_type": "symbolic"
+        },
+        {
+          "concept_id": 72,
+          "concept_name": "Mercurius Duplicatus / Philosophical Mercury",
+          "link_type": "symbolic"
+        },
+        {
+          "concept_id": 73,
+          "concept_name": "Sulphur Principle / Philosophical Sulphur",
+          "link_type": "symbolic"
+        },
+        {
+          "concept_id": 74,
+          "concept_name": "Salt / Philosophical Salt",
+          "link_type": "symbolic"
+        }
+      ]
     },
     {
       "id": 143,
@@ -11756,7 +12606,154 @@
           "relevance": "secondary"
         }
       ],
-      "image_url": "https://furnaceandfugue.org/assets/img/emblem-images_cropped/1600/emblem03.1600.jpg"
+      "image_url": "https://furnaceandfugue.org/assets/img/emblem-images_cropped/1600/emblem03.1600.jpg",
+      "concept_links": [
+        {
+          "concept_id": 28,
+          "concept_name": "Invisible Brethren",
+          "link_type": "symbolic"
+        },
+        {
+          "concept_id": 29,
+          "concept_name": "Universal Reform",
+          "link_type": "symbolic"
+        },
+        {
+          "concept_id": 32,
+          "concept_name": "Spagyric Art",
+          "link_type": "symbolic"
+        },
+        {
+          "concept_id": 33,
+          "concept_name": "Iatrochemistry",
+          "link_type": "symbolic"
+        },
+        {
+          "concept_id": 35,
+          "concept_name": "Grades of Initiation",
+          "link_type": "symbolic"
+        },
+        {
+          "concept_id": 36,
+          "concept_name": "Secret Doctrine",
+          "link_type": "symbolic"
+        },
+        {
+          "concept_id": 38,
+          "concept_name": "Theurgy",
+          "link_type": "symbolic"
+        },
+        {
+          "concept_id": 39,
+          "concept_name": "Henosis",
+          "link_type": "symbolic"
+        },
+        {
+          "concept_id": 41,
+          "concept_name": "Inner Transformation",
+          "link_type": "symbolic"
+        },
+        {
+          "concept_id": 42,
+          "concept_name": "Hermetic Spirituality",
+          "link_type": "symbolic"
+        },
+        {
+          "concept_id": 44,
+          "concept_name": "Theurgic Practice",
+          "link_type": "symbolic"
+        },
+        {
+          "concept_id": 45,
+          "concept_name": "Spiritual Chemistry",
+          "link_type": "symbolic"
+        },
+        {
+          "concept_id": 46,
+          "concept_name": "Divine Names",
+          "link_type": "symbolic"
+        },
+        {
+          "concept_id": 48,
+          "concept_name": "Regeneration",
+          "link_type": "symbolic"
+        },
+        {
+          "concept_id": 49,
+          "concept_name": "Embodied Knowledge",
+          "link_type": "symbolic"
+        },
+        {
+          "concept_id": 50,
+          "concept_name": "Hermetic Correspondence",
+          "link_type": "symbolic"
+        },
+        {
+          "concept_id": 55,
+          "concept_name": "Interior Work",
+          "link_type": "symbolic"
+        },
+        {
+          "concept_id": 60,
+          "concept_name": "Multiplicity and Return",
+          "link_type": "symbolic"
+        },
+        {
+          "concept_id": 61,
+          "concept_name": "Spagyria / Spagyric Art",
+          "link_type": "symbolic"
+        },
+        {
+          "concept_id": 62,
+          "concept_name": "Ens Astralis / Astral Disease",
+          "link_type": "symbolic"
+        },
+        {
+          "concept_id": 63,
+          "concept_name": "Archei / Formative Principles",
+          "link_type": "symbolic"
+        },
+        {
+          "concept_id": 66,
+          "concept_name": "Calcination",
+          "link_type": "symbolic"
+        },
+        {
+          "concept_id": 67,
+          "concept_name": "Quintessence / Quinta Essentia",
+          "link_type": "symbolic"
+        },
+        {
+          "concept_id": 68,
+          "concept_name": "Iatrochemistry / Chemical Medicine",
+          "link_type": "symbolic"
+        },
+        {
+          "concept_id": 70,
+          "concept_name": "Magistery / Magister",
+          "link_type": "symbolic"
+        },
+        {
+          "concept_id": 71,
+          "concept_name": "Liquor Potassae / Potassium Compounds",
+          "link_type": "symbolic"
+        },
+        {
+          "concept_id": 72,
+          "concept_name": "Mercurius Duplicatus / Philosophical Mercury",
+          "link_type": "symbolic"
+        },
+        {
+          "concept_id": 73,
+          "concept_name": "Sulphur Principle / Philosophical Sulphur",
+          "link_type": "symbolic"
+        },
+        {
+          "concept_id": 74,
+          "concept_name": "Salt / Philosophical Salt",
+          "link_type": "symbolic"
+        }
+      ]
     },
     {
       "id": 144,
@@ -11866,7 +12863,14 @@
           "relevance": "secondary"
         }
       ],
-      "image_url": "https://furnaceandfugue.org/assets/img/emblem-images_cropped/1600/emblem05.1600.jpg"
+      "image_url": "https://furnaceandfugue.org/assets/img/emblem-images_cropped/1600/emblem05.1600.jpg",
+      "concept_links": [
+        {
+          "concept_id": 23,
+          "concept_name": "Sulfur Philosophical",
+          "link_type": "exemplifies"
+        }
+      ]
     },
     {
       "id": 146,
@@ -12306,7 +13310,19 @@
           "relevance": "secondary"
         }
       ],
-      "image_url": "https://furnaceandfugue.org/assets/img/emblem-images_cropped/1600/emblem13.1600.jpg"
+      "image_url": "https://furnaceandfugue.org/assets/img/emblem-images_cropped/1600/emblem13.1600.jpg",
+      "concept_links": [
+        {
+          "concept_id": 23,
+          "concept_name": "Sulfur Philosophical",
+          "link_type": "symbolic"
+        },
+        {
+          "concept_id": 57,
+          "concept_name": "Color Symbolism",
+          "link_type": "symbolic"
+        }
+      ]
     },
     {
       "id": 154,
@@ -12966,7 +13982,14 @@
           "relevance": "secondary"
         }
       ],
-      "image_url": "https://furnaceandfugue.org/assets/img/emblem-images_cropped/1600/emblem25.1600.jpg"
+      "image_url": "https://furnaceandfugue.org/assets/img/emblem-images_cropped/1600/emblem25.1600.jpg",
+      "concept_links": [
+        {
+          "concept_id": 34,
+          "concept_name": "Initiation",
+          "link_type": "symbolic"
+        }
+      ]
     },
     {
       "id": 166,
@@ -13131,7 +14154,14 @@
           "relevance": "secondary"
         }
       ],
-      "image_url": "https://furnaceandfugue.org/assets/img/emblem-images_cropped/1600/emblem28.1600.jpg"
+      "image_url": "https://furnaceandfugue.org/assets/img/emblem-images_cropped/1600/emblem28.1600.jpg",
+      "concept_links": [
+        {
+          "concept_id": 31,
+          "concept_name": "Laboratory Alchemy",
+          "link_type": "symbolic"
+        }
+      ]
     },
     {
       "id": 169,
@@ -13681,7 +14711,14 @@
           "relevance": "secondary"
         }
       ],
-      "image_url": "https://furnaceandfugue.org/assets/img/emblem-images_cropped/1600/emblem38.1600.jpg"
+      "image_url": "https://furnaceandfugue.org/assets/img/emblem-images_cropped/1600/emblem38.1600.jpg",
+      "concept_links": [
+        {
+          "concept_id": 34,
+          "concept_name": "Initiation",
+          "link_type": "symbolic"
+        }
+      ]
     },
     {
       "id": 179,
@@ -15311,7 +16348,14 @@
           "relevance": "secondary"
         }
       ],
-      "image_url": "https://wellcomecollection.org/works/qynyxr3c"
+      "image_url": "https://wellcomecollection.org/works/qynyxr3c",
+      "concept_links": [
+        {
+          "concept_id": 34,
+          "concept_name": "Initiation",
+          "link_type": "symbolic"
+        }
+      ]
     },
     {
       "id": 210,
@@ -15821,7 +16865,14 @@
           "relevance": "secondary"
         }
       ],
-      "image_url": "https://wellcomecollection.org/works/qynyxr3c"
+      "image_url": "https://wellcomecollection.org/works/qynyxr3c",
+      "concept_links": [
+        {
+          "concept_id": 37,
+          "concept_name": "Enlightenment",
+          "link_type": "symbolic"
+        }
+      ]
     },
     {
       "id": 220,

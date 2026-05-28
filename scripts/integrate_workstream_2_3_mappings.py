@@ -93,6 +93,9 @@ def integrate_concept_emblem_links(db, concept_emblem_spec):
         # Add emblem links to concept
         for emblem_ref in emblem_links:
             emblem_id = emblem_ref.get('emblem_id')
+            # Ensure emblem_id is integer (for consistent dict lookup)
+            if isinstance(emblem_id, str) and emblem_id.isdigit():
+                emblem_id = int(emblem_id)
             if emblem_id not in [e.get('emblem_id') for e in concept.get('emblem_links', [])]:
                 concept['emblem_links'].append({
                     'emblem_id': emblem_id,
@@ -105,6 +108,9 @@ def integrate_concept_emblem_links(db, concept_emblem_spec):
     for concept_id, concept in concepts.items():
         for emblem_ref in concept.get('emblem_links', []):
             emblem_id = emblem_ref['emblem_id']
+            # Ensure emblem_id is integer for dict lookup
+            if isinstance(emblem_id, str) and emblem_id.isdigit():
+                emblem_id = int(emblem_id)
             if emblem_id not in emblems:
                 continue
 
