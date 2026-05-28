@@ -342,6 +342,58 @@ body {
     border-top: 2px solid var(--burnt-sienna);
 }
 
+/* Relational link styling */
+.rel-links {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+    margin: 1rem 0;
+}
+
+.rel-link {
+    display: inline-block;
+    padding: 0.5rem 1rem;
+    background: rgba(139, 69, 19, 0.1);
+    border-left: 3px solid var(--burnt-sienna);
+    color: var(--burnt-sienna);
+    text-decoration: none;
+    cursor: pointer;
+    transition: all 0.2s ease;
+}
+
+.rel-link:hover {
+    background: rgba(139, 69, 19, 0.2);
+    transform: translateX(4px);
+}
+
+.rel-link-text {
+    display: inline-block;
+    padding: 0.5rem 1rem;
+    background: rgba(139, 69, 19, 0.1);
+    border-left: 3px solid var(--burnt-sienna);
+    color: var(--dark-text);
+}
+
+.emblem-link-type,
+.influence-type {
+    font-size: 0.85rem;
+    font-style: italic;
+    color: var(--burnt-sienna);
+    opacity: 0.8;
+}
+
+.emblem-explanations {
+    margin: 1.5rem 0;
+    padding: 1rem;
+    background: rgba(139, 69, 19, 0.05);
+    border-left: 3px solid var(--tan-gold);
+}
+
+.emblem-explanations p {
+    margin: 0.5rem 0;
+    font-size: 0.95rem;
+}
+
 /* Responsive */
 @media (max-width: 768px) {
     .main-header h1 {

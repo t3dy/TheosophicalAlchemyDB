@@ -28,6 +28,7 @@ const modalStack = [];
 // ─── Boot ─────────────────────────────────────────────────────────────────────
 
 document.addEventListener('DOMContentLoaded', async () => {
+    injectUI();   // Add dynamic HTML + CSS before data arrives
     try {
         const response = await fetch('./data/prototype_data.json');
         allData = await response.json();
@@ -53,14 +54,222 @@ document.addEventListener('DOMContentLoaded', async () => {
     }
 });
 
+// ─── Dynamic UI injection ─────────────────────────────────────────────────────
+// Adds Timeline, Map enhancements, stat IDs, and CSS that survive HTML linting.
+
+function injectUI() {
+    // 1. Inject CSS
+    if (!document.getElementById('dynamic-styles')) {
+        const s = document.createElement('style');
+        s.id = 'dynamic-styles';
+        s.textContent = `
+/* ── Map controls ─────────────────────────────── */
+.map-controls { margin-bottom: .75rem; }
+.map-legend {
+    display: flex; flex-wrap: wrap; gap: 1.25rem;
+    padding: .6rem 1rem;
+    background: #faf6f0; border: 1px solid #d4a574; border-left: 3px solid #8b4513;
+    font-size: .88rem;
+}
+.map-legend label { display:flex; align-items:center; gap:.4rem; cursor:pointer; }
+.legend-dot { display:inline-block; width:12px; height:12px; border-radius:50%; }
+.legend-dot.figures { background:#e74c3c; }
+.legend-dot.texts   { background:#3498db; }
+.legend-dot.emblems { background:#8e44ad; }
+.legend-dot.centers { background:#f39c12; }
+
+/* ── Map side panel ───────────────────────────── */
+.map-side-panel {
+    display:none; position:absolute; top:0; right:0; width:290px; height:100%;
+    background:#faf6f0; border-left:3px solid #8b4513;
+    overflow-y:auto; z-index:500; box-shadow:-4px 0 12px rgba(0,0,0,.15);
+}
+.map-side-panel.open { display:block; }
+.map-side-header {
+    display:flex; justify-content:space-between; align-items:flex-start;
+    padding:.75rem 1rem; background:#5c3d2e; color:#f5f0e8; position:sticky; top:0;
+}
+.map-side-header h3 { margin:0; font-size:.95rem; line-height:1.3; color:#d4a574; flex:1; }
+.map-side-close { background:none; border:none; color:#f5f0e8; font-size:1.3rem; cursor:pointer; padding:0 .25rem; }
+.map-side-close:hover { color:#d4a574; }
+.map-side-content { padding:.85rem 1rem; font-size:.88rem; line-height:1.6; }
+.map-side-content p { margin-bottom:.55rem; }
+.map-side-content strong { color:#8b4513; }
+.map-side-summary { margin-top:.6rem; color:#2c2418; }
+.map-wrap { position:relative; }
+
+/* ── Timeline ─────────────────────────────────── */
+.timeline-controls {
+    display:flex; flex-wrap:wrap; gap:.5rem;
+    margin-bottom:2rem; padding-bottom:1.25rem; border-bottom:1px solid #d4a574;
+}
+.tl-filter {
+    padding:.35rem .9rem; background:#faf6f0; border:1px solid #d4a574;
+    color:#5c3d2e; cursor:pointer; font-family:'Georgia',serif; font-size:.83rem;
+    transition: all .2s;
+}
+.tl-filter:hover  { background:#d4a574; color:#2c2418; }
+.tl-filter.active { background:#8b4513; border-color:#8b4513; color:#f5f0e8; }
+.timeline-container {
+    position:relative; padding-left:3rem; max-width:860px; margin:0 auto;
+}
+.timeline-container::before {
+    content:''; position:absolute; left:1.15rem; top:0; bottom:0;
+    width:2px; background:linear-gradient(to bottom,#8b4513,#d4a574);
+}
+.tl-event { position:relative; margin-bottom:1.75rem; }
+.tl-event.hidden { display:none; }
+.tl-dot {
+    position:absolute; left:-2.2rem; top:.45rem;
+    width:13px; height:13px; border-radius:50%; border:2px solid #faf6f0; z-index:1;
+}
+.tl-dot.historical { background:#7f8c8d; }
+.tl-dot.text       { background:#8b4513; }
+.tl-dot.figure     { background:#d4a574; }
+.tl-dot.discovery  { background:#2980b9; }
+.tl-card {
+    background:#faf6f0; border:1px solid #d4a574; border-left:4px solid transparent;
+    padding:.9rem 1.1rem; box-shadow:0 1px 4px rgba(0,0,0,.07);
+}
+.tl-event.historical .tl-card { border-left-color:#7f8c8d; }
+.tl-event.text       .tl-card { border-left-color:#8b4513; }
+.tl-event.figure     .tl-card { border-left-color:#d4a574; }
+.tl-event.discovery  .tl-card { border-left-color:#2980b9; }
+.tl-header { display:flex; align-items:baseline; gap:.65rem; margin-bottom:.4rem; flex-wrap:wrap; }
+.tl-year  { font-size:1.2rem; font-weight:bold; color:#8b4513; min-width:3rem; }
+.tl-title { font-size:.97rem; font-weight:bold; color:#2c2418; flex:1; }
+.tl-badge {
+    font-size:.68rem; text-transform:uppercase; letter-spacing:.5px;
+    padding:.12rem .45rem; border-radius:2px; font-family:sans-serif;
+}
+.tl-badge.historical { background:#ecf0f1; color:#7f8c8d; }
+.tl-badge.text       { background:#fdf0e8; color:#8b4513; }
+.tl-badge.figure     { background:#fef9f0; color:#b7770d; }
+.tl-badge.discovery  { background:#eaf4fb; color:#2980b9; }
+.tl-desc    { font-size:.88rem; line-height:1.65; color:#2c2418; }
+.tl-related { margin-top:.5rem; font-size:.78rem; color:#5c3d2e; }
+
+/* ── Modal back button ────────────────────────── */
+.modal-toolbar { display:flex; justify-content:space-between; align-items:center; margin-bottom:1rem; }
+.modal-back {
+    background:none; border:1px solid #8b4513; color:#8b4513;
+    font-family:'Georgia',serif; font-size:.82rem; padding:.28rem .7rem; cursor:pointer;
+}
+.modal-back:hover { background:#8b4513; color:#f5f0e8; }
+        `;
+        document.head.appendChild(s);
+    }
+
+    // 2. Wire stat IDs to existing stat-number spans
+    const statNums = document.querySelectorAll('.stat-number');
+    const statIds  = ['stat-figures', 'stat-concepts', 'stat-texts', 'stat-emblems'];
+    statNums.forEach((el, i) => { if (statIds[i]) el.id = statIds[i]; });
+
+    // 3. Add Timeline nav button (before About)
+    const nav = document.querySelector('.main-nav');
+    if (nav && !document.querySelector('[data-section="timeline"]')) {
+        const btn = document.createElement('button');
+        btn.className = 'nav-btn';
+        btn.dataset.section = 'timeline';
+        btn.textContent = 'Timeline';
+        const about = document.querySelector('[data-section="about"]');
+        if (about) nav.insertBefore(btn, about); else nav.appendChild(btn);
+    }
+
+    // 4. Add Timeline section (before About section)
+    const main = document.querySelector('.portal-container');
+    if (main && !document.getElementById('timeline')) {
+        const sec = document.createElement('section');
+        sec.id = 'timeline';
+        sec.className = 'section';
+        sec.innerHTML = `
+            <div class="section-header">
+                <h2>Historical Timeline</h2>
+                <p>Key events from 1317 to 1850 in Rosicrucian and alchemical traditions</p>
+            </div>
+            <div class="timeline-controls">
+                <button class="tl-filter active" data-category="all">All Events</button>
+                <button class="tl-filter" data-category="historical">Historical</button>
+                <button class="tl-filter" data-category="text">Publications</button>
+                <button class="tl-filter" data-category="figure">Figures</button>
+                <button class="tl-filter" data-category="discovery">Discoveries</button>
+            </div>
+            <div id="timeline-container" class="timeline-container"></div>`;
+        const aboutSec = document.getElementById('about');
+        if (aboutSec) main.insertBefore(sec, aboutSec); else main.appendChild(sec);
+    }
+
+    // 5. Add Map layer controls + side panel
+    const mapSec = document.getElementById('map');
+    if (mapSec && !document.getElementById('map-layer-controls')) {
+        // Layer controls above map
+        const ctrl = document.createElement('div');
+        ctrl.id = 'map-layer-controls';
+        ctrl.className = 'map-controls';
+        ctrl.innerHTML = `<div class="map-legend">
+            <label><input type="checkbox" id="layer-figures" checked>
+              <span class="legend-dot figures"></span> Figures</label>
+            <label><input type="checkbox" id="layer-texts" checked>
+              <span class="legend-dot texts"></span> Texts</label>
+            <label><input type="checkbox" id="layer-emblems" checked>
+              <span class="legend-dot emblems"></span> Emblem Centers</label>
+            <label><input type="checkbox" id="layer-centers" checked>
+              <span class="legend-dot centers"></span> Learning Centers</label>
+        </div>`;
+
+        // Wrap existing map-container in a relative div for panel overlay
+        const mapEl = document.getElementById('map-container');
+        const wrap  = document.createElement('div');
+        wrap.className = 'map-wrap';
+        mapEl.parentNode.insertBefore(wrap, mapEl);
+        wrap.appendChild(mapEl);
+
+        // Inject side panel into wrapper
+        const panel = document.createElement('div');
+        panel.id = 'map-side-panel';
+        panel.className = 'map-side-panel';
+        panel.innerHTML = `
+            <div class="map-side-header">
+                <h3 id="map-side-title"></h3>
+                <button id="map-side-close" class="map-side-close">&times;</button>
+            </div>
+            <div id="map-side-content" class="map-side-content"></div>`;
+        wrap.appendChild(panel);
+
+        // Insert controls before wrapper
+        wrap.parentNode.insertBefore(ctrl, wrap);
+    }
+
+    // 6. Add modal-back button and modal-close ID to modal
+    const modal = document.getElementById('modal');
+    if (modal) {
+        const mc = modal.querySelector('.modal-content');
+        if (mc && !document.getElementById('modal-close')) {
+            // Give the close button an ID so setupModal can find it
+            const closeBtn = mc.querySelector('.modal-close');
+            if (closeBtn) closeBtn.id = 'modal-close';
+            // Add modal toolbar with back button
+            if (!document.getElementById('modal-back')) {
+                const toolbar = document.createElement('div');
+                toolbar.className = 'modal-toolbar';
+                toolbar.innerHTML = `<button id="modal-back" class="modal-back" style="display:none">&#8592; Back</button>`;
+                toolbar.querySelector('#modal-back');
+                mc.insertBefore(toolbar, mc.firstChild);
+                // Move close button into toolbar
+                if (closeBtn) toolbar.appendChild(closeBtn);
+            }
+        }
+    }
+}
+
 // ─── Stats ────────────────────────────────────────────────────────────────────
 
 function updateStats() {
-    document.getElementById('stat-figures').textContent  = allData.figures.length;
-    document.getElementById('stat-concepts').textContent = allData.concepts.length;
-    document.getElementById('stat-texts').textContent    = allData.texts.length;
-    document.getElementById('stat-emblems').textContent  = allData.emblems.length;
-    // Note: essays not shown in header stats but displayed in Essays section
+    const set = (id, val) => { const el = document.getElementById(id); if (el) el.textContent = val; };
+    set('stat-figures',  allData.figures.length);
+    set('stat-concepts', allData.concepts.length);
+    set('stat-texts',    allData.texts.length);
+    set('stat-emblems',  allData.emblems.length);
 }
 
 // ─── Filter dropdown population ───────────────────────────────────────────────
@@ -505,8 +714,23 @@ function buildFigureModal(f) {
 
     if (f.essay) h += `<div class="modal-essay">${paragraphify(f.essay)}</div>`;
 
+    if (f.genealogical_position) {
+        h += `<h3>Genealogical Position</h3><p>${f.genealogical_position}</p>`;
+    }
+
     if (f.embodied_practice) {
         h += `<h3>Practice &amp; Method</h3><p>${f.embodied_practice}</p>`;
+    }
+
+    if (f.emblem_books_created?.length) {
+        h += `<h3>Emblem Books Created</h3><ul>`;
+        f.emblem_books_created.forEach(book => {
+            h += `<li><em>${book.title}</em> (${book.year}, ${book.location})`;
+            if (book.total_emblems) h += ` — ${book.total_emblems} emblems`;
+            if (book.innovation) h += ` — ${book.innovation}`;
+            h += `</li>`;
+        });
+        h += '</ul>';
     }
 
     if (f.scholarly_debates) {
@@ -526,6 +750,30 @@ function buildFigureModal(f) {
             return c ? relLink('concepts', cid, c.name) : null;
         }).filter(Boolean);
         if (links.length) h += `<h3>Related Concepts</h3><div class="rel-links">${links.join('')}</div>`;
+    }
+
+    // Influenced figures — clickable
+    if (f.influenced_figures?.length) {
+        const links = f.influenced_figures.map(ifig => {
+            if (!ifig.figure_id) return null;
+            const fig = allData.figures.find(x => x.id === ifig.figure_id);
+            if (!fig) return null;
+            const label = ifig.influence_type ? `${fig.name} <span class="influence-type">(${ifig.influence_type})</span>` : fig.name;
+            return relLink('figures', ifig.figure_id, label);
+        }).filter(Boolean);
+        if (links.length) h += `<h3>Influenced Figures</h3><div class="rel-links">${links.join('')}</div>`;
+    }
+
+    // Influenced by figures — clickable
+    if (f.influenced_by_figures?.length) {
+        const links = f.influenced_by_figures.map(ibyfig => {
+            if (!ibyfig.figure_id) return null;
+            const fig = allData.figures.find(x => x.id === ibyfig.figure_id);
+            if (!fig) return null;
+            const label = ibyfig.influence_type ? `${ibyfig.figure_name} <span class="influence-type">(${ibyfig.influence_type})</span>` : ibyfig.figure_name;
+            return `<span class="rel-link-text">${label}</span>`;
+        }).filter(Boolean);
+        if (links.length) h += `<h3>Influenced By</h3><div class="rel-links">${links.join('')}</div>`;
     }
 
     if (f.scholars?.length) {
@@ -569,8 +817,34 @@ function buildConceptModal(c) {
         if (links.length) h += `<h3>Related Concepts</h3><div class="rel-links">${links.join('')}</div>`;
     }
 
-    // Emblems that illustrate this concept — clickable
-    if (c.emblems?.length) {
+    // Emblems that illustrate this concept — using emblem_links (new bidirectional field)
+    if (c.emblem_links?.length) {
+        const emblemLinks = [];
+        c.emblem_links.forEach(eref => {
+            const emblem = allData.emblems.find(x => x.id === eref.emblem_id);
+            if (emblem) {
+                const label = `${emblem.title} <span class="emblem-link-type">(${eref.link_type})</span>`;
+                emblemLinks.push(relLink('emblems', eref.emblem_id, label));
+            }
+        });
+        if (emblemLinks.length) {
+            h += `<h3>Exemplified By Emblems</h3><div class="rel-links">${emblemLinks.join('')}</div>`;
+            if (c.emblem_links.some(e => e.explanation)) {
+                h += `<div class="emblem-explanations">`;
+                c.emblem_links.forEach(eref => {
+                    if (eref.explanation) {
+                        const emblem = allData.emblems.find(x => x.id === eref.emblem_id);
+                        if (emblem) {
+                            h += `<p><em>${emblem.title}:</em> ${eref.explanation}</p>`;
+                        }
+                    }
+                });
+                h += `</div>`;
+            }
+        }
+    }
+    // Fallback to old emblems field if present
+    else if (c.emblems?.length) {
         const links = c.emblems.slice(0, 12).map(eid => {
             const e = allData.emblems.find(x => x.id === eid);
             return e ? relLink('emblems', eid, e.title) : null;
