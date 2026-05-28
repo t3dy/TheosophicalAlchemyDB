@@ -1,5 +1,7 @@
 # Rosicrucianism & Theosophical Alchemy Knowledge Portal
 
+**[🔮 Live Portal → https://t3dy.github.io/TheosophicalAlchemyDB/](https://t3dy.github.io/TheosophicalAlchemyDB/)**
+
 A concept-first, scholarly encyclopedia of Rosicrucian and theosophical-alchemical traditions from the 16th–18th centuries, created for scholars, practitioners, and interested readers.
 
 ## Vision

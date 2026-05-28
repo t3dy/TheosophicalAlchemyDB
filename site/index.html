@@ -11,42 +11,82 @@
     <header class="main-header">
         <div class="header-content">
             <h1>TheosophicalAlchemyDB</h1>
-            <p class="subtitle">Interactive Knowledge Portal: Rosicrucian & Spiritual Alchemy Traditions (16th–19th c.)</p>
+            <p class="subtitle">Interactive Knowledge Portal: Rosicrucian &amp; Spiritual Alchemy Traditions (16th–19th c.)</p>
             <div class="portal-stats">
                 <span class="stat-box">
-                    <span class="stat-number">87</span>
+                    <span class="stat-number" id="stat-figures">87</span>
                     <span class="stat-label">Historical Figures</span>
                 </span>
                 <span class="stat-box">
-                    <span class="stat-number">67</span>
-                    <span class="stat-label">Concepts & Principles</span>
+                    <span class="stat-number" id="stat-concepts">67</span>
+                    <span class="stat-label">Concepts &amp; Principles</span>
                 </span>
                 <span class="stat-box">
-                    <span class="stat-number">87</span>
+                    <span class="stat-number" id="stat-texts">83</span>
                     <span class="stat-label">Scholarly Texts</span>
                 </span>
                 <span class="stat-box">
-                    <span class="stat-number">0</span>
-                    <span class="stat-label">Research Sources</span>
+                    <span class="stat-number" id="stat-emblems">135</span>
+                    <span class="stat-label">Emblems</span>
                 </span>
             </div>
         </div>
     </header>
 
+    <!-- Global search bar -->
+    <div class="search-bar-wrapper">
+        <div class="search-bar-container">
+            <input type="text" id="global-search" placeholder="Search figures, concepts, texts, emblems, essays…" autocomplete="off">
+            <button id="search-clear" class="search-clear" title="Clear search">×</button>
+        </div>
+        <div class="search-type-filters">
+            <label><input type="checkbox" name="search-type" value="figures" checked> Figures</label>
+            <label><input type="checkbox" name="search-type" value="concepts" checked> Concepts</label>
+            <label><input type="checkbox" name="search-type" value="texts" checked> Texts</label>
+            <label><input type="checkbox" name="search-type" value="emblems" checked> Emblems</label>
+            <label><input type="checkbox" name="search-type" value="essays" checked> Essays</label>
+        </div>
+        <div id="search-results-panel" class="search-results-panel" hidden></div>
+    </div>
+
     <nav class="main-nav">
         <button class="nav-btn active" data-section="figures">Figures</button>
         <button class="nav-btn" data-section="concepts">Concepts</button>
         <button class="nav-btn" data-section="texts">Texts</button>
+        <button class="nav-btn" data-section="emblems">Emblems</button>
+        <button class="nav-btn" data-section="emblem-books">Emblem Books</button>
+        <button class="nav-btn" data-section="essays">Essays</button>
         <button class="nav-btn" data-section="map">Map</button>
         <button class="nav-btn" data-section="about">About</button>
     </nav>
 
     <main class="portal-container">
+
         <!-- Figures Section -->
         <section id="figures" class="section active">
             <div class="section-header">
                 <h2>Historical Figures</h2>
-                <p>Explore 100 key figures in Rosicrucian and spiritual alchemy traditions</p>
+                <p>Explore key figures in Rosicrucian and spiritual alchemy traditions</p>
+            </div>
+            <div class="section-filters">
+                <select class="filter-select" data-section="figures" data-filter="sort">
+                    <option value="default">Default order</option>
+                    <option value="alpha">A → Z</option>
+                    <option value="alpha-rev">Z → A</option>
+                    <option value="chrono">Oldest first</option>
+                    <option value="chrono-rev">Most recent first</option>
+                </select>
+                <select class="filter-select" data-section="figures" data-filter="nationality">
+                    <option value="">All nationalities</option>
+                </select>
+                <select class="filter-select" data-section="figures" data-filter="scholar">
+                    <option value="">All scholars</option>
+                </select>
+                <select class="filter-select" data-section="figures" data-filter="century">
+                    <option value="">All centuries</option>
+                </select>
+                <button class="filter-reset" data-section="figures">Reset filters</button>
+                <span class="section-count" id="figures-count"></span>
             </div>
             <div id="figures-gallery" class="gallery"></div>
         </section>
@@ -54,8 +94,20 @@
         <!-- Concepts Section -->
         <section id="concepts" class="section">
             <div class="section-header">
-                <h2>Concepts & Principles</h2>
-                <p>Understand 67 central philosophical and alchemical concepts</p>
+                <h2>Concepts &amp; Principles</h2>
+                <p>Understand central philosophical and alchemical concepts</p>
+            </div>
+            <div class="section-filters">
+                <select class="filter-select" data-section="concepts" data-filter="sort">
+                    <option value="default">Default order</option>
+                    <option value="alpha">A → Z</option>
+                    <option value="alpha-rev">Z → A</option>
+                </select>
+                <select class="filter-select" data-section="concepts" data-filter="category">
+                    <option value="">All categories</option>
+                </select>
+                <button class="filter-reset" data-section="concepts">Reset filters</button>
+                <span class="section-count" id="concepts-count"></span>
             </div>
             <div id="concepts-gallery" class="gallery"></div>
         </section>
@@ -64,9 +116,96 @@
         <section id="texts" class="section">
             <div class="section-header">
                 <h2>Scholarly Texts</h2>
-                <p>Study 87 foundational and contemporary texts</p>
+                <p>Study foundational and contemporary texts</p>
+            </div>
+            <div class="section-filters">
+                <select class="filter-select" data-section="texts" data-filter="sort">
+                    <option value="default">Default order</option>
+                    <option value="alpha">A → Z</option>
+                    <option value="alpha-rev">Z → A</option>
+                    <option value="chrono">Oldest first</option>
+                    <option value="chrono-rev">Most recent first</option>
+                </select>
+                <select class="filter-select" data-section="texts" data-filter="language">
+                    <option value="">All languages</option>
+                </select>
+                <select class="filter-select" data-section="texts" data-filter="century">
+                    <option value="">All centuries</option>
+                </select>
+                <button class="filter-reset" data-section="texts">Reset filters</button>
+                <span class="section-count" id="texts-count"></span>
             </div>
             <div id="texts-gallery" class="gallery"></div>
+        </section>
+
+        <!-- Emblems Section (individual cards) -->
+        <section id="emblems" class="section">
+            <div class="section-header">
+                <h2>Emblems</h2>
+                <p>Explore individual emblem plates with full scholarly apparatus</p>
+            </div>
+            <div class="section-filters">
+                <select class="filter-select" data-section="emblems" data-filter="sort">
+                    <option value="default">Default order</option>
+                    <option value="alpha">A → Z</option>
+                    <option value="alpha-rev">Z → A</option>
+                </select>
+                <select class="filter-select" data-section="emblems" data-filter="source_book">
+                    <option value="">All books</option>
+                </select>
+                <select class="filter-select" data-section="emblems" data-filter="type">
+                    <option value="">All types</option>
+                </select>
+                <button class="filter-reset" data-section="emblems">Reset filters</button>
+                <span class="section-count" id="emblems-count"></span>
+            </div>
+            <div id="emblems-gallery" class="gallery"></div>
+        </section>
+
+        <!-- Emblem Books Section (grouped by book) -->
+        <section id="emblem-books" class="section">
+            <div class="section-header">
+                <h2>Emblem Books</h2>
+                <p>Browse emblems grouped by source — Atalanta Fugiens, Rosicrucian Emblems, Hermetic Garden, and more</p>
+            </div>
+            <div class="section-filters">
+                <select class="filter-select" data-section="emblem-books" data-filter="sort">
+                    <option value="default">Default order</option>
+                    <option value="alpha">Title A → Z</option>
+                    <option value="theme">By theme</option>
+                </select>
+                <select class="filter-select" data-section="emblem-books" data-filter="source_book">
+                    <option value="">All books</option>
+                </select>
+                <select class="filter-select" data-section="emblem-books" data-filter="theme">
+                    <option value="">All themes</option>
+                    <option value="nigredo">Nigredo</option>
+                    <option value="albedo">Albedo</option>
+                    <option value="rubedo">Rubedo</option>
+                    <option value="hermetic">Hermetic</option>
+                    <option value="rosy-cross">Rosicrucian</option>
+                </select>
+                <button class="filter-reset" data-section="emblem-books">Reset filters</button>
+            </div>
+            <div id="emblem-books-container"></div>
+        </section>
+
+        <!-- Essays Section -->
+        <section id="essays" class="section">
+            <div class="section-header">
+                <h2>Thematic Essays</h2>
+                <p>Cross-cutting scholarly essays on Rosicrucian and alchemical traditions</p>
+            </div>
+            <div class="section-filters">
+                <select class="filter-select" data-section="essays" data-filter="sort">
+                    <option value="default">Default order</option>
+                    <option value="alpha">A → Z</option>
+                    <option value="alpha-rev">Z → A</option>
+                </select>
+                <button class="filter-reset" data-section="essays">Reset filters</button>
+                <span class="section-count" id="essays-count"></span>
+            </div>
+            <div id="essays-gallery" class="gallery"></div>
         </section>
 
         <!-- Map Section -->
@@ -91,15 +230,16 @@
                 <p>This portal integrates scholarship from key historians including Frances Yates, Joscelyn Godwin, Tobias Churton, Urszula Szulakowska, and Mike Zuber's definitive work on spiritual alchemy from Jacob Böhme to Mary Anne Atwood.</p>
 
                 <h3>Data Sources</h3>
-                <p>The portal incorporates 0 primary and secondary sources, including manifestos, treatises, biographical materials, and contemporary scholarly analysis.</p>
+                <p>The portal incorporates primary and secondary sources including manifestos, treatises, biographical materials, and contemporary scholarly analysis drawn from 131 source PDFs.</p>
 
                 <h3>Technology</h3>
                 <p>Built with vanilla JavaScript, Leaflet.js for mapping, and a comprehensive database infrastructure supporting both historical scholarship and interactive exploration.</p>
 
                 <h3>Citation</h3>
-                <p><strong>TheosophicalAlchemyDB</strong> (2026). Interactive Portal of Rosicrucian and Theosophical Alchemy. <a href="https://github.com/t3dy/TheosophicalAlchemyDB">github.com/t3dy/TheosophicalAlchemyDB</a></p>
+                <p><strong>TheosophicalAlchemyDB</strong> (2026). Interactive Portal of Rosicrucian and Theosophical Alchemy. <a href="https://t3dy.github.io/TheosophicalAlchemyDB/">t3dy.github.io/TheosophicalAlchemyDB</a></p>
             </div>
         </section>
+
     </main>
 
     <!-- Modal for full essays -->
@@ -111,7 +251,7 @@
     </div>
 
     <footer class="main-footer">
-        <p>&copy; 2026 TheosophicalAlchemyDB. Digital Humanities Research Portal.</p>
+        <p>&copy; 2026 TheosophicalAlchemyDB. Digital Humanities Research Portal. &mdash; <a href="https://t3dy.github.io/TheosophicalAlchemyDB/" style="color:var(--tan-gold)">t3dy.github.io/TheosophicalAlchemyDB</a></p>
     </footer>
 
     <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.js"></script>

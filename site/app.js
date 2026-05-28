@@ -298,6 +298,15 @@ function populateFilterDropdowns() {
     // Texts: century
     const txtCenturies = centuriesFrom(allData.texts.map(t => Number(t.year)));
     fillSelect('[data-filter="century"][data-section="texts"]', txtCenturies, c => `${c}th century`);
+
+    // Emblems: source_book (shared by emblems section + emblem-books section)
+    const embBooks = [...new Set(allData.emblems.map(e => e.source_book).filter(Boolean))].sort();
+    fillSelect('[data-filter="source_book"][data-section="emblems"]', embBooks);
+    fillSelect('[data-filter="source_book"][data-section="emblem-books"]', embBooks);
+
+    // Emblems: type
+    const embTypes = [...new Set(allData.emblems.map(e => e.type).filter(Boolean))].sort();
+    fillSelect('[data-filter="type"][data-section="emblems"]', embTypes);
 }
 
 function fillSelect(selector, values, labelFn = v => v) {
