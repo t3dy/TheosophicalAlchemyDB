@@ -451,7 +451,7 @@ function buildCard(section, item, currentContext = activeSection) {
     const meta  = buildCardMeta(section, item);
     const badge = buildBadgeInline(section, currentContext);
     const imageHtml = (section === 'figures' || section === 'emblems' || section === 'essays') && item.image_url
-        ? `<img src="${item.image_url}" alt="${name}" class="card-image">`
+        ? `<img src="${item.image_url}" alt="${name}" class="card-image" onerror="this.style.display='none'">`
         : '';
 
     return `
