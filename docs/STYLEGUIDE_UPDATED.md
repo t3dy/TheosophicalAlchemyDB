@@ -38,31 +38,98 @@ This portal adopts the **historiography-of-alchemy** approach established by:
 
 ## Writing Standards by Entry Type
 
-### Figure Biographies (500–1500 words)
+### Figure Biographies (800–3000 words)
 
 **Structure:**
 1. **Opening sentence:** Name, dates, nationality/location, primary significance in one sentence
 2. **Life narrative:** Birth, education, key developments, major works, relationships
 3. **Intellectual contribution:** What did this person teach/discover/practice?
-4. **Historical context:** What were they responding to? What changed because of them?
-5. **Scholarly reception:** How do modern scholars understand their work? Any debates?
-6. **Transmission:** Who learned from them? How did their ideas spread?
-7. **Closing:** Their place in broader genealogy
+4. **Works coverage** (dedicated section — see requirements below)
+5. **Historical context:** What were they responding to? What changed because of them?
+6. **Scholarly reception:** How do modern scholars understand their work? Any debates?
+7. **Transmission:** Who learned from them? How did their ideas spread?
+8. **Closing:** Their place in broader genealogy
+
+**Works Coverage (Mandatory):**
+
+Every figure biography must include substantive coverage of each major work. A figure with three significant works requires at minimum three dedicated paragraphs covering those works. For each major work, the entry must provide:
+
+- **Full title** (with original-language title when relevant) and date of publication or composition
+- **Format and scope:** single treatise, collected opera, emblem book, correspondence corpus, commentary, etc.
+- **Central content or argument:** What does the text actually say? What does it do? Summarize the substance, not merely the topic
+- **Intellectual significance:** How does this work fit the figure's broader project? What problem does it solve or what claim does it make?
+- **Scholarly reception:** How have historians, theologians, or historians of science read this work? Any disagreements about its meaning?
+- **Transmission and influence:** What did later figures do with it? Did it circulate in manuscript, print, translation?
+
+Works must be described in dedicated paragraphs — not bullet lists, not parenthetical mentions. If a work is listed in `key_works`, it must receive substantive treatment in the essay.
+
+**Minor works and correspondence** may be handled more briefly (1–2 sentences each) but must still be named with date and one-sentence description of significance.
 
 **Standards:**
 - **Accuracy over heroics:** State what sources document; distinguish facts from legend
 - **Multiple perspectives:** If scholars disagree, say so (Yates/Vickers model)
-- **Living history:** Make the person real—what they struggled with, believed, valued
+- **Living history:** Make the person real — what they struggled with, believed, valued
 - **Relational:** Name other figures they connected to, concepts they developed
 - **Gender attentiveness:** For women, note the obstacles they overcame; acknowledge gaps in documentation
+- **No mere name-drops:** Every work mentioned must have at least one substantive sentence about its content
 
 **Example opening (actual standard we've established):**
 > "Jacob Böhme (1575–1624) was a shoemaker in Görlitz whose mystical visions, documented in his writings, became foundational for spiritual alchemy. Unlike traditional alchemists focused on material operations or philosophers on theoretical exposition, Böhme described interior alchemical work in rich visionary language."
+
+**Example works coverage (standard to match):**
+> "Böhme's Aurora, oder Morgenröthe im Aufgang (1612) — his first and most spontaneous work, composed rapidly after a vision of sunlight in pewter — established the visionary-alchemical framework he would develop for the rest of his life. The text remained unpublished and circulated in manuscript; its seizure by the Görlitz pastor Richter and subsequent house arrest of Böhme marks the first of the suppressions that would punctuate his writing life. Aurora introduces Böhme's characteristic integration of sulfur, mercury, and salt as cosmological principles, and his reading of divine creation through the lens of alchemical processes. Scholarship from Andrew Weeks (German Mysticism, 1993) and Pierre Deghaye emphasizes how Aurora's unsystematic, visionary character distinguishes it from Böhme's later more technically developed works."
 
 **Avoid:**
 - ❌ Mystical reverence ("the great master Böhme")
 - ❌ Unsubstantiated claims ("Böhme certainly influenced Hegel")
 - ❌ Projection ("Böhme anticipated modern psychology")
+- ❌ Listing works without describing their contents
+- ❌ One-line summaries that convey no substantive information about a work
+
+---
+
+### Scholar Profiles (500–1000 words)
+
+Scholar profiles document modern researchers who have fundamentally shaped understanding of Rosicrucian and alchemical traditions. They are not mere bibliographies; they explain *why* each scholar's work matters and *how* their interpretive framework has changed the field.
+
+**Structure:**
+1. **Opening:** Name, dates (when known), institutional affiliation, primary scholarly focus in one sentence
+2. **Academic formation:** How did they come to this field? What disciplines shaped their approach?
+3. **Research approach and methodology:** What framework do they bring? What questions do they ask?
+4. **Major works** (each covered in a dedicated paragraph):
+   - Full title, publisher, year (exact citations)
+   - Central argument or methodological approach
+   - What problem in the field does this work address?
+   - How did it change scholarship? What came after it?
+5. **Key contributions:** What specific insights did they introduce? What did they change about how we understand figures, concepts, or texts in this portal?
+6. **Relevance to this portal:** Which figures, concepts, or texts does their work specifically illuminate?
+7. **Scholarly position and debates:** Where do they stand on key interpretive disputes? Who responds to, critiques, or builds on their work?
+
+**Works Coverage Requirements for Scholars:**
+
+Each major monograph or article in the scholar's bibliography requires:
+- Full publication details (title, press, year)
+- 3–5 sentences describing the argument, methodology, and significance
+- Explicit statement of what this work changed in the field
+- Connection to figures/concepts covered in this portal
+
+Articles and edited volumes may be handled in 1–2 sentences each, but must include title and venue.
+
+**Standards:**
+- **Distinguish their framework:** Each scholar has a specific methodological approach; make it explicit
+- **Credit innovations without hagiography:** Acknowledge what they discovered without reverential tone
+- **Note limitations and critiques:** Good scholarship invites challenge; note where their approach has been questioned
+- **Show the conversation:** Scholarship is a dialogue; name who they respond to and who responds to them
+- **Calibrate to the portal's needs:** Emphasize the parts of their work most relevant to Rosicrucian/alchemical traditions
+
+**Example (standard to match):**
+> "Charles Webster (1936–2020) was a British historian of science at Oxford whose social-historical approach to the Scientific Revolution and to Paracelsian medicine fundamentally reshaped understanding of early modern science, religion, and reform. Webster's training in history of medicine and social history led him to ask not just what ideas were held, but who held them, in what social circumstances, and with what practical consequences — questions that distinguished his work sharply from intellectual-history approaches."
+
+**Avoid:**
+- ❌ Pure bibliography (listing works without describing their arguments)
+- ❌ Vague praise ("an important scholar whose work influenced many")
+- ❌ Reducing a scholar's contribution to a single sentence
+- ❌ Describing methodology without showing it in action
 
 ---
 
@@ -285,6 +352,22 @@ Before finalizing, verify:
 - [ ] **Practicality:** For practices, grounded in actual doing not theory
 - [ ] **Scholarship:** Modern interpretations acknowledged and credited
 
+### Additional Checks for Figure Biographies
+
+- [ ] **Works covered:** Every item in `key_works` has at least one substantive paragraph
+- [ ] **Work content described:** Each work coverage states its argument, format, and significance — not just its title
+- [ ] **No mere listings:** Works are discussed in prose paragraphs, not bullets
+- [ ] **Scholarly reception of works:** At least the most important work has scholarly interpretation noted
+- [ ] **Transmission of works:** How key works circulated, were translated, or were suppressed
+
+### Additional Checks for Scholar Profiles
+
+- [ ] **Each major monograph covered:** Full publication details + argument + significance
+- [ ] **Methodological framework explicit:** The scholar's distinctive approach is named and explained
+- [ ] **Portal relevance:** Specific figures/concepts illuminated by their work are named
+- [ ] **Scholarly dialogue:** Who they respond to and who responds to them is noted
+- [ ] **No hagiography:** Limitations or critiques acknowledged
+
 ---
 
 ## Examples of Exemplary Writing (Phase 1)
@@ -371,6 +454,7 @@ Emblems and visual elements are philosophical instruments, not mere illustration
 | 1.0 | 2026-05-24 | Initial style guide (Phase 0) |
 | 2.0 | 2026-05-25 | Phase 1 update: Expanded scholarly values, gender awareness, transmission focus |
 | 3.0 | 2026-05-25 | Phase 2 update: Formalized Zuber (embodied practice), Akerman (historiography), Szulakowska (visual analysis) frameworks |
+| 4.0 | 2026-05-29 | Phase 2 update: Mandatory works-coverage requirements for figure bios; new Scholar Profiles entry type with full template; updated quality checklists |
 
 ---
 
