@@ -1,0 +1,101 @@
+---
+source: DE TRIBUS PRINCIPIIS, Oder Beschreibung Der Drey Principien Gttliches Wesens: Of the Three Principles of Divine Being, 1619, by Jacob Boehme
+source_category: Western Esotericism
+author: Weeks, Andrew;Penman, Leigh;
+total_pages: 876
+section: Introduction
+section_number: 3
+date_processed: 2026-05-25T14:59:47.274296
+figures_mentioned: Jacob Böhme, Paracelsus
+concepts_mentioned: Tincture, Enlightenment, Regeneration
+---
+
+# DE TRIBUS PRINCIPIIS, Oder Beschreibung Der Drey Principien Gttliches Wesens: Of the Three Principles of Divine Being, 1619, by Jacob Boehme
+
+## Section: Introduction
+
+Introduction
+1 OftheThreePrinciplesofDivineBeing(1619)
+Jacob Boehme (1575–1624)1 is remembered as the legendary German shoe-
+makerwhosesuddenilluminationin1600ledhimtocomposemysticalbooks
+thathadaprofoundimpactonthereligion,literature,andspeculativethought
+ofhisowntimeandposterity.Sincehislegendaryprofiledoesnotprovidean
+adequateapproachtohiswork,thisvolumeundertakestoofferreadersareli-
+ableaccesstoanessentialwriting.Reliabilityentailsplacinganewtranslation
+vis-à-visanoptimalsourcetreatedasfaraspossiblewiththemethodsofcritical
+edition. Access to this work written four hundred years ago should be facili-
+tatedbysupportingthetextandtranslationwithacommentarythatdrawson
+Boehme’scompletewritingsandthecontextofhistime.
+After his first work, Morgen Röte im auffgang or Aurora (reproduced and
+translatedinthepreviousvolume),hadsetouttentativefoundationsin1612,his
+secondoffersaccesstoeverythingthatfollows.BeschreibungderdreyPrincip-
+ienGöttlichesWesens(OftheThreePrinciplesofDivineBeing)isthecornerstone
+of his entire literary production. No lesser significance was ascribed to it by
+the author. He claimed that it surpassed the immaturity of Aurora and pro-
+vided readers a key to everything he wrote: “It is a key and alphabet for all
+whodesiretounderstandmywritings”(DasisteinSchlüsselundAlphabethaller
+derer,someineSchriftenbegehrenzuverstehen—ep.12:67).2TheThreePrinciples
+isBoehme’ssecondlongestworkafterhislateGenesiscommentaryMysterium
+Magnum.Withtheexceptionof Aurora,itwasalsohismosttime-consuming
+andprobablymostdifficulttowrite.Sincenoautographsurvives,theearlycopy
+madebyChristianBernhardisanimportantsource.Itbearsonitstitlepagethe
+1 ArielHessayoncontendsthattheavailabledocumentationdoesnotunequivocallyestablish
+thatBoehmecouldnothavebeenborntowardtheendof1574.SeeJacobBoehme,Aurora
+(MorgenRöteimauffgang,1612)andEingründlicherBerichtorAFundamentalReport(Mys-
+teriumPansophicum,1612),trans.,intro.,andcommentaryAndrewWeeks,withGüntherBon-
+heimincollaborationwithMichaelSpangaseditorofGründlicherBericht(Leiden,Boston:
+Brill,2013),5.Subsequentreferencestothisvolumewithintroductionandcommentaryrefer
+toAbypagefortheIntroductionandchapterandsectionforthework.
+2 Referencestothelettersarecitedas“ep.”withreferencetotheletter’snumberandsectionin
+volumenineofJacobBöhme,SämtlicheSchriften(Faksimile-NeudruckderAusgabevon1730in
+elfBänden),ed.Will-ErichPeuckert(Stuttgart:FrommannsVerlag-GüntherHolzboog,1956).
+ExceptforAurora(A),citedasabove,mostcitationsofBoehmewillrefertothiseditionby
+volume,chapterorletter,andsectionnumber.
+© koninklijkebrillnv,leiden,2019 | doi:10.1163/9789004395275_002
+
+[Page 13]
+2 introduction
+year1617.Theworkwascompleted,however,in1619,requiringmorethanone
+stintof composition.Itscompletionwasdelayedbytheintrinsicdifficultyof
+theworkandthenecessitiesofearningalivelihood,attendingtoanextended
+family,andundertakingexhaustingjourneysasthecloudsofwargatheredover
+hisregion(ep.4:28–30).Completinghissecondwork,Boehmefoundhisstride.
+Anunbrokenproductionofrefinedworksflowedfromhispenuntilhisdeath
+inNovember1624.In1621,hewroteregardinganoeuvrethatbythencomprised
+multipleproductions,“Mybookhasonlythreepages:thosearethethreeprin-
+ciplesof eternity;inthemIcanfindeverythingthatMosesandtheprophets,
+aswellasChristandtheapostles,spoke”(MeinBuchhatnur3Bätter,dassind
+die3PrincipiaderEwigkeit;darinnenkannichallesfinden,wasMosesunddie
+Propheten,sowolChristusunddieApostelngeredethaben—ep.12:15).
+Wewill outlinethetextof TheThreePrinciples,firstas anintroductionto
+theevolvingvisionof thefullcorpuswhichitanticipates,thenintermsof its
+thematicandstructuralcomponents,andfinallybysummarizingitschapters,
+sothatthereaderorresearcherwhocannotmastertheentireworkcanobtain
+anoverviewandfindherwaytorelevantsections.
+2 TheMeaningoftheThree“Principles”
+Acommonperceptionof Boehmeascribesanopaqueimpenetrabilitytohis
+terminology,style,andthought.Thoughobstaclestounderstandingabound,
+wecanpenetratetheopacityandanchorhiswritingsintheirhistoricalcon-
+textbyaddressingthetermsofhistitle.Whatarethe“principles”?Theyarenot
+abstract precepts or physical laws, but living realities, distinct yet conjoined
+aspectsof being.Aletterof July3,1621,knows“of thethreeprinciplesof the
+threeworlds,howtheycoincidewithoneanotherasone”(vondenDreyPrin-
+cipienderdreyWelten,wiesieineinanderstehenalsEine—ep.17:5).Wittgenstein
+wroteintheTractatusLogico-Philosophicus,“Theworldofthehappyindividual
+isadifferentonefromthatoftheunhappyone”(DieWeltdesGlücklichenisteine
+anderealsdiedesUnglücklichen—6.43).3ToBoehme,realityfortheevilbeing
+is distinct from reality for the good. In his fully developed work, the respec-
+tiverealitiesof goodandevilareinterpenetrating“worlds”rootedinasingle
+processthatiseternal,divine,cosmic,natural,andhuman.Theforcesorpow-
+ersintheoneprinciplemirrorandinvertthoseintheothers.Boehme,whose
+3 LudwigWittgenstein,Tractatuslogico-philosophicus,trans.D.F.PearsandB.F.McGuinness,
+intro.BertrandRussell(NewYork:HumanitiesPress,1961),citedabovebydecimalsection
+withmytranslation.
+
+[Page 14]
+
+---
+
+*Extracted from: DE TRIBUS PRINCIPIIS, Oder Beschreibung Der Drey Principien Gttliches Wesens: Of the Three Principles of Divine Being, 1619, by Jacob Boehme (876 pages)*
+*Figures mentioned: Jacob Böhme, Paracelsus*
+*Concepts mentioned: Tincture, Enlightenment, Regeneration*
