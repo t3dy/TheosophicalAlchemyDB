@@ -1,6 +1,6 @@
-# TheosophicalAlchemyDB Style Guide — Phase 1 Update
+# TheosophicalAlchemyDB Style Guide — Phase 2 Update
 
-**Updated:** 2026-05-25 (Phase 1 Completion)  
+**Updated:** 2026-06-02 (Åkerman *Rose Cross over the Baltic* Integration)  
 **Applies to:** All figure biographies, concept definitions, text summaries, emblem essays
 
 ---
@@ -325,9 +325,9 @@ All alchemical knowledge is grounded in actual practice. Theory disconnected fro
 - Paragraph 3: Spiritual (transformational, consciousness)
 - Closing: Modern practice application
 
-### Akerman Emphasis: Historiographical Rigor
+### Åkerman Emphasis: Historiographical Rigor + Baltic/Nordic Framework
 
-**Core Teaching from Akerman's Scholarship:**
+**Core Teaching from Åkerman's Scholarship:**
 Distinguish documented facts from legend. Present scholarly disagreements fairly. Acknowledge what evidence cannot support.
 
 **How to Apply:**
@@ -342,6 +342,78 @@ Distinguish documented facts from legend. Present scholarly disagreements fairly
 - "Tradition holds..." (unverified legend)
 - "Scholars disagree whether..." (genuine debate)
 - "Evidence is scarce..." (honest gap)
+
+---
+
+### Åkerman *Rose Cross over the Baltic* — Five Scholarly Principles (NEW in Phase 2)
+
+Susanna Åkerman's *Rose Cross over the Baltic: The Spread of Rosicrucianism in Northern Europe* (Brill, 1998) has been systematically ingested into the database. Her work introduces five methodological principles that now apply to all Rosicrucian and millenarian entries.
+
+#### 1. Millenarianism as the Organizing Category
+
+**Åkerman's argument:** The Rosicrucian movement is best understood through its millenarian dimension—the expectation of imminent world transformation—rather than through occult revival (Yates) or proto-science (McGuire). Millenarianism integrates the religious, political, and natural-philosophical dimensions without reducing any to an epiphenomenon of the others.
+
+**Writing implications:**
+- For Rosicrucian figures: Always ask what eschatological expectations they held; how did they situate themselves in relation to the coming universal reform?
+- For Rosicrucian texts: Document the millenarian vocabulary (Elias Artista, universal reform, morning redness, Lion of the North) and trace its genealogy
+- For concepts: Note when a concept carries millenarian charge (e.g., Universal Reform, Regeneration, Initiation all connect to eschatological expectation)
+- **Avoid:** Treating millenarianism as mere background colour; it is the substance
+
+**Example phrasing:**
+> "The *Fama Fraternitatis* deploys the Elias Artista tradition—the Paracelsian expectation of a coming philosopher-physician who would reveal hidden knowledge—as the millenarian framework within which Christian Rosencreutz's story takes on its eschatological urgency."
+
+#### 2. Network Transmission Analysis
+
+**Åkerman's argument:** Ideas don't travel through vague 'influence'; they travel through specific channels—Hanseatic trade routes, court patronage systems, diplomatic networks, manuscript circulation chains, printer-publisher relationships. Tracing influence means identifying these channels precisely.
+
+**Writing implications:**
+- Replace vague language ("this idea spread widely," "Hermetic thought influenced X") with specific network claims ("through the Hanseatic route Hamburg–Danzig–Riga, the *Fama* reached the Swedish court within months of its 1614 publication")
+- For transmission sections: Name the specific nodes (cities, courts, printers, individuals) through which ideas moved
+- For figure biographies: Identify what networks they belonged to—not just what they read, but who carried it to them and through what institutional channels
+- **Avoid:** "Diffusion" language that implies ideas spread like gas; transmission is materially structured
+
+**Network nodes for Baltic Rosicrucianism:**
+- **Printing centres:** Kassel (Rosicrucian press), Hamburg, Frankfurt, Danzig, Amsterdam
+- **Court centres:** Hesse-Kassel (Landgrave Moritz), Stockholm (Swedish court), Copenhagen (Danish court)
+- **Trade routes:** Hanseatic axis Hamburg–Lübeck–Danzig–Riga–Reval–Stockholm
+- **Intellectual hubs:** Marburg (Paracelsian medicine), Tübingen (Andreae circle), Uppsala (Bureus)
+
+#### 3. The Northern Perspective — Not Peripheral, Generative
+
+**Åkerman's argument:** Baltic and Scandinavian reception of Rosicrucianism was not merely derivative but generative. The distinctively northern syntheses (Adulrunic theosophy, Gnostic astronomical theosophy, the Leo Septentrionalis typology) fed back into the broader movement and shaped its long-term trajectory, including Swedenborgianism.
+
+**Writing implications:**
+- Do not frame Nordic figures (Bureus, Stiernhielm) as peripheral followers of a southern German movement
+- Acknowledge that the tradition produced genuinely new knowledge in its northern reception—Adulruna is not an imitation of southern Kabbalistic Hermetism but a transformation of it
+- For genealogical sections: Trace the arc Bureus → Stiernhielm → Swedenborg as a continuous line of northern esoteric development
+- **Avoid:** Framing all Rosicrucian significance as centred in Württemberg/England with northern Europe as passive recipient
+
+#### 4. Political Contextualization Without Reductionism
+
+**Åkerman's argument:** Rosicrucian millenarianism was entangled with the politics of the Thirty Years' War—the 'Lion of the North' typology applied to Protestant princes, the eschatological framing of Gustavus Adolphus's intervention—but this political dimension does not *reduce* the tradition to propaganda. The relationship is more subtle: millenarian culture created an emotional-symbolic atmosphere within which political decisions were made and received.
+
+**Writing implications:**
+- Acknowledge the political dimension of Rosicrucian texts; don't treat them as purely spiritual
+- But resist the reduction: the *Fama Fraternitatis* was not simply a political pamphlet with mystical decoration
+- Apply the Nordström/Ahnlund framework: distinguish between *cultural atmosphere* (demonstrable) and *direct causation* (usually not demonstrable)
+- For figures like Bureus, Stiernhielm, Grebner: acknowledge both their esoteric and their political dimensions without collapsing one into the other
+- **Avoid:** Either pure spiritualization ("it was all about inner transformation") or pure politicization ("it was all propaganda")
+
+**The Nordström/Ahnlund debate** (model for this kind of analysis):
+> "Johan Nordström (1934) argued that Paracelsian-Hermetic prophecy was a crucial political factor in preparing the Swedes for war. Nils Ahnlund (1939) countered that the Lion of the North prophecy had negligible influence on actual royal decisions. Åkerman's more nuanced position holds that while direct political causation cannot be demonstrated, the prophetic tradition created a symbolic-emotional context within which military action could be understood as divinely sanctioned."
+
+#### 5. Historiographical Courage and Nationalist Appropriation
+
+**Åkerman's argument:** The history of Rosicrucian scholarship has been distorted by nationalist appropriations—most notably Johan Nordström's research being hijacked by Swedish right-wing nationalists in the 1930s. Historians must acknowledge this distortion rather than pretend it didn't happen, while still recovering the genuine scholarship.
+
+**Writing implications:**
+- When discussing Nordic esotericism, be aware of the nationalist reception history and note it where relevant
+- Don't rehabilitate esoteric nationalism by presenting it uncritically; acknowledge the difference between Bureus's genuine theosophical project and its later nationalist appropriation
+- For modern scholarship sections: Note when scholarly work has been appropriated or suppressed for political reasons
+- **Avoid:** Presenting Nordic Hermetism in a way that feeds into neo-romantic nationalist fantasy; insist on the cosmopolitan, European, and explicitly Hebraic-Kabbalistic character of the tradition even in its most 'Nordic' expressions
+
+**Example phrasing:**
+> "Bureus's Adulrunic theosophy was later appropriated by Swedish nationalist scholars who stripped it of its Kabbalistic-Hermetic content and presented it as evidence of a purely 'Gothic' or 'Nordic' wisdom tradition. This nationalist appropriation, which began in the nineteenth century and intensified in the 1930s, is a distortion: Bureus himself explicitly and enthusiastically derived his system from Hebrew, Hermetic, and Kabbalistic sources, presenting the runes as Nordic equivalents of a universal divine alphabet."
 
 ### Szulakowska Emphasis: Visual-Symbolic Analysis
 
@@ -371,6 +443,7 @@ Emblems and visual elements are philosophical instruments, not mere illustration
 | 1.0 | 2026-05-24 | Initial style guide (Phase 0) |
 | 2.0 | 2026-05-25 | Phase 1 update: Expanded scholarly values, gender awareness, transmission focus |
 | 3.0 | 2026-05-25 | Phase 2 update: Formalized Zuber (embodied practice), Akerman (historiography), Szulakowska (visual analysis) frameworks |
+| 4.0 | 2026-06-02 | Åkerman *Rose Cross over the Baltic* full ingestion: five methodological principles added (millenarianism, network analysis, northern perspective, political contextualization, historiographical courage) |
 
 ---
 
