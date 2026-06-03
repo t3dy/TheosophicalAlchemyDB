@@ -37,6 +37,10 @@
   <button class="nav-btn" data-section="concepts">Concepts</button>
   <button class="nav-btn" data-section="texts">Texts</button>
   <button class="nav-btn" data-section="emblems">Emblems</button>
+  <button class="nav-btn" data-section="scholars">Scholars</button>
+  <button class="nav-btn" data-section="debates">Debates</button>
+  <button class="nav-btn" data-section="glossary">Glossary</button>
+  <button class="nav-btn" data-section="paths">Paths</button>
   <button class="nav-btn" data-section="essays">Essays</button>
   <button class="nav-btn" data-section="map">Map</button>
   <button class="nav-btn" data-section="timeline">Timeline</button>
@@ -127,6 +131,82 @@
       <div id="emblems-gallery" class="gallery"></div>
   </section>
 
+  <section id="scholars" class="section">
+    <div class="section-header"><h2>Modern Scholars</h2><p>Profiles of 24 key researchers in Rosicrucian studies, alchemy history, and Western esotericism</p></div>
+    <div class="section-controls">
+        <div class="filter-bar">
+        <select class="filter-select" data-filter="nationality" data-section="scholars"><option value="">All Nationalities</option></select>
+        <select class="filter-select" data-filter="sort" data-section="scholars">
+          <option value="default">Sort: Default</option>
+          <option value="alpha">A&ndash;Z</option>
+          <option value="alpha-rev">Z&ndash;A</option>
+          <option value="chrono">Oldest First</option>
+          <option value="chrono-rev">Newest First</option>
+        </select>
+        <button class="filter-reset btn-sm" data-section="scholars">Reset</button>
+        </div>
+        <span id="scholars-count" class="section-count"></span>
+      </div>
+      <div id="scholars-gallery" class="gallery"></div>
+  </section>
+
+  <section id="debates" class="section">
+    <div class="section-header"><h2>Historiographical Debates</h2><p>5 contested questions in the field — positions, evidence, and current consensus</p></div>
+    <div class="section-controls">
+        <div class="filter-bar">
+        <select class="filter-select" data-filter="sort" data-section="debates">
+          <option value="default">Sort: Default</option>
+          <option value="alpha">A&ndash;Z</option>
+          <option value="alpha-rev">Z&ndash;A</option>
+          <option value="chrono">Oldest First</option>
+          <option value="chrono-rev">Newest First</option>
+        </select>
+        <button class="filter-reset btn-sm" data-section="debates">Reset</button>
+        </div>
+        <span id="debates-count" class="section-count"></span>
+      </div>
+      <div id="debates-gallery" class="gallery"></div>
+  </section>
+
+  <section id="glossary" class="section">
+    <div class="section-header"><h2>Technical Glossary</h2><p>Quick-reference definitions for 71 alchemical, Rosicrucian, Hermetic, and Kabbalistic terms</p></div>
+    <div class="section-controls">
+      <div class="filter-bar">
+        <select class="filter-select" data-filter="category" data-section="glossary">
+          <option value="">All Categories</option>
+          <option value="alchemical_stage">Alchemical Stages &amp; Operations</option>
+          <option value="substance">Key Substances</option>
+          <option value="hermetic">Hermetic &amp; Neoplatonic</option>
+          <option value="rosicrucian">Rosicrucian &amp; Esoteric</option>
+          <option value="kabbalistic">Kabbalistic Terms</option>
+          <option value="paracelsian">Paracelsian Terms</option>
+        </select>
+        <button class="filter-reset btn-sm" data-section="glossary">Reset</button>
+      </div>
+      <span id="glossary-count" class="section-count"></span>
+    </div>
+    <div class="glossary-letter-nav" id="glossary-letter-nav"></div>
+    <div id="glossary-container" class="glossary-list"></div>
+  </section>
+
+  <section id="paths" class="section">
+    <div class="section-header"><h2>Reading Paths</h2><p>5 curated routes through the portal — from introductory surveys to advanced research threads</p></div>
+    <div class="section-controls">
+        <div class="filter-bar">
+        <select class="filter-select" data-filter="sort" data-section="paths">
+          <option value="default">Sort: Default</option>
+          <option value="alpha">A&ndash;Z</option>
+          <option value="alpha-rev">Z&ndash;A</option>
+          <option value="chrono">Oldest First</option>
+          <option value="chrono-rev">Newest First</option>
+        </select>
+        <button class="filter-reset btn-sm" data-section="paths">Reset</button>
+        </div>
+        <span id="paths-count" class="section-count"></span>
+      </div>
+      <div id="paths-gallery" class="gallery"></div>
+  </section>
+
   <section id="essays" class="section">
     <div class="section-header"><h2>Thematic Essays</h2><p>Cross-cutting scholarly essays on Rosicrucian and alchemical traditions</p></div>
     <div class="section-controls">
@@ -145,6 +225,10 @@
 
   <section id="map" class="section">
     <div class="section-header"><h2>Geographic Distribution</h2><p>Explore the historical geography of Rosicrucian figures and text publication</p></div>
+    <div class="map-view-toggle">
+      <button class="map-view-btn active" id="map-view-geo">&#9672; Geographic View</button>
+      <button class="map-view-btn" id="map-view-net">&#9776; Confessional Network</button>
+    </div>
     <div id="map-layer-controls" class="map-controls">
       <div class="map-legend">
         <label><input type="checkbox" id="layer-figures" checked><span class="legend-dot figures"></span> Figures</label>
@@ -165,6 +249,7 @@
     </div>
     <div class="map-wrap">
       <div id="map-container" class="map-container"></div>
+      <div id="confessional-network" class="conf-network" style="display:none"></div>
       <div id="map-side-panel" class="map-side-panel">
         <div class="map-side-header">
           <h3 id="map-side-title"></h3>

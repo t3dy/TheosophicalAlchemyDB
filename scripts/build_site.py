@@ -71,6 +71,11 @@ def generate_index_html():
     concepts_filters = [('category', 'All Categories')]
     texts_filters    = [('language', 'All Languages'), ('century', 'All Centuries')]
     emblems_filters  = [('source_book', 'All Books'), ('type', 'All Types')]
+    scholars_filters = [('nationality', 'All Nationalities')]
+    stats['scholars']  = len(prototype.get('scholars', []))
+    stats['debates']   = len(prototype.get('debates', []))
+    stats['paths']     = len(prototype.get('reading_paths', []))
+    stats['glossary']  = len(prototype.get('dictionary', []))
 
     html = f"""<!DOCTYPE html>
 <html lang="en" data-theme="light">
@@ -111,6 +116,10 @@ def generate_index_html():
   <button class="nav-btn" data-section="concepts">Concepts</button>
   <button class="nav-btn" data-section="texts">Texts</button>
   <button class="nav-btn" data-section="emblems">Emblems</button>
+  <button class="nav-btn" data-section="scholars">Scholars</button>
+  <button class="nav-btn" data-section="debates">Debates</button>
+  <button class="nav-btn" data-section="glossary">Glossary</button>
+  <button class="nav-btn" data-section="paths">Paths</button>
   <button class="nav-btn" data-section="essays">Essays</button>
   <button class="nav-btn" data-section="map">Map</button>
   <button class="nav-btn" data-section="timeline">Timeline</button>
@@ -141,6 +150,42 @@ def generate_index_html():
     {filter_bar_html('emblems', emblems_filters)}
   </section>
 
+  <section id="scholars" class="section">
+    <div class="section-header"><h2>Modern Scholars</h2><p>Profiles of {stats['scholars']} key researchers in Rosicrucian studies, alchemy history, and Western esotericism</p></div>
+    {filter_bar_html('scholars', scholars_filters)}
+  </section>
+
+  <section id="debates" class="section">
+    <div class="section-header"><h2>Historiographical Debates</h2><p>{stats['debates']} contested questions in the field — positions, evidence, and current consensus</p></div>
+    {filter_bar_html('debates', [])}
+  </section>
+
+  <section id="glossary" class="section">
+    <div class="section-header"><h2>Technical Glossary</h2><p>Quick-reference definitions for {stats['glossary']} alchemical, Rosicrucian, Hermetic, and Kabbalistic terms</p></div>
+    <div class="section-controls">
+      <div class="filter-bar">
+        <select class="filter-select" data-filter="category" data-section="glossary">
+          <option value="">All Categories</option>
+          <option value="alchemical_stage">Alchemical Stages &amp; Operations</option>
+          <option value="substance">Key Substances</option>
+          <option value="hermetic">Hermetic &amp; Neoplatonic</option>
+          <option value="rosicrucian">Rosicrucian &amp; Esoteric</option>
+          <option value="kabbalistic">Kabbalistic Terms</option>
+          <option value="paracelsian">Paracelsian Terms</option>
+        </select>
+        <button class="filter-reset btn-sm" data-section="glossary">Reset</button>
+      </div>
+      <span id="glossary-count" class="section-count"></span>
+    </div>
+    <div class="glossary-letter-nav" id="glossary-letter-nav"></div>
+    <div id="glossary-container" class="glossary-list"></div>
+  </section>
+
+  <section id="paths" class="section">
+    <div class="section-header"><h2>Reading Paths</h2><p>{stats['paths']} curated routes through the portal — from introductory surveys to advanced research threads</p></div>
+    {filter_bar_html('paths', [])}
+  </section>
+
   <section id="essays" class="section">
     <div class="section-header"><h2>Thematic Essays</h2><p>Cross-cutting scholarly essays on Rosicrucian and alchemical traditions</p></div>
     <div class="section-controls">
@@ -159,6 +204,10 @@ def generate_index_html():
 
   <section id="map" class="section">
     <div class="section-header"><h2>Geographic Distribution</h2><p>Explore the historical geography of Rosicrucian figures and text publication</p></div>
+    <div class="map-view-toggle">
+      <button class="map-view-btn active" id="map-view-geo">&#9672; Geographic View</button>
+      <button class="map-view-btn" id="map-view-net">&#9776; Confessional Network</button>
+    </div>
     <div id="map-layer-controls" class="map-controls">
       <div class="map-legend">
         <label><input type="checkbox" id="layer-figures" checked><span class="legend-dot figures"></span> Figures</label>
@@ -179,6 +228,7 @@ def generate_index_html():
     </div>
     <div class="map-wrap">
       <div id="map-container" class="map-container"></div>
+      <div id="confessional-network" class="conf-network" style="display:none"></div>
       <div id="map-side-panel" class="map-side-panel">
         <div class="map-side-header">
           <h3 id="map-side-title"></h3>
@@ -743,6 +793,69 @@ input[type=range] { width: 140px; accent-color: var(--burnt-sienna); cursor: poi
     background: var(--dark-text); color: var(--parchment);
     text-align: center; padding: 2rem; margin-top: 3rem; border-top: 2px solid var(--burnt-sienna);
 }
+
+/* ── New section badges ────────────────────────────────────────────────── */
+.badge-scholars { background: #e8fdf4; color: #1a7a4a; }
+.badge-debates  { background: #fde8e8; color: #8e1a1a; }
+.badge-paths    { background: #f3e8fd; color: #7b4fa8; }
+
+/* ── Debate modals ────────────────────────────────────────────────────── */
+.debate-position {
+    background: var(--light-parchment); border-left: 3px solid var(--tan-gold);
+    padding: .85rem 1rem; margin-bottom: 1rem;
+}
+.debate-key-work { font-size: .85rem; color: var(--deep-brown); margin-top: .35rem; }
+
+/* ── Glossary ─────────────────────────────────────────────────────────── */
+.glossary-letter-nav { display: flex; flex-wrap: wrap; gap: .35rem; margin-bottom: 1.5rem; }
+.gloss-letter-btn {
+    padding: .25rem .6rem; border: 1px solid var(--tan-gold);
+    background: none; cursor: pointer; font-family: Georgia,serif;
+    color: var(--dark-text); transition: background .2s;
+}
+.gloss-letter-btn.active { background: var(--burnt-sienna); color: var(--parchment); border-color: var(--burnt-sienna); }
+.gloss-letter-btn:hover  { background: var(--tan-gold); color: var(--dark-text); }
+.gloss-entry { padding: .85rem 0; border-bottom: 1px solid rgba(212,165,116,.4); }
+.gloss-term  { font-size: 1.05rem; font-weight: bold; color: var(--burnt-sienna); }
+.gloss-also  { font-style: italic; color: var(--deep-brown); font-size: .88rem; }
+.gloss-etym  { font-size: .8rem; color: var(--deep-brown); margin: .25rem 0; }
+.gloss-def   { font-size: .9rem; line-height: 1.7; }
+.gloss-concept-link { font-size: .8rem; margin-top: .35rem; }
+
+/* ── Reading paths ────────────────────────────────────────────────────── */
+.path-steps { list-style: none; margin: 1rem 0; padding: 0; }
+.path-step  { display: grid; grid-template-columns: 2.5rem 1fr; gap: .5rem 1rem; padding: .9rem 0; border-bottom: 1px solid rgba(212,165,116,.4); }
+.step-num   { font-size: 1.4rem; font-weight: bold; color: var(--tan-gold); line-height: 1.3; }
+.step-title { font-weight: bold; color: var(--burnt-sienna); cursor: pointer; }
+.step-title:hover { text-decoration: underline; }
+.step-rationale { font-size: .88rem; color: var(--dark-text); margin: .2rem 0; }
+.step-note      { font-size: .82rem; font-style: italic; color: var(--deep-brown); }
+.step-open-btn  {
+    display: inline-block; margin-top: .4rem; padding: .18rem .65rem;
+    background: none; border: 1px solid var(--burnt-sienna); color: var(--burnt-sienna);
+    font-family: Georgia,serif; font-size: .78rem; cursor: pointer; transition: background .2s;
+}
+.step-open-btn:hover { background: var(--burnt-sienna); color: var(--parchment); }
+
+/* ── Map view toggle ──────────────────────────────────────────────────── */
+.map-view-toggle { display: flex; gap: .5rem; margin-bottom: 1rem; }
+.map-view-btn {
+    padding: .35rem .9rem; border: 1px solid var(--tan-gold);
+    background: none; color: var(--dark-text); cursor: pointer;
+    font-family: Georgia,serif; font-size: .85rem; transition: background .2s;
+}
+.map-view-btn.active { background: var(--burnt-sienna); color: var(--parchment); border-color: var(--burnt-sienna); }
+.map-view-btn:hover:not(.active) { background: var(--tan-gold); }
+
+/* ── Confessional network ─────────────────────────────────────────────── */
+.conf-network { width: 100%; height: 600px; border: 2px solid var(--burnt-sienna); background: var(--light-parchment); position: relative; overflow: hidden; }
+.conf-network svg { width: 100%; height: 100%; }
+text.conf-group-label { font-family: Georgia,serif; font-weight: bold; font-size: 13px; }
+text.conf-fig-label   { font-family: Georgia,serif; font-size: 9.5px; cursor: pointer; }
+text.conf-fig-label:hover { fill: var(--burnt-sienna); }
+
+/* ── Emblem plate (modal header image) ───────────────────────────────── */
+.emblem-plate { max-width: 100%; max-height: 380px; border: 2px solid var(--tan-gold); margin-bottom: 1.5rem; display: block; object-fit: contain; }
 
 /* Emblem book grouped view */
 .emblem-book-section { margin-bottom: 3rem; }

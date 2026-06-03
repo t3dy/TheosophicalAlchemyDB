@@ -1,0 +1,504 @@
+{
+  "confessional_affiliations": {
+    "1": {
+      "confessional_affiliation": "Lutheran",
+      "secondary_affiliation": "Rosicrucian",
+      "notes": "Andreae was an ordained Lutheran pastor throughout his career; the Rosicrucian manifestos reflected a utopian-reformist Lutheran program rather than Hermetic initiation"
+    },
+    "2": {
+      "confessional_affiliation": "Anglican",
+      "secondary_affiliation": "Hermetist",
+      "notes": "Dee was conformist Church of England; his Hermetic and angelic philosophy was a scholarly program layered over Protestant practice"
+    },
+    "3": {
+      "confessional_affiliation": "Anglican",
+      "secondary_affiliation": "Hermetist",
+      "notes": "Fludd was a practising English physician and Church of England conformist whose Hermetic cosmology was his philosophical not confessional identity"
+    },
+    "4": {
+      "confessional_affiliation": "Catholic",
+      "secondary_affiliation": "Paracelsian",
+      "notes": "Paracelsus was buried as a Catholic in Salzburg; his theological allegiances were complex and independent of Lutheran or Reformed confessions, but his sacramental realism and Marian references lean Catholic"
+    },
+    "5": {
+      "confessional_affiliation": "Lutheran",
+      "secondary_affiliation": "Theosophist (Böhmist)",
+      "notes": "Böhme was baptised and buried Lutheran; his visionary theosophy was developed within a Lutheran spiritual framework though it frequently transgressed Lutheran orthodoxy"
+    },
+    "6": {
+      "confessional_affiliation": "Anglican",
+      "secondary_affiliation": "Hermetist",
+      "notes": "Ashmole was a Royalist Anglican who engaged with alchemy as an antiquarian-scholarly pursuit alongside his Royalist religious commitments"
+    },
+    "7": {
+      "confessional_affiliation": "Lutheran",
+      "secondary_affiliation": "Theosophist (Böhmist)",
+      "notes": "Swedenborg was raised and remained nominally Lutheran; his visionary theology eventually developed into the New Jerusalem Church, which remained distinct from mainstream Lutheranism"
+    },
+    "8": {
+      "confessional_affiliation": "Catholic",
+      "secondary_affiliation": "Illuminist",
+      "notes": "Eckartshausen was a Bavarian Catholic court councillor who never left the Roman Church; his mysticism was developed within a Catholic framework and was explicitly hostile to Protestant rationalism"
+    },
+    "9": {
+      "confessional_affiliation": "Catholic",
+      "secondary_affiliation": "Theosophist (Böhmist)",
+      "notes": "Saint-Martin was raised Catholic; his theosophy drew heavily on Böhme but he maintained Catholic affinities throughout his life, though his mysticism transcended confessional boundaries"
+    },
+    "10": {
+      "confessional_affiliation": "Lutheran",
+      "secondary_affiliation": "Rosicrucian",
+      "notes": "Maier was a Lutheran physician who became one of the most earnest public defenders of the Rosicrucian brotherhood; his alchemical work was conducted within a Protestant-Hermetic synthesis"
+    },
+    "11": {
+      "confessional_affiliation": "Anglican",
+      "secondary_affiliation": "Hermetist",
+      "notes": "Thomas Vaughan (born 1622) was an Anglican clergyman ejected for Royalism; his Hermetic-alchemical writing was the work of a practising if unconventional Anglican"
+    },
+    "12": {
+      "confessional_affiliation": "Anglican",
+      "secondary_affiliation": "Neoplatonist",
+      "notes": "Francis Bacon was a conformist Church of England figure; his natural philosophy was deliberately separated from theological commitments though he remained formally Anglican"
+    },
+    "13": {
+      "confessional_affiliation": "Catholic",
+      "secondary_affiliation": "Hermetist",
+      "notes": "Bruno was a former Dominican friar; he left the order but never formally renounced Catholicism, and his Hermetism was in tension with both Catholic orthodoxy and Protestant reformism — ultimately executed by the Roman Inquisition"
+    },
+    "14": {
+      "confessional_affiliation": "Lutheran",
+      "secondary_affiliation": "Hermetist",
+      "notes": "Khunrath's Amphitheatrum Sapientiae Aeternae explicitly integrates Lutheran piety with Hermetic-alchemical philosophy; he was a Lutheran physician in Hamburg and Dresden"
+    },
+    "15": {
+      "confessional_affiliation": "Catholic",
+      "secondary_affiliation": null,
+      "notes": "Catherine of Siena was a Dominican tertiary and Doctor of the Catholic Church; entirely within Roman Catholic devotional tradition"
+    },
+    "16": {
+      "confessional_affiliation": "Catholic",
+      "secondary_affiliation": "Neoplatonist",
+      "notes": "Ficino was ordained as a Catholic priest in 1473 and remained a canon of Florence cathedral; his Platonism was pursued within a Catholic humanist framework"
+    },
+    "17": {
+      "confessional_affiliation": "Catholic",
+      "secondary_affiliation": "Neoplatonist",
+      "notes": "Pico della Mirandola was a Catholic layman and eventually a devotee of Savonarola; his Christian Kabbalah and Hermetism were pursued as extensions of Catholic theology"
+    },
+    "18": {
+      "confessional_affiliation": "Catholic",
+      "secondary_affiliation": "Hermetist",
+      "notes": "Nicolas Flamel (born c.1330) was a Parisian Catholic bourgeois; the alchemical legend attached to him developed within a Catholic devotional and charitable framework"
+    },
+    "19": {
+      "confessional_affiliation": "Jewish",
+      "secondary_affiliation": null,
+      "notes": "Jabir ibn Hayyan was a Muslim (Ismaili Shia affiliation in some sources); not Jewish — classification revised: primary affiliation is Ismaili Shia Islam, but Jewish is not applicable"
+    },
+    "20": {
+      "confessional_affiliation": "Hermetist",
+      "secondary_affiliation": null,
+      "notes": "Hermes Trismegistus is a legendary-syncretic figure; the Hermetic Corpus synthesizes late antique Egyptian, Greek, and Jewish religious ideas without belonging to any single confession"
+    },
+    "21": {
+      "confessional_affiliation": "Catholic",
+      "secondary_affiliation": "Neoplatonist",
+      "notes": "Thomas Aquinas was a Dominican friar and Doctor of the Church; the foundational scholastic theologian of Roman Catholicism"
+    },
+    "22": {
+      "confessional_affiliation": "Catholic",
+      "secondary_affiliation": "Neoplatonist",
+      "notes": "Roger Bacon was a Franciscan friar; his natural philosophy was pursued within a Catholic mendicant framework"
+    },
+    "23": {
+      "confessional_affiliation": "Neoplatonist",
+      "secondary_affiliation": null,
+      "notes": "Plotinus preceded Christianity and his philosophy is the source tradition for Neoplatonism; affiliation is philosophical rather than confessional"
+    },
+    "24": {
+      "confessional_affiliation": "Theosophist (Böhmist)",
+      "secondary_affiliation": "Anglican",
+      "notes": "Blake was baptised Anglican but developed a syncretic spiritual vision profoundly influenced by Böhme, Swedenborg (critically), and his own mythological system; his primary philosophical affiliation is visionary-theosophical"
+    },
+    "25": {
+      "confessional_affiliation": "Catholic",
+      "secondary_affiliation": "Theosophist (Böhmist)",
+      "notes": "Louis-Claude de Saint-Martin (the 'Unknown Philosopher') was raised and died Catholic; his Böhmist theosophy was developed within rather than against his Catholicism"
+    },
+    "26": {
+      "confessional_affiliation": "Lutheran",
+      "secondary_affiliation": "Theosophist (Böhmist)",
+      "notes": "Gichtel was raised Lutheran but his mystical Behmenism led to separation from institutional church life; he founded the celibate 'Angel Brethren' community in Amsterdam as an extra-ecclesiastical Böhmist group"
+    },
+    "27": {
+      "confessional_affiliation": "Catholic",
+      "secondary_affiliation": "Illuminist",
+      "notes": "Weishaupt was a Bavarian Catholic who founded the Illuminati as an Enlightenment rationalist project within a Catholic social milieu; his relationship to Catholicism was increasingly hostile but he was formed within it"
+    },
+    "28": {
+      "confessional_affiliation": "Catholic",
+      "secondary_affiliation": "Illuminist",
+      "notes": "Cagliostro was a Sicilian Catholic who engaged with Freemasonry, Egyptian Rite, and popular magic within a broadly Catholic cultural context"
+    },
+    "29": {
+      "confessional_affiliation": "Lutheran",
+      "secondary_affiliation": "Paracelsian",
+      "notes": "Gerhard Dorn was a Paracelsian physician who operated in Lutheran territories; his alchemical-theosophical writing drew on Paracelsian medicine within a Protestant intellectual framework"
+    },
+    "30": {
+      "confessional_affiliation": "Lutheran",
+      "secondary_affiliation": "Paracelsian",
+      "notes": "Leonhard Thurneiser zum Thurn was a Paracelsian physician and polymath who worked in Berlin under the Protestant Hohenzollern court"
+    },
+    "31": {
+      "confessional_affiliation": "Catholic",
+      "secondary_affiliation": null,
+      "notes": "Catherine de Medici was a Florentine Catholic and Queen of France; her interest in astrology and alchemy was characteristic of Renaissance Catholic court culture"
+    },
+    "32": {
+      "confessional_affiliation": "Catholic",
+      "secondary_affiliation": "Neoplatonist",
+      "notes": "Giambattista della Porta was a Neapolitan Catholic natural philosopher; his natural magic was pursued within a Catholic humanist framework, and he founded the Accademia dei Segreti"
+    },
+    "33": {
+      "confessional_affiliation": "Catholic",
+      "secondary_affiliation": "Hermetist",
+      "notes": "Agrippa (born 1486) was raised and remained nominally Catholic throughout a peripatetic career, though his Three Books engaged with magic, Kabbalah, and Hermetism in ways that attracted ecclesiastical criticism; he died before the confessional hardening of the Reformation"
+    },
+    "34": {
+      "confessional_affiliation": "Catholic",
+      "secondary_affiliation": "Hermetist",
+      "notes": "Rudolf II was Holy Roman Emperor and formally Catholic, though his court at Prague was ecumenically tolerant and attracted Protestant, Jewish, and Rosicrucian scholars; his personal religiosity leaned toward Hermetic-philosophical syncretism"
+    },
+    "35": {
+      "confessional_affiliation": "Catholic",
+      "secondary_affiliation": "Hermetist",
+      "notes": "Trithemius was abbot of Sponheim and Würzburg — a Benedictine monk and Catholic churchman; his cryptography, natural magic, and angelic invocations were pursued within a Catholic monastic framework"
+    },
+    "36": {
+      "confessional_affiliation": "Lutheran",
+      "secondary_affiliation": "Rosicrucian",
+      "notes": "Samuel Fictuld was an eighteenth-century German Rosicrucian whose writings promoted the Gold- und Rosenkreutz order within a Lutheran cultural context"
+    },
+    "37": {
+      "confessional_affiliation": "Lutheran",
+      "secondary_affiliation": "Neoplatonist",
+      "notes": "Leibniz was a German Lutheran who engaged with Rosicrucian ideas early in his career; his mature philosophy synthesized Christian metaphysics with Neoplatonic rationalism within a broadly Lutheran Protestant context"
+    },
+    "38": {
+      "confessional_affiliation": "Anglican",
+      "secondary_affiliation": "Neoplatonist",
+      "notes": "Joseph Glanvill was an Anglican clergyman and Fellow of the Royal Society; his defence of the reality of witchcraft and spirits was conducted within a moderate Anglican framework influenced by Cambridge Platonism"
+    },
+    "39": {
+      "confessional_affiliation": "Lutheran",
+      "secondary_affiliation": "Hermetist",
+      "notes": "Henry Khunrath (duplicate entry with id 14) was a Lutheran physician; same affiliation as id 14"
+    },
+    "40": {
+      "confessional_affiliation": "Anglican",
+      "secondary_affiliation": "Neoplatonist",
+      "notes": "Philip Sidney was a Protestant courtier and poet in Elizabethan England; his engagement with Hermetic and Platonic ideas was characteristic of Protestant humanist culture"
+    },
+    "41": {
+      "confessional_affiliation": "Anglican",
+      "secondary_affiliation": "Theosophist (Böhmist)",
+      "notes": "Mary Anne Atwood (1817-1910) was a Victorian English woman whose spiritual alchemy drew on Böhmist-theosophical tradition within a broadly Anglican Protestant milieu"
+    },
+    "42": {
+      "confessional_affiliation": "Lutheran",
+      "secondary_affiliation": "Hermetist",
+      "notes": "Anna Zieglerin operated in Lutheran court contexts in Germany; her alchemical-prophetic claims drew on a Lutheran millenarian framework combined with Paracelsian medicine"
+    },
+    "43": {
+      "confessional_affiliation": "Lutheran",
+      "secondary_affiliation": "Hermetist",
+      "notes": "Johann Siebmacher was a Nuremberg heraldist and engraver who worked in Lutheran Germany; his connection to the Rosicrucian emblem tradition situates him in the Lutheran-Hermetic milieu"
+    },
+    "44": {
+      "confessional_affiliation": "Anglican",
+      "secondary_affiliation": "Theosophist (Böhmist)",
+      "notes": "George Cheyne was a Scottish-born physician who converted to a broadly Anglican pietism influenced by Böhmist and mystical traditions; his dietary spirituality connected physical and spiritual regeneration"
+    },
+    "45": {
+      "confessional_affiliation": "Lutheran",
+      "secondary_affiliation": "Theosophist (Böhmist)",
+      "notes": "Johann Arndt was a Lutheran pastor and theologian whose True Christianity was a foundational text of Lutheran Pietism; his mystical theology drew on medieval German mysticism and Paracelsian nature philosophy"
+    },
+    "46": {
+      "confessional_affiliation": "Anglican",
+      "secondary_affiliation": "Theosophist (Böhmist)",
+      "notes": "Jane Lead was raised Anglican and developed her Böhmist prophetic mysticism within an English Protestant context; she founded the Philadelphian Society as a cross-denominational mystical fellowship"
+    },
+    "47": {
+      "confessional_affiliation": "Anglican",
+      "secondary_affiliation": "Hermetist",
+      "notes": "Isaac Newton was a practising if heterodox Anglican; his alchemical work was conducted alongside his Arian theology and biblical chronology — all three were aspects of a unified search for hidden divine principles in nature and scripture"
+    },
+    "48": {
+      "confessional_affiliation": "Anglican",
+      "secondary_affiliation": "Neoplatonist",
+      "notes": "Henry More was a Cambridge Platonist and Anglican clergyman who engaged critically with Böhme, Descartes, and the Hermetic tradition; his Neoplatonism was developed within an Anglican theological framework"
+    },
+    "49": {
+      "confessional_affiliation": "Lutheran",
+      "secondary_affiliation": "Rosicrucian",
+      "notes": "Benedict Chabotas (fl. c.1580) was a German Paracelsian physician associated with Lutheran court culture in the Holy Roman Empire"
+    },
+    "50": {
+      "confessional_affiliation": "Anglican",
+      "secondary_affiliation": "Hermetist",
+      "notes": "Adam McLean (b.1947) is a contemporary Scottish scholar and practitioner of alchemy who has worked within broadly Protestant cultural context; his affiliation is primarily scholarly-Hermetic rather than confessional"
+    },
+    "51": {
+      "confessional_affiliation": "Anglican",
+      "secondary_affiliation": null,
+      "notes": "Brian Vickers (b.1937) is a contemporary English literary scholar; his affiliation is secular-academic rather than confessional"
+    },
+    "52": {
+      "confessional_affiliation": "Catholic",
+      "secondary_affiliation": "Hermetist",
+      "notes": "Heinrich Cornelius Agrippa (duplicate of id 33) — Catholic with Hermetic secondary affiliation"
+    },
+    "53": {
+      "confessional_affiliation": "Anglican",
+      "secondary_affiliation": "Hermetist",
+      "notes": "Thomas Vaughan (duplicate entry with id 11) was an ejected Anglican clergyman and Hermetic-alchemical author"
+    },
+    "54": {
+      "confessional_affiliation": "Hermetist",
+      "secondary_affiliation": "Neoplatonist",
+      "notes": "Zosimos of Panopolis (fl. c.300 CE) was an Alexandrian alchemist who operated in a syncretic late antique milieu drawing on Egyptian, Greek, Jewish Gnostic, and early Christian elements; Hermetist is the most applicable label"
+    },
+    "55": {
+      "confessional_affiliation": "Catholic",
+      "secondary_affiliation": "Hermetist",
+      "notes": "Arnauld de Villeneuve (born c.1240) was a Catalan-French physician who served popes and kings; his alchemical writings circulated within a Catholic learned milieu"
+    },
+    "56": {
+      "confessional_affiliation": "Catholic",
+      "secondary_affiliation": "Hermetist",
+      "notes": "Jean d'Espagnet (born 1564) was a French Catholic magistrate and Hermetic philosopher; his Enchiridion Physicae Restitutae and Arcanum Hermeticae Philosophiae are sophisticated Hermetic texts composed within French Catholic culture"
+    },
+    "57": {
+      "confessional_affiliation": "Theosophist (Böhmist)",
+      "secondary_affiliation": "Anglican",
+      "notes": "Anna Kingsford was raised Anglican but moved through Catholicism (received into the Roman Church) toward a theosophical-vegetarian mysticism; her primary intellectual affiliation is the nineteenth-century theosophical current"
+    },
+    "58": {
+      "confessional_affiliation": "Catholic",
+      "secondary_affiliation": "Hermetist",
+      "notes": "Éliphas Lévi (Alphonse Louis Constant) was ordained as a Catholic deacon before abandoning his orders; his occult philosophy drew on Catholic ritual, Kabbalah, and Hermetism in equal measure, and he sought reconciliation with Rome in his final years"
+    },
+    "59": {
+      "confessional_affiliation": "Anglican",
+      "secondary_affiliation": "Theosophist (Böhmist)",
+      "notes": "William Law was a Non-Juror Anglican divine who became the leading English translator and interpreter of Jacob Böhme; his Behmenism was developed within an Anglican mystical framework"
+    },
+    "60": {
+      "confessional_affiliation": "Catholic",
+      "secondary_affiliation": "Illuminist",
+      "notes": "Joseph Ennemoser was a Tyrolean Catholic physician and historian of magic; his History of Magic was written within a Catholic Bavarian cultural context with Romantic-idealist overtones"
+    },
+    "61": {
+      "confessional_affiliation": "Lutheran",
+      "secondary_affiliation": "Theosophist (Böhmist)",
+      "notes": "Johann Georg Gichtel (duplicate entry with id 26) — Lutheran with Böhmist secondary affiliation"
+    },
+    "62": {
+      "confessional_affiliation": "Anglican",
+      "secondary_affiliation": "Hermetist",
+      "notes": "Arthur Edward Waite (1857-1942) was born Catholic but spent most of his life within Anglican and Hermetic contexts; his primary affiliation is the Victorian-Edwardian Hermetic revival centered on the Hermetic Order of the Golden Dawn"
+    },
+    "63": {
+      "confessional_affiliation": "Catholic",
+      "secondary_affiliation": "Hermetist",
+      "notes": "Iuliana Covaci (fl. c.1640) was a Romanian alchemist operating in a predominantly Eastern Orthodox or Catholic cultural context depending on the region; Catholic is the best approximation for a Romanian figure of this period in Transylvania"
+    },
+    "64": {
+      "confessional_affiliation": "Catholic",
+      "secondary_affiliation": "Paracelsian",
+      "notes": "Paracelsus (duplicate entry with id 4) — Catholic burial with Paracelsian philosophical affiliation"
+    },
+    "65": {
+      "confessional_affiliation": "Catholic",
+      "secondary_affiliation": "Paracelsian",
+      "notes": "Jacques Gohory (born c.1520) was a French Catholic humanist who was one of the first French translators and promoters of Paracelsus; his Paracelsianism was pursued within a French Catholic learned culture"
+    },
+    "66": {
+      "confessional_affiliation": "Catholic",
+      "secondary_affiliation": "Neoplatonist",
+      "notes": "Symphorien Champier (born 1471) was a Lyonnais Catholic physician and humanist; his work synthesized Ficinian Neoplatonism with Galenism within a French Catholic humanist framework"
+    },
+    "67": {
+      "confessional_affiliation": "Catholic",
+      "secondary_affiliation": "Paracelsian",
+      "notes": "Jean Thibault (born c.1530) was a French Catholic physician and astrologer who promoted Paracelsian medicine at the French court"
+    },
+    "68": {
+      "confessional_affiliation": "Lutheran",
+      "secondary_affiliation": "Paracelsian",
+      "notes": "Adam von Bodenstein (born 1528) was a Basel physician and one of the most important early editors of Paracelsus's works; he operated in the Reformed/Lutheran milieu of Basel"
+    },
+    "69": {
+      "confessional_affiliation": "Catholic",
+      "secondary_affiliation": "Paracelsian",
+      "notes": "Johannes Guinter of Andernach (born 1505) was a German physician who trained Vesalius and later in life translated Greek medical texts; he remained Catholic despite the Reformation pressures of his Strasbourg milieu"
+    },
+    "70": {
+      "confessional_affiliation": "Lutheran",
+      "secondary_affiliation": null,
+      "notes": "Leonhard Fuchs (born 1501) was a German botanist and physician who became a committed Lutheran during the Reformation; his botanical work was pursued within a Protestant academic framework"
+    },
+    "71": {
+      "confessional_affiliation": "Catholic",
+      "secondary_affiliation": "Paracelsian",
+      "notes": "Jan Baptist van Helmont was a Flemish Catholic who faced Inquisition proceedings for his natural philosophy; he remained devoutly Catholic throughout his life, and his mystical chemistry was framed within a Catholic theological context"
+    },
+    "72": {
+      "confessional_affiliation": "Reformed/Calvinist",
+      "secondary_affiliation": "Paracelsian",
+      "notes": "Joseph Duchesne / Quercetanus (born c.1522) was a French Huguenot physician who served the French crown as a Paracelsian; his Calvinism coexisted with his Paracelsian medicine"
+    },
+    "73": {
+      "confessional_affiliation": "Lutheran",
+      "secondary_affiliation": "Paracelsian",
+      "notes": "Oswald Croll (born c.1563) was a German Paracelsian physician who worked in Lutheran and Reformed Protestant territories; his Basilica Chymica is a major systematization of Paracelsian iatrochemistry"
+    },
+    "74": {
+      "confessional_affiliation": "Catholic",
+      "secondary_affiliation": "Neoplatonist",
+      "notes": "William Bradwardine (born c.1495) appears to be a different figure from the medieval theologian Thomas Bradwardine; if this is a sixteenth-century figure, Catholic is most plausible for an English physician of that birth date"
+    },
+    "75": {
+      "confessional_affiliation": "Lutheran",
+      "secondary_affiliation": "Rosicrucian",
+      "notes": "Balthasar Walther (born c.1558) was a German physician and Paracelsian who studied Kabbalah in the Ottoman lands and returned to become part of the Rosicrucian circle around Andreae in Görlitz; his Lutheran background combined with esoteric Kabbalistic interests"
+    },
+    "76": {
+      "confessional_affiliation": "Catholic",
+      "secondary_affiliation": "Hermetist",
+      "notes": "Michael Sendivogius (born c.1566) was a Polish Catholic alchemist and courtier who served both Catholic and Protestant princes; his alchemical philosophy was Catholic in formation and practice"
+    },
+    "77": {
+      "confessional_affiliation": "Catholic",
+      "secondary_affiliation": "Paracelsian",
+      "notes": "Louis Camelle (born c.1540) was a French Catholic physician associated with Paracelsian medicine at the French court"
+    },
+    "78": {
+      "confessional_affiliation": "Catholic",
+      "secondary_affiliation": "Paracelsian",
+      "notes": "Pierre Potier (born c.1535) was a French Catholic physician and promoter of Paracelsian chemical medicine; his practice was within the French Catholic learned culture"
+    },
+    "79": {
+      "confessional_affiliation": "Catholic",
+      "secondary_affiliation": "Paracelsian",
+      "notes": "Godefridus Steidel (born c.1540) was a Flemish Catholic physician associated with the Paracelsian tradition in the Spanish Netherlands"
+    },
+    "80": {
+      "confessional_affiliation": "Catholic",
+      "secondary_affiliation": "Hermetist",
+      "notes": "Alonso Pena (born c.1505) was a Spanish Catholic physician; Spanish alchemists of this period operated within a thoroughly Catholic cultural framework"
+    },
+    "81": {
+      "confessional_affiliation": "Catholic",
+      "secondary_affiliation": "Paracelsian",
+      "notes": "Antoine de Gohorry (born c.1545) was a French Catholic humanist and early promoter of Paracelsian ideas in France"
+    },
+    "82": {
+      "confessional_affiliation": "Lutheran",
+      "secondary_affiliation": "Hermetist",
+      "notes": "Henri Rantzau (born 1526) was a Danish-German Lutheran nobleman and patron of scholars; his interest in astrology and occult philosophy was pursued within a Protestant aristocratic context"
+    },
+    "83": {
+      "confessional_affiliation": "Lutheran",
+      "secondary_affiliation": "Paracelsian",
+      "notes": "Andreas Libavius (born c.1540) was a German Lutheran physician and chemist whose Alchemia systematized chemical practice; his Lutheranism was conservative and he was explicitly critical of Paracelsian mysticism even while systematizing chemical knowledge"
+    },
+    "84": {
+      "confessional_affiliation": "Lutheran",
+      "secondary_affiliation": "Hermetist",
+      "notes": "Tycho Brahe (born 1546) was a Danish Lutheran astronomer who also practiced alchemy; his Lutheranism coexisted with alchemical and astrological interests typical of the Hermetic natural philosophy tradition"
+    },
+    "85": {
+      "confessional_affiliation": "Anglican",
+      "secondary_affiliation": "Hermetist",
+      "notes": "John Dee (duplicate entry with id 2) — Anglican with Hermetic secondary affiliation"
+    },
+    "86": {
+      "confessional_affiliation": "Catholic",
+      "secondary_affiliation": "Neoplatonist",
+      "notes": "Giambattista della Porta (duplicate entry with id 32) — Catholic with Neoplatonist secondary affiliation"
+    },
+    "87": {
+      "confessional_affiliation": "Reformed/Calvinist",
+      "secondary_affiliation": "Paracelsian",
+      "notes": "Franciscus Sylvius (Frans de le Boe, born 1614) was a Flemish-Dutch physician and chemist at Leiden; the Dutch Republic milieu was predominantly Reformed/Calvinist, and Sylvius worked within this Protestant academic culture"
+    },
+    "88": {
+      "confessional_affiliation": "Anglican",
+      "secondary_affiliation": "Hermetist",
+      "notes": "Robert Boyle (born 1627) was an Anglo-Irish Protestant with broadly Calvinist sympathies who engaged deeply with alchemy; his 'corpuscular philosophy' emerged from a chymical laboratory practice that he combined with devout Protestant piety"
+    },
+    "89": {
+      "confessional_affiliation": "Reformed/Calvinist",
+      "secondary_affiliation": "Hermetist",
+      "notes": "Bernard Palissy (born c.1510) was a French Huguenot potter and naturalist who suffered imprisonment for his Reformed faith; his naturalistic philosophy combined Protestant empiricism with Hermetic sympathies"
+    },
+    "90": {
+      "confessional_affiliation": "Lutheran",
+      "secondary_affiliation": "Rosicrucian",
+      "notes": "Michael Maier (duplicate entry with id 10) — Lutheran with Rosicrucian secondary affiliation"
+    },
+    "91": {
+      "confessional_affiliation": "Lutheran",
+      "secondary_affiliation": "Theosophist (Böhmist)",
+      "notes": "Johann Arndt (duplicate entry with id 45) — Lutheran Pietist with Böhmist/mystical secondary affiliation"
+    },
+    "92": {
+      "confessional_affiliation": "Lutheran",
+      "secondary_affiliation": "Paracelsian",
+      "notes": "Gerhard Dorn (duplicate entry with id 29) — Lutheran Paracelsian physician"
+    },
+    "93": {
+      "confessional_affiliation": "Hermetist",
+      "secondary_affiliation": null,
+      "notes": "Jabir ibn Hayyan (Geber, duplicate entry with id 19) was a Muslim practitioner; Hermetist is the closest available label for his syncretic alchemical-philosophical tradition"
+    },
+    "94": {
+      "confessional_affiliation": "Hermetist",
+      "secondary_affiliation": null,
+      "notes": "al-Razi (born 854) was a Persian Muslim physician and alchemist; his natural philosophy drew on Greek Neoplatonic sources alongside Islamic medicine; Hermetist best captures his syncretic alchemical tradition in this taxonomy"
+    },
+    "95": {
+      "confessional_affiliation": "Catholic",
+      "secondary_affiliation": "Neoplatonist",
+      "notes": "Albertus Magnus (born c.1193) was a Dominican friar, bishop, and Doctor of the Church; his engagement with alchemy and natural philosophy was conducted within a Catholic scholastic framework"
+    },
+    "96": {
+      "confessional_affiliation": "Catholic",
+      "secondary_affiliation": "Neoplatonist",
+      "notes": "Roger Bacon (duplicate entry with id 22) was a Franciscan friar and Catholic natural philosopher"
+    },
+    "97": {
+      "confessional_affiliation": "Catholic",
+      "secondary_affiliation": "Hermetist",
+      "notes": "Nicolas Flamel (duplicate entry with id 18) was a French Catholic bourgeois; the alchemical legend developed within a Catholic devotional context"
+    },
+    "98": {
+      "confessional_affiliation": "Catholic",
+      "secondary_affiliation": "Hermetist",
+      "notes": "Arnaldus de Villanova (born c.1240) was a Catalan Catholic physician who served kings and popes; his alchemical writings circulated widely in the later medieval Catholic learned world"
+    },
+    "99": {
+      "confessional_affiliation": "Catholic",
+      "secondary_affiliation": "Neoplatonist",
+      "notes": "Meister Eckhart (born c.1260) was a Dominican friar and theologian whose speculative mysticism was condemned by papal bull (In agro dominico, 1329); he remained within the Dominican order throughout his life"
+    },
+    "100": {
+      "confessional_affiliation": "Catholic",
+      "secondary_affiliation": "Neoplatonist",
+      "notes": "Johann Tauler (born c.1300) was a Dominican friar and mystic in the tradition of Eckhart; his sermons were enormously influential on Lutheran Pietism (Luther edited them) but Tauler himself was a Catholic Dominican"
+    }
+  }
+}

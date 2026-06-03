@@ -10,7 +10,7 @@
 
 // ─── State ────────────────────────────────────────────────────────────────────
 
-let allData = { figures: [], concepts: [], texts: [], essays: [], emblems: [] };
+let allData = { figures: [], concepts: [], texts: [], essays: [], emblems: [], scholars: [], debates: [], reading_paths: [], dictionary: [] };
 let activeSection = 'figures';
 
 const filterState = {
@@ -19,7 +19,11 @@ const filterState = {
     texts:          { sort: 'default', language: '', century: '' },
     essays:         { sort: 'default' },
     emblems:        { sort: 'default', source_book: '', type: '' },
-    'emblem-books': { sort: 'default', source_book: '', theme: '' }
+    'emblem-books': { sort: 'default', source_book: '', theme: '' },
+    scholars:       { sort: 'default', nationality: '' },
+    debates:        { sort: 'default' },
+    glossary:       { sort: 'default', category: '', letter: '' },
+    paths:          { sort: 'default' },
 };
 
 // Modal navigation stack: [{section, id}]
@@ -31,14 +35,19 @@ document.addEventListener('DOMContentLoaded', async () => {
     try {
         const response = await fetch('./data/prototype_data.json');
         allData = await response.json();
-        allData.emblems = allData.emblems || [];
-        allData.essays  = allData.essays  || [];
+        allData.emblems       = allData.emblems       || [];
+        allData.essays        = allData.essays        || [];
+        allData.scholars      = allData.scholars      || [];
+        allData.debates       = allData.debates       || [];
+        allData.reading_paths = allData.reading_paths || [];
+        allData.dictionary    = allData.dictionary    || [];
 
         updateStats();
         populateFilterDropdowns();
 
-        ['figures', 'concepts', 'texts', 'essays', 'emblems'].forEach(s => renderGallery(s));
+        ['figures', 'concepts', 'texts', 'essays', 'emblems', 'scholars', 'debates', 'paths'].forEach(s => renderGallery(s));
         renderEmblemBooks();
+        renderGlossary();
 
         setupDarkMode();
         setupSerendipity();
@@ -47,7 +56,9 @@ document.addEventListener('DOMContentLoaded', async () => {
         setupCompare();
         setupSearch();
         setupFilterListeners();
+        setupGlossaryFilters();
         setupNavigation();
+        setupMapViewToggle();
         initializeMap();
         renderTimeline();
         setupTimelineFilters();
@@ -98,6 +109,9 @@ function populateFilterDropdowns() {
 
     const embTypes = [...new Set(allData.emblems.map(e => e.type).filter(Boolean))].sort();
     fillSelect('[data-filter="type"][data-section="emblems"]', embTypes);
+
+    const scholNats = [...new Set(allData.scholars.map(s => s.nationality).filter(Boolean))].sort();
+    fillSelect('[data-filter="nationality"][data-section="scholars"]', scholNats);
 }
 
 function fillSelect(selector, values, labelFn = v => v) {
@@ -146,8 +160,9 @@ function setupFilterListeners() {
 // ─── Data filtering & sorting ─────────────────────────────────────────────────
 
 function applyFiltersAndSort(section) {
-    let items = [...allData[section]];
-    const state = filterState[section];
+    const dataKey = section === 'paths' ? 'reading_paths' : section;
+    let items = [...(allData[dataKey] || [])];
+    const state = filterState[section] || { sort: 'default' };
 
     if (section === 'figures') {
         if (state.nationality) items = items.filter(f => f.nationality === state.nationality);
@@ -164,6 +179,9 @@ function applyFiltersAndSort(section) {
     if (section === 'emblems') {
         if (state.source_book) items = items.filter(e => e.source_book === state.source_book);
         if (state.type)        items = items.filter(e => e.type === state.type);
+    }
+    if (section === 'scholars') {
+        if (state.nationality) items = items.filter(s => s.nationality === state.nationality);
     }
 
     switch (state.sort) {
@@ -182,7 +200,8 @@ function renderGallery(section) {
     const gallery = document.getElementById(`${section}-gallery`);
     if (!gallery) return;
     const counter = document.getElementById(`${section}-count`);
-    const total   = (allData[section] || []).length;
+    const dataKey = section === 'paths' ? 'reading_paths' : section;
+    const total   = (allData[dataKey] || []).length;
 
     if (counter) {
         counter.textContent = items.length < total
@@ -236,6 +255,16 @@ function buildCardMeta(section, item) {
     if (section === 'concepts') return item.category ? `<div class="card-meta">${humaniseCategory(item.category)}</div>` : '';
     if (section === 'emblems')  return `<div class="card-meta">${[item.source_book, item.year].filter(Boolean).join(' · ')}</div>`;
     if (section === 'essays')   return item.period ? `<div class="card-meta">${item.period}</div>` : '';
+    if (section === 'scholars') {
+        const dates = item.birth_year ? `${item.birth_year}–${item.death_year || 'present'}` : '';
+        return `<div class="card-meta">${[dates, item.nationality, item.institution].filter(Boolean).join(' · ')}</div>`;
+    }
+    if (section === 'debates')  return `<div class="card-meta">${[item.period, item.positions?.map(p=>p.scholar).slice(0,2).join(' vs. ')].filter(Boolean).join(' · ')}</div>`;
+    if (section === 'paths') {
+        const diff = item.difficulty ? `<span class="path-difficulty">${capitalise(item.difficulty)}</span>` : '';
+        const time = item.estimated_time ? item.estimated_time : '';
+        return `<div class="card-meta">${[diff, time, item.steps ? `${item.steps.length} steps` : ''].filter(Boolean).join(' · ')}</div>`;
+    }
     return '';
 }
 
@@ -245,7 +274,7 @@ function buildBadgeInline(section, currentContext = activeSection) {
 }
 
 function buildBadge(section) {
-    const labels = { figures: 'Figure', concepts: 'Concept', texts: 'Text', essays: 'Essay', emblems: 'Emblem' };
+    const labels = { figures: 'Figure', concepts: 'Concept', texts: 'Text', essays: 'Essay', emblems: 'Emblem', scholars: 'Scholar', debates: 'Debate', paths: 'Path' };
     return `<span class="card-badge badge-${section}">${labels[section] || section}</span>`;
 }
 
@@ -319,7 +348,8 @@ function setupModal() {
 
 function openModal(section, id, clearStack = false) {
     if (clearStack) modalStack.length = 0;
-    const item = (allData[section] || []).find(x => String(x.id) === String(id));
+    const dataKey = section === 'paths' ? 'reading_paths' : section;
+    const item = (allData[dataKey] || []).find(x => String(x.id) === String(id));
     if (!item) return;
     modalStack.push({ section, id });
     renderModal(section, item);
@@ -345,7 +375,14 @@ function renderModal(section, item) {
     body.querySelectorAll('[data-link-section][data-link-id]').forEach(link => {
         link.addEventListener('click', e => {
             e.preventDefault();
-            openModal(link.dataset.linkSection, link.dataset.linkId, false);
+            const ls = link.dataset.linkSection, li = link.dataset.linkId;
+            if (link.classList.contains('step-open-btn') || link.tagName === 'BUTTON') {
+                closeModal();
+                navigateTo(ls);
+                openModal(ls, li, true);
+            } else {
+                openModal(ls, li, false);
+            }
         });
     });
 }
@@ -360,7 +397,8 @@ function modalBack() {
     if (modalStack.length <= 1) return;
     modalStack.pop();
     const prev = modalStack[modalStack.length - 1];
-    const item = (allData[prev.section] || []).find(x => String(x.id) === String(prev.id));
+    const dk   = prev.section === 'paths' ? 'reading_paths' : prev.section;
+    const item = (allData[dk] || []).find(x => String(x.id) === String(prev.id));
     if (item) { renderModal(prev.section, item); updateHash(prev.section, prev.id); }
 }
 
@@ -373,6 +411,9 @@ function buildModalContent(section, item) {
         case 'texts':    return buildTextModal(item);
         case 'essays':   return buildEssayModal(item);
         case 'emblems':  return buildEmblemModal(item);
+        case 'scholars': return buildScholarModal(item);
+        case 'debates':  return buildDebateModal(item);
+        case 'paths':    return buildPathModal(item);
         default: return '';
     }
 }
@@ -543,6 +584,9 @@ function buildEssayModal(essay) {
 
 function buildEmblemModal(e) {
     let h = `<h2>${e.title}</h2>`;
+    if (e.image_url && !e.image_url.includes('placeholder')) {
+        h += `<img src="${e.image_url}" class="emblem-plate" alt="${escHtml(e.title)} — emblem plate" onerror="this.style.display='none'">`;
+    }
     h += `<div class="modal-meta-row">
         <span class="meta-pill">${e.source_book}</span>
         ${e.year     ? `<span class="meta-pill">${e.year}</span>` : ''}
@@ -584,6 +628,99 @@ function buildScholarshipSection(scholarship) {
     return h;
 }
 
+function buildScholarModal(s) {
+    let h = `<h2>${escHtml(s.name)}</h2>`;
+    h += `<div class="modal-meta-row">
+        ${s.birth_year ? `<span class="meta-pill">${s.birth_year}–${s.death_year || 'present'}</span>` : ''}
+        ${s.nationality  ? `<span class="meta-pill">${escHtml(s.nationality)}</span>` : ''}
+        ${s.institution  ? `<span class="meta-pill">${escHtml(s.institution)}</span>` : ''}
+        ${s.scholarly_position ? `<span class="meta-pill">${escHtml(s.scholarly_position)}</span>` : ''}
+    </div>`;
+    if (s.essay) h += `<div class="modal-essay">${paragraphify(s.essay)}</div>`;
+    if (s.methodology) h += `<h3>Methodology</h3><p>${escHtml(s.methodology)}</p>`;
+    if (s.key_arguments?.length) {
+        h += `<h3>Key Arguments</h3><ul>${s.key_arguments.map(a => `<li>${escHtml(a)}</li>`).join('')}</ul>`;
+    }
+    if (s.key_works?.length) {
+        h += `<h3>Key Works</h3><ul>${s.key_works.map(w => `<li><em>${escHtml(w)}</em></li>`).join('')}</ul>`;
+    }
+    if (s.debates?.length) {
+        const links = s.debates.map(did => {
+            const d = allData.debates.find(x => x.id === did);
+            return d ? relLink('debates', did, d.short_title || d.title) : null;
+        }).filter(Boolean);
+        if (links.length) h += `<h3>Debates</h3><div class="rel-links">${links.join('')}</div>`;
+    }
+    return h;
+}
+
+function buildDebateModal(d) {
+    let h = `<h2>${escHtml(d.title)}</h2>`;
+    if (d.question) h += `<blockquote class="visual-desc"><em>${escHtml(d.question)}</em></blockquote>`;
+    h += `<div class="modal-meta-row">
+        ${d.period ? `<span class="meta-pill">${escHtml(d.period)}</span>` : ''}
+    </div>`;
+    if (d.positions?.length) {
+        h += `<h3>Positions</h3>`;
+        d.positions.forEach(p => {
+            h += `<div class="debate-position">
+                <strong>${escHtml(p.scholar)}</strong>
+                ${p.label ? ` — <em>${escHtml(p.label)}</em>` : ''}
+                <p style="margin:.5rem 0 .25rem">${escHtml(p.argument)}</p>
+                ${p.key_work ? `<div class="debate-key-work">Key work: <em>${escHtml(p.key_work)}</em></div>` : ''}
+            </div>`;
+        });
+    }
+    if (d.current_consensus) h += `<h3>Current Consensus</h3><p>${escHtml(d.current_consensus)}</p>`;
+    if (d.essay) h += `<div class="modal-essay">${paragraphify(d.essay)}</div>`;
+    if (d.related_figure_ids?.length) {
+        const links = d.related_figure_ids.map(fid => {
+            const f = allData.figures.find(x => String(x.id) === String(fid));
+            return f ? relLink('figures', fid, f.name) : null;
+        }).filter(Boolean);
+        if (links.length) h += `<h3>Related Figures</h3><div class="rel-links">${links.join('')}</div>`;
+    }
+    if (d.related_concept_ids?.length) {
+        const links = d.related_concept_ids.map(cid => {
+            const c = allData.concepts.find(x => String(x.id) === String(cid));
+            return c ? relLink('concepts', cid, c.name) : null;
+        }).filter(Boolean);
+        if (links.length) h += `<h3>Related Concepts</h3><div class="rel-links">${links.join('')}</div>`;
+    }
+    return h;
+}
+
+function buildPathModal(p) {
+    let h = `<h2>${escHtml(p.title)}</h2>`;
+    if (p.subtitle) h += `<p style="font-style:italic;color:var(--deep-brown);margin:.25rem 0 1rem">${escHtml(p.subtitle)}</p>`;
+    h += `<div class="modal-meta-row">
+        ${p.difficulty      ? `<span class="meta-pill">${capitalise(p.difficulty)}</span>` : ''}
+        ${p.estimated_time  ? `<span class="meta-pill">${escHtml(p.estimated_time)}</span>` : ''}
+        ${p.steps           ? `<span class="meta-pill">${p.steps.length} steps</span>` : ''}
+    </div>`;
+    if (p.description) h += `<p>${escHtml(p.description)}</p>`;
+    if (p.steps?.length) {
+        h += `<ol class="path-steps">`;
+        p.steps.forEach(step => {
+            const dataSection = step.section || 'figures';
+            const dataId      = step.entity_id;
+            h += `<li class="path-step">
+                <div class="step-num">${step.order}</div>
+                <div>
+                    <div class="step-title" data-link-section="${dataSection}" data-link-id="${dataId}">
+                        ${escHtml(step.entity_title || '')}
+                    </div>
+                    <div class="step-rationale">${escHtml(step.rationale || '')}</div>
+                    ${step.reading_note ? `<div class="step-note">${escHtml(step.reading_note)}</div>` : ''}
+                    <button class="step-open-btn" data-link-section="${dataSection}" data-link-id="${dataId}">Open entry →</button>
+                </div>
+            </li>`;
+        });
+        h += `</ol>`;
+    }
+    return h;
+}
+
 function paragraphify(text) {
     if (!text) return '';
     return text.split(/\n\n+/).map(p => `<p>${p.trim()}</p>`).join('');
@@ -620,8 +757,7 @@ function setupSearch() {
 }
 
 function getSearchTypes() {
-    // Always search all sections (no type filter checkboxes in HTML)
-    return ['figures', 'concepts', 'texts', 'emblems', 'essays'];
+    return ['figures', 'concepts', 'texts', 'emblems', 'essays', 'scholars', 'debates'];
 }
 
 function runSearch(query) {
@@ -658,7 +794,7 @@ function renderSearchResults(results, query, panel) {
     }
 
     const shown = results.slice(0, 30);
-    const labels = { figures: 'Figure', concepts: 'Concept', texts: 'Text', essays: 'Essay', emblems: 'Emblem' };
+    const labels = { figures: 'Figure', concepts: 'Concept', texts: 'Text', essays: 'Essay', emblems: 'Emblem', scholars: 'Scholar', debates: 'Debate' };
     panel.innerHTML = `
         <div class="search-result-header">${results.length} result${results.length !== 1 ? 's' : ''} for "<em>${escHtml(query)}</em>"</div>
         ${shown.map(r => {
@@ -1168,4 +1304,155 @@ function setupTimelineFilters() {
             });
         });
     });
+}
+
+// ─── Glossary ─────────────────────────────────────────────────────────────────
+
+function renderGlossary() {
+    const container = document.getElementById('glossary-container');
+    if (!container) return;
+    const state   = filterState.glossary;
+    let terms = [...allData.dictionary].sort((a, b) => (a.term || '').localeCompare(b.term || ''));
+    if (state.category) terms = terms.filter(t => t.category === state.category);
+    if (state.letter)   terms = terms.filter(t => (t.term || '')[0]?.toUpperCase() === state.letter);
+
+    const count = document.getElementById('glossary-count');
+    if (count) count.textContent = `${terms.length} term${terms.length !== 1 ? 's' : ''}`;
+
+    if (!terms.length) {
+        container.innerHTML = '<p class="no-results">No terms match the current filters.</p>';
+        return;
+    }
+
+    container.innerHTML = terms.map(t => `
+        <div class="gloss-entry" id="gloss-${t.id}">
+            <span class="gloss-term">${escHtml(t.term)}</span>
+            ${t.latin && t.latin !== t.term.toLowerCase() ? ` <span class="gloss-also">(${escHtml(t.latin)})</span>` : ''}
+            ${t.also_known_as?.length ? ` <span class="gloss-also">/ ${t.also_known_as.map(escHtml).join(', ')}</span>` : ''}
+            ${t.etymology ? `<div class="gloss-etym"><em>Etymology:</em> ${escHtml(t.etymology)}</div>` : ''}
+            <div class="gloss-def">${escHtml(t.definition)}</div>
+            ${t.related_concept_id ? `<div class="gloss-concept-link">→ <a href="#" class="rel-link" data-link-section="concepts" data-link-id="${t.related_concept_id}">See full concept entry</a></div>` : ''}
+        </div>`).join('');
+
+    container.querySelectorAll('[data-link-section][data-link-id]').forEach(link => {
+        link.addEventListener('click', e => {
+            e.preventDefault();
+            openModal(link.dataset.linkSection, link.dataset.linkId, false);
+        });
+    });
+}
+
+function setupGlossaryFilters() {
+    const nav = document.getElementById('glossary-letter-nav');
+    if (nav) {
+        'ABCDEFGHIJKLMNOPQRSTUVWXYZ'.split('').forEach(letter => {
+            const btn = document.createElement('button');
+            btn.className = 'gloss-letter-btn';
+            btn.dataset.letter = letter;
+            btn.textContent = letter;
+            btn.addEventListener('click', () => {
+                const wasActive = btn.classList.contains('active');
+                document.querySelectorAll('.gloss-letter-btn').forEach(b => b.classList.remove('active'));
+                filterState.glossary.letter = wasActive ? '' : letter;
+                if (!wasActive) btn.classList.add('active');
+                renderGlossary();
+            });
+            nav.appendChild(btn);
+        });
+    }
+    const catSel = document.querySelector('[data-filter="category"][data-section="glossary"]');
+    if (catSel) catSel.addEventListener('change', () => {
+        filterState.glossary.category = catSel.value;
+        renderGlossary();
+    });
+    const reset = document.querySelector('.filter-reset[data-section="glossary"]');
+    if (reset) reset.addEventListener('click', () => {
+        filterState.glossary.category = '';
+        filterState.glossary.letter   = '';
+        if (catSel) catSel.value = '';
+        document.querySelectorAll('.gloss-letter-btn').forEach(b => b.classList.remove('active'));
+        renderGlossary();
+    });
+}
+
+// ─── Confessional Network ─────────────────────────────────────────────────────
+
+function setupMapViewToggle() {
+    const geoBtn = document.getElementById('map-view-geo');
+    const netBtn = document.getElementById('map-view-net');
+    const netDiv = document.getElementById('confessional-network');
+    if (!geoBtn || !netBtn || !netDiv) return;
+
+    geoBtn.addEventListener('click', () => {
+        geoBtn.classList.add('active'); netBtn.classList.remove('active');
+        const mapWrap = document.querySelector('.map-wrap');
+        if (mapWrap) { mapWrap.querySelector('#map-container').style.display = ''; }
+        netDiv.style.display = 'none';
+    });
+
+    netBtn.addEventListener('click', () => {
+        netBtn.classList.add('active'); geoBtn.classList.remove('active');
+        const mapWrap = document.querySelector('.map-wrap');
+        if (mapWrap) { mapWrap.querySelector('#map-container').style.display = 'none'; }
+        netDiv.style.display = '';
+        if (!netDiv.dataset.rendered) { renderConfessionalNetwork(); netDiv.dataset.rendered = '1'; }
+    });
+}
+
+function renderConfessionalNetwork() {
+    const container = document.getElementById('confessional-network');
+    if (!container) return;
+
+    const groups = {};
+    allData.figures.forEach(f => {
+        const aff = f.confessional_affiliation || 'Unknown';
+        if (!groups[aff]) groups[aff] = [];
+        groups[aff].push(f);
+    });
+
+    const palette = {
+        'Lutheran': '#c0392b', 'Reformed/Calvinist': '#e67e22', 'Catholic': '#d4ac0d',
+        'Paracelsian': '#27ae60', 'Rosicrucian': '#2980b9', 'Neoplatonist': '#8e44ad',
+        'Hermetist': '#a569bd', 'Theosophist (Böhmist)': '#17a589', 'Jewish': '#1e8449',
+        'Anglican': '#cb4335', 'Pietist': '#d35400', 'Illuminist': '#2c3e50', 'Unknown': '#95a5a6'
+    };
+
+    const affList = Object.keys(groups).sort((a, b) => groups[b].length - groups[a].length);
+    const W = 900, H = 580;
+    const cols = Math.ceil(Math.sqrt(affList.length));
+    const rows = Math.ceil(affList.length / cols);
+    const cellW = W / cols, cellH = H / rows;
+
+    let svg = `<svg viewBox="0 0 ${W} ${H}" xmlns="http://www.w3.org/2000/svg" style="font-family:Georgia,serif">`;
+
+    affList.forEach((aff, i) => {
+        const col = i % cols, row = Math.floor(i / cols);
+        const cx = cellW * col + cellW / 2, cy = cellH * row + cellH / 2;
+        const r = Math.min(cellW, cellH) * 0.40;
+        const color = palette[aff] || '#95a5a6';
+        const figs = groups[aff];
+
+        svg += `<circle cx="${cx.toFixed(1)}" cy="${cy.toFixed(1)}" r="${r.toFixed(1)}" fill="${color}" fill-opacity="0.12" stroke="${color}" stroke-width="1.5"/>`;
+        svg += `<text x="${cx.toFixed(1)}" y="${(cy - r + 16).toFixed(1)}" text-anchor="middle" class="conf-group-label" fill="${color}">${escHtml(aff)} (${figs.length})</text>`;
+
+        const maxFigs = Math.min(figs.length, 14);
+        figs.slice(0, maxFigs).forEach((f, fi) => {
+            const angle = (2 * Math.PI * fi / maxFigs) - Math.PI / 2;
+            const pr = r * 0.58;
+            const fx = (cx + pr * Math.cos(angle)).toFixed(1);
+            const fy = (cy + pr * Math.sin(angle) + 4).toFixed(1);
+            const surname = f.name.split(' ').slice(-1)[0];
+            svg += `<text x="${fx}" y="${fy}" text-anchor="middle" class="conf-fig-label" fill="#2c2418"
+                onclick="navigateTo('figures');openModal('figures','${f.id}',true)">${escHtml(surname)}</text>`;
+        });
+        if (figs.length > 14) {
+            svg += `<text x="${cx.toFixed(1)}" y="${(cy + r - 6).toFixed(1)}" text-anchor="middle" fill="${color}" style="font-size:9px;font-family:Georgia,serif">+${figs.length - 14} more</text>`;
+        }
+    });
+
+    svg += `</svg>
+    <p style="text-align:center;font-size:.82rem;color:var(--deep-brown);margin-top:.5rem;font-style:italic">
+        Click any surname to open that figure's entry · Grouped by primary confessional affiliation
+    </p>`;
+    container.innerHTML = svg;
 }

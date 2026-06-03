@@ -1,0 +1,331 @@
+{
+  "reading_paths": [
+    {
+      "id": "intro-rosicrucianism",
+      "title": "Introduction to Rosicrucianism",
+      "subtitle": "From the founding documents to the philosophical core",
+      "audience": "newcomers",
+      "difficulty": "introductory",
+      "estimated_time": "45 minutes",
+      "description": "This path introduces Rosicrucianism through its primary founding texts and central figures, moving from the documents that announced the brotherhood's existence through the figures who shaped its mythology and philosophy. By following this sequence you will encounter the movement's founding claims, its chief theorist, its philosophical core, and its most sophisticated literary expression.",
+      "steps": [
+        {
+          "order": 1,
+          "section": "texts",
+          "entity_id": 1,
+          "entity_title": "Fama Fraternitatis",
+          "rationale": "The Fama (1614) is the founding document of Rosicrucianism: the text that first announced the existence of the Brotherhood of the Rosy Cross and set the terms for everything that followed.",
+          "reading_note": "Pay attention to the figure of Christian Rosencreutz and the claims made about the brotherhood's founding mission of universal reform — these are the primary myths of the movement."
+        },
+        {
+          "order": 2,
+          "section": "texts",
+          "entity_id": 2,
+          "entity_title": "Confessio Fraternitatis",
+          "rationale": "The Confessio (1615) is the companion manifesto that adds theological framing to the Fama's narrative, situating the brotherhood explicitly within Protestant providential history.",
+          "reading_note": "Note how the Confessio positions the brotherhood against Rome and within a millenarian framework — the religious stakes of the Rosicrucian program become clear here."
+        },
+        {
+          "order": 3,
+          "section": "figures",
+          "entity_id": 1,
+          "entity_title": "Johann Valentin Andreae",
+          "rationale": "Andreae is the probable principal author of the manifestos and the central biographical puzzle of early modern esotericism — understanding him requires knowing the documents he created.",
+          "reading_note": "Focus on the 'ludibrium' question: was the Rosicrucian project sincere reform or literary jest? The debate over Andreae's intention remains open."
+        },
+        {
+          "order": 4,
+          "section": "concepts",
+          "entity_id": 7,
+          "entity_title": "Rosy Cross",
+          "rationale": "The Rosy Cross is the central symbol of the movement — understanding its iconographic history and multiple interpretive layers grounds everything else in the tradition.",
+          "reading_note": "The rose and cross combination has pre-Rosicrucian Lutheran roots as well as alchemical meanings — the symbol's ambiguity was a feature, not a defect."
+        },
+        {
+          "order": 5,
+          "section": "concepts",
+          "entity_id": 28,
+          "entity_title": "Invisible Brethren",
+          "rationale": "The concept of the invisible brotherhood — a hidden community of spiritually advanced individuals working for human reformation — is the Rosicrucian contribution to esoteric political theology.",
+          "reading_note": "Consider how the 'invisible' nature of the brotherhood functions both as protective secrecy and as a deliberately destabilizing provocation to potential members."
+        },
+        {
+          "order": 6,
+          "section": "concepts",
+          "entity_id": 29,
+          "entity_title": "Universal Reform",
+          "rationale": "The Rosicrucian manifestos promised a 'general reformation of the whole wide world' — this concept of universal reform connects the movement to contemporaneous Protestant humanism and utopian thinking.",
+          "reading_note": "Trace the connections between universal reform, millenarianism, and the practical educational reform program of Andreae's Christianopolis."
+        },
+        {
+          "order": 7,
+          "section": "texts",
+          "entity_id": 3,
+          "entity_title": "Chymische Hochzeit",
+          "rationale": "The Chemical Wedding (1616) is the most sophisticated of the Rosicrucian founding texts — a seven-day allegorical narrative in which Christian Rosencreutz attends a royal alchemical wedding, illustrating the movement's synthesis of alchemy, courtly literature, and Protestant theology.",
+          "reading_note": "Notice how the protagonist Christian Rosencreutz is humble, uncertain, and repeatedly humbled — this is not the triumphalist adept of popular imagination but a figure of devotional participation in transformation."
+        }
+      ]
+    },
+    {
+      "id": "alchemy-science",
+      "title": "Alchemy and the Scientific Revolution",
+      "subtitle": "Laboratory practice, historiographical debate, and the chymistry question",
+      "audience": "intermediate",
+      "difficulty": "intermediate",
+      "estimated_time": "60 minutes",
+      "description": "This path traces the complex relationship between early modern alchemy and the emergence of experimental natural philosophy, moving from the radical Paracelsian reform through the key figure of van Helmont, the institutionalizing Libavius, and into the historiographical debates about what this all means. It is designed for readers who want to understand why 'alchemy and science' is not a simple story of superstition giving way to reason.",
+      "steps": [
+        {
+          "order": 1,
+          "section": "figures",
+          "entity_id": 4,
+          "entity_title": "Paracelsus",
+          "rationale": "Paracelsus is the foundational figure of the Paracelsian tradition in medicine and the starting point for understanding alchemy's relationship to early modern science.",
+          "reading_note": "Focus on his concept of iatrochemistry and his self-positioning as autonomous authority against Galenic tradition — the structure of his reform parallels Luther's, not coincidentally."
+        },
+        {
+          "order": 2,
+          "section": "concepts",
+          "entity_id": 33,
+          "entity_title": "Iatrochemistry",
+          "rationale": "Iatrochemistry — the application of alchemical processes to medicine — is the concept that most directly links the alchemical tradition to the history of chemistry and pharmacy.",
+          "reading_note": "Pay attention to how iatrochemistry required both laboratory skills and a philosophical framework about the nature of disease — the practical and theoretical were inseparable."
+        },
+        {
+          "order": 3,
+          "section": "figures",
+          "entity_id": 71,
+          "entity_title": "Jan Baptist van Helmont",
+          "rationale": "Van Helmont is the most important developer of Paracelsian chemistry in the seventeenth century and a crucial figure in the emergence of early modern experimental practice.",
+          "reading_note": "His discovery of gas (from the Dutch 'chaos') and his fermentation theory represent genuine contributions to chemistry that emerged from a Paracelsian-mystical framework."
+        },
+        {
+          "order": 4,
+          "section": "figures",
+          "entity_id": 83,
+          "entity_title": "Andreas Libavius",
+          "rationale": "Libavius represents the systematizing, institutional wing of early modern chymistry — his Alchemia (1597) is often called the first modern chemistry textbook, but he was deeply critical of Paracelsus.",
+          "reading_note": "The Libavius/Paracelsus contrast illustrates a fundamental tension: can chemical practice be institutionalized and taught without its Hermetic-spiritual framework?"
+        },
+        {
+          "order": 5,
+          "section": "concepts",
+          "entity_id": 31,
+          "entity_title": "Laboratory Alchemy",
+          "rationale": "Understanding what laboratory alchemy actually involved — the operations, equipment, and knowledge required — grounds the historiographical debate in material practice.",
+          "reading_note": "Consider Principe and Newman's argument that much 'symbolic' alchemical language was technically precise laboratory description encoded for secrecy."
+        },
+        {
+          "order": 6,
+          "section": "concepts",
+          "entity_id": 30,
+          "entity_title": "Spiritual Alchemy",
+          "rationale": "Spiritual alchemy — the reading of alchemical operations as figures for inner transformation — is the tradition that Hanegraaff and Zuber argue is irreducible to laboratory practice.",
+          "reading_note": "Ask yourself whether spiritual alchemy is a misreading of laboratory texts or a genuine intellectual tradition in its own right — this is the central question of the 'chymistry debate'."
+        },
+        {
+          "order": 7,
+          "section": "texts",
+          "entity_id": 86,
+          "entity_title": "The Hermetic Museum",
+          "rationale": "The Hermetic Museum (1678) is a major seventeenth-century anthology of alchemical texts that illustrates the range of the tradition at its most mature and complex.",
+          "reading_note": "Notice how different texts in the anthology weight the practical and spiritual dimensions differently — this variety within a single collection exemplifies the 'chymistry debate' problem."
+        }
+      ]
+    },
+    {
+      "id": "emblem-tradition",
+      "title": "The Emblem Tradition in Alchemy and Rosicrucianism",
+      "subtitle": "Visual philosophy from Maier's Atalanta Fugiens to Cramer's Rosicrucian emblems",
+      "audience": "intermediate",
+      "difficulty": "intermediate",
+      "estimated_time": "55 minutes",
+      "description": "This path introduces the alchemical emblem tradition as a distinct mode of philosophical communication, moving from the theoretical framework through the major practitioners and texts. Alchemical emblems were not mere illustrations but sophisticated philosophical instruments combining image, text, and sometimes music to encode doctrines that could not easily be expressed propositionally.",
+      "steps": [
+        {
+          "order": 1,
+          "section": "concepts",
+          "entity_id": 8,
+          "entity_title": "Correspondentia",
+          "rationale": "The doctrine of correspondences — the principle that things at different levels of reality mirror and participate in one another — is the philosophical foundation of all alchemical emblematic art.",
+          "reading_note": "The emblem's power depends on this principle: image, text, and process correspond because they all participate in the same underlying reality."
+        },
+        {
+          "order": 2,
+          "section": "figures",
+          "entity_id": 10,
+          "entity_title": "Michael Maier",
+          "rationale": "Maier is the central figure of the alchemical emblem tradition — his Atalanta Fugiens (1618) is the most sophisticated emblem book in the genre, combining image, text, and three-voice fugues.",
+          "reading_note": "Pay attention to Maier's method of reading classical mythology as encoded alchemical allegory — this interpretive technique structures the entire Atalanta Fugiens."
+        },
+        {
+          "order": 3,
+          "section": "texts",
+          "entity_id": 4,
+          "entity_title": "Atalanta Fugiens",
+          "rationale": "The Atalanta Fugiens (1618) is the most ambitious and successful emblem book in the alchemical tradition, and the work that established the genre's visual conventions for subsequent generations.",
+          "reading_note": "The myth of Atalanta and Hippomenes encodes the alchemical process of fixation — the volatile spirit (Atalanta) must be caught by the fixed (Hippomenes) using the golden apples of philosophical gold."
+        },
+        {
+          "order": 4,
+          "section": "concepts",
+          "entity_id": 43,
+          "entity_title": "Alchemical Hermaphrodite",
+          "rationale": "The hermaphrodite — the conjunction of male and female principles in a single unified figure — is one of the most important emblematic motifs in alchemical tradition, appearing in the Atalanta Fugiens and throughout the Rosicrucian emblem books.",
+          "reading_note": "The hermaphrodite encodes the hieros gamos (sacred marriage) and the production of the philosopher's stone through conjunction — it is simultaneously chemical, psychological, and cosmological."
+        },
+        {
+          "order": 5,
+          "section": "figures",
+          "entity_id": 1,
+          "entity_title": "Johann Valentin Andreae",
+          "rationale": "Andreae's Chymische Hochzeit provided the narrative and symbolic framework that Rosicrucian emblem makers drew on — his work is the literary precursor to the Rosicrucian emblem tradition.",
+          "reading_note": "Trace the connection between the Chemical Wedding's seven-day allegorical narrative and the emblematic programs of Cramer and Maier — they share a common symbolic vocabulary."
+        },
+        {
+          "order": 6,
+          "section": "concepts",
+          "entity_id": 40,
+          "entity_title": "Great Work",
+          "rationale": "The Great Work (Opus Magnum) is the culminating purpose toward which all alchemical emblems point — understanding it as both laboratory and spiritual goal is essential for reading the tradition.",
+          "reading_note": "Ask whether the Great Work in a given emblem is primarily laboratory (transmutation of metals), medical (the elixir), or spiritual (inner transformation) — and whether these distinctions are artificial."
+        },
+        {
+          "order": 7,
+          "section": "emblems",
+          "entity_id": 101,
+          "entity_title": "The Quintessence Rises from Five Elements",
+          "rationale": "This Cramer emblem from the Emblemata Sacra (1617) illustrates how alchemical, Neoplatonic, and Protestant theological symbolism were integrated in the Rosicrucian emblem tradition.",
+          "reading_note": "Notice how the emblem operates simultaneously as a Lutheran devotional image, a Paracelsian chemical diagram, and a Hermetic philosophical statement — the layers are not in competition."
+        }
+      ]
+    },
+    {
+      "id": "women-alchemy",
+      "title": "Women in Alchemy",
+      "subtitle": "Practitioners, obstacles, and the gendering of the tradition",
+      "audience": "newcomers",
+      "difficulty": "introductory",
+      "estimated_time": "40 minutes",
+      "description": "This path traces women's engagement with alchemical and Hermetic traditions from early modern court practitioners through Victorian spiritual alchemists, attending throughout to the structural obstacles women faced and the strategies they developed to pursue learning in traditions dominated by male institutions. It draws on the gender-aware scholarship that has reshaped the field since the 1990s.",
+      "steps": [
+        {
+          "order": 1,
+          "section": "concepts",
+          "entity_id": 56,
+          "entity_title": "Gender and Alchemy",
+          "rationale": "Starting with the conceptual and historiographical framework for gender in alchemy establishes the vocabulary and the scholarly questions that will illuminate the individual figures and texts that follow.",
+          "reading_note": "Pay attention to how gender appears in alchemy both symbolically (king and queen, sulfur and mercury, masculine and feminine principles) and historically (actual women practitioners and their conditions)."
+        },
+        {
+          "order": 2,
+          "section": "figures",
+          "entity_id": 42,
+          "entity_title": "Anna Zieglerin",
+          "rationale": "Anna Zieglerin was a sixteenth-century court alchemist who claimed to possess the secret of the philosopher's stone through divine revelation — her career and execution illustrate the extreme dangers faced by women who claimed alchemical authority.",
+          "reading_note": "Tara Nummedal's study of Zieglerin shows how her combination of alchemical claims, prophetic authority, and noble patronage was ultimately fatal — her case illuminates the gender dynamics of court alchemy."
+        },
+        {
+          "order": 3,
+          "section": "concepts",
+          "entity_id": 30,
+          "entity_title": "Spiritual Alchemy",
+          "rationale": "Spiritual alchemy — the reading of alchemical transformation as inner spiritual process — created a space in which women could claim alchemical authority without laboratory access or institutional credentials.",
+          "reading_note": "Consider how the spiritualization of alchemy both opened possibilities for women (inner transformation requires no laboratory) and closed others (it could be used to dismiss women's practical work)."
+        },
+        {
+          "order": 4,
+          "section": "figures",
+          "entity_id": 46,
+          "entity_title": "Jane Lead",
+          "rationale": "Jane Lead was a seventeenth-century English mystic and founder of the Philadelphian Society whose visionary writings drew on Böhmist spiritual alchemy to claim prophetic authority outside male-controlled institutions.",
+          "reading_note": "Lead's experience of the divine Sophia (divine feminine wisdom) as a personal guide represents a strategy for claiming spiritual authority through visionary experience rather than institutional position."
+        },
+        {
+          "order": 5,
+          "section": "figures",
+          "entity_id": 41,
+          "entity_title": "Mary Anne Atwood",
+          "rationale": "Atwood's Suggestive Inquiry into the Hermetic Mystery (1850) is the founding text of modern spiritual alchemy — her argument that all historical alchemy was always a spiritual practice reshaped the tradition's entire self-understanding.",
+          "reading_note": "Atwood wrote under the shadow of Victorian gender conventions but deployed a scholarly apparatus and ambitious philosophical argument that claimed intellectual authority typically reserved for men."
+        },
+        {
+          "order": 6,
+          "section": "texts",
+          "entity_id": 41,
+          "entity_title": "Suggestive Inquiry into the Hermetic Mystery",
+          "rationale": "Atwood's Suggestive Inquiry is both a primary text of spiritual alchemy and a document of Victorian women's intellectual aspirations — the decision to withdraw it from circulation and burn the copies made it legendary.",
+          "reading_note": "The withdrawal of the Suggestive Inquiry is as significant as its composition — Atwood believed she had revealed too much and acted to protect the tradition's mysteries."
+        }
+      ]
+    },
+    {
+      "id": "hermetic-transmission",
+      "title": "Hermetic Transmission: From Ficino to Fludd",
+      "subtitle": "How Hermetic philosophy traveled from Florence to the English Rosicrucian milieu",
+      "audience": "advanced",
+      "difficulty": "advanced",
+      "estimated_time": "75 minutes",
+      "description": "This path traces the transmission of Hermetic ideas from Ficino's translation of the Hermetic Corpus in 1463 through the Florentine synthesis of Pico della Mirandola, the systematization by Agrippa, and the English reception in Dee and Fludd, ending with the Rosicrucian synthesis. It is designed for readers who want to understand the intellectual genealogy of Hermetic philosophy as a historical transmission, not merely a set of ideas.",
+      "steps": [
+        {
+          "order": 1,
+          "section": "texts",
+          "entity_id": 18,
+          "entity_title": "Poemandres",
+          "rationale": "The Poemandres is the first and most important text of the Hermetic Corpus — Ficino's translation of it in 1463 initiated the Renaissance Hermetic tradition, and reading it shows what the tradition was actually transmitting.",
+          "reading_note": "Pay attention to the account of creation, the soul's descent into matter and ascent through the planetary spheres — this cosmological and soteriological framework underlies all subsequent Hermetic philosophy."
+        },
+        {
+          "order": 2,
+          "section": "figures",
+          "entity_id": 16,
+          "entity_title": "Marsilio Ficino",
+          "rationale": "Ficino's translation of the Hermetic Corpus and his Platonic Theology established the philosophical framework through which Renaissance Europe received Hermetic ideas — all subsequent Hermetic philosophy is his debtor.",
+          "reading_note": "Ficino's key move is the identification of Hermes Trismegistus as a 'gentile Moses' — an ancient prophet whose wisdom paralleled and prefigured Christian revelation, legitimizing Hermetic philosophy for Christian readers."
+        },
+        {
+          "order": 3,
+          "section": "figures",
+          "entity_id": 17,
+          "entity_title": "Pico della Mirandola",
+          "rationale": "Pico's Oration on Human Dignity and his 900 Theses synthesized Hermetic philosophy with Kabbalah and Platonic theology, creating the distinctive blend that defined Renaissance Hermetism.",
+          "reading_note": "Pico's claim that human dignity consists in the capacity to transform oneself into any form of being — from brutish to angelic — is the philosophical foundation of the self-transformative ideal central to alchemy."
+        },
+        {
+          "order": 4,
+          "section": "figures",
+          "entity_id": 33,
+          "entity_title": "Henry Cornelius Agrippa",
+          "rationale": "Agrippa's Three Books of Occult Philosophy (1531) is the most systematic synthesis of the Hermetic tradition available to the sixteenth century — it was the standard reference for all subsequent practitioners of natural magic and Hermetic philosophy.",
+          "reading_note": "Notice how Agrippa organizes occult knowledge into three books corresponding to the natural, celestial, and intellectual worlds — this tripartite structure reflects the Hermetic-Neoplatonic cosmology he inherited from Ficino and Pico."
+        },
+        {
+          "order": 5,
+          "section": "figures",
+          "entity_id": 2,
+          "entity_title": "John Dee",
+          "rationale": "Dee represents the transmission of Hermetic philosophy to England and its synthesis with mathematics, angelic communication, and imperial ambition — his Monas Hieroglyphica (1564) is the most original English contribution to Hermetic thought.",
+          "reading_note": "The Monas Hieroglyphica attempts to encode the entire Hermetic synthesis — mathematics, astronomy, alchemy, Kabbalah — in a single hieroglyphic symbol; the ambition is characteristic of the Hermetic synthesis tradition."
+        },
+        {
+          "order": 6,
+          "section": "concepts",
+          "entity_id": 26,
+          "entity_title": "Macrocosm-Microcosm",
+          "rationale": "The macrocosm-microcosm correspondence is the central organizing principle of the entire Hermetic tradition — understanding it as a philosophical principle rather than a metaphor is essential for reading any Hermetic text.",
+          "reading_note": "The principle is operational, not merely decorative: it underwrites specific practices (astrological medicine, sympathetic magic, alchemical operations) by guaranteeing that operations on the small scale affect the large."
+        },
+        {
+          "order": 7,
+          "section": "figures",
+          "entity_id": 3,
+          "entity_title": "Robert Fludd",
+          "rationale": "Fludd's Utriusque Cosmi Historia (1617-21) is the culmination of the Hermetic synthesis tradition — its elaborate diagrams and encyclopedic scope represent the fullest English-language integration of Hermetic philosophy, Paracelsian medicine, and Rosicrucian advocacy.",
+          "reading_note": "The controversy between Fludd and Kepler is the diagnostic moment of the Yates-Vickers debate: do Fludd's mathematical cosmological diagrams represent a form of mathematical science or an incompatible 'hieroglyphic' mentality?"
+        }
+      ]
+    }
+  ]
+}
