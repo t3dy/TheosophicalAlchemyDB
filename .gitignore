@@ -48,6 +48,7 @@ corpus/
 staging/*
 !staging/.gitkeep
 .claude/settings.local.json
+.claude/worktrees/
 
 # GitHub Pages (docs/ is generated for deployment)
 # Keep docs/ in repo for GitHub Pages hosting
