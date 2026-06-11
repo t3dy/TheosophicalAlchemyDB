@@ -1,0 +1,10 @@
+# Core (required)
+pymupdf>=1.24         # PDF text + render (import name: fitz)
+
+# Optional OCR fallback (only needed if the edition is scanned / poor text)
+# Install Tesseract system binary + language packs (lat, grc, heb, ita) too.
+pytesseract>=0.3.10
+Pillow>=10.0
+
+# Optional (Phase 4 table wrangling convenience)
+# pandas>=2.0

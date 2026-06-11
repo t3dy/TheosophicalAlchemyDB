@@ -1,0 +1,16 @@
+# Never commit the copyrighted edition or large derived text artefacts.
+data/raw/*.pdf
+data/ocr/*.txt
+data/ocr/*.jsonl
+data/chunks/*.json
+db/*.sqlite
+logs/*.log
+
+# Keep directory structure
+!data/raw/.gitkeep
+!data/ocr/.gitkeep
+!data/chunks/.gitkeep
+!data/indices/.gitkeep
+
+__pycache__/
+*.pyc
